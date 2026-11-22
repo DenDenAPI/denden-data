@@ -1,0 +1,45 @@
+slug: charlotte-praline
+name:
+  en: Charlotte Praline
+  ja: シャーロット・プラリネ
+  romaji: Shārotto Purarine
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 830
+  episode: 790
+occupations:
+- name: Minister of Design
+  status: former
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: sun-pirates
+  status: current
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: former
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: unique-island
+  status: former
+birthday:
+  month: 7
+  day: 22
+blood_type: S
+ages:
+- years: 29
+  period: other
+heights:
+- cm: 800
+  period: other

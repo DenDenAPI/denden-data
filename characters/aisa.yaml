@@ -1,0 +1,32 @@
+slug: aisa
+name:
+  en: Aisa
+  ja: アイサ
+  romaji: Aisa
+canon: manga
+gender: female
+species:
+- shandia
+status: alive
+first_appearance:
+  chapter: 249
+  episode: 161
+affiliations:
+- type: location
+  slug: wagomuland
+  status: current
+origin:
+  location: skypiea
+  region: Sky Island
+birthday:
+  month: 1
+  day: 3
+blood_type: F
+ages:
+- years: 9
+  period: debut
+- years: 11
+  period: post_timeskip
+heights:
+- cm: 140
+  period: other

@@ -1,0 +1,38 @@
+slug: loki
+name:
+  en: Loki
+  ja: ロキ
+  romaji: Roki
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 1130
+  episode: 1160
+epithets:
+- en: Accursed Prince
+  ja: 呪いの王子
+  romaji: Noroi no Ōji
+- en: Shame of Elbaph
+  ja: エルバフの恥
+  romaji: Erubafu no Haji
+- en: Sun God
+  ja: 太陽の神
+  romaji: Taiyō no Kami
+occupations:
+- name: Prince
+  status: current
+affiliations:
+- type: location
+  slug: elbaph
+  status: current
+origin:
+  location: elbaph
+  region: Grand Line
+ages:
+- years: 63
+  period: other
+bounties:
+- amount: 2600000000
+  status: current
+  revealed_chapter: 1131

@@ -1,0 +1,21 @@
+slug: palin
+name:
+  en: Palin
+  ja: ペイリン
+  romaji: Peirin
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Whistling
+  ja: 口笛
+  romaji: Kuchibue
+occupations:
+- name: Animal Dealer
+  status: current
+bounties:
+- amount: 16500000
+  status: former
+  canon: other

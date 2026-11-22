@@ -1,0 +1,55 @@
+slug: kinemon
+name:
+  en: Kin'emon
+  ja: 錦えもん
+  romaji: Kin'emon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 656
+  episode: 580
+epithets:
+- en: Foxfire Kin'emon
+  ja: 狐火の錦えもん
+  romaji: Kitsune-bi no Kin'emon
+occupations:
+- name: Samurai
+  status: current
+- name: of the Shogunate
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Leader of the Nine Red Scabbards
+  status: current
+- name: Thief
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+birthday:
+  month: 1
+  day: 29
+blood_type: X
+ages:
+- years: 36
+  period: other
+heights:
+- cm: 295
+  period: other

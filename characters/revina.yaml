@@ -1,0 +1,15 @@
+slug: revina
+name:
+  en: Revina
+  ja: レヴィーナ
+  romaji: Revuīna
+canon: other
+gender: female
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+ages:
+- years: 35
+  period: other

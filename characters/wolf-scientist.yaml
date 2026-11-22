@@ -1,0 +1,20 @@
+slug: wolf-scientist
+name:
+  en: Wolf (Scientist)
+  ja: ヴォルフ
+  romaji: Vorufu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Inventor
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: swallow-island
+  status: current
+blood_type: X

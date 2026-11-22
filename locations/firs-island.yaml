@@ -1,0 +1,11 @@
+slug: firs-island
+name:
+  en: Firs Island
+  ja: ファウス島
+  romaji: Fausu-tō
+canon: movie
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

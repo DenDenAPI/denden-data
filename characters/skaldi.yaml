@@ -1,0 +1,25 @@
+slug: skaldi
+name:
+  en: Skaldi
+  ja: スカルディ
+  romaji: Sukarudi
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 34
+  period: other

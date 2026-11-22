@@ -1,0 +1,21 @@
+slug: banshee
+name:
+  en: Banshee
+  ja: バンシー
+  romaji: Banshī
+canon: manga
+gender: female
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current
+ages:
+- years: 30
+  period: other
+  minimum: true

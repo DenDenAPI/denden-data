@@ -1,0 +1,20 @@
+slug: giro-chintaro
+name:
+  en: Giro Chintaro
+  ja: 義浪チン太郎
+  romaji: Giro Chintarō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 909
+  episode: 892
+occupations:
+- name: Samurai
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

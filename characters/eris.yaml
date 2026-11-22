@@ -1,0 +1,26 @@
+slug: eris
+name:
+  en: Eris
+  ja: エリス
+  romaji: Erisu
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1159
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: organization
+  slug: davy-family
+  status: current
+residences:
+- type: location
+  slug: god-valley
+  status: former
+- type: location
+  slug: shade-port
+  status: former

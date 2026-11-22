@@ -1,0 +1,26 @@
+slug: east-blue-saga
+order: 1
+name:
+  en: East Blue Saga
+chapters:
+  count: 100
+  ranges:
+  - start: 1
+    end: 100
+volumes:
+  count: 12
+  ranges:
+  - start: 1
+    end: 12
+episodes:
+  count: 61
+  ranges:
+  - start: 1
+    end: 61
+years:
+  manga:
+    start: 1997
+    end: 1999
+  anime:
+    start: 1999
+    end: 2001

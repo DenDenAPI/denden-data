@@ -1,0 +1,38 @@
+slug: pearl
+name:
+  en: Pearl
+  ja: パール
+  romaji: Pāru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 54
+  episode: 25
+epithets:
+- en: Pearl the Iron Wall
+  ja: 鉄壁のパール
+  romaji: Teppeki no Pāru
+occupations:
+- name: Commander of the Krieg Pirates' second unit
+  status: current
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 7
+  day: 11
+blood_type: F
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 239
+  period: other

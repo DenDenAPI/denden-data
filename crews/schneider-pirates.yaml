@@ -1,0 +1,9 @@
+slug: schneider-pirates
+name:
+  en: Schneider Pirates
+  ja: シュナイダー海賊団
+  romaji: Shunaidā Kaizokudan
+canon: movie
+captains:
+- character: schneider
+  status: current

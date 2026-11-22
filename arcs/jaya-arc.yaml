@@ -1,0 +1,30 @@
+slug: jaya-arc
+order: 20
+name:
+  en: Jaya Arc
+kind: story
+canon: manga
+sagas:
+- sky-island-saga
+chapters:
+  count: 19
+  ranges:
+  - start: 218
+    end: 236
+volumes:
+  count: 2
+  ranges:
+  - start: 24
+    end: 25
+episodes:
+  count: 9
+  ranges:
+  - start: 144
+    end: 152
+years:
+  manga:
+    start: 2002
+    end: 2002
+  anime:
+    start: 2003
+    end: 2003

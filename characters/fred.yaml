@@ -1,0 +1,14 @@
+slug: fred
+name:
+  en: Fred
+  ja: フレッド
+  romaji: Fureddo
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,16 @@
+slug: ikemenes
+name:
+  en: Ikemenes
+  ja: イケメネス
+  romaji: Ikemenesu
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  episode: 55
+residences:
+- type: location
+  slug: lost-island
+  status: current

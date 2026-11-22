@@ -1,0 +1,27 @@
+slug: nola
+name:
+  en: Nola
+  ja: ノラ
+  romaji: Nora
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 255
+  episode: 168
+epithets:
+- en: Master of the Sky
+  ja: 空の主
+  romaji: Sora no Nushi
+affiliations:
+- type: location
+  slug: wagomuland
+  status: current
+birthday:
+  month: 3
+  day: 10
+ages:
+- years: 419
+  period: other
+  minimum: true

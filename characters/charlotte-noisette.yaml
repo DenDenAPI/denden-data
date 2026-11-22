@@ -1,0 +1,35 @@
+slug: charlotte-noisette
+name:
+  en: Charlotte Noisette
+  ja: シャーロット・ノアゼット
+  romaji: Shārotto Noazetto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 832
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Finance
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: kinko-island
+  status: current
+birthday:
+  month: 12
+  day: 15
+ages:
+- years: 41
+  period: other

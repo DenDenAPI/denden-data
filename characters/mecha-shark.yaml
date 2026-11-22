@@ -1,0 +1,16 @@
+slug: mecha-shark
+name:
+  en: Mecha-Shark
+  ja: メカシャーク
+  romaji: Mekashāku
+canon: manga
+species:
+- cyborg
+status: unknown
+first_appearance:
+  chapter: 1061
+  episode: 1089
+residences:
+- type: location
+  slug: egghead
+  status: current

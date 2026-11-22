@@ -1,0 +1,21 @@
+slug: taketo-nazawa
+name:
+  en: Taketo Nazawa
+  ja: タケト゠ナザワ
+  romaji: Taketo Nazawa
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: man
+  status: former
+affiliations:
+- type: organization
+  slug: nazawa-family
+  status: current
+residences:
+- type: location
+  slug: nazawaka-city
+  status: current

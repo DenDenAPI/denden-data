@@ -1,0 +1,16 @@
+slug: ettara-chaunkai
+name:
+  en: Ettara Chaunkai
+  ja: エッタラ・チャウンカイ
+  romaji: Ettara Chaunkai
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 960
+residences:
+- type: location
+  slug: dressrosa
+  status: current

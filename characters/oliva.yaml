@@ -1,0 +1,21 @@
+slug: oliva
+name:
+  en: Oliva
+  ja: オリバ
+  romaji: Oriba
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Boss of Port Chibaralta Island
+  status: former
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+residences:
+- type: location
+  slug: port-chibaralta-island
+  status: former

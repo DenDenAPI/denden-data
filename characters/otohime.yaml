@@ -1,0 +1,36 @@
+slug: otohime
+name:
+  en: Otohime
+  ja: オトヒメ
+  romaji: Otohime
+canon: manga
+gender: female
+species:
+- merfolk
+status: deceased
+first_appearance:
+  chapter: 621
+  episode: 539
+epithets:
+- en: Incarnation of Love
+  ja: 愛の化身
+  romaji: Ai no Keshin
+occupations:
+- name: Queen of the Ryugu Kingdom
+  status: current
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+- type: location
+  slug: ryugu-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 10
+blood_type: S
+heights:
+- cm: 224
+  period: other

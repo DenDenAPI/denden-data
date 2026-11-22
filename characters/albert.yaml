@@ -1,0 +1,18 @@
+slug: albert
+name:
+  en: Albert
+  ja: アルベール
+  romaji: Arubēru
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

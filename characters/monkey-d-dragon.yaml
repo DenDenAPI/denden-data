@@ -1,0 +1,60 @@
+slug: monkey-d-dragon
+name:
+  en: Monkey D. Dragon
+  ja: モンキー・D・ドラゴン
+  romaji: Monkī Dī Doragon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 100
+  episode: 52
+epithets:
+- en: Rebellious Dragon
+  ja: 反逆竜
+  romaji: Hangyaku Ryū
+- en: World's Worst Criminal
+  ja: 世界最悪の犯罪者
+  romaji: Sekai Saiaku no Hanzaisha
+occupations:
+- name: Supreme Commander of the Revolutionary Army
+  status: current
+- name: Captain of the Freedom Fighters
+  status: former
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: organization
+  slug: freedom-fighters
+  status: former
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: goa-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: dawn-island
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 10
+  day: 5
+blood_type: F
+ages:
+- years: 53
+  period: debut
+- years: 55
+  period: post_timeskip
+heights:
+- cm: 256
+  period: other

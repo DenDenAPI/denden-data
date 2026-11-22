@@ -1,0 +1,26 @@
+slug: hocker
+name:
+  en: Hocker
+  ja: ホッカー
+  romaji: Hokkā
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 12
+  episode: 6
+occupations:
+- name: Pet Shop Owner
+  status: current
+origin:
+  location: orange-town
+  region: East Blue
+residences:
+- type: location
+  slug: orange-town
+  status: current
+birthday:
+  month: 5
+  day: 17

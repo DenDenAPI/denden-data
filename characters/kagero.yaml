@@ -1,0 +1,29 @@
+slug: kagero
+name:
+  en: Kagero
+  ja: カゲロウ
+  romaji: Kagerō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 909
+occupations:
+- name: Samurai
+  status: current
+- name: Priest
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

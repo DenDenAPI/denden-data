@@ -1,0 +1,17 @@
+slug: grin
+name:
+  en: Grin
+  ja: グリン
+  romaji: Gurin
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Grocer
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: current

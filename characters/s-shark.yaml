@@ -1,0 +1,27 @@
+slug: s-shark
+name:
+  en: S-Shark
+  ja: S-シャーク
+  romaji: Esu-Shāku
+canon: manga
+gender: male
+species:
+- lunarian
+status: alive
+first_appearance:
+  chapter: 1065
+  episode: 1094
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+blood_type: F
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 320
+  period: other

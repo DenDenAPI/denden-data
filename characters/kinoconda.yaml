@@ -1,0 +1,24 @@
+slug: kinoconda
+name:
+  en: Kinoconda
+  ja: キノコンダ
+  romaji: Kinokonda
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Mount
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: foxy-pirates
+  status: current
+residences:
+- type: location
+  slug: kinoko-island
+  status: current

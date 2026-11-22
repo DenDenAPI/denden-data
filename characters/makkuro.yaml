@@ -1,0 +1,17 @@
+slug: makkuro
+name:
+  en: Makkuro
+  ja: マックロ
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Makkuro the Carrier
+  ja: 運び屋のマックロ
+  romaji: Hakobi-ya no Makkuro
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,29 @@
+slug: nefertari-d-lili
+name:
+  en: Nefertari D. Lili
+  ja: ネフェルタリ・D・リリィ
+  romaji: Neferutari Dī Rirī
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1084
+  episode: 1118
+occupations:
+- name: Queen of the Arabasta Kingdom
+  status: current
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

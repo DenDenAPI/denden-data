@@ -1,0 +1,20 @@
+slug: home
+name:
+  en: Home
+  ja: ホメ
+  romaji: Home
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 921
+  episode: 912
+affiliations:
+- type: organization
+  slug: mt-atama-thieves
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

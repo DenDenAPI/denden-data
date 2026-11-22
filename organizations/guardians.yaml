@@ -1,0 +1,19 @@
+slug: guardians
+name:
+  en: Guardians
+  ja: 侠客団
+  romaji: Gādianzu
+canon: manga
+first_appearance:
+  chapter: 805
+  episode: 754
+leaders:
+- character: nekomamushi
+  status: former
+- character: pedro
+  status: current
+affiliations:
+- type: location
+  slug: zou
+  status: current
+residences: []

@@ -1,0 +1,20 @@
+slug: glutbunny
+name:
+  en: Glutbunny
+  ja: グルトバニー
+  romaji: Gurutobanī
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 1129
+  episode: 1159
+aliases:
+- en: Ear God
+  ja: 耳神
+  romaji: Mimigami
+residences:
+- type: location
+  slug: land-of-gods
+  status: current

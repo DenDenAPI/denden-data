@@ -1,0 +1,10 @@
+slug: shark-emeralda
+name:
+  en: Shark Emeralda
+  ja: シャークエメラルダ号
+  romaji: Shāku Emeraruda-gō
+canon: other
+affiliations:
+- type: crew
+  slug: treasure-pirates
+  status: current

@@ -1,0 +1,31 @@
+slug: raideen
+name:
+  en: Raideen
+  ja: ライディーン
+  romaji: Raidīn
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 129
+  episode: 78
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: former
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 11
+  day: 14
+ages:
+- years: 102
+  period: other
+  minimum: true

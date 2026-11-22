@@ -1,0 +1,14 @@
+slug: kuroba
+name:
+  en: Kuroba
+  ja: クロバ
+  romaji: Kuroba
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current

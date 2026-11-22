@@ -1,0 +1,19 @@
+slug: bearman
+name:
+  en: Bearman
+  ja: ベアマン
+  romaji: Beaman
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 934
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: roule
+name:
+  en: Roule
+  ja: ルル
+  romaji: Ruru
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Adventurer
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

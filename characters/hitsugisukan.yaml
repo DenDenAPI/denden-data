@@ -1,0 +1,24 @@
+slug: hitsugisukan
+name:
+  en: Hitsugisukan
+  ja: ひつギスカン公爵
+  romaji: Hitsugisukan Kōshaku
+canon: manga
+gender: male
+species:
+- mink
+status: unknown
+first_appearance:
+  chapter: 963
+  episode: 968
+occupations:
+- name: Ruler of Mokomo Dukedom
+  status: former
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

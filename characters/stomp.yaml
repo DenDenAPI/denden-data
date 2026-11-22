@@ -1,0 +1,34 @@
+slug: stomp
+name:
+  en: Stomp
+  ja: ストンプ
+  romaji: Sutonpu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 180
+  episode: 111
+occupations:
+- name: Royal Transport
+  status: current
+- name: Member of the Super Spot-Billed Duck Troops
+  status: current
+affiliations:
+- type: organization
+  slug: super-spot-billed-duck-troops
+  status: current
+origin:
+  location: arabasta-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+blood_type: X
+ages:
+- years: 15
+  period: other
+heights:
+- cm: 202
+  period: other

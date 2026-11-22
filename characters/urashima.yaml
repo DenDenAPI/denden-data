@@ -1,0 +1,22 @@
+slug: urashima
+name:
+  en: Urashima
+  ja: 浦島
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 913
+  episode: 899
+occupations:
+- name: Sumo Wrestler
+  status: current
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current

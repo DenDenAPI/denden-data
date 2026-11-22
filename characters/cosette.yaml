@@ -1,0 +1,23 @@
+slug: cosette
+name:
+  en: Cosette
+  ja: コゼット
+  romaji: Kozetto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 839
+  episode: 800
+occupations:
+- name: Head Chef
+  status: current
+affiliations:
+- type: location
+  slug: germa-kingdom
+  status: current
+birthday:
+  month: 5
+  day: 2

@@ -1,0 +1,25 @@
+slug: wilder
+name:
+  en: Wilder
+  ja: ワイルダー
+  romaji: Wairudā
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Hot Air Wilder
+  ja: 熱風のワイルダーン
+  romaji: Neppū no Wairudā
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: promise-land
+  status: current

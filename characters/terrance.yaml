@@ -1,0 +1,27 @@
+slug: terrance
+name:
+  en: Terrance
+  ja: テレンス
+  romaji: Terensu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Pepper Pot
+  ja: ペッパー・ポット
+  romaji: Peppā Potto
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+- type: crew
+  slug: spicy-spice-pirates
+  status: current
+bounties:
+- amount: 10500000
+  status: former

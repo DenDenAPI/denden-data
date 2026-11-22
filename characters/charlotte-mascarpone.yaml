@@ -1,0 +1,35 @@
+slug: charlotte-mascarpone
+name:
+  en: Charlotte Mascarpone
+  ja: シャーロット・マスカルポーネ
+  romaji: Shārotto Masukarupōne
+canon: manga
+gender: male
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Tableware
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: cutlery-island
+  status: current
+birthday:
+  month: 2
+  day: 27
+ages:
+- years: 20
+  period: other

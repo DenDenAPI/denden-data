@@ -1,0 +1,48 @@
+slug: kuroobi
+name:
+  en: Kuroobi
+  ja: クロオビ
+  romaji: Kuro'obi
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 69
+  episode: 31
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: current
+- type: crew
+  slug: sun-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: arlong-park
+  status: former
+birthday:
+  month: 10
+  day: 25
+blood_type: S
+ages:
+- years: 36
+  period: debut
+- years: 38
+  period: post_timeskip
+heights:
+- cm: 252
+  period: other
+bounties:
+- amount: 9000000
+  status: former

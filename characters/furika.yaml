@@ -1,0 +1,16 @@
+slug: furika
+name:
+  en: Furika
+  ja: フリカ
+  romaji: Furika
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 960
+residences:
+- type: location
+  slug: dressrosa
+  status: current

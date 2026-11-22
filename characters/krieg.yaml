@@ -1,0 +1,51 @@
+slug: krieg
+name:
+  en: Krieg
+  ja: クリーク
+  romaji: Kurīku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 45
+  episode: 21
+epithets:
+- en: Don Krieg
+  ja: 首領・クリーク
+  romaji: Don Kurīku
+- en: Pirate Fleet Admiral
+  ja: 海賊艦隊提督
+  romaji: Kaizoku Kantai Teitoku
+- en: Ruler of the East Blue
+  ja: 東の海の覇者
+  romaji: Īsuto Burū no Hasha
+- en: Foul Play Krieg
+  ja: ダマし討ちのクリーク
+  romaji: Damashi-uchi no Kurīku
+occupations:
+- name: Pirate Captain/Admiral
+  status: current
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 9
+  day: 19
+blood_type: XF
+ages:
+- years: 42
+  period: debut
+- years: 44
+  period: post_timeskip
+heights:
+- cm: 243
+  period: other
+bounties:
+- amount: 17000000
+  status: current
+  revealed_chapter: 96

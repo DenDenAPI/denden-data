@@ -1,0 +1,17 @@
+slug: lulusia-kingdom
+name:
+  en: Lulusia Kingdom
+  ja: ルルシア王国
+  romaji: Rurushia Ōkoku
+canon: manga
+first_appearance:
+  chapter: 272
+  episode: 880
+region: Paradise
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: organization
+  slug: world-government
+  status: former

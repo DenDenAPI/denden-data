@@ -1,0 +1,31 @@
+slug: daddy-masterson
+name:
+  en: Daddy Masterson
+  ja: ダディ・マスターソン
+  romaji: Dadi Masutāson
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 50
+epithets:
+- en: Daddy the Father
+  ja: 子連れのダディ
+  romaji: Kozure no Dadi
+occupations:
+- name: Bounty Hunter
+  status: current
+- name: Sniper
+  status: current
+- name: Marine Ensign
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: loguetown
+  status: current

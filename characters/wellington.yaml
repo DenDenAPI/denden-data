@@ -1,0 +1,20 @@
+slug: wellington
+name:
+  en: Wellington
+  ja: ウェリントン
+  romaji: Werinton
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 763
+  episode: 702
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 10000000
+  status: current
+  revealed_chapter: 763

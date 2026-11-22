@@ -1,0 +1,9 @@
+slug: kalik-pirates
+name:
+  en: Kalik Pirates
+  ja: カリク海賊団
+  romaji: Kariku Kaizoku-dan
+canon: other
+captains:
+- character: kalik-meidara
+  status: current

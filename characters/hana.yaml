@@ -1,0 +1,20 @@
+slug: hana
+name:
+  en: Hana
+  ja: お花
+  romaji: O-Hana
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 971
+  episode: 973
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current

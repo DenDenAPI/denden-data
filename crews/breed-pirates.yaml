@@ -1,0 +1,12 @@
+slug: breed-pirates
+name:
+  en: Breed Pirates
+  ja: ブリード海賊団
+  romaji: Buriido Kaizoku-dan
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 626
+captains:
+- character: breed
+  status: current

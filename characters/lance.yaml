@@ -1,0 +1,17 @@
+slug: lance
+name:
+  en: Lance
+  ja: ランス
+  romaji: Ransu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Prince
+  status: current
+residences:
+- type: location
+  slug: strumia
+  status: current

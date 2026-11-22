@@ -1,0 +1,24 @@
+slug: minotaurus
+name:
+  en: Minotaurus
+  ja: ミノタウロス
+  romaji: Minotaurosu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 525
+  episode: 422
+occupations:
+- name: Jailer Beast
+  status: current
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+- type: organization
+  slug: world-government
+  status: current
+birthday:
+  month: 3
+  day: 4

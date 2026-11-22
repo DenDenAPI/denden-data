@@ -1,0 +1,38 @@
+slug: benn-beckman
+name:
+  en: Benn Beckman
+  ja: ベン・ベックマン
+  romaji: Ben Bekkuman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 11
+  day: 9
+blood_type: X
+ages:
+- years: 38
+  period: debut
+- years: 48
+  period: pre_timeskip
+- years: 50
+  period: post_timeskip
+heights:
+- cm: 206
+  period: other

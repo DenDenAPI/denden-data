@@ -1,0 +1,12 @@
+slug: naguri-pirates
+name:
+  en: Naguri Pirates
+  ja: ナグリ海賊団
+  romaji: Naguri Kaizoku-dan
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 499
+captains:
+- character: naguri
+  status: current

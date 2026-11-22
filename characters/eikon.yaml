@@ -1,0 +1,27 @@
+slug: eikon
+name:
+  en: Eikon
+  ja: エイコン
+  romaji: Eikon
+canon: anime_only
+gender: female
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 711
+  episode: 641
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: tontatta-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+residences:
+- type: location
+  slug: green-bit
+  status: current

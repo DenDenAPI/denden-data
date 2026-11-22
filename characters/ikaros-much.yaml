@@ -1,0 +1,39 @@
+slug: ikaros-much
+name:
+  en: Ikaros Much
+  ja: イカロス・ムッヒ
+  romaji: Ikarosu Muhhi
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+occupations:
+- name: Pirate
+  status: current
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+birthday:
+  month: 1
+  day: 13
+blood_type: XF
+ages:
+- years: 30
+  period: other
+heights:
+- cm: 499
+  period: other

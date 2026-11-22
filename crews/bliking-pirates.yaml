@@ -1,0 +1,13 @@
+slug: bliking-pirates
+name:
+  en: Bliking Pirates
+  ja: ブリキング海賊団
+  romaji: Burikingu Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 131
+  episode: 79
+captains:
+- character: wapol
+  status: current

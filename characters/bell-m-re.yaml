@@ -1,0 +1,36 @@
+slug: bell-m-re
+name:
+  en: Bell-mère
+  ja: ベルメール
+  romaji: Berumēru
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 77
+  episode: 32
+occupations:
+- name: Mikan Farmer
+  status: current
+- name: Marine Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 12
+  day: 3
+blood_type: S
+heights:
+- cm: 186
+  period: other

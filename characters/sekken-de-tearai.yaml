@@ -1,0 +1,26 @@
+slug: sekken-de-tearai
+name:
+  en: Sekken De Tearai
+  ja: セッケン・デ・テアライ
+  romaji: Sekken De Tearai
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: The Most Beautiful Man in the World
+  ja: 世界一キレイ好きな男
+  romaji: Sekaiichi Kirei Sukina Otoko
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: crew
+  slug: otearai-pirates
+  status: current
+ages:
+- years: 36
+  period: other

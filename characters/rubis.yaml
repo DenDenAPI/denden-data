@@ -1,0 +1,17 @@
+slug: rubis
+name:
+  en: Rubis
+  ja: リュビ
+  romaji: Ryubi
+canon: other
+gender: female
+species:
+- fish_man
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: former

@@ -1,0 +1,17 @@
+slug: warship-island-arc
+order: 8
+name:
+  en: Warship Island Arc
+kind: filler
+canon: anime_only
+sagas:
+- east-blue-saga
+episodes:
+  count: 8
+  ranges:
+  - start: 54
+    end: 61
+years:
+  anime:
+    start: 2001
+    end: 2001

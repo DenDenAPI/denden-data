@@ -1,0 +1,59 @@
+slug: fisher-tiger
+name:
+  en: Fisher Tiger
+  ja: フィッシャー・タイガー
+  romaji: Fisshā Taigā
+canon: manga
+gender: male
+species:
+- fish_man
+status: deceased
+first_appearance:
+  chapter: 521
+  episode: 415
+epithets:
+- en: The Adventurer
+  ja: 冒険家
+  romaji: Bōkenka
+- en: Hero of Slaves
+  ja: 奴隷解放の英雄
+  romaji: Dorei Kaihō no Eiyū
+occupations:
+- name: Adventurer
+  status: current
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+- name: De-facto Leader of Fish-Man District
+  status: former
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: sun-pirates
+  status: current
+- type: location
+  slug: fish-man-district
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 11
+  day: 5
+blood_type: S
+heights:
+- cm: 520
+  period: other
+bounties:
+- amount: 230000000
+  status: former
+  revealed_chapter: 622

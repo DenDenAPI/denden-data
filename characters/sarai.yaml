@@ -1,0 +1,22 @@
+slug: sarai
+name:
+  en: Sarai
+  ja: サライ
+  romaji: Sarai
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 964
+  episode: 963
+occupations:
+- name: Pirate
+  status: current
+- name: Slaver
+  status: current
+affiliations:
+- type: crew
+  slug: takotopus-pirates
+  status: current

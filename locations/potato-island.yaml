@@ -1,0 +1,14 @@
+slug: potato-island
+name:
+  en: Potato Island
+  ja: ポテト島
+  romaji: Poteto-tō
+canon: manga
+first_appearance:
+  chapter: 886
+  episode: 860
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

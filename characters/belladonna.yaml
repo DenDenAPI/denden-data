@@ -1,0 +1,23 @@
+slug: belladonna
+name:
+  en: Belladonna
+  ja: ベラドンナ
+  romaji: Beradonna
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 514
+  episode: 408
+occupations:
+- name: Doctor
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 10
+  day: 26

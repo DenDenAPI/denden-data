@@ -1,0 +1,12 @@
+slug: gally-pirates
+name:
+  en: Gally Pirates
+  ja: ギャリー海賊団
+  romaji: Gyarī Kaizokudan
+canon: anime_only
+first_appearance:
+  chapter: 902
+  episode: 887
+captains:
+- character: gally
+  status: current

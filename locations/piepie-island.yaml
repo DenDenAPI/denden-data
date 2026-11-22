@@ -1,0 +1,13 @@
+slug: piepie-island
+name:
+  en: Piepie Island
+  ja: パイパイ島
+  romaji: Paipai-tō
+canon: manga
+first_appearance:
+  chapter: 894
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

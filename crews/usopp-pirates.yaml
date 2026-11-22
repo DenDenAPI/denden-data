@@ -1,0 +1,12 @@
+slug: usopp-pirates
+name:
+  en: Usopp Pirates
+  ja: ウソップ海賊団
+  romaji: Usoppu Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 23
+  episode: 9
+captains:
+- character: usopp
+  status: former

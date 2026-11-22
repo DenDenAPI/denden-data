@@ -1,0 +1,45 @@
+slug: buckingham-stussy
+name:
+  en: Buckingham Stussy
+  ja: ミス・バッキンガム・ステューシー
+  romaji: Misu Bakkingamu Sutyūshī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 802
+  episode: 752
+aliases:
+- en: Miss Buckin
+  ja: ミス・バッキン
+  romaji: Misu Bakkin
+occupations:
+- name: Pirate
+  status: former
+- name: Scientist
+  status: former
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: organization
+  slug: mads
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 4
+  day: 12
+blood_type: S
+ages:
+- years: 76
+  period: other
+heights:
+- cm: 68
+  period: other

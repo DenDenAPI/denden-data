@@ -1,0 +1,14 @@
+slug: whole-cake-chateau
+name:
+  en: Whole Cake Chateau
+  ja: ホールケーキ城
+  romaji: Hōru Kēki Shatō
+canon: manga
+first_appearance:
+  chapter: 651
+  episode: 571
+parent: whole-cake-island
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

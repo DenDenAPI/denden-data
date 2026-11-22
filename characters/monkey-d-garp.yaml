@@ -1,0 +1,51 @@
+slug: monkey-d-garp
+name:
+  en: Monkey D. Garp
+  ja: モンキー・D・ガープ
+  romaji: Monkī Dī Gāpu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 92
+  episode: 68
+epithets:
+- en: Garp the Fist
+  ja: ゲンコツのガープ
+  romaji: Genkotsu no Gāpu
+- en: Hero of the Marines
+  ja: 海軍の英雄
+  romaji: Kaigun no Eiyū
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Instructor
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: foosha-village
+  status: former
+birthday:
+  month: 5
+  day: 2
+blood_type: F
+ages:
+- years: 76
+  period: debut
+- years: 78
+  period: post_timeskip
+heights:
+- cm: 287
+  period: other
+marine_rating:
+  stars: 3
+  equivalent: 3000000000

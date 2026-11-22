@@ -1,0 +1,93 @@
+slug: nami
+name:
+  en: Nami
+  ja: ナミ
+  romaji: Nami
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 8
+  episode: 1
+epithets:
+- en: Cat Burglar
+  ja: 泥棒猫
+  romaji: Dorobō Neko
+aliases:
+- en: Namizo
+  ja: ナミゾウ
+  romaji: Namizō
+- en: O-Nami
+  ja: おナミ
+  romaji: Onami
+occupations:
+- name: Navigator
+  status: current
+- name: Senior Officer
+  status: current
+- name: Thief
+  status: current
+- name: Pirate Officer
+  status: former
+- name: Kunoichi
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: crew
+  slug: arlong-pirates
+  status: former
+- type: crew
+  slug: ganzack-pirates
+  status: former
+  canon: movie
+- type: crew
+  slug: golden-lion-pirates
+  status: former
+  canon: movie
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: oykot-kingdom
+  status: former
+- type: location
+  slug: cocoyasi-village
+  status: former
+- type: location
+  slug: weatheria
+  status: former
+birthday:
+  month: 7
+  day: 3
+blood_type: X
+ages:
+- years: 18
+  period: debut
+- years: 20
+  period: post_timeskip
+heights:
+- cm: 169
+  period: debut
+- cm: 170
+  period: post_timeskip
+bounties:
+- amount: 16000000
+  status: former
+  revealed_chapter: 435
+- amount: 66000000
+  status: former
+  revealed_chapter: 801
+- amount: 366000000
+  status: current
+  revealed_chapter: 1058

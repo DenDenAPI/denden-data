@@ -1,0 +1,28 @@
+slug: hareji
+name:
+  en: Hareji
+  ja: 晴れ次
+  romaji: Hareji
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 948
+  episode: 947
+occupations:
+- name: Prisoner
+  status: former
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: flower-capital
+  status: former
+ages:
+- years: 41
+  period: other
+  minimum: true

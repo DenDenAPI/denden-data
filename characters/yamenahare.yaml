@@ -1,0 +1,19 @@
+slug: yamenahare
+name:
+  en: Yamenahare
+  ja: ヤメナハーレ
+  romaji: Yamenahāre
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 436
+occupations:
+- name: Manservant
+  status: current
+residences:
+- type: location
+  slug: pucci
+  status: current

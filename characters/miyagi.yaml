@@ -1,0 +1,29 @@
+slug: miyagi
+name:
+  en: Miyagi
+  ja: ミヤギ
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 807
+  episode: 756
+occupations:
+- name: Doctor
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+residences:
+- type: location
+  slug: zou
+  status: current
+birthday:
+  month: 12
+  day: 22

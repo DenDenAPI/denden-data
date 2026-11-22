@@ -1,0 +1,50 @@
+slug: bepo
+name:
+  en: Bepo
+  ja: ベポ
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+occupations:
+- name: Pirate
+  status: current
+- name: Navigator
+  status: current
+- name: Guardians' helper
+  status: current
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: former
+- type: location
+  slug: swallow-island
+  status: former
+birthday:
+  month: 11
+  day: 20
+blood_type: S
+ages:
+- years: 20
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 240
+  period: other
+bounties:
+- amount: 1500
+  status: current

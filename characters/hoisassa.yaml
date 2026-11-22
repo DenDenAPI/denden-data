@@ -1,0 +1,24 @@
+slug: hoisassa
+name:
+  en: Hoisassa
+  ja: 保井さっ左
+  romaji: Hoisassa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 942
+  episode: 939
+occupations:
+- name: Retainer
+  status: former
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: former
+residences:
+- type: location
+  slug: flower-capital
+  status: former

@@ -1,0 +1,16 @@
+slug: courtney
+name:
+  en: Courtney
+  ja: コートニー
+  romaji: Kōtonī
+canon: other
+gender: female
+species:
+- human
+status: alive
+origin:
+  location: amazon-lily
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

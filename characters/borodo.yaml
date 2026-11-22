@@ -1,0 +1,18 @@
+slug: borodo
+name:
+  en: Borodo
+  ja: ボロード
+  romaji: Borōdo
+canon: movie
+gender: male
+species:
+- cyborg
+- human
+status: alive
+epithets:
+- en: Thief Brothers
+  ja: 泥棒兄弟
+  romaji: Dorobō kyōdai
+occupations:
+- name: Thief
+  status: current

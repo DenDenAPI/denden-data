@@ -1,0 +1,36 @@
+slug: chouchou
+name:
+  en: Chouchou
+  ja: シュシュ
+  romaji: Shushu
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 12
+  episode: 6
+occupations:
+- name: Pet
+  status: current
+- name: Pet Shop Keeper
+  status: current
+origin:
+  location: organ-islands
+  region: East Blue
+residences:
+- type: location
+  slug: orange-town
+  status: current
+birthday:
+  month: 11
+  day: 22
+ages:
+- years: 12
+  period: debut
+- years: 14
+  period: post_timeskip
+heights:
+- cm: 40
+  period: other

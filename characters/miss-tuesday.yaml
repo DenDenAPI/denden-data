@@ -1,0 +1,21 @@
+slug: miss-tuesday
+name:
+  en: Miss Tuesday
+  ja: ミス・テューズデー
+  romaji: Misu Tyūzudē
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 155
+aliases:
+- en: Miss Tuesday
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

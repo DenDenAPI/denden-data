@@ -1,0 +1,16 @@
+slug: zau-ra-zau
+name:
+  en: Zau Ra Zau
+  ja: ザウ・ラ・ザウ
+  romaji: Zau ra Zau
+canon: other
+species:
+- robot
+status: deceased
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current

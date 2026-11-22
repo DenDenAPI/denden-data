@@ -1,0 +1,21 @@
+slug: rakushitemo-terusubehainaika
+name:
+  en: Rakushitemo Terusubehainaika
+  ja: ラクシテモ・テルスベハナイカ博士
+  romaji: Rakushitemo Terusubehainaika-hakase
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 963
+occupations:
+- name: Pirate
+  status: current
+- name: Scientist
+  status: current
+affiliations:
+- type: crew
+  slug: germ-pirates
+  status: current

@@ -1,0 +1,15 @@
+slug: cp9
+name:
+  en: CP9
+  ja: CP9
+  romaji: Shī-Pī-Nain
+canon: manga
+first_appearance:
+  chapter: 325
+  episode: 230
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

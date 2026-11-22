@@ -1,0 +1,21 @@
+slug: moulon
+name:
+  en: Moulon
+  ja: ムーロン
+  romaji: Mūron
+canon: manga
+gender: male
+status: unknown
+first_appearance:
+  chapter: 1183
+epithets:
+- en: Don Moulon
+  ja: 首領・ムーロン
+  romaji: Don Mūron
+occupations:
+- name: Boss of the Moulon Family
+  status: current
+affiliations:
+- type: organization
+  slug: moulon-family
+  status: current

@@ -1,0 +1,45 @@
+slug: hyouzou
+name:
+  en: Hyouzou
+  ja: ヒョウゾウ
+  romaji: Hyōzō
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 607
+  episode: 527
+occupations:
+- name: Mercenary
+  status: current
+- name: Pirate
+  status: current
+- name: Assassin
+  status: current
+- name: Pirate Officer
+  status: current
+- name: Swordsman
+  status: current
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-kingdom
+  status: former
+birthday:
+  month: 4
+  day: 18
+blood_type: X
+ages:
+- years: 39
+  period: other
+heights:
+- cm: 327
+  period: other

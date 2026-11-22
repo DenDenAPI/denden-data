@@ -1,0 +1,47 @@
+slug: bishamon
+name:
+  en: Bishamon
+  ja: ビシャ門
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+- type: organization
+  slug: kurozumi-family
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 8
+  day: 1
+blood_type: XF
+ages:
+- years: 28
+  period: other
+heights:
+- cm: 182
+  period: other

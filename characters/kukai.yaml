@@ -1,0 +1,27 @@
+slug: kukai
+name:
+  en: Kukai
+  ja: クーカイ
+  romaji: Kūkai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Samurai
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  location: wano-country

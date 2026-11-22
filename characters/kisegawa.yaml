@@ -1,0 +1,20 @@
+slug: kisegawa
+name:
+  en: Kisegawa
+  ja: きせ川
+  romaji: Kisegawa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 929
+  episode: 922
+occupations:
+- name: Geisha
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

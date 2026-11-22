@@ -1,0 +1,12 @@
+slug: straw-hat-pirates
+name:
+  en: Straw Hat Pirates
+  ja: 麦わらの一味
+  romaji: Mugiwara no Ichimi
+canon: manga
+first_appearance:
+  chapter: 5
+  episode: 3
+captains:
+- character: monkey-d-luffy
+  status: current

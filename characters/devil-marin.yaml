@@ -1,0 +1,26 @@
+slug: devil-marin
+name:
+  en: Devil Marin
+  ja: デーヴィル・マリン
+  romaji: Dēviru Marin
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Devil Marin the Witch
+  ja: '"魔女"デーヴィル・マリン'
+  romaji: '"Majo" Dēviru Marin'
+occupations:
+- name: Conwoman
+  status: current
+- name: fake Fortune Teller
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+bounties:
+- amount: 24000000
+  status: former

@@ -1,0 +1,17 @@
+slug: mitsuki
+name:
+  en: Mitsuki
+  ja: 魅月
+  romaji: Mitsuki
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current

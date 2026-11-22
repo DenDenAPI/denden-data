@@ -1,0 +1,40 @@
+slug: napoleon
+name:
+  en: Napoleon
+  ja: ナポレオン
+  romaji: Naporeon
+canon: manga
+gender: male
+species:
+- homie
+status: unknown
+first_appearance:
+  chapter: 651
+  episode: 571
+epithets:
+- en: Napoleon the Bicorne
+  ja: 二角帽のナポレオン
+  romaji: Baikōn no Naporeon
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 12
+  day: 2
+ages:
+- years: 38
+  period: other
+  minimum: true
+heights:
+- cm: 848
+  period: other

@@ -1,0 +1,20 @@
+slug: charlotte-wiro
+name:
+  en: Charlotte Wiro
+  ja: シャーロット・ウィロ
+  romaji: Shārotto Wiro
+canon: manga
+gender: male
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+ages:
+- years: 12
+  period: other

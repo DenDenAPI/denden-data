@@ -1,0 +1,25 @@
+slug: porche
+name:
+  en: Porche
+  ja: ポルチェ
+  romaji: Poruche
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 305
+  episode: 207
+occupations:
+- name: Pirate
+  status: current
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current
+birthday:
+  month: 11
+  day: 16

@@ -1,0 +1,17 @@
+slug: gorishiro
+name:
+  en: Gorishiro
+  ja: ゴリ四郎
+  romaji: Gorishirо̄
+canon: manga
+status: alive
+first_appearance:
+  chapter: 978
+  episode: 982
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

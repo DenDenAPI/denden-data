@@ -1,0 +1,17 @@
+slug: llamaman
+name:
+  en: Llamaman
+  ja: ラママン
+  romaji: Ramaman
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

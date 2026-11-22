@@ -1,0 +1,18 @@
+slug: tambu
+name:
+  en: Tambu
+  ja: タンブ
+  romaji: Tanbu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 747
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 70000000
+  status: former

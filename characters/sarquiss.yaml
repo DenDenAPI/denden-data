@@ -1,0 +1,43 @@
+slug: sarquiss
+name:
+  en: Sarquiss
+  ja: サーキース
+  romaji: Sākīsu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 222
+  episode: 146
+epithets:
+- en: Big Knife Sarquiss
+  ja: ビッグナイフ・サーキース
+  romaji: Biggunaifu Sākīsu
+occupations:
+- name: First Mate
+  status: former
+affiliations:
+- type: crew
+  slug: bellamy-pirates
+  status: current
+origin:
+  location: notice
+  region: North Blue
+birthday:
+  month: 7
+  day: 12
+blood_type: F
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 228
+  period: other
+bounties:
+- amount: 38000000
+  status: current
+  revealed_chapter: 223

@@ -1,0 +1,34 @@
+slug: enies-lobby-arc
+order: 29
+name:
+  en: Enies Lobby Arc
+kind: story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 56
+  ranges:
+  - start: 375
+    end: 430
+volumes:
+  count: 6
+  ranges:
+  - start: 39
+    end: 44
+episodes:
+  count: 46
+  ranges:
+  - start: 264
+    end: 290
+  - start: 293
+    end: 302
+  - start: 304
+    end: 312
+years:
+  manga:
+    start: 2005
+    end: 2006
+  anime:
+    start: 2006
+    end: 2007

@@ -1,0 +1,43 @@
+slug: karasu
+name:
+  en: Karasu
+  ja: カラス
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 593
+  episode: 510
+occupations:
+- name: North Army Commander of the Revolutionary Army
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 9
+  day: 18
+blood_type: S
+ages:
+- years: 45
+  period: debut
+- years: 47
+  period: post_timeskip
+heights:
+- cm: 265
+  period: other
+bounties:
+- amount: 400000000
+  status: current

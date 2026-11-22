@@ -1,0 +1,13 @@
+slug: suita
+name:
+  en: Suita
+  ja: スィータ
+  romaji: Sīta
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Manager
+  status: current

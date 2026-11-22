@@ -1,0 +1,17 @@
+slug: anba
+name:
+  en: Anba
+  ja: 安馬
+  romaji: Anba
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 969
+  episode: 970
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,38 @@
+slug: rosward-shalria
+name:
+  en: Rosward Shalria
+  ja: ロズワード・シャルリア宮
+  romaji: Rosuwādo Sharuria Gū
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  location: red-line
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 3
+  day: 29
+blood_type: XF
+ages:
+- years: 15
+  period: debut
+- years: 17
+  period: post_timeskip
+heights:
+- cm: 178
+  period: other

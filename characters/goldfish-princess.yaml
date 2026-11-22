@@ -1,0 +1,19 @@
+slug: goldfish-princess
+name:
+  en: Goldfish Princess
+  ja: 金魚姫
+  romaji: Kingyohime
+canon: manga
+gender: female
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 189
+occupations:
+- name: Princess of Goldfish Empire
+  status: current
+affiliations:
+- type: location
+  slug: goldfish-empire
+  status: current

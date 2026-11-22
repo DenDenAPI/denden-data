@@ -1,0 +1,14 @@
+slug: 77th-branch
+name:
+  en: 77th Branch
+  ja: 海軍第77支部
+  romaji: Kaigun Dai-Nanajūnana Shibu
+canon: manga
+first_appearance:
+  chapter: 75
+  episode: 34
+region: East Blue
+affiliations:
+- type: organization
+  slug: marines
+  status: current

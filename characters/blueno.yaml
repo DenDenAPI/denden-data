@@ -1,0 +1,36 @@
+slug: blueno
+name:
+  en: Blueno
+  ja: ブルーノ
+  romaji: Burūno
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 325
+  episode: 230
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Bartender
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 4
+  day: 20
+blood_type: X
+ages:
+- years: 30
+  period: debut
+- years: 32
+  period: post_timeskip
+heights:
+- cm: 258
+  period: other

@@ -1,0 +1,40 @@
+slug: little-oars-jr
+name:
+  en: Little Oars Jr.
+  ja: リトルオーズJr.
+  romaji: Ritoru Ōzu Junia
+canon: manga
+gender: male
+species:
+- giant
+status: unknown
+first_appearance:
+  chapter: 554
+  episode: 463
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: little-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 12
+blood_type: F
+ages:
+- years: 70
+  period: debut
+- years: 72
+  period: post_timeskip
+heights:
+- cm: 6000
+  period: other
+bounties:
+- amount: 550000000
+  status: current

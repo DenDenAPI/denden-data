@@ -1,0 +1,22 @@
+slug: yehudi
+name:
+  en: Yehudi
+  ja: ユーディ
+  romaji: Yūdi
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Super Big Great Fleet Admiral
+  status: current
+- name: Marine Officer
+  status: former
+affiliations:
+- type: organization
+  slug: age-age-super-marines
+  status: current
+- type: organization
+  slug: marines
+  status: former

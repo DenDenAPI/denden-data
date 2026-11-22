@@ -1,0 +1,20 @@
+slug: jiron
+name:
+  en: Jiron
+  ja: ジロン
+  romaji: Jiron
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1082
+  episode: 1116
+occupations:
+- name: North Army Deputy Commander
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

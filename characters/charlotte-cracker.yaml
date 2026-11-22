@@ -1,0 +1,52 @@
+slug: charlotte-cracker
+name:
+  en: Charlotte Cracker
+  ja: シャーロット・クラッカー
+  romaji: Shārotto Kurakkā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 835
+  episode: 796
+epithets:
+- en: Thousand Arms Cracker
+  ja: 千手のクラッカー
+  romaji: Senju no Kurakkā
+- en: Biscuit Knight
+  ja: ビスケットの騎士
+  romaji: Bisuketto no Kishi
+occupations:
+- name: Sweet Commander
+  status: current
+- name: Minister of Biscuit
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: biscuits-island
+  status: current
+birthday:
+  month: 2
+  day: 28
+blood_type: X
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 307
+  period: other
+bounties:
+- amount: 860000000
+  status: current
+  revealed_chapter: 836

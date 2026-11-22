@@ -1,0 +1,30 @@
+slug: marineford-arc
+order: 44
+name:
+  en: Marineford Arc
+kind: story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 31
+  ranges:
+  - start: 550
+    end: 580
+volumes:
+  count: 4
+  ranges:
+  - start: 56
+    end: 59
+episodes:
+  count: 33
+  ranges:
+  - start: 457
+    end: 489
+years:
+  manga:
+    start: 2009
+    end: 2010
+  anime:
+    start: 2010
+    end: 2011

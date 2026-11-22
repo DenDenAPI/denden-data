@@ -1,0 +1,22 @@
+slug: naguri
+name:
+  en: Naguri
+  ja: ナグリ
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 498
+occupations:
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: naguri-pirates
+  status: current
+residences:
+- type: location
+  slug: gray-terminal
+  status: current

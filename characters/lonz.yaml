@@ -1,0 +1,30 @@
+slug: lonz
+name:
+  en: Lonz
+  ja: ロンズ
+  romaji: Ronzu
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 550
+  episode: 459
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: organization
+  slug: giant-squad
+  status: current
+birthday:
+  month: 6
+  day: 2
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

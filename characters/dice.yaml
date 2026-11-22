@@ -1,0 +1,15 @@
+slug: dice
+name:
+  en: Dice
+  ja: ダイス
+  romaji: Daisu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+occupations:
+- name: Dealer
+  status: current

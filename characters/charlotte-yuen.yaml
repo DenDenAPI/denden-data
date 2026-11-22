@@ -1,0 +1,29 @@
+slug: charlotte-yuen
+name:
+  en: Charlotte Yuen
+  ja: シャーロット・ユーエン
+  romaji: Shārotto Yūen
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 10
+  day: 15
+ages:
+- years: 19
+  period: other

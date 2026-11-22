@@ -1,0 +1,30 @@
+slug: water-7-arc
+order: 28
+name:
+  en: Water 7 Arc
+kind: story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 53
+  ranges:
+  - start: 322
+    end: 374
+volumes:
+  count: 6
+  ranges:
+  - start: 34
+    end: 39
+episodes:
+  count: 35
+  ranges:
+  - start: 229
+    end: 263
+years:
+  manga:
+    start: 2004
+    end: 2005
+  anime:
+    start: 2005
+    end: 2006

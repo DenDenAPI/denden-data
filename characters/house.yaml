@@ -1,0 +1,20 @@
+slug: house
+name:
+  en: House
+  ja: ハウス
+  romaji: Hausu
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1038
+  episode: 1067
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

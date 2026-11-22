@@ -1,0 +1,27 @@
+slug: ant-de-bonham
+name:
+  en: Ant De Bonham
+  ja: アント・デ・ボナム
+  romaji: Anto De Bonamu
+canon: anime_only
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  chapter: 16
+  episode: 780
+occupations:
+- name: Marine Lieutenant Junior Grade
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: fron-island
+  status: current
+ages:
+- years: 22
+  period: other

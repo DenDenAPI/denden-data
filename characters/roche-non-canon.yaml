@@ -1,0 +1,14 @@
+slug: roche-non-canon
+name:
+  en: Roche (Non-Canon)
+  ja: ロチエ
+  romaji: Rochie
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current

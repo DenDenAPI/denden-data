@@ -1,0 +1,20 @@
+slug: nine-red-scabbards
+name:
+  en: Nine Red Scabbards
+  ja: 赤鞘九人男
+  romaji: Akazaya Kunin Otoko
+canon: manga
+first_appearance:
+  chapter: 656
+  episode: 580
+leaders:
+- character: kinemon
+  status: current
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences: []

@@ -1,0 +1,15 @@
+slug: himari
+name:
+  en: Himari
+  ja: ヒマリ
+  romaji: Himari
+canon: other
+gender: female
+status: alive
+occupations:
+- name: Waitress
+  status: current
+residences:
+- type: location
+  slug: shimotsuki-village
+  status: current

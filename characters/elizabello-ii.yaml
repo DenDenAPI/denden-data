@@ -1,0 +1,36 @@
+slug: elizabello-ii
+name:
+  en: Elizabello II
+  ja: エリザベローII世
+  romaji: Erizaberō Nisei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: The Fighting King
+  ja: 戦う王
+  romaji: Tatakau Ō
+occupations:
+- name: King
+  status: current
+affiliations:
+- type: location
+  slug: prodence-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 2
+blood_type: F
+ages:
+- years: 57
+  period: other
+heights:
+- cm: 436
+  period: other

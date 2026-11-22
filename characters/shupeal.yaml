@@ -1,0 +1,22 @@
+slug: shupeal
+name:
+  en: Shupeal
+  ja: シュピール
+  romaji: Shupīru
+canon: anime_only
+status: alive
+first_appearance:
+  episode: 907
+epithets:
+- en: Shupeal the Hexagon
+  ja: 六角のシュピール
+  romaji: Rokkaku no Shupīru
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+bounties:
+- amount: 3500000
+  status: current
+  canon: movie

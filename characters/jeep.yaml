@@ -1,0 +1,16 @@
+slug: jeep
+name:
+  en: Jeep
+  ja: ジープ
+  romaji: Jīpu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 906
+  episode: 884
+occupations:
+- name: King
+  status: current

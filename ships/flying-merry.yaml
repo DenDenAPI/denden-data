@@ -1,0 +1,10 @@
+slug: flying-merry
+name:
+  en: Flying Merry
+  ja: フライングメリー号
+  romaji: Furaingu Merī-gō
+canon: other
+affiliations:
+- type: crew
+  slug: set-sail-pirates
+  status: current

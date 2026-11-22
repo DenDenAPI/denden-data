@@ -1,0 +1,12 @@
+slug: usoland
+name:
+  en: Usoland
+  ja: ウソランド号
+  romaji: Usorando-gō
+canon: manga
+first_appearance:
+  chapter: 892
+affiliations:
+- type: crew
+  slug: tontatta-pirates
+  status: current

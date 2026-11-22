@@ -1,0 +1,28 @@
+slug: hoe
+name:
+  en: Hoe
+  ja: ホエ
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+occupations:
+- name: Neptune's transportation
+  status: current
+- name: pet
+  status: current
+affiliations:
+- type: location
+  slug: fish-man-island
+  status: current
+residences:
+- type: location
+  slug: ryugu-palace
+  status: current
+birthday:
+  month: 9
+  day: 13

@@ -1,0 +1,17 @@
+slug: kotetsu-non-canon
+name:
+  en: Kotetsu (Non-Canon)
+  ja: コテツ
+  romaji: Kotetsu
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Chef
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current

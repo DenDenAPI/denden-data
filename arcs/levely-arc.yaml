@@ -1,0 +1,32 @@
+slug: levely-arc
+order: 60
+name:
+  en: Levely Arc
+  ja: 世界会議編
+  romaji: Reverī Hen
+kind: story
+canon: manga
+sagas:
+- whole-cake-island-saga
+chapters:
+  count: 6
+  ranges:
+  - start: 903
+    end: 908
+volumes:
+  count: 1
+  ranges:
+  - start: 90
+    end: 90
+episodes:
+  count: 12
+  ranges:
+  - start: 878
+    end: 889
+years:
+  manga:
+    start: 2018
+    end: 2018
+  anime:
+    start: 2019
+    end: 2019

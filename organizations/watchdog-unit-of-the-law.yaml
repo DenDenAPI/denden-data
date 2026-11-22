@@ -1,0 +1,20 @@
+slug: watchdog-unit-of-the-law
+name:
+  en: Watchdog Unit of the Law
+  ja: 法の番犬部隊
+  romaji: Hō no Banken Butai
+canon: manga
+first_appearance:
+  chapter: 380
+  episode: 267
+leaders:
+- character: baskerville
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: enies-lobby
+  status: current

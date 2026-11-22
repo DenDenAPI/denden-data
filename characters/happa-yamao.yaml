@@ -1,0 +1,25 @@
+slug: happa-yamao
+name:
+  en: Happa Yamao
+  ja: ハッパ・ヤマオ
+  romaji: Happa Yamao
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 341
+  episode: 241
+occupations:
+- name: Carpenter
+  status: current
+- name: Bandit
+  status: former
+residences:
+- type: location
+  slug: water-7
+  status: current
+- type: location
+  slug: pucci
+  status: former

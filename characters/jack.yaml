@@ -1,0 +1,48 @@
+slug: jack
+name:
+  en: Jack
+  ja: ジャック
+  romaji: Jakku
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 801
+  episode: 746
+epithets:
+- en: Jack the Drought
+  ja: 旱害のジャック
+  romaji: Kangai no Jakku
+occupations:
+- name: All-Star
+  status: current
+- name: Captain of the Mammoth
+  status: current
+- name: De Facto Ruler of Kuri
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 9
+  day: 28
+blood_type: F
+ages:
+- years: 28
+  period: other
+heights:
+- cm: 830
+  period: other
+bounties:
+- amount: 1000000000
+  status: current
+  revealed_chapter: 809

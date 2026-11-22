@@ -1,0 +1,28 @@
+slug: catacombo
+name:
+  en: Catacombo
+  ja: カタコンボ
+  romaji: Katakonbo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 602
+  episode: 522
+occupations:
+- name: Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+marine_rating:
+  stars: 2
+  minimum: true
+  equivalent: 200000000

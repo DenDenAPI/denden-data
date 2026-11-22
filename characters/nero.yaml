@@ -1,0 +1,37 @@
+slug: nero
+name:
+  en: Nero
+  ja: ネロ
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 367
+  episode: 257
+epithets:
+- en: Nero the Sea Weasel
+  ja: 海イタチのネロ
+  romaji: Umi Itachi no Nero
+occupations:
+- name: Cipher Pol Agent
+  status: former
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: West Blue
+birthday:
+  month: 1
+  day: 26
+blood_type: X
+ages:
+- years: 20
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 202
+  period: other

@@ -1,0 +1,44 @@
+slug: kouzuki-momonosuke
+name:
+  en: Kouzuki Momonosuke
+  ja: 光月モモの助
+  romaji: Kōzuki Momonosuke
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 684
+  episode: 609
+occupations:
+- name: Shogun
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+- type: location
+  slug: flower-capital
+  status: current
+birthday:
+  month: 10
+  day: 7
+blood_type: X
+ages:
+- years: 8
+  period: other
+heights:
+- cm: 110
+  period: other
+- cm: 322
+  period: other

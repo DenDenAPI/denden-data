@@ -1,0 +1,42 @@
+slug: concelot
+name:
+  en: Concelot
+  ja: コンスロット
+  romaji: Konsurotto
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 809
+  episode: 758
+occupations:
+- name: Three Inuarashi Musketeers
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: inuarashi-musketeer-squad
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: current
+birthday:
+  month: 11
+  day: 2
+blood_type: F
+ages:
+- years: 29
+  period: other
+heights:
+- cm: 204
+  period: other

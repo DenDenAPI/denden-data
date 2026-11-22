@@ -1,0 +1,20 @@
+slug: boogie
+name:
+  en: Boogie
+  ja: ブギ
+  romaji: Bugi
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1038
+  episode: 1065
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

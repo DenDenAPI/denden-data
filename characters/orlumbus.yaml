@@ -1,0 +1,59 @@
+slug: orlumbus
+name:
+  en: Orlumbus
+  ja: オオロンブス
+  romaji: Ōronbusu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: Massacre Ruler
+  ja: 殺戮支配者
+  romaji: Satsuriku Shihaisha
+- en: Made-Up Explorer
+  ja: 偽りの冒険野郎
+  romaji: Itsuwari no Bōken Yarō
+- en: Pioneer Explorer
+  ja: 開拓冒険家
+  romaji: Kaitaku Bōken-ka
+occupations:
+- name: Captain of the Seventh Ship of the Straw Hat Grand Fleet
+  status: current
+- name: Pirate
+  status: current
+- name: Admiral
+  status: current
+- name: Adventurer
+  status: former
+affiliations:
+- type: crew
+  slug: yonta-maria-grand-fleet
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: location
+  slug: standing-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 6
+  day: 23
+blood_type: X
+ages:
+- years: 42
+  period: other
+heights:
+- cm: 480
+  period: other
+bounties:
+- amount: 98000000
+  status: former
+- amount: 148000000
+  status: current

@@ -1,0 +1,17 @@
+slug: bokuden
+name:
+  en: Bokuden
+  ja: ボクデン
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 55
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: warship-island
+  status: current

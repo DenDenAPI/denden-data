@@ -1,0 +1,22 @@
+slug: zodia
+name:
+  en: Zodia
+  ja: ゾディア
+  romaji: Zodia
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 462
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

@@ -1,0 +1,51 @@
+slug: kuro
+name:
+  en: Kuro
+  ja: クロ
+  romaji: Kuro
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 23
+  episode: 9
+epithets:
+- en: Kuro of a Hundred Plans
+  ja: 百計のクロ
+  romaji: Hyakkei no Kuro
+aliases:
+- en: Klahadore
+  ja: クラハドール
+  romaji: Kurahadōru
+occupations:
+- name: Pirate Captain
+  status: former
+- name: Butler
+  status: former
+affiliations:
+- type: crew
+  slug: black-cat-pirates
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: former
+birthday:
+  month: 4
+  day: 22
+blood_type: X
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 207
+  period: other
+bounties:
+- amount: 16000000
+  status: current

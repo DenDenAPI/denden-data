@@ -1,0 +1,20 @@
+slug: gorobe
+name:
+  en: Gorobe
+  ja: ごろ兵衛
+  romaji: Gorobē
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 924
+  episode: 916
+residences:
+- type: location
+  slug: kuri
+  status: current
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,17 @@
+slug: suzume
+name:
+  en: Suzume
+  ja: スズメ
+  romaji: Suzume
+canon: manga
+gender: male
+species:
+- animal
+status: unknown
+first_appearance:
+  chapter: 401
+  episode: 286
+residences:
+- type: location
+  slug: enies-lobby
+  status: current

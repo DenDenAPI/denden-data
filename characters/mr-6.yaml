@@ -1,0 +1,20 @@
+slug: mr-6
+name:
+  en: Mr. 6
+  ja: Mr. 6
+  romaji: Misutā Shikkusu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 155
+  episode: 91
+aliases:
+- en: Mr. 6
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

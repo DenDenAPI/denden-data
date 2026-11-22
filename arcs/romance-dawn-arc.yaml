@@ -1,0 +1,30 @@
+slug: romance-dawn-arc
+order: 1
+name:
+  en: Romance Dawn Arc
+kind: story
+canon: manga
+sagas:
+- east-blue-saga
+chapters:
+  count: 7
+  ranges:
+  - start: 1
+    end: 7
+volumes:
+  count: 1
+  ranges:
+  - start: 1
+    end: 1
+episodes:
+  count: 4
+  ranges:
+  - start: 1
+    end: 4
+years:
+  manga:
+    start: 1997
+    end: 1997
+  anime:
+    start: 1999
+    end: 1999

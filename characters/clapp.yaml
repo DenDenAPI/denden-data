@@ -1,0 +1,26 @@
+slug: clapp
+name:
+  en: Clapp
+  ja: クラップ
+  romaji: Kurappu
+canon: manga
+gender: male
+status: deceased
+first_appearance:
+  chapter: 1095
+  episode: 1129
+occupations:
+- name: Slave
+  status: current
+- name: Church manager
+  status: former
+origin:
+  location: sorbet-kingdom
+  region: South Blue
+residences:
+- type: location
+  slug: sorbet-kingdom
+  status: current
+- type: location
+  slug: mary-geoise
+  status: former

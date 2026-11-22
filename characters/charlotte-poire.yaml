@@ -1,0 +1,29 @@
+slug: charlotte-poire
+name:
+  en: Charlotte Poire
+  ja: シャーロット・ポワール
+  romaji: Shārotto Powāru
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 830
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 10
+  day: 19
+ages:
+- years: 31
+  period: other

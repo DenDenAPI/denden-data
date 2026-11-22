@@ -1,0 +1,24 @@
+slug: cp9s-independent-report
+order: 46
+name:
+  en: CP9's Independent Report
+  ja: CP9の任務外報告
+  romaji: Shī-Pī-Nain no Ninmu-gai Hōkoku
+kind: cover_story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 33
+  ranges:
+  - start: 491
+    end: 528
+volumes:
+  count: 5
+  ranges:
+  - start: 50
+    end: 54
+years:
+  manga:
+    start: 2008
+    end: 2009

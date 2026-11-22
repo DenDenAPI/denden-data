@@ -1,0 +1,16 @@
+slug: googly-eyed
+name:
+  en: Googly-Eyed
+  ja: ギョロ目
+  romaji: Gyoro-me
+canon: manga
+species:
+- sea_king
+status: alive
+first_appearance:
+  chapter: 101
+  episode: 55
+residences:
+- type: location
+  slug: calm-belt
+  status: current

@@ -1,0 +1,26 @@
+slug: charlotte-laurin
+name:
+  en: Charlotte Laurin
+  ja: シャーロット・ラウリン
+  romaji: Shārotto Raurin
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 864
+  episode: 834
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 39
+  period: other

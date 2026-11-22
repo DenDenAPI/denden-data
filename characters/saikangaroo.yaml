@@ -1,0 +1,15 @@
+slug: saikangaroo
+name:
+  en: Saikangaroo
+  ja: サイカンガルー
+  romaji: Saikangarū
+canon: anime_only
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 18
+residences:
+- type: location
+  slug: island-of-rare-animals
+  status: current

@@ -1,0 +1,40 @@
+slug: wanze
+name:
+  en: Wanze
+  ja: ワンゼ
+  romaji: Wanze
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 367
+  episode: 257
+epithets:
+- en: Mad Wanze
+  ja: マッドなワンゼ
+  romaji: Maddona Wanze
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Chef
+  status: current
+affiliations:
+- type: organization
+  slug: cipher-pol
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 9
+  day: 4
+blood_type: F
+ages:
+- years: 26
+  period: debut
+- years: 28
+  period: post_timeskip
+heights:
+- cm: 173
+  period: other

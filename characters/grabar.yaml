@@ -1,0 +1,17 @@
+slug: grabar
+name:
+  en: Grabar
+  ja: グラバー
+  romaji: Gurabā
+canon: manga
+gender: female
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 717
+  episode: 647
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current

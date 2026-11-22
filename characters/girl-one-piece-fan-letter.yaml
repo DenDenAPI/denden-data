@@ -1,0 +1,17 @@
+slug: girl-one-piece-fan-letter
+name:
+  en: Girl
+  ja: 少女
+  romaji: Shōjo
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+ages:
+- years: 15
+  period: other

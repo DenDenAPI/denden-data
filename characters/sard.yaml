@@ -1,0 +1,16 @@
+slug: sard
+name:
+  en: Sard
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 35
+occupations:
+- name: Fugitive
+  status: current
+bounties:
+- amount: 40000
+  status: current

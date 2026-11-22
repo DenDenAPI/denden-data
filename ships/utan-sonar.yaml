@@ -1,0 +1,16 @@
+slug: utan-sonar
+name:
+  en: Utan Sonar
+  ja: ウータン・ソナー号
+  romaji: Ūtan Sonā-gō
+canon: manga
+first_appearance:
+  chapter: 226
+  episode: 147
+affiliations:
+- type: crew
+  slug: saruyama-alliance
+  status: current
+- type: crew
+  slug: shoujou-pirates
+  status: current

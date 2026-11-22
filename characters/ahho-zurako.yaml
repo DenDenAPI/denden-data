@@ -1,0 +1,27 @@
+slug: ahho-zurako
+name:
+  en: Ahho Zurako
+  ja: アッホ・ヅラコ
+  romaji: Ahho Zurako
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 587
+  episode: 501
+occupations:
+- name: Noble
+  status: current
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current
+residences:
+- type: location
+  slug: goa-kingdom
+  status: current
+- type: location
+  slug: dawn-island
+  status: current

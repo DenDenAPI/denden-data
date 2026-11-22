@@ -1,0 +1,24 @@
+slug: adelle-basc-d
+name:
+  en: Adelle Bascùd
+  ja: アデル・バスクード
+  romaji: Aderu Basukūdo
+canon: movie
+gender: female
+species:
+- human
+status: alive
+aliases:
+- en: Anaguma
+  ja: アナグマ
+  romaji: Anaguma
+occupations:
+- name: Biera's assistant
+  status: current
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: former
+ages:
+- years: 11
+  period: other

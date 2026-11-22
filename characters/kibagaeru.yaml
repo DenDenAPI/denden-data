@@ -1,0 +1,25 @@
+slug: kibagaeru
+name:
+  en: Kibagaeru
+  ja: キバガエル
+  romaji: Kibagaeru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 306
+  episode: 208
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former
+- type: crew
+  slug: fanged-toad-pirates
+  status: former

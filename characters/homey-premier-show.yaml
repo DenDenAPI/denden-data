@@ -1,0 +1,17 @@
+slug: homey-premier-show
+name:
+  en: Homey (Premier Show)
+  ja: ホーミー
+  romaji: Hōmī
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: former

@@ -1,0 +1,30 @@
+slug: moda
+name:
+  en: Moda
+  ja: モーダ
+  romaji: Mōda
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 278
+  episode: 381
+occupations:
+- name: Farmer
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: location
+  slug: g-2
+  status: current
+residences:
+- type: location
+  slug: lulusia-kingdom
+  status: former
+birthday:
+  month: 6
+  day: 1

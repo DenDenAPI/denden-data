@@ -1,0 +1,55 @@
+slug: edward-newgate
+name:
+  en: Edward Newgate
+  ja: エドワード・二ューゲート
+  romaji: Edowādo Nyūgēto
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 159
+  episode: 95
+epithets:
+- en: Whitebeard
+  ja: 白ひげ
+  romaji: Shirohige
+- en: The Strongest Man in the World
+  ja: 世界最強の男
+  romaji: Sekai Saikyō no Otoko
+- en: The Man Closest to One Piece
+  ja: ひとつなぎの大秘宝に最も近い男
+  romaji: Wan Pīsu ni Mottomo Chikai Otoko
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Emperor
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: organization
+  slug: four-emperors
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 4
+  day: 6
+blood_type: F
+heights:
+- cm: 666
+  period: other
+bounties:
+- amount: 5046000000
+  status: former
+  revealed_chapter: 957

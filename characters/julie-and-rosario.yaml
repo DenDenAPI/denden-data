@@ -1,0 +1,14 @@
+slug: julie-and-rosario
+name:
+  en: Julie and Rosario
+  ja: ジュリー; ロザリオ
+  romaji: Jurī; Rozario
+canon: movie
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: bighorn
+  status: current

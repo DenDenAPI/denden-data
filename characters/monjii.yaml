@@ -1,0 +1,20 @@
+slug: monjii
+name:
+  en: Monjii
+  ja: モンジイ
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 807
+  episode: 756
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

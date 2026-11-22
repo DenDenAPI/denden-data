@@ -1,0 +1,22 @@
+slug: caimanlady
+name:
+  en: Caimanlady
+  ja: カイマンレディ
+  romaji: Kaiman Redi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1004
+  episode: 1020
+occupations:
+- name: Gifter
+  status: current
+- name: Mary
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

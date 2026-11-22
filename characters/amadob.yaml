@@ -1,0 +1,25 @@
+slug: amadob
+name:
+  en: Amadob
+  ja: アマドブ
+  romaji: Amadobu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 558
+  episode: 467
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 6
+  day: 20

@@ -1,0 +1,15 @@
+slug: orenami-fanclub
+name:
+  en: Orenami Fanclub
+  ja: オレナミ一同
+  romaji: Orenami-Ichidō
+canon: anime_only
+status: active
+first_appearance:
+  episode: 426
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

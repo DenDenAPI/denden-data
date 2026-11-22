@@ -1,0 +1,28 @@
+slug: maujii
+name:
+  en: Maujii
+  ja: マウジイ
+  romaji: Maujii
+canon: manga
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 755
+  episode: 692
+occupations:
+- name: Aide to Princess Mansherry
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: tontatta-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current

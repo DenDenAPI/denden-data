@@ -1,0 +1,20 @@
+slug: tritobu
+name:
+  en: Tritobu
+  ja: トリトブー
+  romaji: Toritobū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 906
+  episode: 884
+occupations:
+- name: Prince
+  status: current
+residences:
+- type: location
+  slug: nagagutsu-kingdom
+  status: current

@@ -1,0 +1,22 @@
+slug: sancrin
+name:
+  en: Sancrin
+  ja: サンクリン
+  romaji: Sankurin
+canon: manga
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  chapter: 557
+  episode: 456
+occupations:
+- name: Thief
+  status: current
+- name: Manager
+  status: former
+residences:
+- type: location
+  slug: kenzan-island
+  status: current

@@ -1,0 +1,17 @@
+slug: muti
+name:
+  en: Muti
+  ja: ムティ
+  romaji: Muti
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 623
+  episode: 543
+residences:
+- type: location
+  slug: foolshout-island
+  status: current

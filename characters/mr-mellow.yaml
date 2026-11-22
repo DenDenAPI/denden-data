@@ -1,0 +1,20 @@
+slug: mr-mellow
+name:
+  en: Mr. Mellow
+  ja: Mr. メロウ
+  romaji: Misutā Merō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 159
+  episode: 95
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

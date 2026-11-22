@@ -1,0 +1,39 @@
+slug: dellinger
+name:
+  en: Dellinger
+  ja: デリンジャー
+  romaji: Derinjā
+canon: manga
+status: alive
+first_appearance:
+  chapter: 702
+  episode: 632
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 8
+  day: 11
+blood_type: S
+ages:
+- years: 16
+  period: other
+heights:
+- cm: 145
+  period: other
+bounties:
+- amount: 15000000
+  status: former

@@ -1,0 +1,13 @@
+slug: g-8
+name:
+  en: G-8
+  ja: 海軍G・L第8支部
+  romaji: Kaigun Gurando Rain Dai-Hachi Shibu
+canon: movie
+first_appearance:
+  episode: 195
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,20 @@
+slug: bunny-joe
+name:
+  en: Bunny Joe
+  ja: バニー・ジョー
+  romaji: Banī Jō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 546
+  episode: 455
+occupations:
+- name: Revolutionary
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

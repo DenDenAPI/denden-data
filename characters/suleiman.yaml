@@ -1,0 +1,46 @@
+slug: suleiman
+name:
+  en: Suleiman
+  ja: スレイマン
+  romaji: Sureiman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: Suleiman the Beheader
+  ja: 首はねスレイマン
+  romaji: Kubi-hane Sureiman
+occupations:
+- name: Pirate
+  status: current
+- name: War Criminal
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: crew
+  slug: beautiful-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 1
+  day: 30
+blood_type: S
+ages:
+- years: 40
+  period: other
+heights:
+- cm: 240
+  period: other
+bounties:
+- amount: 67000000
+  status: current

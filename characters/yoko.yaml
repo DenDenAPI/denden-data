@@ -1,0 +1,19 @@
+slug: yoko
+name:
+  en: Yoko
+  ja: ヨーコ
+  romaji: Yōko
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 426
+occupations:
+- name: Island Protector
+  status: current
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

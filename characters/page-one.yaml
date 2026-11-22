@@ -1,0 +1,39 @@
+slug: page-one
+name:
+  en: Page One
+  ja: ページワン
+  romaji: Pējiwan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 929
+  episode: 923
+occupations:
+- name: Shinuchi
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 2
+  day: 10
+blood_type: X
+ages:
+- years: 20
+  period: other
+heights:
+- cm: 171
+  period: other
+bounties:
+- amount: 290000000
+  status: current

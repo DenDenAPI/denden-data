@@ -1,0 +1,43 @@
+slug: momoo
+name:
+  en: Momoo
+  ja: モーム
+  romaji: Mōmu
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 73
+  episode: 31
+epithets:
+- en: Momoo the Sea Cow
+  ja: 海牛モーム
+  romaji: Kaigyū Mōmu
+occupations:
+- name: Arlong Pirates' pet
+  status: former
+- name: Caribou Pirates' steed
+  status: former
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: former
+- type: crew
+  slug: caribou-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 4
+  day: 9
+blood_type: S
+ages:
+- years: 14
+  period: debut
+- years: 16
+  period: post_timeskip
+heights:
+- cm: 3600
+  period: other

@@ -1,0 +1,24 @@
+slug: babanuki
+name:
+  en: Babanuki
+  ja: ババヌキ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 934
+  episode: 930
+occupations:
+- name: Shinuchi
+  status: current
+- name: Warden of the Prisoner Mine
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

@@ -1,0 +1,20 @@
+slug: bunbuku
+name:
+  en: Bunbuku
+  ja: ぶんぶく君
+  romaji: Bunbuku-kun
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 911
+  episode: 894
+residences:
+- type: location
+  slug: wano-country
+  status: current
+- type: location
+  slug: kuri
+  status: current

@@ -1,0 +1,50 @@
+slug: bartolomeo
+name:
+  en: Bartolomeo
+  ja: バルトロメオ
+  romaji: Barutoromeo
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 705
+  episode: 633
+epithets:
+- en: Bartolomeo the Cannibal
+  ja: 人食いのバルトロメオ
+  romaji: Hitokui no Barutoromeo
+occupations:
+- name: Captain of the Second Ship of the Straw Hat Grand Fleet
+  status: current
+- name: Pirate Captain
+  status: current
+- name: Mafia Leader
+  status: former
+affiliations:
+- type: crew
+  slug: barto-club
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 10
+  day: 6
+blood_type: X
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 220
+  period: other
+bounties:
+- amount: 150000000
+  status: former
+  revealed_chapter: 706
+- amount: 200000000
+  status: current
+  revealed_chapter: 801

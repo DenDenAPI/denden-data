@@ -1,0 +1,19 @@
+slug: yamon
+name:
+  en: Yamon
+  ja: ヤモン
+  romaji: Yamon
+canon: manga
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1158
+  episode: 966
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

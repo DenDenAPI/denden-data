@@ -1,0 +1,25 @@
+slug: chameleone
+name:
+  en: Chameleone
+  ja: カメレオーネ
+  romaji: Kamereōne
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Prisoner of the Great Prison
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+- type: location
+  slug: impel-down
+  status: current
+bounties:
+- amount: 300000000
+  status: former

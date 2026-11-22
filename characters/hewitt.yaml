@@ -1,0 +1,23 @@
+slug: hewitt
+name:
+  en: Hewitt
+  ja: ヒューイット
+  romaji: Hyūitto
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Chef
+  status: current
+affiliations:
+- type: crew
+  slug: bellamy-pirates
+  status: current
+origin:
+  location: notice
+  region: North Blue

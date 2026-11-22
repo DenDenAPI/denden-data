@@ -1,0 +1,18 @@
+slug: ikidaore-joe
+name:
+  en: Ikidaore Joe
+  ja: 行き倒れジョー
+  romaji: Ikidaore Jō
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: ikidaore-family
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: current

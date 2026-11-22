@@ -1,0 +1,35 @@
+slug: kaya
+name:
+  en: Kaya
+  ja: カヤ
+  romaji: Kaya
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 23
+  episode: 9
+occupations:
+- name: Medical student
+  status: current
+origin:
+  location: gecko-islands
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: current
+birthday:
+  month: 8
+  day: 24
+blood_type: F
+ages:
+- years: 17
+  period: debut
+- years: 19
+  period: post_timeskip
+heights:
+- cm: 169
+  period: other

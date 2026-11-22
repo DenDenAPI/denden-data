@@ -1,0 +1,20 @@
+slug: didit
+name:
+  en: Didit
+  ja: ディディット
+  romaji: Diditto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 585
+  episode: 496
+occupations:
+- name: Noble
+  status: current
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current

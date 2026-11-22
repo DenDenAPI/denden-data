@@ -1,0 +1,21 @@
+slug: ibiributsu
+name:
+  en: Ibiributsu
+  ja: イビリブツ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 919
+occupations:
+- name: Waiter
+  status: current
+- name: Prisoner Mine Guard
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

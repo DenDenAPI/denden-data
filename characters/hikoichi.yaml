@@ -1,0 +1,34 @@
+slug: hikoichi
+name:
+  en: Hikoichi
+  ja: ヒコイチ
+  romaji: Hikoichi
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 180
+  episode: 111
+occupations:
+- name: Royal Transport
+  status: current
+- name: Member of the Super Spot-Billed Duck Troops
+  status: current
+affiliations:
+- type: organization
+  slug: super-spot-billed-duck-troops
+  status: current
+origin:
+  location: arabasta-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+blood_type: S
+ages:
+- years: 14
+  period: other
+heights:
+- cm: 138
+  period: other

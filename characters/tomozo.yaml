@@ -1,0 +1,20 @@
+slug: tomozo
+name:
+  en: Tomozo
+  ja: 友ぞう
+  romaji: Tomozō
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+occupations:
+- name: Shopkeeper
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

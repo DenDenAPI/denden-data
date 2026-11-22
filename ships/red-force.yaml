@@ -1,0 +1,13 @@
+slug: red-force
+name:
+  en: Red Force
+  ja: レッド・フォース号
+  romaji: Reddo Fōsu-gō
+canon: manga
+first_appearance:
+  chapter: 434
+  episode: 316
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

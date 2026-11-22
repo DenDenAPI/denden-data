@@ -1,0 +1,22 @@
+slug: brontosaurus
+name:
+  en: Brontosaurus
+  ja: ブロントザウルス
+  romaji: Burontozaurusu
+canon: manga
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 115
+origin:
+  location: little-garden
+  region: Grand Line
+residences:
+- type: location
+  slug: little-garden
+  status: current
+birthday:
+  month: 11
+  day: 19

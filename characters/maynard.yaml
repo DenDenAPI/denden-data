@@ -1,0 +1,35 @@
+slug: maynard
+name:
+  en: Maynard
+  ja: メイナード
+  romaji: Meinādo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 705
+  episode: 634
+epithets:
+- en: Maynard the Pursuer
+  ja: 追撃のメイナード
+  romaji: Tsuigeki no Meinādo
+aliases:
+- en: Capman
+  ja: キャップマン
+  romaji: Kyappuman
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+birthday:
+  month: 5
+  day: 7
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

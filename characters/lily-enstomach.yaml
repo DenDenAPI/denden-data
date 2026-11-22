@@ -1,0 +1,23 @@
+slug: lily-enstomach
+name:
+  en: Lily Enstomach
+  ja: リリー・エンストマック
+  romaji: Rirī Ensutomakku
+canon: anime_only
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  episode: 575
+epithets:
+- en: Lily the Glutton
+  ja: 悪食リリー
+  romaji: Akujiki Rirī
+occupations:
+- name: Pirate
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

@@ -1,0 +1,25 @@
+slug: miss-friday
+name:
+  en: Miss Friday
+  ja: ミス・フライデー
+  romaji: Misu Furaidē
+canon: manga
+gender: female
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 105
+  episode: 63
+occupations:
+- name: Assassin
+  status: former
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 21

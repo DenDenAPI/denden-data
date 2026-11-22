@@ -1,0 +1,24 @@
+slug: randolph
+name:
+  en: Randolph
+  ja: ランドルフ
+  romaji: Randorufu
+canon: manga
+gender: male
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 827
+  episode: 786
+epithets:
+- en: Crane Rider
+  ja: 鶴騎士
+  romaji: Kurein Raidā
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

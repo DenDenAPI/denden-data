@@ -1,0 +1,26 @@
+slug: koze-and-packy
+name:
+  en: Koze and Packy
+  ja: コゼ & パッキー
+  romaji: Koze to Pakkī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 96
+  episode: 48
+occupations:
+- name: Pirates
+  status: current
+affiliations:
+- type: crew
+  slug: yes-pirates
+  status: current
+origin:
+  location: loguetown
+  region: East Blue
+birthday:
+  month: 5
+  day: 27

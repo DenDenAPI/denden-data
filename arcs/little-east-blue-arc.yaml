@@ -1,0 +1,17 @@
+slug: little-east-blue-arc
+order: 42
+name:
+  en: Little East Blue Arc
+kind: filler
+canon: anime_only
+sagas:
+- summit-war-saga
+episodes:
+  count: 4
+  ranges:
+  - start: 426
+    end: 429
+years:
+  anime:
+    start: 2009
+    end: 2009

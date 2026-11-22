@@ -1,0 +1,19 @@
+slug: komane
+name:
+  en: Komane
+  ja: コマネ
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 903
+  episode: 879
+occupations:
+- name: Princess
+  status: former
+affiliations:
+- type: location
+  slug: lulusia-kingdom
+  status: current

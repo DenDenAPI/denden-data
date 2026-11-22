@@ -1,0 +1,47 @@
+slug: nezumi
+name:
+  en: Nezumi
+  ja: ネズミ
+  romaji: Nezumi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 69
+  episode: 31
+occupations:
+- name: Marine Captain
+  status: current
+- name: Marine Commander
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: 16th-branch
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: 16th-branch
+  status: current
+birthday:
+  month: 12
+  day: 12
+blood_type: XF
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 182
+  period: other
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

@@ -1,0 +1,17 @@
+slug: goat-island-arc
+order: 18
+name:
+  en: Goat Island Arc
+kind: filler
+canon: anime_only
+sagas:
+- sky-island-saga
+episodes:
+  count: 3
+  ranges:
+  - start: 136
+    end: 138
+years:
+  anime:
+    start: 2002
+    end: 2002

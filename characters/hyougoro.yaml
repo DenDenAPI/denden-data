@@ -1,0 +1,58 @@
+slug: hyougoro
+name:
+  en: Hyougoro
+  ja: ヒョウ五郎
+  romaji: Hyōgorō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 919
+epithets:
+- en: Hyougoro of the Flower
+  ja: 花のヒョウ五郎
+  romaji: Hana no Hyōgorō
+aliases:
+- en: Grandpa Hyo
+  ja: ヒョウじい
+  romaji: Hyō-jii
+occupations:
+- name: Prisoner
+  status: former
+- name: Yakuza Boss
+  status: former
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: hyougoro-family
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: udon
+  status: current
+- type: location
+  slug: wano-country
+  status: former
+birthday:
+  month: 2
+  day: 14
+blood_type: S
+ages:
+- years: 70
+  period: other
+heights:
+- cm: 100
+  period: other

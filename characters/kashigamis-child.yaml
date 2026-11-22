@@ -1,0 +1,16 @@
+slug: kashigamis-child
+name:
+  en: Kashigami's Child
+  ja: カシ神の子
+  romaji: Kashigami no Ko
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 289
+  episode: 188
+residences:
+- type: location
+  slug: jaya
+  status: current

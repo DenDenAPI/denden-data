@@ -1,0 +1,11 @@
+slug: 100-island
+name:
+  en: 100% Island
+  ja: 100%島
+  romaji: 100%-tō
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

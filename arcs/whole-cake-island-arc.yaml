@@ -1,0 +1,30 @@
+slug: whole-cake-island-arc
+order: 59
+name:
+  en: Whole Cake Island Arc
+kind: story
+canon: manga
+sagas:
+- whole-cake-island-saga
+chapters:
+  count: 78
+  ranges:
+  - start: 825
+    end: 902
+volumes:
+  count: 9
+  ranges:
+  - start: 82
+    end: 90
+episodes:
+  count: 95
+  ranges:
+  - start: 783
+    end: 877
+years:
+  manga:
+    start: 2016
+    end: 2018
+  anime:
+    start: 2017
+    end: 2019

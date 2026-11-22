@@ -1,0 +1,18 @@
+slug: bobrad
+name:
+  en: Bobrad
+  ja: ボブラッド
+  romaji: Boburaddo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 747
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 68000000
+  status: former

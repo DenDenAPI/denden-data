@@ -1,0 +1,23 @@
+slug: peterman
+name:
+  en: Peterman
+  ja: ピーターマン
+  romaji: Pītāman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 499
+  episode: 393
+occupations:
+- name: Slave trader
+  status: current
+affiliations:
+- type: organization
+  slug: hound-pets
+  status: current
+birthday:
+  month: 1
+  day: 4

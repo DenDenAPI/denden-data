@@ -1,0 +1,17 @@
+slug: atago-niina
+name:
+  en: Atago Niina
+  ja: 愛宕新奈
+  romaji: Atago Nīna
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: School Nurse
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current

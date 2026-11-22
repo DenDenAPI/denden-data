@@ -1,0 +1,33 @@
+slug: kalgara
+name:
+  en: Kalgara
+  ja: カルガラ
+  romaji: Karugara
+canon: manga
+gender: male
+species:
+- shandia
+status: deceased
+first_appearance:
+  chapter: 286
+  episode: 187
+epithets:
+- en: The Demon of Shandora
+  ja: シャンドラの魔物
+  romaji: Shandora no Mamono
+- en: The Great Warrior of Shandora
+  ja: シャンドラの大戦士
+  romaji: Shandora no Dai Senshi
+occupations:
+- name: Warrior
+  status: current
+origin:
+  location: jaya
+  region: Grand Line
+birthday:
+  month: 10
+  day: 4
+blood_type: X
+heights:
+- cm: 222
+  period: other

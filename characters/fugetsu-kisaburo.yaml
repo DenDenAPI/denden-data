@@ -1,0 +1,15 @@
+slug: fugetsu-kisaburo
+name:
+  en: Fugetsu Kisaburo
+  ja: 風月貴三郎
+  romaji: Fūgetsu Kisaburō
+canon: manga
+gender: male
+status: unknown
+occupations:
+- name: Swordsmith
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

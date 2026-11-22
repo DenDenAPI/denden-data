@@ -1,0 +1,23 @@
+slug: battler
+name:
+  en: Battler
+  ja: バトラー
+  romaji: Batorā
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Earl Battler
+  ja: バトラー伯爵
+  romaji: Batorā Hakushaku
+occupations:
+- name: Poacher
+  status: current
+- name: Musician
+  status: current
+bounties:
+- amount: 14900000
+  status: current
+  canon: movie

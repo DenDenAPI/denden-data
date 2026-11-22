@@ -1,0 +1,18 @@
+slug: sarbay
+name:
+  en: Sarbay
+  ja: サーべイ
+  romaji: Sābei
+canon: other
+gender: male
+species:
+- animal
+status: alive
+epithets:
+- en: '"Doctor" Sarbay'
+  ja: ドクター・サーべイ
+  romaji: Dokutā Sābei
+residences:
+- type: location
+  slug: waford
+  status: current

@@ -1,0 +1,29 @@
+slug: fuga
+name:
+  en: Fuga
+  ja: 二牙
+  romaji: Fūga
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 991
+  episode: 1055
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+origin:
+  location: punk-hazard
+  region: Grand Line
+residences:
+- type: location
+  slug: onigashima
+  status: current
+birthday:
+  month: 2
+  day: 5
+blood_type: S
+heights:
+- cm: 3715
+  period: other

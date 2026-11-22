@@ -1,0 +1,18 @@
+slug: jackie
+name:
+  en: Jackie
+  ja: ジャッキ
+  romaji: Jakki
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Gentlemanly Jackie
+  ja: 紳士的なジャッキ
+  romaji: Shinshi-teki na Jakki
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,23 @@
+slug: needless
+name:
+  en: Needless
+  ja: ニードルス
+  romaji: Nīdorusu
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+- name: Gasparde's right hand man
+  status: current
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: current
+bounties:
+- amount: 57000000
+  status: current
+  canon: movie

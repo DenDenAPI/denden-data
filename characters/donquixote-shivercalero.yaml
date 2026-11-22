@@ -1,0 +1,24 @@
+slug: donquixote-shivercalero
+name:
+  en: Donquixote Shivercalero
+  ja: ドンキホーテ・シヴァーカレロ聖
+  romaji: Donkihōte Shivākarero Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 625
+  episode: 545
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

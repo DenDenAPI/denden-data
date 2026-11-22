@@ -1,0 +1,31 @@
+slug: charlotte-harumeg
+name:
+  en: Charlotte Harumeg
+  ja: シャーロット・ハルメグ
+  romaji: Shārotto Harumegu
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate
+  status: current
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 2
+ages:
+- years: 18
+  period: other

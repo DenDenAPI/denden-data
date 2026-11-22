@@ -1,0 +1,22 @@
+slug: okome
+name:
+  en: Okome
+  ja: オコメ
+  romaji: Okome
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 224
+  episode: 146
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current
+affiliations:
+- type: crew
+  slug: hokahoka-pirates
+  status: current

@@ -1,0 +1,24 @@
+slug: omatsuri
+name:
+  en: Omatsuri
+  ja: オマツリ
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+epithets:
+- en: Baron Omatsuri
+  ja: オマツリ男爵
+  romaji: Omatsuri Danshaku
+occupations:
+- name: Resort Owner
+  status: current
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current

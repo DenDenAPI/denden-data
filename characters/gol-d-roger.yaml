@@ -1,0 +1,42 @@
+slug: gol-d-roger
+name:
+  en: Gol D. Roger
+  ja: ゴール・D・ロジャー
+  romaji: Gōru Dī Rojā
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1
+  episode: 1
+epithets:
+- en: Pirate King
+  ja: 海賊王
+  romaji: Kaizoku-Ō
+aliases:
+- en: Gold Roger
+  ja: ゴールド・ロジャー
+  romaji: Gōrudo Rojā
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current
+origin:
+  location: loguetown
+  region: East Blue
+birthday:
+  month: 12
+  day: 31
+blood_type: S
+heights:
+- cm: 274
+  period: other
+bounties:
+- amount: 5564800000
+  status: former
+  revealed_chapter: 957

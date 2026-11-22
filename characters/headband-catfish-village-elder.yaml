@@ -1,0 +1,21 @@
+slug: headband-catfish-village-elder
+name:
+  en: Headband Catfish Village Elder
+  ja: ハチマキナマズ村の長老
+  romaji: Hachimaki Namazu-mura no Chōrō
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 214
+occupations:
+- name: Village Chief
+  status: current
+- name: Carpenter
+  status: current
+residences:
+- type: location
+  slug: headband-catfish-village
+  status: current

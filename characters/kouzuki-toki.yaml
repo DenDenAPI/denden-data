@@ -1,0 +1,37 @@
+slug: kouzuki-toki
+name:
+  en: Kouzuki Toki
+  ja: 光月トキ
+  romaji: Kōzuki Toki
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 919
+  episode: 893
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: amatsuki-family
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+- type: crew
+  slug: roger-pirates
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 1
+  day: 19
+blood_type: X
+heights:
+- cm: 190
+  period: other

@@ -1,0 +1,11 @@
+slug: buggyland
+name:
+  en: Buggyland
+  ja: バギーランド
+  romaji: Bagīrando
+canon: other
+region: Paradise
+affiliations:
+- type: crew
+  slug: buggy-and-alvida-alliance
+  status: current

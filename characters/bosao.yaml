@@ -1,0 +1,21 @@
+slug: bosao
+name:
+  en: Bosao
+  ja: ボサ男
+  romaji: Bosao
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+residences:
+- type: location
+  slug: baltigo
+  status: former
+ages:
+- years: 10
+  period: other

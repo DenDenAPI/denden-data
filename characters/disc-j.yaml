@@ -1,0 +1,20 @@
+slug: disc-j
+name:
+  en: Disc J
+  ja: ディスクJ
+  romaji: Disuku Jei
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1040
+  episode: 1079
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

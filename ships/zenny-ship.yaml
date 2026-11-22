@@ -1,0 +1,12 @@
+slug: zenny-ship
+name:
+  en: Zenny
+  ja: ゼニィ号
+  romaji: Zenī-gō
+canon: anime_only
+first_appearance:
+  episode: 136
+affiliations:
+- type: crew
+  slug: zenny-pirates
+  status: current

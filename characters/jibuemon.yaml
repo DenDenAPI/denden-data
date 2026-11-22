@@ -1,0 +1,26 @@
+slug: jibuemon
+name:
+  en: Jibuemon
+  ja: 地武えもん
+  romaji: Jibuemon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 911
+occupations:
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,24 @@
+slug: alvar
+name:
+  en: Alvar
+  ja: アルヴァール
+  romaji: Aruvāru
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1142
+  episode: 1168
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

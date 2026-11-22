@@ -1,0 +1,20 @@
+slug: rita-suerte
+name:
+  en: Rita Suerte
+  ja: リタ・スエルテ
+  romaji: Rita Suerute
+canon: other
+gender: female
+status: deceased
+occupations:
+- name: First Sky Priestess
+  status: current
+- name: Scientist
+  status: current
+residences:
+- type: location
+  slug: waford
+  status: current
+heights:
+- cm: 157
+  period: other

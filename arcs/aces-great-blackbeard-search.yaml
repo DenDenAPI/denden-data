@@ -1,0 +1,24 @@
+slug: aces-great-blackbeard-search
+order: 24
+name:
+  en: Ace's Great Blackbeard Search
+  ja: エースの黒ひげ大捜査線
+  romaji: Ēsu no Kurohige Daisōsasen
+kind: cover_story
+canon: manga
+sagas:
+- sky-island-saga
+chapters:
+  count: 29
+  ranges:
+  - start: 272
+    end: 305
+volumes:
+  count: 4
+  ranges:
+  - start: 29
+    end: 32
+years:
+  manga:
+    start: 2003
+    end: 2004

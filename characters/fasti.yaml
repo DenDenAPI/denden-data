@@ -1,0 +1,33 @@
+slug: fasti
+name:
+  en: Fasti
+  ja: ファスティ
+  romaji: Fasuti
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Godspeed Fasti
+  ja: 神速のファスティ
+  romaji: Shinsoku no Fasuti
+occupations:
+- name: Cook
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+- type: crew
+  slug: cook-pirates
+  status: former
+residences:
+- type: location
+  slug: alubarna
+  status: current
+bounties:
+- amount: 3300000
+  status: former

@@ -1,0 +1,26 @@
+slug: jessica
+name:
+  en: Jessica
+  ja: ジェシカ
+  romaji: Jeshika
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 196
+occupations:
+- name: Head Chef
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-8
+  status: current
+residences:
+- type: location
+  slug: navarone-island
+  status: current

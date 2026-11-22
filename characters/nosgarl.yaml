@@ -1,0 +1,21 @@
+slug: nosgarl
+name:
+  en: Nosgarl
+  ja: ノスガール
+  romaji: Nosugāru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 579
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

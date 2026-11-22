@@ -1,0 +1,32 @@
+slug: cocoa
+name:
+  en: Cocoa
+  ja: ココア
+  romaji: Kokoa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 518
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 11
+  day: 7
+blood_type: X
+ages:
+- years: 27
+  period: other
+heights:
+- cm: 138
+  period: other

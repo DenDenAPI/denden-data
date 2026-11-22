@@ -1,0 +1,17 @@
+slug: sarfunkel
+name:
+  en: Sarfunkel
+  ja: サーファンクル
+  romaji: Sāfankuru
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 620
+  episode: 1151
+residences:
+- type: location
+  slug: island-of-rare-animals
+  status: current

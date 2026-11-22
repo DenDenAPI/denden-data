@@ -1,0 +1,13 @@
+slug: zona-family
+name:
+  en: Zona Family
+  ja: ゾーナ一族
+  romaji: Zōna Ichizoku
+canon: other
+status: active
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: dressrosa
+  status: current

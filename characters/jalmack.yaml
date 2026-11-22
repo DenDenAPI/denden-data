@@ -1,0 +1,27 @@
+slug: jalmack
+name:
+  en: Jalmack
+  ja: ジャルマック聖
+  romaji: Jarumakku Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 588
+  episode: 502
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 11
+  day: 9

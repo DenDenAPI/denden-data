@@ -1,0 +1,13 @@
+slug: merveille
+name:
+  en: Merveille
+  ja: メルヴィユ
+  romaji: Meruviyu
+canon: manga
+first_appearance:
+  chapter: 0
+region: Sky Island
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current

@@ -1,0 +1,30 @@
+slug: long-ring-long-land-arc
+order: 25
+name:
+  en: Long Ring Long Land Arc
+kind: story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 19
+  ranges:
+  - start: 303
+    end: 321
+volumes:
+  count: 3
+  ranges:
+  - start: 32
+    end: 34
+episodes:
+  count: 13
+  ranges:
+  - start: 207
+    end: 219
+years:
+  manga:
+    start: 2003
+    end: 2004
+  anime:
+    start: 2004
+    end: 2005

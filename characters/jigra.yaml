@@ -1,0 +1,20 @@
+slug: jigra
+name:
+  en: Jigra
+  ja: ジグラ
+  romaji: Jigura
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 860
+  episode: 830
+occupations:
+- name: Organ Trader
+  status: current
+affiliations:
+- type: organization
+  slug: organ-dealing-assassination-group
+  status: current

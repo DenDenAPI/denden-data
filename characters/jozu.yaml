@@ -1,0 +1,39 @@
+slug: jozu
+name:
+  en: Jozu
+  ja: ジョズ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+epithets:
+- en: '"Diamond" Jozu'
+  ja: ダイヤモンド・ジョズ
+  romaji: Daiyamondo Jozu
+occupations:
+- name: Pirate
+  status: current
+- name: 3rd Division Commander
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 11
+  day: 11
+blood_type: X
+ages:
+- years: 40
+  period: debut
+- years: 42
+  period: post_timeskip
+heights:
+- cm: 503
+  period: other

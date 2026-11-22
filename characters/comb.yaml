@@ -1,0 +1,14 @@
+slug: comb
+name:
+  en: Comb
+  ja: コーム
+  romaji: Kōmu
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current

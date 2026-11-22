@@ -1,0 +1,49 @@
+slug: yasopp
+name:
+  en: Yasopp
+  ja: ヤソップ
+  romaji: Yasoppu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+epithets:
+- en: Chaser
+  ja: 追擊者
+  romaji: Cheisā
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current
+origin:
+  location: gecko-islands
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: former
+birthday:
+  month: 8
+  day: 2
+blood_type: S
+ages:
+- years: 35
+  period: debut
+- years: 45
+  period: pre_timeskip
+- years: 47
+  period: post_timeskip
+heights:
+- cm: 183
+  period: other

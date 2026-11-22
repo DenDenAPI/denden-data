@@ -1,0 +1,46 @@
+slug: riku-doldo-iii
+name:
+  en: Riku Doldo III
+  ja: リク・ドルド3世
+  romaji: Riku Dorudo Sansei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 636
+epithets:
+- en: King of Miracles
+  ja: 奇跡の王
+  romaji: Kiseki no Ō
+aliases:
+- en: Ricky
+  ja: リッキー
+  romaji: Rikkī
+occupations:
+- name: King
+  status: current
+- name: Corrida Colosseum Gladiator
+  status: former
+affiliations:
+- type: organization
+  slug: riku-family
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+birthday:
+  month: 6
+  day: 27
+blood_type: S
+ages:
+- years: 60
+  period: other
+heights:
+- cm: 261
+  period: other

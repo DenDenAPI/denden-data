@@ -1,0 +1,14 @@
+slug: glass
+name:
+  en: Glass
+  ja: グラース
+  romaji: Gurāsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current

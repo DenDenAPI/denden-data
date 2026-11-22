@@ -1,0 +1,12 @@
+slug: kiruko
+name:
+  en: Kiruko
+  ja: キルコ
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Nurse
+  status: current

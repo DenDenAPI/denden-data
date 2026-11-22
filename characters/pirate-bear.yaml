@@ -1,0 +1,22 @@
+slug: pirate-bear
+name:
+  en: Pirate Bear
+  ja: かいぞくクマ
+  romaji: Kaizoku Kuma
+canon: other
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 7
+aliases:
+- en: Paw-san
+  ja: ポーさん
+  romaji: Pō-san
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current

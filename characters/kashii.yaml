@@ -1,0 +1,49 @@
+slug: kashii
+name:
+  en: Kashii
+  ja: カーシー
+  romaji: Kāshī
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 377
+  episode: 265
+occupations:
+- name: Pirate
+  status: current
+- name: Gate Guardian
+  status: former
+affiliations:
+- type: organization
+  slug: world-government
+  status: former
+- type: crew
+  slug: giant-warrior-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+- type: location
+  slug: enies-lobby
+  status: former
+- type: location
+  slug: water-7
+  status: former
+birthday:
+  month: 4
+  day: 1
+blood_type: X
+ages:
+- years: 154
+  period: debut
+- years: 156
+  period: post_timeskip
+heights:
+- cm: 1700
+  period: other

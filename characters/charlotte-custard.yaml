@@ -1,0 +1,35 @@
+slug: charlotte-custard
+name:
+  en: Charlotte Custard
+  ja: シャーロット・カスタード
+  romaji: Shārotto Kasutādo
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 831
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: totto-land
+  status: current
+birthday:
+  month: 2
+  day: 28
+ages:
+- years: 45
+  period: other

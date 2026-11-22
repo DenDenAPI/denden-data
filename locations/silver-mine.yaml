@@ -1,0 +1,13 @@
+slug: silver-mine
+name:
+  en: Silver Mine
+  ja: シルバーマイン
+  romaji: Shirubā Main
+canon: anime_only
+first_appearance:
+  episode: 747
+parent: new-world
+affiliations:
+- type: crew
+  slug: silver-pirate-alliance
+  status: current

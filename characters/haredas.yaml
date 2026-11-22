@@ -1,0 +1,35 @@
+slug: haredas
+name:
+  en: Haredas
+  ja: ハレダス
+  romaji: Haredasu
+canon: manga
+gender: male
+species:
+- birkan
+status: alive
+first_appearance:
+  chapter: 523
+  episode: 418
+occupations:
+- name: Scientist
+  status: current
+origin:
+  location: birka
+  region: Sky Island
+residences:
+- type: location
+  slug: weatheria
+  status: current
+birthday:
+  month: 10
+  day: 14
+blood_type: X
+ages:
+- years: 95
+  period: debut
+- years: 97
+  period: post_timeskip
+heights:
+- cm: 253
+  period: other

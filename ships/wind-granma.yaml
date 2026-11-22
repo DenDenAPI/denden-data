@@ -1,0 +1,13 @@
+slug: wind-granma
+name:
+  en: Wind Granma
+  ja: ヴィント・グランマ号
+  romaji: Vinto Guranma-gō
+canon: manga
+first_appearance:
+  chapter: 587
+  episode: 502
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

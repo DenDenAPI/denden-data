@@ -1,0 +1,49 @@
+slug: stansen
+name:
+  en: Stansen
+  ja: スタンセン
+  romaji: Sutansen
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 500
+  episode: 394
+occupations:
+- name: Pirate
+  status: current
+- name: Shipwright
+  status: current
+- name: Mercenary
+  status: former
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 5
+  day: 27
+ages:
+- years: 79
+  period: debut
+- years: 81
+  period: post_timeskip
+heights:
+- cm: 1950
+  period: other

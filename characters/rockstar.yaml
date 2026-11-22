@@ -1,0 +1,27 @@
+slug: rockstar
+name:
+  en: Rockstar
+  ja: ロックスター
+  romaji: Rokkusutā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current
+birthday:
+  month: 6
+  day: 9
+bounties:
+- amount: 94000000
+  status: current
+  revealed_chapter: 234

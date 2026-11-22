@@ -1,0 +1,15 @@
+slug: odacchi
+name:
+  en: Odacchi
+  ja: オダッチ
+  romaji: Odatchi
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Soccer Player
+  status: current
+- name: Announcer
+  status: current

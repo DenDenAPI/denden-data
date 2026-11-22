@@ -1,0 +1,22 @@
+slug: zucca
+name:
+  en: Zucca
+  ja: ズッカ
+  romaji: Zukka
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 564
+  episode: 489
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

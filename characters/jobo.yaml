@@ -1,0 +1,17 @@
+slug: jobo
+name:
+  en: Jobo
+  ja: ジョボ
+  romaji: Jobo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 232
+  episode: 150
+residences:
+- type: location
+  slug: mock-town
+  status: current

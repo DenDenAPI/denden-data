@@ -1,0 +1,27 @@
+slug: zabal
+name:
+  en: Zabal
+  ja: ザバル
+  romaji: Zabaru
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Crimson Lotus" Zabal'
+  ja: 紅蓮のザバル
+  romaji: Guren no Zabaru
+occupations:
+- name: Doctor
+  status: current
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current
+bounties:
+- amount: 30000000
+  status: current
+  canon: other

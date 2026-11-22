@@ -1,0 +1,22 @@
+slug: uzuki-namida
+name:
+  en: Uzuki Namida
+  ja: 雨月なみだ
+  romaji: Uzuki Namida
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 949
+  episode: 949
+occupations:
+- name: Samurai
+  status: current
+- name: Prisoner
+  status: former
+affiliations:
+- type: organization
+  slug: uzuki-family
+  status: current

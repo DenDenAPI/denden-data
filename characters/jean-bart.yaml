@@ -1,0 +1,30 @@
+slug: jean-bart
+name:
+  en: Jean Bart
+  ja: ジャンバール
+  romaji: Janbāru
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+birthday:
+  month: 4
+  day: 6

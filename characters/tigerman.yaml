@@ -1,0 +1,17 @@
+slug: tigerman
+name:
+  en: Tigerman
+  ja: タイガーマン
+  romaji: Taigāman
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

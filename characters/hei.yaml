@@ -1,0 +1,21 @@
+slug: hei
+name:
+  en: Hei
+  ja: ヘイ
+  romaji: Hei
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Hei the Flash Flood
+  ja: 鉄砲水のヘイ
+  romaji: Teppōmizu no Hei
+occupations:
+- name: bandit
+  status: current
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

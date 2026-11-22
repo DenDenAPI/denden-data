@@ -1,0 +1,20 @@
+slug: gatherine
+name:
+  en: Gatherine
+  ja: ギャサリン
+  romaji: Gyasarin
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 379
+  episode: 266
+occupations:
+- name: Waitress
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

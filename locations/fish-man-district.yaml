@@ -1,0 +1,16 @@
+slug: fish-man-district
+name:
+  en: Fish-Man District
+  ja: 魚人街
+  romaji: Gyojin-gai
+canon: manga
+first_appearance:
+  chapter: 608
+  episode: 527
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current
+- type: crew
+  slug: new-fish-man-pirates
+  status: former

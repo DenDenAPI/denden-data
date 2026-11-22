@@ -1,0 +1,13 @@
+slug: foosha-village
+name:
+  en: Foosha Village
+  ja: フーシャ村
+  romaji: Fūsha-mura
+canon: manga
+first_appearance:
+  chapter: 1
+  episode: 4
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current

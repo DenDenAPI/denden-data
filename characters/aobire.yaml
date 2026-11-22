@@ -1,0 +1,21 @@
+slug: aobire
+name:
+  en: Aobire
+  ja: アオビレ
+canon: anime_only
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  episode: 317
+occupations:
+- name: Family pet
+  status: current
+residences:
+- type: location
+  slug: tsui-village
+  status: current
+- type: location
+  slug: water-7
+  status: current

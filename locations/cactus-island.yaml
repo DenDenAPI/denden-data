@@ -1,0 +1,14 @@
+slug: cactus-island
+name:
+  en: Cactus Island
+  ja: サボテン島
+  romaji: Saboten-jima
+canon: manga
+first_appearance:
+  chapter: 106
+  episode: 64
+region: Paradise
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

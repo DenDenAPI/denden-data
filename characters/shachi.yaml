@@ -1,0 +1,38 @@
+slug: shachi
+name:
+  en: Shachi
+  ja: シャチ
+  romaji: Shachi
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 498
+  episode: 392
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: swallow-island
+  status: former
+birthday:
+  month: 4
+  day: 7
+blood_type: X
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip

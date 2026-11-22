@@ -1,0 +1,15 @@
+slug: chavez
+name:
+  en: Chavez
+  ja: チャベス
+  romaji: Chabesu
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Steed
+  status: current
+- name: Pet
+  status: current

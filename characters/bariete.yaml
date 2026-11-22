@@ -1,0 +1,29 @@
+slug: bariete
+name:
+  en: Bariete
+  ja: バリエテ
+  romaji: Bariete
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 804
+  episode: 753
+occupations:
+- name: Recon Squad
+  status: current
+- name: Guard
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

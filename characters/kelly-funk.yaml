@@ -1,0 +1,35 @@
+slug: kelly-funk
+name:
+  en: Kelly Funk
+  ja: ケリー・ファンク
+  romaji: Kerī Fanku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 633
+occupations:
+- name: Assassin
+  status: current
+affiliations:
+- type: location
+  slug: mogaro-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 12
+  day: 9
+blood_type: X
+ages:
+- years: 36
+  period: other
+heights:
+- cm: 168
+  period: other
+bounties:
+- amount: 57000000
+  status: current

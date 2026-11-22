@@ -1,0 +1,20 @@
+slug: tenjo-sagari
+name:
+  en: Tenjo-Sagari
+  ja: 天井下り
+  romaji: Tenjō-Sagari
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 980
+  episode: 986
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

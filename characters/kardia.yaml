@@ -1,0 +1,26 @@
+slug: kardia
+name:
+  en: Kardia
+  ja: カルディア
+  romaji: Karudia
+canon: other
+gender: male
+species:
+- human
+status: unknown
+epithets:
+- en: '"Grudge" Kardia'
+  ja: 怨念のカルディア
+  romaji: On'nen no Karudia
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Officer
+  status: former
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: former

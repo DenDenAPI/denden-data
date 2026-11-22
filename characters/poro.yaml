@@ -1,0 +1,30 @@
+slug: poro
+name:
+  en: Poro
+  ja: ポロ
+  romaji: Poro
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 14
+  episode: 8
+occupations:
+- name: Bookstore Owner
+  status: current
+affiliations:
+- type: location
+  slug: orange-town
+  status: current
+origin:
+  location: orange-town
+  region: East Blue
+residences:
+- type: location
+  slug: orange-town
+  status: current
+birthday:
+  month: 5
+  day: 11

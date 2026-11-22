@@ -1,0 +1,16 @@
+slug: meroie
+name:
+  en: Meroie
+  ja: メロイ
+  romaji: Meroi
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: oceans-navel
+  status: current

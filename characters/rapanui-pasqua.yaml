@@ -1,0 +1,24 @@
+slug: rapanui-pasqua
+name:
+  en: Rapanui Pasqua
+  ja: ラパヌイ・パスクア
+  romaji: Rapanui Pasukua
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: Lieutenant Commander
+  status: current
+- name: Chore Boy
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: pumpkin-pirates
+  status: current

@@ -1,0 +1,20 @@
+slug: meadows
+name:
+  en: Meadows
+  ja: メドウズ
+  romaji: Medōzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 659
+occupations:
+- name: Gladiator
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

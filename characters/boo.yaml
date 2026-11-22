@@ -1,0 +1,38 @@
+slug: boo
+name:
+  en: Boo
+  ja: ブー
+  romaji: Bū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+occupations:
+- name: First Mate of the Happo Navy
+  status: current
+- name: Martial Artist
+  status: current
+affiliations:
+- type: crew
+  slug: happo-navy
+  status: current
+- type: organization
+  slug: chinjao-family
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+residences:
+- type: location
+  slug: kano-country
+  status: current
+birthday:
+  month: 8
+  day: 20
+ages:
+- years: 28
+  period: other

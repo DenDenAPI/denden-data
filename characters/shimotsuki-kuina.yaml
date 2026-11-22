@@ -1,0 +1,32 @@
+slug: shimotsuki-kuina
+name:
+  en: Shimotsuki Kuina
+  ja: 霜月くいな
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 5
+  episode: 2
+occupations:
+- name: Trainee Swordsman
+  status: current
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shimotsuki-village
+  status: current
+birthday:
+  month: 9
+  day: 17
+blood_type: S
+heights:
+- cm: 150
+  period: other

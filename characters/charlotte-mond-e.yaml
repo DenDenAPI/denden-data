@@ -1,0 +1,29 @@
+slug: charlotte-mond-e
+name:
+  en: Charlotte Mondée
+  ja: シャーロット・モンデ
+  romaji: Shārotto Monde
+canon: anime_only
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 854
+  episode: 822
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 10
+ages:
+- years: 47
+  period: other

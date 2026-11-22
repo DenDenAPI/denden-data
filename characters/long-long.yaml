@@ -1,0 +1,17 @@
+slug: long-long
+name:
+  en: Long Long
+  ja: ロングロング
+  romaji: Rongu Rongu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: long-long-pirates
+  status: current

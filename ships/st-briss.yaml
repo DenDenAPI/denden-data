@@ -1,0 +1,13 @@
+slug: st-briss
+name:
+  en: St. Briss
+  ja: セントブリス号
+  romaji: Sento Burisu-gō
+canon: manga
+first_appearance:
+  chapter: 218
+  episode: 143
+affiliations:
+- type: location
+  slug: briss-kingdom
+  status: current

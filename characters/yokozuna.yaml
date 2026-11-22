@@ -1,0 +1,21 @@
+slug: yokozuna
+name:
+  en: Yokozuna
+  ja: ヨコヅナ
+  romaji: Yokozuna
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 322
+  episode: 228
+affiliations:
+- type: organization
+  slug: toms-workers
+  status: former
+residences:
+- type: location
+  slug: water-7
+  status: current

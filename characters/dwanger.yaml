@@ -1,0 +1,26 @@
+slug: dwanger
+name:
+  en: Dwanger
+  ja: ドアンガー
+  romaji: Doangā
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Furious Medicine
+  ja: 怒療医道
+occupations:
+- name: Doctor
+  status: current
+origin:
+  location: drum-island
+  region: Paradise
+residences:
+- type: location
+  slug: drum-island
+  status: former
+bounties:
+- amount: 50000000
+  status: former

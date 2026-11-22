@@ -1,0 +1,11 @@
+slug: silver-pirate-alliance
+name:
+  en: Silver Pirate Alliance
+  ja: シルバー海賊連合
+  romaji: Shirubā Kaizoku Rengō
+canon: anime_only
+first_appearance:
+  episode: 746
+captains:
+- character: bill
+  status: former

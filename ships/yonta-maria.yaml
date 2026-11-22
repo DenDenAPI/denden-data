@@ -1,0 +1,13 @@
+slug: yonta-maria
+name:
+  en: Yonta Maria
+  ja: ヨンタマリア号
+  romaji: Yonta Maria-gō
+canon: manga
+first_appearance:
+  chapter: 799
+  episode: 744
+affiliations:
+- type: crew
+  slug: yonta-maria-grand-fleet
+  status: current

@@ -1,0 +1,44 @@
+slug: yazaemon
+name:
+  en: Yazaemon
+  ja: 矢ざえもん
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 8
+  day: 8
+blood_type: S
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 180
+  period: other

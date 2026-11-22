@@ -1,0 +1,26 @@
+slug: vinsmoke-sora
+name:
+  en: Vinsmoke Sora
+  ja: ヴィンスモーク・ソラ
+  romaji: Vinsumōku Sora
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 841
+  episode: 803
+occupations:
+- name: Queen of the Germa Kingdom
+  status: current
+affiliations:
+- type: organization
+  slug: vinsmoke-family
+  status: current
+- type: location
+  slug: germa-kingdom
+  status: current
+birthday:
+  month: 7
+  day: 9

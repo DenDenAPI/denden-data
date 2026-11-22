@@ -1,0 +1,48 @@
+slug: igaram
+name:
+  en: Igaram
+  ja: イガラム
+  romaji: Igaramu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 106
+  episode: 64
+aliases:
+- en: Mr. 8
+  ja: Misutā Eito
+- en: Igarappoi
+  ja: イガラッポイ
+occupations:
+- name: Captain of the Royal Guard
+  status: current
+- name: Frontier Agent
+  status: former
+- name: Bounty Hunter
+  status: former
+- name: Mayor of Whisky Peak
+  status: former
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 12
+  day: 6
+blood_type: X
+ages:
+- years: 48
+  period: debut
+- years: 50
+  period: post_timeskip
+heights:
+- cm: 218
+  period: other

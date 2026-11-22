@@ -1,0 +1,10 @@
+slug: thousand-gorry
+name:
+  en: Thousand Gorry
+  ja: サウザンド・ゴリー号
+  romaji: Sauzando Gorī-gō
+canon: other
+affiliations:
+- type: crew
+  slug: fischers-pirates
+  status: current

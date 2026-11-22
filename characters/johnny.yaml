@@ -1,0 +1,32 @@
+slug: johnny
+name:
+  en: Johnny
+  ja: ジョニー
+  romaji: Jonī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 42
+  episode: 19
+occupations:
+- name: Bounty Hunter
+  status: former
+- name: Fisherman
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 11
+  day: 12
+blood_type: F
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 186
+  period: other

@@ -1,0 +1,37 @@
+slug: gild-tesoro
+name:
+  en: Gild Tesoro
+  ja: ギルド・テゾーロ
+  romaji: Girudo Tezōro
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 817
+  episode: 750
+epithets:
+- en: Golden Emperor
+  ja: 黄金帝
+  romaji: Ōgon Tei
+- en: Monster of the New World
+  ja: 新世界の怪物
+  romaji: Shin Sekai no Kaibutsu
+occupations:
+- name: Proprietor
+  status: former
+- name: Pirate
+  status: former
+- name: Slave
+  status: former
+residences:
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 1
+  day: 24
+ages:
+- years: 41
+  period: other

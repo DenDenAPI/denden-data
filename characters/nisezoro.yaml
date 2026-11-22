@@ -1,0 +1,21 @@
+slug: nisezoro
+name:
+  en: Nisezoro
+  ja: ニセゾロ
+  romaji: Nisezoro
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Swordsman
+  status: current
+- name: Impersonator
+  status: current
+affiliations:
+- type: crew
+  slug: nisenise-pirates
+  status: current

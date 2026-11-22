@@ -1,0 +1,29 @@
+slug: mr-9
+name:
+  en: Mr. 9
+  ja: Mr. 9
+  romaji: Misutā Nain
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 103
+  episode: 62
+aliases:
+- en: Mr. 9
+occupations:
+- name: Frontier Agent
+  status: former
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 9
+  day: 27

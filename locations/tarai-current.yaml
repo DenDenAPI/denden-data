@@ -1,0 +1,14 @@
+slug: tarai-current
+name:
+  en: Tarai Current
+  ja: タライ海流
+  romaji: Tarai Kairyū
+canon: manga
+first_appearance:
+  chapter: 522
+  episode: 416
+parent: calm-belt
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

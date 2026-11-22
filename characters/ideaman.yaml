@@ -1,0 +1,27 @@
+slug: ideaman
+name:
+  en: Ideaman
+  ja: アイデアマン
+  romaji: Aideaman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 55
+  episode: 25
+occupations:
+- name: Pirate
+  status: current
+- name: Staff Officer of Planning
+  status: current
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 3
+  day: 17

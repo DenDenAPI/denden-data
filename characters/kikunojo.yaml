@@ -1,0 +1,53 @@
+slug: kikunojo
+name:
+  en: Kikunojo
+  ja: 菊之丞
+  romaji: Kikunojō
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 913
+  episode: 899
+epithets:
+- en: Kikunojo of the Lingering Snow
+  ja: 残雪の菊之丞
+  romaji: Zansetsu no Kikunojō
+aliases:
+- en: O-Kiku
+  ja: お菊
+  romaji: O-Kiku
+occupations:
+- name: Daimyo of Ringo
+  status: current
+- name: Samurai
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Tea House Poster Girl
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 9
+  day: 9
+blood_type: XF
+ages:
+- years: 22
+  period: other
+heights:
+- cm: 287
+  period: other

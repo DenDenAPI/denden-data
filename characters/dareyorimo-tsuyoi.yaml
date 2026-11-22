@@ -1,0 +1,22 @@
+slug: dareyorimo-tsuyoi
+name:
+  en: Dareyorimo Tsuyoi
+  ja: ダレヨリモ・ツヨイ
+  romaji: Dareyorimo Tsuyoi
+canon: other
+gender: male
+status: alive
+epithets:
+- en: Super Fusion, Universe's Strongest Life Form
+  ja: 超融合宇宙最強生命体
+  romaji: Chō Yūgō Uchū Saikyō Seimei-tai
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current
+origin:
+  location: boin-archipelago
+  region: Paradise

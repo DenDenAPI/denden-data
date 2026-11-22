@@ -1,0 +1,22 @@
+slug: millet-pine
+name:
+  en: Millet Pine
+  ja: ミレ・パイン
+  romaji: Mire Pain
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+  episode: 959
+occupations:
+- name: Pirate
+  status: current
+- name: Torturer
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

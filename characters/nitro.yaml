@@ -1,0 +1,19 @@
+slug: nitro
+name:
+  en: Nitro
+  ja: ニトロ
+  romaji: Nitoro
+canon: manga
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 651
+  episode: 571
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: location
+  slug: cacao-island
+  status: current

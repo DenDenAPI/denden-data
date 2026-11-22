@@ -1,0 +1,21 @@
+slug: kaiman
+name:
+  en: Kaiman
+  ja: カイマン
+  romaji: Kaiman
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+- type: organization
+  slug: royal-guard
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

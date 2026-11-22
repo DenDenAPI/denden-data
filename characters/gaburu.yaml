@@ -1,0 +1,20 @@
+slug: gaburu
+name:
+  en: Gaburu
+  ja: ガブル
+  romaji: Gaburu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 702
+  episode: 921
+epithets:
+- en: Child of the Revolution
+  ja: 革命の子
+  romaji: Kakumei no Ko
+occupations:
+- name: Revolutionist commander
+  status: current

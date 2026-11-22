@@ -1,0 +1,17 @@
+slug: misutta
+name:
+  en: Misutta
+  ja: ミスッタ
+  romaji: Misutta
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Scientist
+  status: current
+affiliations:
+- type: organization
+  slug: b-rst-lab
+  status: current

@@ -1,0 +1,66 @@
+slug: bellamy
+name:
+  en: Bellamy
+  ja: ベラミー
+  romaji: Beramī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 222
+  episode: 146
+epithets:
+- en: Bellamy the Hyena
+  ja: ハイエナのベラミー
+  romaji: Haiena no Beramī
+- en: Deadly Bullet of Dressrosa
+  ja: ドレスローザの凶弾
+  romaji: Doresurōza no kyōdan
+- en: The Big-Time Rookie
+  ja: 大型ルーキー
+  romaji: Ōgata Rūkī
+occupations:
+- name: Dyer
+  status: current
+- name: Pirate
+  status: former
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: former
+- type: crew
+  slug: bellamy-pirates
+  status: former
+origin:
+  location: notice
+  region: North Blue
+residences:
+- type: location
+  slug: dressrosa
+  status: former
+- type: location
+  slug: notice
+  status: former
+birthday:
+  month: 8
+  day: 7
+blood_type: F
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 240
+  period: other
+bounties:
+- amount: 55000000
+  status: former
+  revealed_chapter: 222
+- amount: 195000000
+  status: current
+  revealed_chapter: 706

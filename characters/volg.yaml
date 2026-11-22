@@ -1,0 +1,17 @@
+slug: volg
+name:
+  en: Volg
+  ja: ヴォルグ
+  romaji: Vorugu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Firework maker
+  status: current
+residences:
+- type: location
+  slug: madatascar-island
+  status: current

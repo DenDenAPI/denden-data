@@ -1,0 +1,26 @@
+slug: dirt-boss
+name:
+  en: Dirt Boss
+  ja: 土番長
+  romaji: Tsuchi Banchō
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 326
+occupations:
+- name: Digger
+  status: current
+affiliations:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+residences:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+birthday:
+  month: 8
+  day: 4

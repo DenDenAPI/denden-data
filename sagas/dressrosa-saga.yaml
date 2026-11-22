@@ -1,0 +1,28 @@
+slug: dressrosa-saga
+order: 8
+name:
+  en: Dressrosa Saga
+chapters:
+  count: 148
+  ranges:
+  - start: 654
+    end: 801
+volumes:
+  count: 15
+  ranges:
+  - start: 66
+    end: 80
+episodes:
+  count: 171
+  ranges:
+  - start: 575
+    end: 589
+  - start: 591
+    end: 746
+years:
+  manga:
+    start: 2012
+    end: 2015
+  anime:
+    start: 2012
+    end: 2016

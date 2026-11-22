@@ -1,0 +1,26 @@
+slug: musshuru
+name:
+  en: Musshuru
+  ja: ムッシュール
+  romaji: Musshūru
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Prince of Drum Kingdom
+  status: former
+affiliations:
+- type: crew
+  slug: bliking-pirates
+  status: former
+residences:
+- type: location
+  slug: sakura-kingdom
+  status: former
+ages:
+- years: 33
+  period: other

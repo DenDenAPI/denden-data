@@ -1,0 +1,29 @@
+slug: kiev
+name:
+  en: Kiev
+  ja: キエフ
+  romaji: Kiefu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 325
+  episode: 231
+occupations:
+- name: Dismantler
+  status: current
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+- type: organization
+  slug: franky-family
+  status: former
+residences:
+- type: location
+  slug: water-7
+  status: current

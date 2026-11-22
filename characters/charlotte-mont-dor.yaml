@@ -1,0 +1,48 @@
+slug: charlotte-mont-dor
+name:
+  en: Charlotte Mont-d'Or
+  ja: シャーロット・モンドール
+  romaji: Shārotto Mondōru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+  episode: 789
+epithets:
+- en: Scribe
+  ja: 書司
+  romaji: Shoshi
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Cheese
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: cheese-island
+  status: current
+birthday:
+  month: 4
+  day: 23
+blood_type: X
+ages:
+- years: 38
+  period: other
+heights:
+- cm: 260
+  period: other
+bounties:
+- amount: 120000000
+  status: current

@@ -1,0 +1,14 @@
+slug: flavor-island
+name:
+  en: Flavor Island
+  ja: フレーバー島
+  romaji: Furēbā-tō
+canon: manga
+first_appearance:
+  chapter: 874
+  episode: 845
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

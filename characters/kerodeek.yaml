@@ -1,0 +1,19 @@
+slug: kerodeek
+name:
+  en: Kerodeek
+  ja: ケロデーク
+  romaji: Kerodēku
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Speedboat captain
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current

@@ -1,0 +1,11 @@
+slug: loving-island
+name:
+  en: Loving Island
+  ja: ラビング 島
+  romaji: Rabingu-tō
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

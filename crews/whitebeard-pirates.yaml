@@ -1,0 +1,13 @@
+slug: whitebeard-pirates
+name:
+  en: Whitebeard Pirates
+  ja: 白ひげ海賊団
+  romaji: Shirohige Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 154
+  episode: 91
+captains:
+- character: edward-newgate
+  status: current

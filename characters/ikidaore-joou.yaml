@@ -1,0 +1,18 @@
+slug: ikidaore-joou
+name:
+  en: Ikidaore Joou
+  ja: 行き倒れジョオウ
+  romaji: Ikidaore Joou
+canon: other
+gender: female
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: ikidaore-family
+  status: current
+residences:
+- type: location
+  slug: alubarna
+  status: current

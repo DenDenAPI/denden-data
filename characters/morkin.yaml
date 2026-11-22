@@ -1,0 +1,17 @@
+slug: morkin
+name:
+  en: Morkin
+  ja: モーキン
+  romaji: Mōkin
+canon: movie
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: long-long-pirates
+  status: current

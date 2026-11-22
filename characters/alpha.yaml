@@ -1,0 +1,25 @@
+slug: alpha
+name:
+  en: Alpha
+  ja: アルファ
+  romaji: Arufa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1100
+  episode: 1134
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Nurse
+  status: current
+affiliations:
+- type: organization
+  slug: cp8
+  status: current
+ages:
+- years: 27
+  period: other

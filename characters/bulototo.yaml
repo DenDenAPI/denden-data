@@ -1,0 +1,34 @@
+slug: bulototo
+name:
+  en: Bulototo
+  ja: ブルオトート
+  romaji: Buruotōto
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Heinous
+  ja: 極悪
+  romaji: Gokuaku
+- en: Super Heinous
+  ja: 超極悪
+  romaji: Chō Gokuaku
+- en: Extremely Heinous
+  ja: 絶極悪
+  romaji: Ze Gokuaku
+- en: True Heinousness
+  ja: 真極悪
+  romaji: Ma Gokuaku
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: organization
+  slug: buggys-delivery
+  status: former
+residences:
+- type: location
+  slug: nanohana
+  status: former

@@ -1,0 +1,13 @@
+slug: package-island
+name:
+  en: Package Island
+  ja: パッケージ島
+  romaji: Pakkēji-tō
+canon: anime_only
+first_appearance:
+  episode: 845
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

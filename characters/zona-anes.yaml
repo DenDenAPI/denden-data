@@ -1,0 +1,20 @@
+slug: zona-anes
+name:
+  en: Zona Anes
+  ja: ゾーナ・アネス
+  romaji: Zōna Anesu
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Quiz Researcher
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: former
+- type: location
+  slug: dressrosa
+  status: current

@@ -1,0 +1,35 @@
+slug: bobby-funk
+name:
+  en: Bobby Funk
+  ja: ボビー・ファンク
+  romaji: Bobī Fanku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+occupations:
+- name: Assassin
+  status: current
+affiliations:
+- type: location
+  slug: mogaro-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 19
+blood_type: X
+ages:
+- years: 33
+  period: other
+heights:
+- cm: 320
+  period: other
+bounties:
+- amount: 36000000
+  status: current

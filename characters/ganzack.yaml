@@ -1,0 +1,27 @@
+slug: ganzack
+name:
+  en: Ganzack
+  ja: ギャンザック
+  romaji: Gyanzakku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: ganzack-pirates
+  status: current
+origin:
+  region: East Blue
+bounties:
+- amount: 8000000
+  status: former
+  canon: other
+- amount: 10000000
+  status: current

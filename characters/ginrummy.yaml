@@ -1,0 +1,23 @@
+slug: ginrummy
+name:
+  en: Ginrummy
+  ja: ジンラミー
+  romaji: Jinramī
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 795
+  episode: 739
+occupations:
+- name: Shinuchi
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+birthday:
+  month: 1
+  day: 23

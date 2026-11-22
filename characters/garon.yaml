@@ -1,0 +1,17 @@
+slug: garon
+name:
+  en: Garon
+  ja: ガロン
+  romaji: Garon
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Jewelry Designer
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

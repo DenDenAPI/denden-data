@@ -1,0 +1,43 @@
+slug: kyros
+name:
+  en: Kyros
+  ja: キュロス
+  romaji: Kyurosu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 702
+  episode: 631
+aliases:
+- en: Thunder Soldier of Rage
+  ja: 怒りの雷兵
+  romaji: Ikari no Kaminari Hei
+- en: The Invincible Gladiator
+occupations:
+- name: Gladiator
+  status: former
+- name: Riku Royal Army Captain
+  status: former
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: former
+- type: organization
+  slug: riku-family
+  status: current
+origin:
+  location: dressrosa
+  region: Grand Line
+birthday:
+  month: 9
+  day: 22
+blood_type: S
+ages:
+- years: 44
+  period: other
+heights:
+- cm: 298
+  period: other

@@ -1,0 +1,12 @@
+slug: candy-pirates
+name:
+  en: Candy Pirates
+  ja: キャンディ海賊団
+  romaji: Kyandi Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 510
+captains:
+- character: candy
+  status: current

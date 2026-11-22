@@ -1,0 +1,59 @@
+slug: wapol
+name:
+  en: Wapol
+  ja: ワポル
+  romaji: Waporu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 131
+  episode: 79
+epithets:
+- en: '"Tin-Plate" Wapol'
+  ja: ブリキのワポル
+  romaji: Buriki no Waporu
+occupations:
+- name: King of the Evil Black Drum Kingdom
+  status: current
+- name: President of Wapol Konzern
+  status: current
+- name: King of Drum Kingdom
+  status: former
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+affiliations:
+- type: location
+  slug: evil-black-drum-kingdom
+  status: current
+- type: location
+  slug: sakura-kingdom
+  status: former
+- type: crew
+  slug: bliking-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: evil-black-drum-kingdom
+  status: current
+- type: location
+  slug: sakura-kingdom
+  status: former
+birthday:
+  month: 8
+  day: 9
+blood_type: X
+ages:
+- years: 27
+  period: debut
+- years: 29
+  period: post_timeskip
+heights:
+- cm: 207
+  period: other

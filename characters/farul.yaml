@@ -1,0 +1,25 @@
+slug: farul
+name:
+  en: Farul
+  ja: ファルル
+  romaji: Faruru
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 722
+  episode: 634
+occupations:
+- name: Cavendish's steed
+  status: current
+affiliations:
+- type: crew
+  slug: beautiful-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+birthday:
+  month: 8
+  day: 29

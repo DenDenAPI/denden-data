@@ -1,0 +1,43 @@
+slug: kokoro
+name:
+  en: Kokoro
+  ja: ココロ
+canon: manga
+gender: female
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 322
+  episode: 229
+occupations:
+- name: Stationmaster
+  status: current
+- name: '"Lovely" secretary of Tom'
+  status: former
+affiliations:
+- type: organization
+  slug: toms-workers
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+- type: location
+  slug: fish-man-island
+  status: former
+birthday:
+  month: 10
+  day: 5
+blood_type: S
+ages:
+- years: 70
+  period: debut
+- years: 72
+  period: post_timeskip
+heights:
+- cm: 168
+  period: other

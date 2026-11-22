@@ -1,0 +1,30 @@
+slug: dojaku
+name:
+  en: Dojaku
+  ja: ドウジャク
+  romaji: Dōjaku
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Gimmick
+occupations:
+- name: Marine Officer
+  status: current
+- name: Shipwright
+  status: current
+- name: Pirate
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: foxy-pirates
+  status: former
+residences:
+- type: location
+  slug: nebulandia
+  status: current

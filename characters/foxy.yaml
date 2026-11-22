@@ -1,0 +1,42 @@
+slug: foxy
+name:
+  en: Foxy
+  ja: フォクシー
+  romaji: Fokushī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 305
+  episode: 207
+epithets:
+- en: Silver Fox
+  ja: 銀ギツネ
+  romaji: Gin-gitsune
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 4
+  day: 4
+blood_type: S
+ages:
+- years: 36
+  period: debut
+- years: 38
+  period: post_timeskip
+heights:
+- cm: 180
+  period: other
+bounties:
+- amount: 24000000
+  status: current
+  revealed_chapter: 305

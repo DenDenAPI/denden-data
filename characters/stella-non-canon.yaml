@@ -1,0 +1,17 @@
+slug: stella-non-canon
+name:
+  en: Stella
+  ja: ステラ
+  romaji: Sutera
+canon: movie
+gender: female
+species:
+- human
+status: deceased
+occupations:
+- name: Slave
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: former

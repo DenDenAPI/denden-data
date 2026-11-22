@@ -1,0 +1,25 @@
+slug: gad
+name:
+  en: Gad
+  ja: ガド
+  romaji: Gado
+canon: other
+gender: male
+species:
+- fish_man
+status: alive
+epithets:
+- en: Gad the Whirling Tide
+  ja: 渦潮のガド
+  romaji: Uzushio no Gado
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current
+bounties:
+- amount: 30000000
+  status: current
+  canon: other

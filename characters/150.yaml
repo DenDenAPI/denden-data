@@ -1,0 +1,15 @@
+slug: '150'
+name:
+  en: '150'
+  ja: '150'
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 830
+affiliations:
+- type: organization
+  slug: organ-dealing-assassination-group
+  status: current

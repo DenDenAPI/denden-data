@@ -1,0 +1,17 @@
+slug: koiwa
+name:
+  en: Koiwa
+  ja: 小岩
+  romaji: Koiwa
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+residences:
+- type: location
+  slug: wano-country
+  status: current

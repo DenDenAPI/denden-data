@@ -1,0 +1,11 @@
+slug: salamander
+name:
+  en: Salamander
+  ja: サラマンダー号
+  romaji: Saramandā-go
+canon: movie
+status: destroyed
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: current

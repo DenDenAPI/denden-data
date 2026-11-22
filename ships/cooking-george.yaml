@@ -1,0 +1,14 @@
+slug: cooking-george
+name:
+  en: Cooking George
+  ja: クッキング・ジョージ号
+  romaji: Kukkingu Jōji-gō
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 56
+  episode: 26
+affiliations:
+- type: crew
+  slug: cook-pirates
+  status: current

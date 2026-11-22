@@ -1,0 +1,17 @@
+slug: amity
+name:
+  en: Amity
+  ja: アーミッティ
+  romaji: Āmitti
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

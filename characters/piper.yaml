@@ -1,0 +1,20 @@
+slug: piper
+name:
+  en: Piper
+  ja: パイパー
+  romaji: Paipā
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1130
+  episode: 1160
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

@@ -1,0 +1,85 @@
+slug: franky
+name:
+  en: Franky
+  ja: フランキー
+  romaji: Furankī
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: alive
+first_appearance:
+  chapter: 329
+  episode: 233
+epithets:
+- en: '"Iron Man" Franky'
+  ja: '"鉄人"フランキー'
+  romaji: Tetsujin Furankī
+- en: '"Cyborg" Franky'
+  ja: '"鉄人"フランキー'
+  romaji: Saibōgu Furankī
+aliases:
+- en: Fra-nosuke
+  ja: フラの介
+  romaji: Furanosuke
+occupations:
+- name: Shipwright
+  status: current
+- name: Senior Officer
+  status: current
+- name: Dismantler
+  status: current
+- name: Underworld boss
+  status: former
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: organization
+  slug: franky-family
+  status: former
+- type: organization
+  slug: toms-workers
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: water-7
+  status: former
+- type: location
+  slug: karakuri-island
+  status: former
+birthday:
+  month: 3
+  day: 9
+blood_type: XF
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 225
+  period: debut
+- cm: 240
+  period: post_timeskip
+bounties:
+- amount: 44000000
+  status: former
+  revealed_chapter: 435
+- amount: 94000000
+  status: former
+  revealed_chapter: 801
+- amount: 394000000
+  status: current
+  revealed_chapter: 1058

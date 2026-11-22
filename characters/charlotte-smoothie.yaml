@@ -1,0 +1,46 @@
+slug: charlotte-smoothie
+name:
+  en: Charlotte Smoothie
+  ja: シャーロット・スムージー
+  romaji: Shārotto Sumūjī
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 846
+  episode: 812
+occupations:
+- name: Sweet Commander
+  status: current
+- name: Minister of Juice
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: 100-island
+  status: current
+birthday:
+  month: 10
+  day: 12
+blood_type: F
+ages:
+- years: 35
+  period: other
+heights:
+- cm: 464
+  period: other
+bounties:
+- amount: 932000000
+  status: current
+  revealed_chapter: 846

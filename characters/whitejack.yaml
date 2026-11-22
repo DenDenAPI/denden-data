@@ -1,0 +1,15 @@
+slug: whitejack
+name:
+  en: Whitejack
+  ja: ホワイトジャック
+  romaji: Howaitojakku
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Doctor
+  status: current
+- name: Turtle Car Racer
+  status: current

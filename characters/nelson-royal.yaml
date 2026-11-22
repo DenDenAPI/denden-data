@@ -1,0 +1,23 @@
+slug: nelson-royal
+name:
+  en: Nelson Royal
+  ja: ネルソン・ロイヤル
+  romaji: Neruson Roiyaru
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  episode: 54
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: 8th-branch
+  status: current

@@ -1,0 +1,13 @@
+slug: g-5
+name:
+  en: G-5
+  ja: 海軍G・L第5支部
+  romaji: Kaigun Gurando Rain Dai-Go Shibu
+canon: manga
+first_appearance:
+  chapter: 681
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

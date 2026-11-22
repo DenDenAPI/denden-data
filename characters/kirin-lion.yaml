@@ -1,0 +1,17 @@
+slug: kirin-lion
+name:
+  en: Kirin Lion
+  ja: キリンライアン
+  romaji: Kirin Raian
+canon: movie
+gender: male
+species:
+- animal
+status: deceased
+occupations:
+- name: Animal King
+  status: former
+affiliations:
+- type: location
+  slug: o-kan-island
+  status: current

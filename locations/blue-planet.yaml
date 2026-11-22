@@ -1,0 +1,14 @@
+slug: blue-planet
+name:
+  en: Blue Planet
+  ja: 青色の星
+  romaji: Aoiro no Hoshi
+canon: manga
+first_appearance:
+  chapter: 1
+  episode: 1
+region: Outer Space
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

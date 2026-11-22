@@ -1,0 +1,30 @@
+slug: gally
+name:
+  en: Gally
+  ja: ギャリー
+  romaji: Gyarī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 902
+  episode: 48
+epithets:
+- en: Crescent-Moon Gally
+  ja: 三日月のギャリー
+  romaji: Mikazuki no Gyarī
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: gally-pirates
+  status: current
+bounties:
+- amount: 5000000
+  status: current
+- amount: 3450000
+  status: current
+  canon: movie

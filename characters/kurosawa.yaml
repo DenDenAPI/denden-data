@@ -1,0 +1,27 @@
+slug: kurosawa
+name:
+  en: Kurosawa
+  ja: クロ沢
+  romaji: Kurosawa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 911
+occupations:
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

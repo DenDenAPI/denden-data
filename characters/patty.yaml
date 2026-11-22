@@ -1,0 +1,30 @@
+slug: patty
+name:
+  en: Patty
+  ja: パティ
+  romaji: Pati
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 44
+  episode: 21
+occupations:
+- name: Patissier
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 3
+  day: 12
+blood_type: X
+ages:
+- years: 27
+  period: debut
+- years: 29
+  period: post_timeskip
+heights:
+- cm: 204
+  period: other

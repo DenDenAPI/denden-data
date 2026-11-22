@@ -1,0 +1,13 @@
+slug: shooter
+name:
+  en: Shooter
+  ja: シューター
+  romaji: Shūtā
+canon: manga
+first_appearance:
+  chapter: 237
+  episode: 153
+affiliations:
+- type: organization
+  slug: gods-guards
+  status: current

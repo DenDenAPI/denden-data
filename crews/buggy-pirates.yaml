@@ -1,0 +1,16 @@
+slug: buggy-pirates
+name:
+  en: Buggy Pirates
+  ja: バギー海賊団
+  romaji: Bagī Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 8
+  episode: 4
+captains:
+- character: buggy
+  status: current
+- character: alvida
+  status: former
+- character: richie
+  status: former

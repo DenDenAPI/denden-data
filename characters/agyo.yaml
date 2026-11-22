@@ -1,0 +1,20 @@
+slug: agyo
+name:
+  en: Agyo
+  ja: アギョウ
+  romaji: Agyō
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 652
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current
+birthday:
+  month: 11
+  day: 29

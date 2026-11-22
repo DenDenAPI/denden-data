@@ -1,0 +1,48 @@
+slug: van-augur
+name:
+  en: Van Augur
+  ja: ヴァン・オーガー
+  romaji: Van Ōgā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 222
+  episode: 146
+epithets:
+- en: The Supersonic
+  ja: 音越
+  romaji: Otogoe
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 10
+  day: 5
+blood_type: X
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 340
+  period: other
+bounties:
+- amount: 64000000
+  status: current
+  minimum: true

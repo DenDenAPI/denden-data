@@ -1,0 +1,18 @@
+slug: zanki
+name:
+  en: Zanki
+  ja: 三鬼
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 991
+  episode: 1055
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+residences:
+- type: location
+  slug: onigashima
+  status: current

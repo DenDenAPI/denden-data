@@ -1,0 +1,32 @@
+slug: vegapunk-atlas
+name:
+  en: Atlas
+  ja: 暴
+  romaji: Atorasu
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 1062
+  episode: 1091
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+birthday:
+  month: 3
+  day: 22
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 729
+  period: other

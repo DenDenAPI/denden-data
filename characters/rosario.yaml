@@ -1,0 +1,21 @@
+slug: rosario
+name:
+  en: Rosario
+  ja: ロザリオ
+  romaji: Rozario
+canon: movie
+gender: female
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current
+residences:
+- type: location
+  slug: omatsuri-island
+  status: current

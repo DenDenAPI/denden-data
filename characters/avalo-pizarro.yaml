@@ -1,0 +1,49 @@
+slug: avalo-pizarro
+name:
+  en: Avalo Pizarro
+  ja: アバロ・ピサロ
+  romaji: Abaro Pisaro
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 575
+  episode: 484
+epithets:
+- en: Corrupt King
+  ja: 悪政王
+  romaji: Akusei-Ō
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+- name: King
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 9
+  day: 30
+blood_type: X
+ages:
+- years: 40
+  period: debut
+- years: 42
+  period: post_timeskip
+heights:
+- cm: 505
+  period: other

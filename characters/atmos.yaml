@@ -1,0 +1,31 @@
+slug: atmos
+name:
+  en: Atmos
+  ja: アトモス
+  romaji: Atomosu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 461
+epithets:
+- en: Water Buffalo
+  ja: 水牛
+  romaji: Suigyū
+occupations:
+- name: 13th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 3
+  day: 19

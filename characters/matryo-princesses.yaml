@@ -1,0 +1,20 @@
+slug: matryo-princesses
+name:
+  en: Matryo Princesses
+  ja: マトリョー姫達
+  romaji: Matoryō Hime-tachi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 905
+  episode: 882
+occupations:
+- name: Princesses of the Roshwan Kingdom
+  status: current
+residences:
+- type: location
+  slug: roshwan-kingdom
+  status: current

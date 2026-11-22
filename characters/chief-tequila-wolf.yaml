@@ -1,0 +1,24 @@
+slug: chief-tequila-wolf
+name:
+  en: Chief
+  ja: 署長
+  romaji: Shochō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 524
+  episode: 420
+occupations:
+- name: Prison Labor Camp Chief
+  status: current
+affiliations:
+- type: location
+  slug: tequila-wolf
+  status: current
+residences:
+- type: location
+  slug: tequila-wolf
+  status: current

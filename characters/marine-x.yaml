@@ -1,0 +1,25 @@
+slug: marine-x
+name:
+  en: Marine X
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: shells-town
+  status: current
+birthday:
+  month: 8
+  day: 1
+ages:
+- years: 25
+  period: other
+heights:
+- cm: 180
+  period: other

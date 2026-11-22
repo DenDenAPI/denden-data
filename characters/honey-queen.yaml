@@ -1,0 +1,21 @@
+slug: honey-queen
+name:
+  en: Honey Queen
+  ja: ハニークィーン
+  romaji: Hanī Kuīn
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+bounties:
+- amount: 7800000
+  status: current
+  canon: movie

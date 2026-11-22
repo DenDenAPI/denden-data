@@ -1,0 +1,13 @@
+slug: caesar-retrieval-arc
+order: 52
+name:
+  en: Caesar Retrieval Arc
+kind: filler
+canon: anime_only
+sagas:
+- dressrosa-saga
+episodes:
+  count: 3
+  ranges:
+  - start: 626
+    end: 628

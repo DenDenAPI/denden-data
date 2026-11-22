@@ -1,0 +1,19 @@
+slug: herz
+name:
+  en: Herz
+  ja: ヘルツ
+  romaji: Herutsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Musician
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

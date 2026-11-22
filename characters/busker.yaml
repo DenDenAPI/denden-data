@@ -1,0 +1,12 @@
+slug: busker
+name:
+  en: Busker
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: loguetown
+  status: current

@@ -1,0 +1,21 @@
+slug: isuka
+name:
+  en: Isuka
+  ja: イスカ
+  romaji: Isuka
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Nailing
+  ja: 釘打ち
+  romaji: Kugi-uchi
+occupations:
+- name: Marine Ensign
+  status: current
+bounties:
+- amount: 1000000
+  status: current
+  minimum: true

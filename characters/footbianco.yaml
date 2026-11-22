@@ -1,0 +1,26 @@
+slug: footbianco
+name:
+  en: Footbianco
+  ja: フットビヤンコ
+  romaji: Futtobiyanko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 329
+  episode: 233
+occupations:
+- name: Dismantler
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: franky-family
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

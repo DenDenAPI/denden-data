@@ -1,0 +1,17 @@
+slug: super-spot-billed-duck-troops
+name:
+  en: Super Spot-Billed Duck Troops
+  ja: 超カルガモ部隊
+  romaji: Chō Karugamo Butai
+canon: manga
+first_appearance:
+  chapter: 109
+  episode: 65
+leaders:
+- character: karoo
+  status: current
+affiliations:
+- type: organization
+  slug: royal-guard
+  status: current
+residences: []

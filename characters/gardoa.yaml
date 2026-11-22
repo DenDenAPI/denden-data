@@ -1,0 +1,19 @@
+slug: gardoa
+name:
+  en: Gardoa
+  ja: ガルドア
+  romaji: Garudoa
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 654
+epithets:
+- en: Beautiful Bounty Hunter
+  ja: 美しき賞金稼ぎ
+  romaji: Utsukushiki Shōkin Kasegi
+occupations:
+- name: Bounty Hunter
+  status: current

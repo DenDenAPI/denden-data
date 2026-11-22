@@ -1,0 +1,32 @@
+slug: pickles
+name:
+  en: Pickles
+  ja: ピクルス
+  romaji: Pikurusu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 309
+  episode: 210
+epithets:
+- en: Tackle Machine
+  ja: タックルマシーン
+  romaji: Takkuru Mashīn
+occupations:
+- name: Pirate
+  status: current
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former
+- type: crew
+  slug: foxy-pirates
+  status: current
+birthday:
+  month: 1
+  day: 9

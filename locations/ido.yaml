@@ -1,0 +1,12 @@
+slug: ido
+name:
+  en: Ido
+  ja: イド
+canon: anime_only
+first_appearance:
+  episode: 99
+parent: arabasta-kingdom
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current

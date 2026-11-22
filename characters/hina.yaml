@@ -1,0 +1,43 @@
+slug: hina
+name:
+  en: Hina
+  ja: ヒナ
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 171
+  episode: 127
+epithets:
+- en: Black Cage Hina
+  ja: 黒檻のヒナ
+  romaji: Kuro Ori no Hina
+occupations:
+- name: Rear Admiral
+  status: current
+- name: Captain
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 3
+  day: 3
+blood_type: F
+ages:
+- years: 32
+  period: debut
+- years: 34
+  period: post_timeskip
+heights:
+- cm: 181
+  period: other
+marine_rating:
+  stars: 2
+  minimum: true
+  equivalent: 200000000

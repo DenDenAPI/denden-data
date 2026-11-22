@@ -1,0 +1,19 @@
+slug: kodama
+name:
+  en: Kodama
+  ja: 小玉
+  romaji: Kodama
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 134
+occupations:
+- name: Pyrotechnician
+  status: current
+residences:
+- type: location
+  slug: fireworks
+  status: current

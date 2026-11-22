@@ -1,0 +1,30 @@
+slug: amazon-lily-arc
+order: 40
+name:
+  en: Amazon Lily Arc
+kind: story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 11
+  ranges:
+  - start: 514
+    end: 524
+volumes:
+  count: 2
+  ranges:
+  - start: 53
+    end: 54
+episodes:
+  count: 14
+  ranges:
+  - start: 408
+    end: 421
+years:
+  manga:
+    start: 2008
+    end: 2008
+  anime:
+    start: 2009
+    end: 2009

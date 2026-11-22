@@ -1,0 +1,29 @@
+slug: monster
+name:
+  en: Monster
+  ja: モンスター
+  romaji: Monsutā
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 489
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+- name: Musician
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 10
+  day: 31

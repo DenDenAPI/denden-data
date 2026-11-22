@@ -1,0 +1,23 @@
+slug: gonbe
+name:
+  en: Gonbe
+  ja: ゴンベ
+  romaji: Gonbe
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 322
+  episode: 229
+occupations:
+- name: Pet
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 2
+  day: 8

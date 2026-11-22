@@ -1,0 +1,36 @@
+slug: wano-country-arc
+order: 63
+name:
+  en: Wano Country Arc
+kind: story
+canon: manga
+sagas:
+- wano-country-saga
+chapters:
+  count: 149
+  ranges:
+  - start: 909
+    end: 1057
+volumes:
+  count: 16
+  ranges:
+  - start: 90
+    end: 105
+episodes:
+  count: 191
+  ranges:
+  - start: 890
+    end: 894
+  - start: 897
+    end: 906
+  - start: 908
+    end: 1028
+  - start: 1031
+    end: 1085
+years:
+  manga:
+    start: 2018
+    end: 2022
+  anime:
+    start: 2019
+    end: 2023

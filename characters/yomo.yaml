@@ -1,0 +1,26 @@
+slug: yomo
+name:
+  en: Yomo
+  ja: ヨモ
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 806
+  episode: 755
+epithets:
+- en: Pastor Yomo
+  ja: ヨモ牧師
+  romaji: Yomo Bokushi
+occupations:
+- name: Musketeer
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current

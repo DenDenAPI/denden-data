@@ -1,0 +1,24 @@
+slug: mimawarigumi
+name:
+  en: Mimawarigumi
+  ja: 見廻組
+  romaji: Mimawari-gumi
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 951
+  episode: 951
+leaders:
+- character: hotei
+  status: current
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kurozumi-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

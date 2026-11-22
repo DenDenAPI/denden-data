@@ -1,0 +1,26 @@
+slug: nako
+name:
+  en: Nako
+  ja: ナコー
+  romaji: Nakō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 77
+  episode: 32
+occupations:
+- name: Doctor
+  status: current
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 7
+  day: 1

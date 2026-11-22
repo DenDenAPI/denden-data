@@ -1,0 +1,11 @@
+slug: sanshoku-island
+name:
+  en: Sanshoku Island
+  ja: 三色島
+  romaji: Sanshoku-tō
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

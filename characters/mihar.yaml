@@ -1,0 +1,31 @@
+slug: mihar
+name:
+  en: Mihar
+  ja: ミハール
+  romaji: Mihāru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+epithets:
+- en: Indoor Mihar
+  ja: インドアのミハール
+  romaji: Indoa no Mihāru
+occupations:
+- name: Teacher
+  status: former
+- name: Pirate Officer
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current

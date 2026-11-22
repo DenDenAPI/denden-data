@@ -1,0 +1,35 @@
+slug: adio-suerte
+name:
+  en: Adio Suerte
+  ja: アディオ゠スエルテ
+  romaji: Adio Suerute
+canon: other
+gender: male
+status: unknown
+first_appearance:
+  chapter: 1053
+epithets:
+- en: Master of the Gun
+  ja: 拳銃の達人
+  romaji: Kenjū no Tatsujin
+occupations:
+- name: Adventurer
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: waford
+  status: current
+birthday:
+  month: 5
+  day: 10
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 244
+  period: other
+bounties:
+- amount: 2009430000
+  status: current

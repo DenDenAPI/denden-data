@@ -1,0 +1,23 @@
+slug: atoli
+name:
+  en: Atoli
+  ja: アトリ
+  romaji: Atori
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Princess
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: former
+origin:
+  region: Paradise
+residences:
+- type: location
+  slug: silver-arrow-island
+  status: current

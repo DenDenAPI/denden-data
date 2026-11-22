@@ -1,0 +1,17 @@
+slug: straight
+name:
+  en: Straight
+  ja: ストレート
+  romaji: Sutorēto
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Chief Petty Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

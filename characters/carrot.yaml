@@ -1,0 +1,47 @@
+slug: carrot
+name:
+  en: Carrot
+  ja: キャロット
+  romaji: Kyarotto
+canon: manga
+gender: female
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 804
+  episode: 753
+occupations:
+- name: Ruler of Mokomo Dukedom
+  status: current
+- name: Musketeer
+  status: former
+- name: Kingsbird
+  status: former
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: inuarashi-musketeer-squad
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: mokomo-dukedom
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: current
+birthday:
+  month: 5
+  day: 24
+blood_type: F
+ages:
+- years: 15
+  period: other
+heights:
+- cm: 161
+  period: other

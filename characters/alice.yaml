@@ -1,0 +1,25 @@
+slug: alice
+name:
+  en: Alice
+  ja: アリーチェ
+  romaji: Arīche
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 487
+  episode: 381
+occupations:
+- name: Secretary
+  status: current
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+ages:
+- years: 8
+  period: debut
+- years: 10
+  period: post_timeskip

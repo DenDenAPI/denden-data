@@ -1,0 +1,16 @@
+slug: first-twenty
+name:
+  en: First Twenty
+  ja: 最初の20人
+  romaji: Saisho no Nijū-nin
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 497
+  episode: 391
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

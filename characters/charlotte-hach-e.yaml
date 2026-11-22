@@ -1,0 +1,28 @@
+slug: charlotte-hach-e
+name:
+  en: Charlotte Hachée
+  ja: シャーロット・アッシュ
+  romaji: Shārotto Asshu
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 871
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 10
+ages:
+- years: 47
+  period: other

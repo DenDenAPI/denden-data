@@ -1,0 +1,11 @@
+slug: port-chibaralta-island
+name:
+  en: Port Chibaralta Island
+  ja: ポートチバラルタ島
+  romaji: Pōto Chibararuta-tō
+canon: other
+parent: new-world
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former

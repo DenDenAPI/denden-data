@@ -1,0 +1,16 @@
+slug: wolf-assassin
+name:
+  en: Wolf (Assassin)
+  ja: ウルフ
+  romaji: Urufu
+canon: anime_only
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  episode: 830
+affiliations:
+- type: organization
+  slug: organ-dealing-assassination-group
+  status: current

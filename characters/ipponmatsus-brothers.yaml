@@ -1,0 +1,14 @@
+slug: ipponmatsus-brothers
+name:
+  en: Ipponmatsu's Brothers
+  ja: いっぽんマツの兄弟
+  romaji: Ipponmatsu no Kyōdai
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: cream-mist
+  status: current

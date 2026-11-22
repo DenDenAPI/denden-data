@@ -1,0 +1,30 @@
+slug: summit-war-saga
+order: 6
+name:
+  en: Summit War Saga
+chapters:
+  count: 108
+  ranges:
+  - start: 490
+    end: 597
+volumes:
+  count: 12
+  ranges:
+  - start: 50
+    end: 61
+episodes:
+  count: 129
+  ranges:
+  - start: 385
+    end: 405
+  - start: 408
+    end: 491
+  - start: 493
+    end: 516
+years:
+  manga:
+    start: 2008
+    end: 2010
+  anime:
+    start: 2009
+    end: 2011

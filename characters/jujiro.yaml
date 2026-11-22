@@ -1,0 +1,27 @@
+slug: jujiro
+name:
+  en: Jujiro
+  ja: 十字ロウ
+  romaji: Jūjirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 918
+occupations:
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

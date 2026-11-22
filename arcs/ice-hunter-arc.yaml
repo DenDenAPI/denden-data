@@ -1,0 +1,13 @@
+slug: ice-hunter-arc
+order: 35
+name:
+  en: Ice Hunter Arc
+kind: filler
+canon: anime_only
+sagas:
+- thriller-bark-saga
+episodes:
+  count: 10
+  ranges:
+  - start: 326
+    end: 335

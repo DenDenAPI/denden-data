@@ -1,0 +1,48 @@
+slug: zeus
+name:
+  en: Zeus
+  ja: ゼウス
+  romaji: Zeusu
+canon: manga
+gender: male
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 827
+  episode: 786
+epithets:
+- en: Zeus the Thundercloud
+  ja: 雷雲のゼウス
+  romaji: Raiun no Zeusu
+occupations:
+- name: Living Weapon
+  status: current
+- name: Servant
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: former
+- type: crew
+  slug: rocks-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: totto-land
+  status: former
+birthday:
+  month: 6
+  day: 26
+ages:
+- years: 44
+  period: other
+  minimum: true
+heights:
+- cm: 232
+  period: other

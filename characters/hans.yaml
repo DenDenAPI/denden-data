@@ -1,0 +1,15 @@
+slug: hans
+name:
+  en: Hans
+  ja: ハンス
+  romaji: Hansu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Cook
+  status: current
+- name: Server
+  status: current

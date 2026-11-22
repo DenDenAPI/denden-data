@@ -1,0 +1,25 @@
+slug: johanna
+name:
+  en: Johanna
+  ja: ヨハンナ
+  romaji: Yohanna
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 1135
+  episode: 1164
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 28
+  period: other

@@ -1,0 +1,54 @@
+slug: charlotte-lola
+name:
+  en: Charlotte Lola
+  ja: シャーロット・ローラ
+  romaji: Shārotto Rōra
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 476
+  episode: 370
+epithets:
+- en: Marriage Proposal Lola
+  ja: 求婚のローラ
+  romaji: Kyūkon no Rōra
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Minister of Chocolate
+  status: former
+affiliations:
+- type: crew
+  slug: rolling-pirates
+  status: current
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: organization
+  slug: thriller-bark-victims-association
+  status: former
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: cacao-island
+  status: former
+birthday:
+  month: 1
+  day: 27
+blood_type: F
+ages:
+- years: 24
+  period: debut
+- years: 26
+  period: post_timeskip
+heights:
+- cm: 215
+  period: other
+bounties:
+- amount: 24000000
+  status: current

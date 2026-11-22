@@ -1,0 +1,17 @@
+slug: koni-boakeno
+name:
+  en: Koni Boakeno
+  ja: コニー・ボアケーノ
+  romaji: Konī Boakēno
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+residences:
+- type: location
+  slug: swallow-island
+  status: current

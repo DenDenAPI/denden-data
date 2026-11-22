@@ -1,0 +1,50 @@
+slug: shakuyaku
+name:
+  en: Shakuyaku
+  ja: シャクヤク
+  romaji: Shakuyaku
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+aliases:
+- en: Shakky
+  ja: シャッキー
+  romaji: Shakkī
+occupations:
+- name: Bartender
+  status: current
+- name: Pirate Captain
+  status: former
+- name: First Mate
+  status: former
+- name: Empress of Amazon Lily
+  status: former
+affiliations:
+- type: location
+  slug: shakkys-rip-off-bar
+  status: current
+- type: crew
+  slug: kuja-pirates
+  status: former
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 5
+  day: 8
+blood_type: X
+ages:
+- years: 62
+  period: debut
+- years: 64
+  period: post_timeskip
+heights:
+- cm: 186
+  period: other

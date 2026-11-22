@@ -1,0 +1,24 @@
+slug: natto
+name:
+  en: Natto
+  ja: ナットー
+  romaji: Nattō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 163
+  episode: 100
+occupations:
+- name: Rebel
+  status: former
+affiliations:
+- type: organization
+  slug: sand-sand-clan
+  status: former
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

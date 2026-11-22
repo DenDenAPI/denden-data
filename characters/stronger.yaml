@@ -1,0 +1,29 @@
+slug: stronger
+name:
+  en: Stronger
+  ja: ストロンガー
+  romaji: Sutorongā
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Doc Q's horse
+  status: current
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 4
+  day: 16

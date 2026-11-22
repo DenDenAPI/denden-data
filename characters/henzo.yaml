@@ -1,0 +1,19 @@
+slug: henzo
+name:
+  en: Henzo
+  ja: ヘンゾ
+  romaji: Henzo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: Scientist
+  status: current
+affiliations:
+- type: crew
+  slug: pumpkin-pirates
+  status: former

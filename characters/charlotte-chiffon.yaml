@@ -1,0 +1,42 @@
+slug: charlotte-chiffon
+name:
+  en: Charlotte Chiffon
+  ja: シャーロット・シフォン
+  romaji: Shārotto Shifon
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 825
+  episode: 783
+occupations:
+- name: Cook
+  status: current
+- name: Minister of Puff
+  status: former
+affiliations:
+- type: crew
+  slug: fire-tank-pirates
+  status: current
+- type: organization
+  slug: charlotte-family
+  status: former
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: funwari-island
+  status: former
+birthday:
+  month: 1
+  day: 27
+blood_type: F
+ages:
+- years: 26
+  period: other
+heights:
+- cm: 215
+  period: other

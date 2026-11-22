@@ -1,0 +1,17 @@
+slug: chocho
+name:
+  en: Chocho
+  ja: お蝶々
+  romaji: O-Chōchō
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 921
+  episode: 912
+residences:
+- type: location
+  slug: wano-country
+  status: former

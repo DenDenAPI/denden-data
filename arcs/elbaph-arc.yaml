@@ -1,0 +1,30 @@
+slug: elbaph-arc
+order: 69
+name:
+  en: Elbaph Arc
+kind: story
+canon: manga
+sagas:
+- final-saga
+chapters:
+  count: null
+  ranges:
+  - start: 1126
+    end: null
+volumes:
+  count: null
+  ranges:
+  - start: 111
+    end: null
+episodes:
+  count: null
+  ranges:
+  - start: 1156
+    end: null
+years:
+  manga:
+    start: 2024
+    end: null
+  anime:
+    start: 2026
+    end: null

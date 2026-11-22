@@ -1,0 +1,19 @@
+slug: fabre
+name:
+  en: Fabre
+  ja: ファブル
+  romaji: Faburu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 426
+occupations:
+- name: Mayor
+  status: current
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

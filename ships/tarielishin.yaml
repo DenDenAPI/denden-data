@@ -1,0 +1,12 @@
+slug: tarielishin
+name:
+  en: Tarielishin
+  ja: タリエリシン号
+  romaji: Tarierishin Gou
+canon: anime_only
+first_appearance:
+  episode: 139
+affiliations:
+- type: crew
+  slug: wetton-pirates
+  status: current

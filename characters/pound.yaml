@@ -1,0 +1,30 @@
+slug: pound
+name:
+  en: Pound
+  ja: パウンド
+  romaji: Paundo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 831
+  episode: 792
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+origin:
+  location: new-world
+  region: Grand Line
+birthday:
+  month: 8
+  day: 21
+blood_type: F
+ages:
+- years: 48
+  period: other
+heights:
+- cm: 731
+  period: other

@@ -1,0 +1,40 @@
+slug: lindbergh
+name:
+  en: Lindbergh
+  ja: リンドバーグ
+  romaji: Rindobāgu
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 904
+  episode: 880
+occupations:
+- name: South Army Commander of the Revolutionary Army
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 5
+  day: 21
+blood_type: F
+ages:
+- years: 37
+  period: other
+heights:
+- cm: 149
+  period: other
+bounties:
+- amount: 316000000
+  status: current

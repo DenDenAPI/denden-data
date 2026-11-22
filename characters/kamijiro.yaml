@@ -1,0 +1,15 @@
+slug: kamijiro
+name:
+  en: Kamijiro
+  ja: 噛二郎
+  romaji: Kamijirō
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 914
+  episode: 901
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

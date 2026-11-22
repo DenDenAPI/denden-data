@@ -1,0 +1,14 @@
+slug: torva
+name:
+  en: Torva
+  ja: トルバ
+  romaji: Toruba
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: water-7
+  status: current

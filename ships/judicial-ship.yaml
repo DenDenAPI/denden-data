@@ -1,0 +1,14 @@
+slug: judicial-ship
+name:
+  en: Judicial Ship
+  ja: 司法船
+  romaji: Shihō-sen
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 353
+  episode: 248
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

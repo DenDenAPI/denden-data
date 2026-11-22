@@ -1,0 +1,18 @@
+slug: tama-non-canon
+name:
+  en: Tama (Non-Canon)
+  ja: タマ
+  romaji: Tama
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: '"Gentle" Tama'
+  ja: 淑やかな タマ
+  romaji: Shitoyakana Tama
+residences:
+- type: location
+  slug: jail-island
+  status: current

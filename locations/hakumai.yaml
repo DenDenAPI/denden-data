@@ -1,0 +1,14 @@
+slug: hakumai
+name:
+  en: Hakumai
+  ja: 白舞
+  romaji: Hakumai
+canon: manga
+first_appearance:
+  chapter: 950
+  episode: 951
+parent: wano-country
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: former

@@ -1,0 +1,49 @@
+slug: trebol
+name:
+  en: Trebol
+  ja: トレーボル
+  romaji: Torēboru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 700
+  episode: 629
+occupations:
+- name: Pirate Executive Officer
+  status: current
+- name: Staff Officer
+  status: current
+- name: Sugar's Bodyguard
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: downs
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 3
+  day: 18
+blood_type: F
+ages:
+- years: 49
+  period: other
+heights:
+- cm: 349
+  period: other
+bounties:
+- amount: 99000000
+  status: former

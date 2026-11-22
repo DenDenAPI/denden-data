@@ -1,0 +1,14 @@
+slug: antonio-non-canon
+name:
+  en: Antonio (Non-Canon)
+  ja: アントニオ
+  romaji: Antonio
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current

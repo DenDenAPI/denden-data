@@ -1,0 +1,29 @@
+slug: wetton
+name:
+  en: Wetton
+  ja: ウェットン
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 140
+occupations:
+- name: Mayor of Ruluka
+  status: current
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+affiliations:
+- type: organization
+  slug: ruluka-government
+  status: current
+- type: crew
+  slug: wetton-pirates
+  status: former
+bounties:
+- amount: 14800000
+  status: former
+  canon: movie

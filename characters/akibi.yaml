@@ -1,0 +1,26 @@
+slug: akibi
+name:
+  en: Akibi
+  ja: アキビ
+  romaji: Akibi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: Marine
+  status: current
+- name: Chore Boy
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: pumpkin-pirates
+  status: former
+- type: organization
+  slug: marines
+  status: current

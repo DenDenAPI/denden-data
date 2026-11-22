@@ -1,0 +1,26 @@
+slug: gyoru
+name:
+  en: Gyoru
+  ja: ギョル
+  romaji: Gyoru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Fishmonger
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: foosha-village
+  status: current
+birthday:
+  month: 3
+  day: 7

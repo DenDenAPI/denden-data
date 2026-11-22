@@ -1,0 +1,21 @@
+slug: barbarossa
+name:
+  en: Barbarossa
+  ja: バルバロッサ
+  romaji: Barubarossa
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 97
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: barbar-pirates
+  status: current

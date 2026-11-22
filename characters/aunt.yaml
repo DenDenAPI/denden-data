@@ -1,0 +1,19 @@
+slug: aunt
+name:
+  en: Aunt
+  ja: ババ
+  romaji: Baba
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 318
+occupations:
+- name: Homemaker
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

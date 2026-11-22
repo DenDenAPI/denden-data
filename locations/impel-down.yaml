@@ -1,0 +1,17 @@
+slug: impel-down
+name:
+  en: Impel Down
+  ja: インペルダウン
+  romaji: Inperu Daun
+canon: manga
+first_appearance:
+  chapter: 525
+  episode: 422
+parent: calm-belt
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: marines
+  status: current

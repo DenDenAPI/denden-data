@@ -1,0 +1,23 @@
+slug: skull
+name:
+  en: Skull
+  ja: スカル
+  romaji: Sukaru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current

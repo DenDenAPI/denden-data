@@ -1,0 +1,17 @@
+slug: kouzuki-family
+name:
+  en: Kouzuki Family
+  ja: 光月家
+  romaji: Kōzuki-ke
+canon: manga
+first_appearance:
+  chapter: 684
+  episode: 609
+leaders:
+- character: kouzuki-momonosuke
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

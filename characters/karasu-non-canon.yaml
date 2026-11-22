@@ -1,0 +1,13 @@
+slug: karasu-non-canon
+name:
+  en: Karasu (Non-Canon)
+  ja: カラス
+  romaji: Karasu
+canon: other
+species:
+- animal
+status: alive
+affiliations:
+- type: crew
+  slug: lytton-food-thieves
+  status: current

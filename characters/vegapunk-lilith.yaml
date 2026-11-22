@@ -1,0 +1,32 @@
+slug: vegapunk-lilith
+name:
+  en: Lilith
+  ja: 悪
+  romaji: Ririsu
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 1061
+  episode: 1090
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+birthday:
+  month: 3
+  day: 22
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 204
+  period: other

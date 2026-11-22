@@ -1,0 +1,17 @@
+slug: roger-non-canon
+name:
+  en: Roger
+  ja: ロジャー
+  romaji: Rojā
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Ferryman
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

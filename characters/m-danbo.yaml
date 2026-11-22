@@ -1,0 +1,11 @@
+slug: m-danbo
+name:
+  en: M. Danbo
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Zoologist
+  status: current

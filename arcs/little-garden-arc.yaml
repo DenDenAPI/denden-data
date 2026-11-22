@@ -1,0 +1,30 @@
+slug: little-garden-arc
+order: 12
+name:
+  en: Little Garden Arc
+kind: story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 15
+  ranges:
+  - start: 115
+    end: 129
+volumes:
+  count: 3
+  ranges:
+  - start: 13
+    end: 15
+episodes:
+  count: 8
+  ranges:
+  - start: 70
+    end: 77
+years:
+  manga:
+    start: 1999
+    end: 2000
+  anime:
+    start: 2001
+    end: 2001

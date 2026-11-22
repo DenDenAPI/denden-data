@@ -1,0 +1,33 @@
+slug: john
+name:
+  en: John
+  ja: ジョン
+  romaji: Jon
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 450
+  episode: 344
+epithets:
+- en: Captain John
+  ja: キャプテン・ジョン
+  romaji: Kyaputen Jon
+occupations:
+- name: General Zombie
+  status: current
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+residences:
+- type: location
+  slug: hachinosu
+  status: current

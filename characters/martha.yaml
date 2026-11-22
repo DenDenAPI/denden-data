@@ -1,0 +1,14 @@
+slug: martha
+name:
+  en: Martha
+  ja: マーサ
+  romaji: Māsa
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current

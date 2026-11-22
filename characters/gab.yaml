@@ -1,0 +1,26 @@
+slug: gab
+name:
+  en: Gab
+  ja: ガブ
+  romaji: Gabu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 580
+  episode: 489
+epithets:
+- en: '"Howling" Gab'
+  ja: “ハウリング”ガブ
+  romaji: '"Hauringu" Gabu'
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

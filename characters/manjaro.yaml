@@ -1,0 +1,32 @@
+slug: manjaro
+name:
+  en: Manjaro
+  ja: マンジャロウ
+  romaji: Manjarō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 518
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 9
+  day: 9
+blood_type: S
+ages:
+- years: 25
+  period: other
+heights:
+- cm: 202
+  period: other

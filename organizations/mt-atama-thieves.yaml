@@ -1,0 +1,17 @@
+slug: mt-atama-thieves
+name:
+  en: Mt. Atama Thieves
+  ja: 頭山盗賊団
+  romaji: Atama-yama Tōzoku-dan
+canon: manga
+first_appearance:
+  chapter: 921
+  episode: 912
+leaders:
+- character: ashura-doji
+  status: former
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

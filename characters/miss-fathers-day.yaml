@@ -1,0 +1,27 @@
+slug: miss-fathers-day
+name:
+  en: Miss Father's Day
+  ja: ミス・ファーザーズデー
+  romaji: Misu Fāzāzu Dē
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 205
+  episode: 124
+aliases:
+- en: Miss Father's Day
+occupations:
+- name: Frontier Agent
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+birthday:
+  month: 6
+  day: 21

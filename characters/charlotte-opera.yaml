@@ -1,0 +1,35 @@
+slug: charlotte-opera
+name:
+  en: Charlotte Opera
+  ja: シャーロット・オペラ
+  romaji: Shārotto Opera
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 829
+  episode: 789
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Whipped Cream
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: noko-island
+  status: current
+birthday:
+  month: 9
+  day: 29
+ages:
+- years: 46
+  period: other

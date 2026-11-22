@@ -1,0 +1,29 @@
+slug: attach
+name:
+  en: Attach
+  ja: アタッチ
+  romaji: Atatchi
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 436
+  episode: 139
+epithets:
+- en: Flaming Attachan
+  ja: 炎のアタっちゃん
+  romaji: Honō no Atatchan
+occupations:
+- name: Reporter
+  status: current
+- name: Marine Photography Department chief
+  status: former
+affiliations:
+- type: organization
+  slug: world-economy-news-paper
+  status: current
+- type: organization
+  slug: marines
+  status: former

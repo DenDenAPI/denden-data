@@ -1,0 +1,15 @@
+slug: tira
+name:
+  en: Tira
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Cook
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current

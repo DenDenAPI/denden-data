@@ -1,0 +1,14 @@
+slug: igaram-jr
+name:
+  en: Igaram Jr.
+  ja: イガラム Jr.
+  romaji: Igaramu Jr.
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current

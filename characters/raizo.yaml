@@ -1,0 +1,53 @@
+slug: raizo
+name:
+  en: Raizo
+  ja: 雷ぞう
+  romaji: Raizō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 817
+  episode: 768
+epithets:
+- en: Raizo of the Mist
+  ja: 霧の雷ぞう
+  romaji: Kiri no Raizō
+occupations:
+- name: Daimyo
+  status: current
+- name: Ninja
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Samurai
+  status: current
+- name: Member of the Kouzuki Family Oniwabanshu
+  status: former
+- name: Bandit
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 2
+  day: 26
+blood_type: X
+ages:
+- years: 35
+  period: other
+heights:
+- cm: 311
+  period: other

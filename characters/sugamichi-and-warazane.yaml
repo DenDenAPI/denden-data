@@ -1,0 +1,16 @@
+slug: sugamichi-and-warazane
+name:
+  en: Sugamichi and Warazane
+  ja: スガミチ; ワラザネ
+  romaji: Sugamichi; Warazane
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+residences:
+- type: location
+  slug: wano-country
+  status: current

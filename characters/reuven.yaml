@@ -1,0 +1,23 @@
+slug: reuven
+name:
+  en: Reuven
+  ja: ルーヴェン
+  romaji: Rūven
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1183
+occupations:
+- name: King of Esperia
+  status: current
+affiliations:
+- type: location
+  slug: esperia-kingdom
+  status: current
+residences:
+- type: location
+  slug: esperia-kingdom
+  status: current

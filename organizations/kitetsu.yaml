@@ -1,0 +1,15 @@
+slug: kitetsu
+name:
+  en: Kitetsu
+  ja: 鬼徹 (鬼徹一派)
+  romaji: Kitetsu (Kitetsu Ippa)
+canon: manga
+first_appearance:
+  chapter: 97
+  episode: 49
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+residences: []

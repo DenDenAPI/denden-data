@@ -1,0 +1,55 @@
+slug: zala
+name:
+  en: Zala
+  ja: ザラ
+  romaji: Zara
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 155
+  episode: 103
+epithets:
+- en: Poison Spider Zala
+  ja: 毒グモのザラ
+  romaji: Doku Gumo no Zara
+aliases:
+- en: Miss Doublefinger
+  ja: ミス・ダブルフィンガー
+  romaji: Misu Daburufingā
+- en: Paula
+  ja: ポーラ
+  romaji: Pōra
+occupations:
+- name: Spiders Cafe Owner
+  status: current
+- name: Assassin
+  status: former
+- name: Officer Agent
+  status: former
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 30
+blood_type: X
+ages:
+- years: 26
+  period: debut
+- years: 28
+  period: post_timeskip
+heights:
+- cm: 187
+  period: other
+bounties:
+- amount: 35000000
+  status: current

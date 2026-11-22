@@ -1,0 +1,26 @@
+slug: charlotte-nougat
+name:
+  en: Charlotte Nougat
+  ja: シャーロット・ヌガー
+  romaji: Shārotto Nugā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 17
+  period: other

@@ -1,0 +1,25 @@
+slug: diomis
+name:
+  en: Diomis
+  ja: ディオミス
+  romaji: Diomisu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Windblade
+  ja: 風の刃
+  romaji: Kaze no ha
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,17 @@
+slug: enies-lobby
+name:
+  en: Enies Lobby
+  ja: エニエスロビー
+  romaji: Eniesu Robī
+canon: manga
+first_appearance:
+  chapter: 358
+  episode: 263
+region: Paradise
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: marines
+  status: current

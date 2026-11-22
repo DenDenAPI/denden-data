@@ -1,0 +1,11 @@
+slug: yakedoro
+name:
+  en: Yakedoro
+  ja: ヤケドロ
+  romaji: Yakedoro
+canon: other
+status: deceased
+residences:
+- type: location
+  slug: waford
+  status: current

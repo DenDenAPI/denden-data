@@ -1,0 +1,15 @@
+slug: jingoro
+name:
+  en: Jingoro
+  ja: ジンゴロー
+  romaji: Jingorō
+canon: other
+gender: male
+status: alive
+occupations:
+- name: Shipwright
+  status: current
+residences:
+- type: location
+  slug: banana-peninsula
+  status: current

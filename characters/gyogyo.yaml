@@ -1,0 +1,28 @@
+slug: gyogyo
+name:
+  en: Gyogyo
+  ja: ギョギョ
+  romaji: Gyogyo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+occupations:
+- name: Fishmonger
+  status: former
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bonney-pirates
+  status: current
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: sorbet-kingdom
+  status: former

@@ -1,0 +1,19 @@
+slug: peseta
+name:
+  en: Peseta
+  ja: ペセタ
+  romaji: Peseta
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  episode: 746
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: silver-pirate-alliance
+  status: current

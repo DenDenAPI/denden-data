@@ -1,0 +1,19 @@
+slug: seki
+name:
+  en: Seki
+  ja: セキ
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 908
+  episode: 884
+occupations:
+- name: King
+  status: former
+residences:
+- type: location
+  slug: lulusia-kingdom
+  status: current

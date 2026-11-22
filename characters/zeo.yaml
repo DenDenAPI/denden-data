@@ -1,0 +1,42 @@
+slug: zeo
+name:
+  en: Zeo
+  ja: ゼオ
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+epithets:
+- en: Noble of the Fish-Man District
+  ja: 魚人街の貴族
+  romaji: Gyojin-gai no Kizoku
+occupations:
+- name: Pirate
+  status: current
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+birthday:
+  month: 11
+  day: 11
+blood_type: X
+ages:
+- years: 30
+  period: other
+heights:
+- cm: 325
+  period: other

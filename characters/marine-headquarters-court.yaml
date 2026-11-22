@@ -1,0 +1,22 @@
+slug: marine-headquarters-court
+name:
+  en: Marine Headquarters Court
+  ja: 海軍本部裁判所
+  romaji: Kaigun Honbu Saibansho
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 164
+occupations:
+- name: Judges
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: organization
+  slug: world-government
+  status: current

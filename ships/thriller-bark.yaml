@@ -1,0 +1,13 @@
+slug: thriller-bark
+name:
+  en: Thriller Bark
+  ja: スリラーバーク
+  romaji: Surirā Bāku
+canon: manga
+first_appearance:
+  chapter: 443
+  episode: 338
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

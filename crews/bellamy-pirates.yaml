@@ -1,0 +1,13 @@
+slug: bellamy-pirates
+name:
+  en: Bellamy Pirates
+  ja: ベラミー海賊団
+  romaji: Beramī Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 222
+  episode: 146
+captains:
+- character: bellamy
+  status: current

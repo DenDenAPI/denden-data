@@ -1,0 +1,28 @@
+slug: kansho
+name:
+  en: Kansho
+  ja: カンショウ
+  romaji: Kanshō
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine Officer
+  status: current
+- name: Pirate
+  status: former
+- name: Sniper
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: foxy-pirates
+  status: former
+residences:
+- type: location
+  slug: nebulandia
+  status: current

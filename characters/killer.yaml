@@ -1,0 +1,57 @@
+slug: killer
+name:
+  en: Killer
+  ja: キラー
+  romaji: Kirā
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 498
+  episode: 392
+epithets:
+- en: Massacre Soldier
+  ja: 殺戮武人
+  romaji: Satsuriku Bujin
+aliases:
+- en: Kamazo the Manslayer
+  ja: 人斬り鎌ぞう
+  romaji: Hitokiri Kamazō
+occupations:
+- name: Pirate
+  status: current
+- name: Combatant
+  status: current
+- name: Assassin
+  status: former
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: kutsukku-island
+  region: South Blue
+birthday:
+  month: 2
+  day: 2
+blood_type: X
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 195
+  period: debut
+bounties:
+- amount: 162000000
+  status: former
+  revealed_chapter: 498
+- amount: 200000000
+  status: current
+  revealed_chapter: 677

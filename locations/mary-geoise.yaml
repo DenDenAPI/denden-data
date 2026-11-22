@@ -1,0 +1,14 @@
+slug: mary-geoise
+name:
+  en: Mary Geoise
+  ja: マリージョア
+  romaji: Marījoa
+canon: manga
+first_appearance:
+  chapter: 142
+  episode: 91
+parent: red-line
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

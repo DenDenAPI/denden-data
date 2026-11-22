@@ -1,0 +1,14 @@
+slug: full
+name:
+  en: Full
+  ja: フール号
+  romaji: Fūru-gō
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 212
+  episode: 127
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

@@ -1,0 +1,22 @@
+slug: nodoi-wakan
+name:
+  en: Nodoi Wakan
+  ja: ノドイ・ワカーン
+  romaji: Nodoi Wakān
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 948
+  episode: 947
+occupations:
+- name: Waiter
+  status: current
+- name: Prisoner Mine Guard
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

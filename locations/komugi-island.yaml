@@ -1,0 +1,14 @@
+slug: komugi-island
+name:
+  en: Komugi Island
+  ja: コムギ島
+  romaji: Komugi-tō
+canon: manga
+first_appearance:
+  chapter: 891
+  episode: 865
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

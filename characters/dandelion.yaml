@@ -1,0 +1,17 @@
+slug: dandelion
+name:
+  en: Dandelion
+  ja: ダンデライオン
+  romaji: Danderaion
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Leader of Flower Angel
+  status: current
+affiliations:
+- type: organization
+  slug: flower-angel
+  status: current

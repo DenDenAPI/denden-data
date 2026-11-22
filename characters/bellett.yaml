@@ -1,0 +1,18 @@
+slug: bellett
+name:
+  en: Bellett
+  ja: ベレット
+  romaji: Beretto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 537
+  episode: 439
+occupations:
+- name: Pirate
+  status: current
+- name: Prince
+  status: former

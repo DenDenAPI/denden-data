@@ -1,0 +1,25 @@
+slug: drug-peclo
+name:
+  en: Drug Peclo
+  ja: ドラッグ・ピエクロ
+  romaji: Doraggu Piekuro
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 828
+epithets:
+- en: Major Undertaker
+  ja: 大手葬儀屋
+  romaji: Ōte Sōgi-ya
+occupations:
+- name: Undertaker
+  status: current
+- name: Emperor of the Underworld
+  status: current
+birthday:
+  month: 9
+  day: 29

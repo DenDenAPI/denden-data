@@ -1,0 +1,14 @@
+slug: caribou-pirates
+name:
+  en: Caribou Pirates
+  ja: カリブー海賊団
+  romaji: Karibū Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 600
+  episode: 519
+captains:
+- character: caribou
+  status: current
+- character: coribou
+  status: current

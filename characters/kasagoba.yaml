@@ -1,0 +1,26 @@
+slug: kasagoba
+name:
+  en: Kasagoba
+  ja: カサゴバ
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 607
+  episode: 527
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former

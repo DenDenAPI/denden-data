@@ -1,0 +1,23 @@
+slug: thalassa-lucas
+name:
+  en: Thalassa Lucas
+  ja: タラッサ・ルーカス
+  romaji: Tarassa Rūkasu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 142
+  episode: 91
+occupations:
+- name: King
+  status: former
+affiliations:
+- type: location
+  slug: ilisia-kingdom
+  status: current
+birthday:
+  month: 7
+  day: 27

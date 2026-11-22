@@ -1,0 +1,32 @@
+slug: chocolat
+name:
+  en: Chocolat
+  ja: ショコラ
+  romaji: Shokora
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 598
+  episode: 517
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 9
+  day: 21
+blood_type: X
+ages:
+- years: 26
+  period: other
+heights:
+- cm: 181
+  period: other

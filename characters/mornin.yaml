@@ -1,0 +1,25 @@
+slug: mornin
+name:
+  en: Mornin
+  ja: モーニン
+  romaji: Mōnin
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 23
+occupations:
+- name: Mayor
+  status: current
+origin:
+  location: syrup-village
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: current
+birthday:
+  month: 10
+  day: 15

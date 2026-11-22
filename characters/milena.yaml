@@ -1,0 +1,28 @@
+slug: milena
+name:
+  en: Milena
+  ja: ミレーヌ
+  romaji: Mirēnu
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Fickle
+  ja: 移り気
+  romaji: Utsurigi
+occupations:
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+bounties:
+- amount: 39000000
+  status: former

@@ -1,0 +1,26 @@
+slug: shuraiya-basc-d
+name:
+  en: Shuraiya Bascùd
+  ja: シュライヤ・バスクード
+  romaji: Shuraiya Basukūdo
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Pirate Executioner
+  ja: 海賊処刑人
+  romaji: Kaizoku Shokeinin
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: former
+origin:
+  location: elena
+ages:
+- years: 20
+  period: other

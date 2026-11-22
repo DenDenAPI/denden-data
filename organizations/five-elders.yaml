@@ -1,0 +1,18 @@
+slug: five-elders
+name:
+  en: Five Elders
+  ja: 五老星
+  romaji: Gorōsei
+canon: manga
+first_appearance:
+  chapter: 233
+  episode: 151
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

@@ -1,0 +1,17 @@
+slug: g-8-arc
+order: 22
+name:
+  en: G-8 Arc
+kind: filler
+canon: anime_only
+sagas:
+- sky-island-saga
+episodes:
+  count: 11
+  ranges:
+  - start: 196
+    end: 206
+years:
+  anime:
+    start: 2004
+    end: 2004

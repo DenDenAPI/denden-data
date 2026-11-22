@@ -1,0 +1,20 @@
+slug: kyukyu
+name:
+  en: Kyukyu
+  ja: キューキュー
+  romaji: Kyūkyū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 334
+  episode: 237
+occupations:
+- name: Doctor
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

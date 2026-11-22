@@ -1,0 +1,20 @@
+slug: nure-onna
+name:
+  en: Nure-Onna
+  ja: 濡れ女
+  romaji: Nure-Onna
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 998
+  episode: 1013
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

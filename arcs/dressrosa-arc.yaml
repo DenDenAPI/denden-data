@@ -1,0 +1,30 @@
+slug: dressrosa-arc
+order: 53
+name:
+  en: Dressrosa Arc
+kind: story
+canon: manga
+sagas:
+- dressrosa-saga
+chapters:
+  count: 102
+  ranges:
+  - start: 700
+    end: 801
+volumes:
+  count: 11
+  ranges:
+  - start: 70
+    end: 80
+episodes:
+  count: 118
+  ranges:
+  - start: 629
+    end: 746
+years:
+  manga:
+    start: 2013
+    end: 2015
+  anime:
+    start: 2014
+    end: 2016

@@ -1,0 +1,17 @@
+slug: roza
+name:
+  en: Roza
+  ja: ローザ
+  romaji: Rōza
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: tearoom-pirates
+  status: current

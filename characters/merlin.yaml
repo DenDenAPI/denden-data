@@ -1,0 +1,25 @@
+slug: merlin
+name:
+  en: Merlin
+  ja: マーリン
+  romaji: Mārin
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Merlin the Deceitful
+  ja: 偽りのマーリン
+  romaji: Itsuwari no Mārin
+occupations:
+- name: Marine
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

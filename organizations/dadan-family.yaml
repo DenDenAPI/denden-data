@@ -1,0 +1,18 @@
+slug: dadan-family
+name:
+  en: Dadan Family
+  ja: ダダン一家
+  romaji: Dadan Ikka
+canon: manga
+status: active
+first_appearance:
+  chapter: 582
+  episode: 493
+leaders:
+- character: curly-dadan
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: mt-colubo
+  status: current

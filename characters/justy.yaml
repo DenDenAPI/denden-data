@@ -1,0 +1,17 @@
+slug: justy
+name:
+  en: Justy
+  ja: ジャスティ
+  romaji: Jasuti
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Gunman
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

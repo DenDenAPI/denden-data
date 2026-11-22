@@ -1,0 +1,11 @@
+slug: groseade
+name:
+  en: Groseade
+  ja: グローセアデ号
+  romaji: Gurōseade-gō
+canon: other
+status: destroyed
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current

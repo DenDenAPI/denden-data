@@ -1,0 +1,16 @@
+slug: kakukaku
+name:
+  en: Kakukaku
+  ja: カクカク
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 334
+  episode: 237
+residences:
+- type: location
+  slug: water-7
+  status: current

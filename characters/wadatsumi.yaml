@@ -1,0 +1,40 @@
+slug: wadatsumi
+name:
+  en: Wadatsumi
+  ja: ワダツミ
+  romaji: Wadatsumi
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 606
+  episode: 525
+epithets:
+- en: Large Monk
+  ja: 大入道
+  romaji: Ōnyūdō
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: sun-pirates
+  status: current
+- type: crew
+  slug: flying-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+birthday:
+  month: 2
+  day: 9
+blood_type: F
+ages:
+- years: 25
+  period: other
+heights:
+- cm: 8000
+  period: other

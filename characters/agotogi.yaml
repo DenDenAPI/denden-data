@@ -1,0 +1,19 @@
+slug: agotogi
+name:
+  en: Agotogi
+  ja: アゴトギ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 163
+  episode: 100
+occupations:
+- name: Thug Leader
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

@@ -1,0 +1,36 @@
+slug: figarland-shamrock
+name:
+  en: Figarland Shamrock
+  ja: フィガーランド・シャムロック聖
+  romaji: Figārando Shamurokku Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 907
+  episode: 887
+occupations:
+- name: Commander of Knights of God
+  status: current
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+origin:
+  location: god-valley
+  region: West Blue
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 3
+  day: 9
+ages:
+- years: 39
+  period: other

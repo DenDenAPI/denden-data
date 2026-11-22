@@ -1,0 +1,28 @@
+slug: kashigami
+name:
+  en: Kashigami
+  ja: カシ神
+  romaji: Kashigami
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 287
+  episode: 187
+epithets:
+- en: God of the Sun
+  ja: 太陽の神
+  romaji: Taiyō no Kami
+- en: God of the Rain
+  ja: 雨の神
+  romaji: Ame no Kami
+- en: God of the Forest
+  ja: 森の神
+  romaji: Mori no Kami
+- en: God of the Earth
+  ja: 大地の神
+  romaji: Daichi no Kami
+birthday:
+  month: 11
+  day: 4

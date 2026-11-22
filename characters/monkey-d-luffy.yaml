@@ -1,0 +1,115 @@
+slug: monkey-d-luffy
+name:
+  en: Monkey D. Luffy
+  ja: モンキー・D・ルフィ
+  romaji: Monkī Dī Rufi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 1
+epithets:
+- en: Straw Hat Luffy
+  ja: 麦わらのルフィ
+  romaji: Mugiwara no Rufi
+aliases:
+- en: Lucy
+  ja: ルーシー
+  romaji: Rūshī
+- en: Luffy-tarou
+  ja: ルフィ太郎
+  romaji: Rufitarō
+- en: Luffy-no-Umi
+  ja: ルフィの海
+  romaji: Rufinoumi
+- en: Joy Boy
+  ja: ジョイボーイ
+  romaji: Joi Bōi
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Emperor
+  status: current
+- name: Senior Captain of the Grand Fleet
+  status: current
+- name: Prisoner
+  status: former
+- name: Chore Boy
+  status: former
+- name: Bandit
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: organization
+  slug: four-emperors
+  status: current
+- type: organization
+  slug: dadan-family
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: foosha-village
+  region: East Blue
+residences:
+- type: location
+  slug: mt-colubo
+  status: former
+- type: location
+  slug: rusukaina
+  status: former
+- type: location
+  slug: foosha-village
+  status: former
+birthday:
+  month: 5
+  day: 5
+blood_type: F
+ages:
+- years: 7
+  period: debut
+- years: 17
+  period: pre_timeskip
+- years: 19
+  period: post_timeskip
+heights:
+- cm: 91
+  period: debut
+- cm: 172
+  period: pre_timeskip
+- cm: 174
+  period: post_timeskip
+bounties:
+- amount: 30000000
+  status: former
+  revealed_chapter: 96
+- amount: 100000000
+  status: former
+  revealed_chapter: 213
+- amount: 300000000
+  status: former
+  revealed_chapter: 435
+- amount: 400000000
+  status: former
+  revealed_chapter: 601
+- amount: 500000000
+  status: former
+  revealed_chapter: 800
+- amount: 1500000000
+  status: former
+  revealed_chapter: 903
+- amount: 3000000000
+  status: current
+  revealed_chapter: 1053

@@ -1,0 +1,38 @@
+slug: charlotte-citron
+name:
+  en: Charlotte Citron
+  ja: シャーロット・シトロン
+  romaji: Shārotto Shitoron
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 861
+  episode: 833
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Eggs
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: kimi-island
+  status: current
+birthday:
+  month: 10
+  day: 12
+ages:
+- years: 35
+  period: other

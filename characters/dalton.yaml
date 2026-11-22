@@ -1,0 +1,45 @@
+slug: dalton
+name:
+  en: Dalton
+  ja: ドルトン
+  romaji: Doruton
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 132
+  episode: 79
+occupations:
+- name: King of the Sakura Kingdom
+  status: current
+- name: Captain of the Civilian Guard
+  status: former
+- name: Captain of Security of the Drum Kingdom
+  status: former
+affiliations:
+- type: location
+  slug: sakura-kingdom
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: bighorn
+  status: current
+- type: location
+  slug: drum-castle
+  status: former
+birthday:
+  month: 6
+  day: 10
+blood_type: X
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 218
+  period: other

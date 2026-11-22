@@ -1,0 +1,21 @@
+slug: nyornyo-nyarmani
+name:
+  en: Nyornyo Nyarmani
+  ja: ニョルニョ・ニャルマーニ
+  romaji: Nyorunyo Nyarumāni
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+epithets:
+- en: Emperor of the Fashion World
+  ja: ファッション界の帝王
+  romaji: Fasshon-kai no Teiō
+occupations:
+- name: Fashion designer
+  status: current
+residences:
+- type: location
+  slug: nagagutsu-kingdom
+  status: current

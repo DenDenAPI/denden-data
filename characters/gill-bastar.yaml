@@ -1,0 +1,34 @@
+slug: gill-bastar
+name:
+  en: Gill Bastar
+  ja: ギル・バスター
+  romaji: Giru Basutā
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 450
+  episode: 344
+occupations:
+- name: Outlaw
+  status: current
+- name: Pirate
+  status: current
+- name: General Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+bounties:
+- amount: 970000000
+  status: current

@@ -1,0 +1,18 @@
+slug: poppy-non-canon
+name:
+  en: Poppy (Non-Canon)
+  ja: ポピー
+  romaji: Popī
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Poppy of Sadness
+  ja: 悲しみのポピー
+  romaji: Kanashimi no popī
+residences:
+- type: location
+  slug: dressrosa
+  status: current

@@ -1,0 +1,21 @@
+slug: blyue
+name:
+  en: Blyue
+  ja: ブリュー
+  romaji: Buryū
+canon: other
+gender: male
+species:
+- giant
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

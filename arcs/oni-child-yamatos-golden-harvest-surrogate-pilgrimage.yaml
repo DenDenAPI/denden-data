@@ -1,0 +1,24 @@
+slug: oni-child-yamatos-golden-harvest-surrogate-pilgrimage
+order: 70
+name:
+  en: Oni Child Yamato's Golden Harvest Surrogate Pilgrimage
+  ja: 鬼の子ヤマトの金稲荷代参
+  romaji: Oni no Ko Yamato no Ko Inari Daisan
+kind: cover_story
+canon: manga
+sagas:
+- final-saga
+chapters:
+  count: 44
+  ranges:
+  - start: 1109
+    end: 1162
+volumes:
+  count: 6
+  ranges:
+  - start: 109
+    end: 114
+years:
+  manga:
+    start: 2024
+    end: 2025

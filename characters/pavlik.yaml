@@ -1,0 +1,22 @@
+slug: pavlik
+name:
+  en: Pavlik
+  ja: パブリク
+  romaji: Paburiku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 477
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

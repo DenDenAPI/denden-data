@@ -1,0 +1,17 @@
+slug: shimotsuki-furiko
+name:
+  en: Shimotsuki Furiko
+  ja: 霜月フリコ
+  romaji: Shimotsuki Furiko
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line

@@ -1,0 +1,14 @@
+slug: narcy-premier-show
+name:
+  en: Narcy (Premier Show)
+  ja: ナルシー
+  romaji: Narushī
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: age-age-super-marines
+  status: current

@@ -1,0 +1,25 @@
+slug: tamachibi
+name:
+  en: Tamachibi
+  ja: タマチビ
+  romaji: Tamachibi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 134
+  episode: 81
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: cocoa-weed
+  status: current
+- type: location
+  slug: drum-island
+  status: current
+birthday:
+  month: 6
+  day: 17

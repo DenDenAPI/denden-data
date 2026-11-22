@@ -1,0 +1,26 @@
+slug: portnoy
+name:
+  en: Portnoy
+  ja: ポートノイ
+  romaji: Pōtonoi
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Sweet Addiction
+  ja: 甘味中毒
+  romaji: Kanmi Chūdoku
+occupations:
+- name: Pirate
+  status: current
+- name: Pastry Chef
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+bounties:
+- amount: 70000000
+  status: former

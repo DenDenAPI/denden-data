@@ -1,0 +1,17 @@
+slug: hara
+name:
+  en: Hara
+  ja: 原
+  romaji: Hara
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 919
+  episode: 909
+residences:
+- type: location
+  slug: wano-country
+  status: current

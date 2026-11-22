@@ -1,0 +1,15 @@
+slug: fog-suerte
+name:
+  en: Fog Suerte
+  ja: フォッグ・スエルテ
+  romaji: Foggu Suerute
+canon: other
+gender: male
+status: deceased
+occupations:
+- name: Warrior
+  status: current
+residences:
+- type: location
+  slug: waford
+  status: current

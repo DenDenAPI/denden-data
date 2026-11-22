@@ -1,0 +1,17 @@
+slug: edomae
+name:
+  en: Edomae
+  ja: 江戸前
+  romaji: Edomae
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,13 @@
+slug: fron-island
+name:
+  en: Fron Island
+  ja: フロン島
+  romaji: Furon-tō
+canon: anime_only
+first_appearance:
+  episode: 780
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

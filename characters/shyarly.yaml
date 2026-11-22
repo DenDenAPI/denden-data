@@ -1,0 +1,39 @@
+slug: shyarly
+name:
+  en: Shyarly
+  ja: シャーリー
+  romaji: Shārī
+canon: manga
+gender: female
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 610
+  episode: 529
+epithets:
+- en: Madam Shyarly
+  ja: マダム・シャーリー
+  romaji: Madamu Shārī
+occupations:
+- name: Proprietor of the Mermaid Cafe
+  status: current
+- name: Fortune teller
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+birthday:
+  month: 9
+  day: 9
+blood_type: XF
+ages:
+- years: 29
+  period: other
+heights:
+- cm: 520
+  period: other

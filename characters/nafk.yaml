@@ -1,0 +1,22 @@
+slug: nafk
+name:
+  en: Nafk
+  ja: ナフク
+  romaji: Nafuku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Doctor
+  status: current
+origin:
+  region: Paradise
+residences:
+- type: location
+  slug: drum-island
+  status: current
+- type: location
+  slug: alubarna
+  status: former

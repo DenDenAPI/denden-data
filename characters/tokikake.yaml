@@ -1,0 +1,28 @@
+slug: tokikake
+name:
+  en: Tokikake
+  ja: トキカケ
+  romaji: Tokikake
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 907
+  episode: 887
+aliases:
+- en: Chaton
+  ja: 茶豚
+  romaji: Chaton
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

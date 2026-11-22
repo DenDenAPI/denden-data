@@ -1,0 +1,57 @@
+slug: nefertari-vivi
+name:
+  en: Nefertari Vivi
+  ja: ネフェルタリ・ビビ
+  romaji: Neferutari Bibi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 103
+  episode: 62
+aliases:
+- en: Miss Wednesday
+  ja: ミス・ウェンズデー
+  romaji: Misu Wenzudē
+- en: ','
+- en: Ms. Wednesday
+occupations:
+- name: Princess of Arabasta
+  status: current
+- name: Pirate
+  status: former
+- name: Bounty Hunter
+  status: former
+- name: Frontier Agent
+  status: former
+- name: Sand-Sand Clan Vice-Leader
+  status: former
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+- type: crew
+  slug: straw-hat-pirates
+  status: former
+- type: organization
+  slug: baroque-works
+  status: current
+- type: organization
+  slug: sand-sand-clan
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 2
+blood_type: F
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 169
+  period: other

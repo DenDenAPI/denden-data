@@ -1,0 +1,14 @@
+slug: whole-cake-island
+name:
+  en: Whole Cake Island
+  ja: ホールケーキアイランド
+  romaji: Hōru Kēki Airando
+canon: manga
+first_appearance:
+  chapter: 651
+  episode: 571
+parent: new-world
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

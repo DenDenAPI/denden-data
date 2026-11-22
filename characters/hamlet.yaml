@@ -1,0 +1,23 @@
+slug: hamlet
+name:
+  en: Hamlet
+  ja: ハムレット
+  romaji: Hamuretto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 994
+  episode: 982
+occupations:
+- name: Shinuchi
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

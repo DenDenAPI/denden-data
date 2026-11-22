@@ -1,0 +1,11 @@
+slug: phoenix-pirates
+name:
+  en: Phoenix Pirates
+  ja: フェニックス海賊団
+  romaji: Fenikkusu Kaizokudan
+canon: anime_only
+first_appearance:
+  episode: 326
+captains:
+- character: puzzle
+  status: current

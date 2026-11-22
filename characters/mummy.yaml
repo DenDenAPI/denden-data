@@ -1,0 +1,16 @@
+slug: mummy
+name:
+  en: Mummy
+  ja: マミー
+  romaji: Mamī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 652
+occupations:
+- name: Sorcerer
+  status: current

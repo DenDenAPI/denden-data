@@ -1,0 +1,12 @@
+slug: matsuyuki-ibuki
+name:
+  en: Matsuyuki Ibuki
+  ja: 松雪いぶき
+  romaji: Matsuyuki Ibuki
+canon: other
+gender: male
+status: alive
+affiliations:
+- type: location
+  slug: miraba-elementary-school
+  status: current

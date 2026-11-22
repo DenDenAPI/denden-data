@@ -1,0 +1,84 @@
+slug: roronoa-zoro
+name:
+  en: Roronoa Zoro
+  ja: ロロノア・ゾロ
+  romaji: Roronoa Zoro
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 3
+  episode: 1
+epithets:
+- en: Pirate Hunter Zoro
+  ja: 海賊狩りのゾロ
+  romaji: Kaizoku Gari no Zoro
+aliases:
+- en: Zoro-juurou
+  ja: ゾロ十郎
+  romaji: Zorojūrō
+occupations:
+- name: Master Swordsman
+  status: current
+- name: Pirate
+  status: current
+- name: Crew Combatant
+  status: current
+- name: Senior Officer
+  status: current
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: organization
+  slug: shimotsuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shimotsuki-village
+  status: former
+- type: location
+  slug: nazawaka-city
+  status: former
+- type: location
+  slug: kuraigana-island
+  status: former
+birthday:
+  month: 11
+  day: 11
+blood_type: XF
+ages:
+- years: 19
+  period: debut
+- years: 21
+  period: post_timeskip
+heights:
+- cm: 178
+  period: debut
+- cm: 181
+  period: post_timeskip
+bounties:
+- amount: 60000000
+  status: former
+  revealed_chapter: 213
+- amount: 120000000
+  status: former
+  revealed_chapter: 435
+- amount: 320000000
+  status: former
+  revealed_chapter: 801
+- amount: 1111000000
+  status: current
+  revealed_chapter: 1058

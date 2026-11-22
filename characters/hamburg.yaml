@@ -1,0 +1,29 @@
+slug: hamburg
+name:
+  en: Hamburg
+  ja: ハンバーグ
+  romaji: Hanbāgu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 305
+  episode: 207
+epithets:
+- en: Four-Footed Dash Freak
+  ja: 四足ダッシュの奇人
+  romaji: Yonsoku Dasshu no Kijin
+occupations:
+- name: Pirate
+  status: current
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current
+birthday:
+  month: 2
+  day: 22

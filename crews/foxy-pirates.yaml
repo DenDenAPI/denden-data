@@ -1,0 +1,12 @@
+slug: foxy-pirates
+name:
+  en: Foxy Pirates
+  ja: フォクシー海賊団
+  romaji: Fokushī Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 304
+  episode: 207
+captains:
+- character: foxy
+  status: current

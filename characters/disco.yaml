@@ -1,0 +1,33 @@
+slug: disco
+name:
+  en: Disco
+  ja: ディスコ
+  romaji: Disuko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 500
+  episode: 394
+epithets:
+- en: Walking Super Bazaar
+  ja: 歩くスーパーバザール
+  romaji: Aruku Sūpābazāru
+occupations:
+- name: Owner of Human Auctioning House
+  status: former
+affiliations:
+- type: location
+  slug: human-auctioning-house
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+birthday:
+  month: 6
+  day: 12

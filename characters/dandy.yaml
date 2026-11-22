@@ -1,0 +1,26 @@
+slug: dandy
+name:
+  en: Dandy
+  ja: ダンディ
+  romaji: Dandi
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Fish-Man Karate User Dandy
+  ja: 魚人空手使いダンディ
+  romaji: Gyojin Karate Tsukai Dandi
+occupations:
+- name: Pirate
+  status: current
+- name: Prisoner of the Great Prison
+  status: current
+affiliations:
+- type: organization
+  slug: buggys-delivery
+  status: current
+- type: location
+  slug: impel-down
+  status: current

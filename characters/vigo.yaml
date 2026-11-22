@@ -1,0 +1,24 @@
+slug: vigo
+name:
+  en: Vigo
+  ja: ヴィーゴ
+  romaji: Vuīgo
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Harbinger
+  ja: 厄災呼び
+  romaji: Yaku Wazawai Yobi
+occupations:
+- name: Fortune Teller
+  status: former
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+bounties:
+- amount: 15000000
+  status: former

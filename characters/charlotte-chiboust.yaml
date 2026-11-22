@@ -1,0 +1,32 @@
+slug: charlotte-chiboust
+name:
+  en: Charlotte Chiboust
+  ja: シャーロット・シブースト
+  romaji: Shārotto Shibūsuto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Mix
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: sanshoku-island
+  status: current
+ages:
+- years: 27
+  period: other

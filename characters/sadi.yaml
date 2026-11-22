@@ -1,0 +1,31 @@
+slug: sadi
+name:
+  en: Sadi
+  ja: サディちゃん
+  romaji: Sadi-chan
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 531
+  episode: 432
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 3
+  day: 5
+blood_type: S
+ages:
+- years: 21
+  period: debut
+- years: 23
+  period: post_timeskip
+heights:
+- cm: 183
+  period: other

@@ -1,0 +1,44 @@
+slug: morgan
+name:
+  en: Morgan
+  ja: モーガン
+  romaji: Mōgan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 4
+  episode: 2
+epithets:
+- en: Axe-Hand Morgan
+  ja: 斧手のモーガン
+  romaji: Onote no Mōgan
+occupations:
+- name: Marine Captain
+  status: former
+- name: Marine Lieutenant Commander
+  status: former
+- name: Marine Chief Petty Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: shells-town
+  status: former
+birthday:
+  month: 4
+  day: 13
+blood_type: XF
+ages:
+- years: 42
+  period: debut
+- years: 44
+  period: post_timeskip
+heights:
+- cm: 285
+  period: other

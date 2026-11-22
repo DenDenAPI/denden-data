@@ -1,0 +1,30 @@
+slug: kadar
+name:
+  en: Kadar
+  ja: カダル
+  romaji: Kadaru
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 622
+  episode: 541
+occupations:
+- name: Marine Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-2
+  status: current
+residences:
+- type: location
+  slug: g-2
+  status: current
+birthday:
+  month: 7
+  day: 29

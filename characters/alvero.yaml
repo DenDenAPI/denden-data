@@ -1,0 +1,17 @@
+slug: alvero
+name:
+  en: Alvero
+  ja: アルヴェロ
+  romaji: Aruvero
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: barto-club
+  status: current

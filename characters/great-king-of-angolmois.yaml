@@ -1,0 +1,23 @@
+slug: great-king-of-angolmois
+name:
+  en: Great King of Angolmois
+  ja: アンゴルモア大王
+  romaji: Angorumoa Daiō
+canon: anime_only
+gender: male
+status: alive
+first_appearance:
+  episode: 29
+epithets:
+- en: Great King of Terror
+  ja: 恐怖の大王
+  romaji: Kyōfu no Daiō
+occupations:
+- name: King
+  status: current
+- name: Bus driver
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current

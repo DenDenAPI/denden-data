@@ -1,0 +1,26 @@
+slug: charlotte-brownie
+name:
+  en: Charlotte Brownie
+  ja: シャーロット・ブラウニー
+  romaji: Shārotto Buraunī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 24
+  period: other

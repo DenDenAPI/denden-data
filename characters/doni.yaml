@@ -1,0 +1,17 @@
+slug: doni
+name:
+  en: Doni
+  ja: ドニ
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Determined Doni
+  ja: 勝ち気なドニ
+  romaji: Kachiki na Doni
+residences:
+- type: location
+  slug: jail-island
+  status: current

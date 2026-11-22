@@ -1,0 +1,30 @@
+slug: zou-arc
+order: 57
+name:
+  en: Zou Arc
+kind: story
+canon: manga
+sagas:
+- whole-cake-island-saga
+chapters:
+  count: 23
+  ranges:
+  - start: 802
+    end: 824
+volumes:
+  count: 3
+  ranges:
+  - start: 80
+    end: 82
+episodes:
+  count: 29
+  ranges:
+  - start: 751
+    end: 779
+years:
+  manga:
+    start: 2015
+    end: 2016
+  anime:
+    start: 2016
+    end: 2017

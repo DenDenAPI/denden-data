@@ -1,0 +1,20 @@
+slug: artur-bacca
+name:
+  en: Artur Bacca
+  ja: アルトゥール・バッカ
+  romaji: Arutūru Bakka
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate Captain
+  status: current
+origin:
+  location: swallow-island
+  region: North Blue
+residences:
+- type: location
+  slug: swallow-island
+  status: current

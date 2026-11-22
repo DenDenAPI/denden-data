@@ -1,0 +1,27 @@
+slug: scarlet
+name:
+  en: Scarlet
+  ja: スカーレット
+  romaji: Sukāretto
+canon: movie
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 429
+epithets:
+- en: Commander Scarlet
+  ja: スカーレット隊長
+  romaji: Sukāretto Taichō
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current
+residences:
+- type: location
+  slug: merveille
+  status: current

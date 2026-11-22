@@ -1,0 +1,21 @@
+slug: donovan
+name:
+  en: Donovan
+  ja: ドノバン
+  romaji: Donoban
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 318
+occupations:
+- name: Pirate
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former

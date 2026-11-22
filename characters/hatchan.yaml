@@ -1,0 +1,50 @@
+slug: hatchan
+name:
+  en: Hatchan
+  ja: はっちゃん
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 69
+  episode: 31
+epithets:
+- en: Six Sword Style Hachi
+  ja: 六刀流のハチ
+  romaji: Rokutōryū no Hachi
+occupations:
+- name: Takoyaki seller
+  status: current
+- name: Pirate Officer
+  status: former
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: former
+- type: crew
+  slug: sun-pirates
+  status: former
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: arlong-park
+  status: former
+birthday:
+  month: 8
+  day: 8
+blood_type: S
+ages:
+- years: 36
+  period: debut
+- years: 38
+  period: post_timeskip
+heights:
+- cm: 220
+  period: other
+bounties:
+- amount: 8000000
+  status: current

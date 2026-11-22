@@ -1,0 +1,24 @@
+slug: building-snake
+name:
+  en: Building Snake
+  ja: ビルディング・スネイク
+  romaji: Birudingu Suneiku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 41
+  episode: 4
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+- name: Navigator
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: ochanoma-papa
+name:
+  en: Ochanoma Papa
+  ja: お茶の間パパ
+  romaji: Ochanoma Papa
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: tearoom-pirates
+  status: current

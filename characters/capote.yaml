@@ -1,0 +1,25 @@
+slug: capote
+name:
+  en: Capote
+  ja: カポーティ
+  romaji: Kapōti
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 306
+  episode: 209
+occupations:
+- name: Pirate
+  status: current
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former
+birthday:
+  month: 5
+  day: 1

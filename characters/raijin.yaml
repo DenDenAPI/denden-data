@@ -1,0 +1,48 @@
+slug: raijin
+name:
+  en: Raijin
+  ja: 雷刃
+  romaji: Raijin
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+- type: organization
+  slug: kurozumi-family
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 6
+  day: 4
+blood_type: X
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 200
+  period: other

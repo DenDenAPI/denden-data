@@ -1,0 +1,48 @@
+slug: diamante
+name:
+  en: Diamante
+  ja: ディアマンテ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 700
+  episode: 629
+occupations:
+- name: Pirate Executive Officer
+  status: current
+- name: Colosseum Proprietor
+  status: former
+- name: Swordsman
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: downs
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 5
+  day: 29
+blood_type: S
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 525
+  period: other
+bounties:
+- amount: 99000000
+  status: former

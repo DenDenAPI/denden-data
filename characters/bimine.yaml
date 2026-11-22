@@ -1,0 +1,22 @@
+slug: bimine
+name:
+  en: Bimine
+  ja: ビミネ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 657
+occupations:
+- name: Mayor
+  status: current
+affiliations:
+- type: location
+  slug: pucci
+  status: current
+residences:
+- type: location
+  slug: pucci
+  status: current

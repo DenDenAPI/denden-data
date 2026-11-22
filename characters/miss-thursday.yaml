@@ -1,0 +1,21 @@
+slug: miss-thursday
+name:
+  en: Miss Thursday
+  ja: ミス・サースデー
+  romaji: Misu Sāsudē
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 155
+aliases:
+- en: Miss Thursday
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

@@ -1,0 +1,29 @@
+slug: charlotte-myukuru
+name:
+  en: Charlotte Myukuru
+  ja: シャーロット・ミュークル
+  romaji: Shārotto Myūkuru
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 11
+  day: 17
+ages:
+- years: 25
+  period: other

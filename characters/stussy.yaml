@@ -1,0 +1,38 @@
+slug: stussy
+name:
+  en: Stussy
+  ja: ステューシー
+  romaji: Sutyūshī
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 860
+  episode: 828
+epithets:
+- en: Queen of the Pleasure District
+  ja: 歓楽街の女王
+  romaji: Kanraku-gai no Joō
+occupations:
+- name: Spy
+  status: current
+- name: Cipher Pol Agent
+  status: former
+- name: Empress of the Underworld
+  status: current
+affiliations:
+- type: organization
+  slug: mads
+  status: former
+birthday:
+  month: 4
+  day: 24
+blood_type: S
+ages:
+- years: 36
+  period: other
+heights:
+- cm: 179
+  period: other

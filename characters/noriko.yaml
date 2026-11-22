@@ -1,0 +1,20 @@
+slug: noriko
+name:
+  en: Noriko
+  ja: のり子
+  romaji: Noriko
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 940
+  episode: 937
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current

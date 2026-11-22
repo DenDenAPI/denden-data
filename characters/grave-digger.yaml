@@ -1,0 +1,16 @@
+slug: grave-digger
+name:
+  en: Grave Digger
+canon: other
+gender: male
+species:
+- human
+status: deceased
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+residences:
+- type: location
+  slug: cactus-island
+  status: current

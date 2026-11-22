@@ -1,0 +1,15 @@
+slug: pororoka
+name:
+  en: Pororoka
+  ja: ポロロッカ
+  romaji: Pororo-ka
+canon: other
+gender: male
+status: deceased
+occupations:
+- name: Navigator
+  status: current
+residences:
+- type: location
+  slug: waford
+  status: current

@@ -1,0 +1,20 @@
+slug: acilia
+name:
+  en: Acilia
+  ja: アキリア
+  romaji: Akiria
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 654
+occupations:
+- name: Gladiator
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

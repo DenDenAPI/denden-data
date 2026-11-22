@@ -1,0 +1,24 @@
+slug: maitei
+name:
+  en: Maitei
+  ja: マイテー
+  romaji: Maitē
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Training Power
+  ja: 調教力
+  romaji: Chōkyō-ryoku
+occupations:
+- name: Beast Tamer
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+bounties:
+- amount: 85000000
+  status: former

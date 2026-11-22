@@ -1,0 +1,18 @@
+slug: kairiki-destroyers
+name:
+  en: Kairiki Destroyers
+  ja: 怪力デストロイヤーズ
+  romaji: Kairiki Desutoroiyāzu
+canon: manga
+first_appearance:
+  chapter: 329
+  episode: 233
+leaders: []
+affiliations:
+- type: organization
+  slug: franky-family
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

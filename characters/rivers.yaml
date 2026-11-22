@@ -1,0 +1,23 @@
+slug: rivers
+name:
+  en: Rivers
+  ja: リヴァーズ
+  romaji: Rivāzu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Gunner
+  status: current
+affiliations:
+- type: crew
+  slug: bellamy-pirates
+  status: current
+origin:
+  location: notice
+  region: North Blue

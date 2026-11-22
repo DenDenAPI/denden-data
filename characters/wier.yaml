@@ -1,0 +1,11 @@
+slug: wier
+name:
+  en: Wier
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Salvage Captain
+  status: current

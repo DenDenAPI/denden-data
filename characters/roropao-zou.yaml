@@ -1,0 +1,13 @@
+slug: roropao-zou
+name:
+  en: Roropao Zou
+  ja: ロロパオ・ゾウ
+  romaji: Roropao Zō
+canon: other
+species:
+- animal
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

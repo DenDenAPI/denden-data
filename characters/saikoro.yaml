@@ -1,0 +1,16 @@
+slug: saikoro
+name:
+  en: Saikoro
+  ja: さいころ
+  romaji: Saikoro
+canon: manga
+species:
+- animal
+status: unknown
+first_appearance:
+  chapter: 915
+  episode: 901
+residences:
+- type: location
+  slug: wano-country
+  status: current

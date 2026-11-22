@@ -1,0 +1,14 @@
+slug: kano-country
+name:
+  en: Kano Country
+  ja: 花ノ国
+  romaji: Kano Kuni
+canon: manga
+first_appearance:
+  chapter: 823
+  episode: 777
+region: West Blue
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

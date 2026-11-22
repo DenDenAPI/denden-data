@@ -1,0 +1,33 @@
+slug: conney
+name:
+  en: Conney
+  ja: コニー
+  romaji: Konī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1099
+  episode: 1133
+occupations:
+- name: Queen dowager of the Sorbet Kingdom
+  status: current
+origin:
+  location: sorbet-kingdom
+  region: South Blue
+residences:
+- type: location
+  slug: sorbet-kingdom
+  status: current
+birthday:
+  month: 5
+  day: 21
+blood_type: XF
+ages:
+- years: 76
+  period: other
+heights:
+- cm: 73
+  period: other

@@ -1,0 +1,24 @@
+slug: wolf-elbaph
+name:
+  en: Wolf (Elbaph)
+  ja: ウォルフ
+  romaji: Worufu
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1142
+  episode: 1172
+occupations:
+- name: Gym Teacher
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

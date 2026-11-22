@@ -1,0 +1,12 @@
+slug: horo
+name:
+  en: Horo
+  ja: ホロ
+  romaji: Horo
+canon: movie
+gender: male
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,28 @@
+slug: a-o
+name:
+  en: A O
+  ja: A・O
+  romaji: Ā Ō
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 551
+  episode: 460
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: a-o-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 1
+  day: 15

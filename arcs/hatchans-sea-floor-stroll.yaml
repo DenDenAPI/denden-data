@@ -1,0 +1,24 @@
+slug: hatchans-sea-floor-stroll
+order: 17
+name:
+  en: Hatchan's Sea-Floor Stroll
+  ja: はっちゃんの海底散歩
+  romaji: Hatchan no Kaitei Sanpo
+kind: cover_story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 40
+  ranges:
+  - start: 182
+    end: 228
+volumes:
+  count: 6
+  ranges:
+  - start: 20
+    end: 25
+years:
+  manga:
+    start: 2001
+    end: 2002

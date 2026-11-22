@@ -1,0 +1,20 @@
+slug: rolling-logan
+name:
+  en: Rolling Logan
+  ja: ローリング・ローガン
+  romaji: Rōringu Rōgan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 652
+occupations:
+- name: Army Commander
+  status: current
+affiliations:
+- type: location
+  slug: majiatsuka-kingdom
+  status: current

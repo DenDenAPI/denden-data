@@ -1,0 +1,24 @@
+slug: heaby
+name:
+  en: Heaby
+  ja: ヘビー
+  romaji: Hebī
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Heaby the Poison Snake
+  ja: 毒蛇のヘビー
+  romaji: Dokuhebi no Hebī
+- en: President Heaby
+  ja: ヘビー総裁
+  romaji: Hebī Sōsai
+occupations:
+- name: Battler's henchman
+  status: current
+bounties:
+- amount: 4200000
+  status: current
+  canon: movie

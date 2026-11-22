@@ -1,0 +1,14 @@
+slug: kinko-island
+name:
+  en: Kinko Island
+  ja: キンコ島
+  romaji: Kinko-tō
+canon: manga
+first_appearance:
+  chapter: 886
+  episode: 860
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

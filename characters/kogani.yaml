@@ -1,0 +1,20 @@
+slug: kogani
+name:
+  en: Kogani
+  ja: コガニー
+  romaji: Koganī
+canon: other
+species:
+- animal
+status: alive
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+- type: location
+  slug: waford
+  status: current

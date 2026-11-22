@@ -1,0 +1,20 @@
+slug: kalik-meidara
+name:
+  en: Kalik Meidara
+  ja: カリク・メイダラ
+  romaji: Kariku Meidara
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: kalik-pirates
+  status: current
+bounties:
+- amount: 50000000
+  status: current

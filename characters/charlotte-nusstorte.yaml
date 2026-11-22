@@ -1,0 +1,35 @@
+slug: charlotte-nusstorte
+name:
+  en: Charlotte Nusstorte
+  ja: シャーロット・ヌストルテ
+  romaji: Shārotto Nusutorute
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 854
+  episode: 822
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Transport
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: package-island
+  status: current
+birthday:
+  month: 1
+  day: 23
+ages:
+- years: 42
+  period: other

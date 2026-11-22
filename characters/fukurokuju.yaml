@@ -1,0 +1,50 @@
+slug: fukurokuju
+name:
+  en: Fukurokuju
+  ja: 福ロクジュ
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Captain of the Orochi Oniwabanshu
+  status: former
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+- type: organization
+  slug: kouzuki-family
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 3
+  day: 29
+blood_type: X
+ages:
+- years: 61
+  period: other
+heights:
+- cm: 221
+  period: other

@@ -1,0 +1,28 @@
+slug: reira
+name:
+  en: Reira
+  ja: レイラ
+  romaji: Reira
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Reira the Scythe
+  ja: 大鎌のレイラ
+  romaji: Ōgama no Reira
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: drayke-pirates
+  status: current
+bounties:
+- amount: 6000000
+  status: former
+- amount: 9000000
+  status: former
+- amount: 9500000
+  status: current

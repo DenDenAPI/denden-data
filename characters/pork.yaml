@@ -1,0 +1,15 @@
+slug: pork
+name:
+  en: Pork
+  ja: ポーク
+  romaji: Pōku
+canon: movie
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Turtle Car Racer
+  status: current
+origin:
+  region: South Blue

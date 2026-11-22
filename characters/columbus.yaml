@@ -1,0 +1,25 @@
+slug: columbus
+name:
+  en: Columbus
+  ja: コロンブス
+  romaji: Koronbusu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 906
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: yonta-maria-grand-fleet
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+birthday:
+  month: 5
+  day: 16

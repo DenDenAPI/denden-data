@@ -1,0 +1,32 @@
+slug: loguetown-arc
+order: 6
+name:
+  en: Loguetown Arc
+kind: story
+canon: manga
+sagas:
+- east-blue-saga
+chapters:
+  count: 5
+  ranges:
+  - start: 96
+    end: 100
+volumes:
+  count: 2
+  ranges:
+  - start: 11
+    end: 12
+episodes:
+  count: 7
+  ranges:
+  - start: 45
+    end: 45
+  - start: 48
+    end: 53
+years:
+  manga:
+    start: 1999
+    end: 1999
+  anime:
+    start: 2000
+    end: 2001

@@ -1,0 +1,17 @@
+slug: bravo
+name:
+  en: Bravo
+  ja: ブラボー
+  romaji: Burabō
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: banzai-pirates
+  status: current

@@ -1,0 +1,22 @@
+slug: beak-remark
+name:
+  en: Beak Remark
+  ja: ビーク・リマーク
+  romaji: Bīku Rimāku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 599
+  episode: 518
+occupations:
+- name: Fishmonger
+  status: current
+- name: Fisherman
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current

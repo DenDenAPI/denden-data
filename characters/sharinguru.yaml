@@ -1,0 +1,24 @@
+slug: sharinguru
+name:
+  en: Sharinguru
+  ja: シャリングル
+  romaji: Sharinguru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 428
+  episode: 310
+occupations:
+- name: Marine Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

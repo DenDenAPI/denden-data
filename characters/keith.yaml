@@ -1,0 +1,24 @@
+slug: keith
+name:
+  en: Keith
+  ja: キース
+  romaji: Kīsu
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 809
+  episode: 759
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: guardians
+  status: current
+residences:
+- type: location
+  slug: mokomo-dukedom
+  status: current

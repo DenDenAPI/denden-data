@@ -1,0 +1,13 @@
+slug: hanjomaru
+name:
+  en: Hanjomaru
+  ja: 般城丸
+  romaji: Hanjōmaru
+canon: manga
+first_appearance:
+  chapter: 581
+  episode: 490
+affiliations:
+- type: crew
+  slug: fallen-monk-pirates
+  status: current

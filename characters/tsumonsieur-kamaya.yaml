@@ -1,0 +1,20 @@
+slug: tsumonsieur-kamaya
+name:
+  en: Tsumonsieur Kamaya
+  ja: ツムッシュ・カマヤ
+  romaji: Tsumusshu Kamaya
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 392
+  episode: 275
+occupations:
+- name: Cipher Pol Agent
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former

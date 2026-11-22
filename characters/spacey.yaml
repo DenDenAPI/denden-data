@@ -1,0 +1,16 @@
+slug: spacey
+name:
+  en: Spacey
+  ja: スペーシー中尉
+  romaji: Supēshī Chūi
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 433
+occupations:
+- name: First Lieutenant
+  status: current
+birthday:
+  month: 3
+  day: 21

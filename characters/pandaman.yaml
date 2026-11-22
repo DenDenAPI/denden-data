@@ -1,0 +1,24 @@
+slug: pandaman
+name:
+  en: Pandaman
+  ja: パンダマン
+  romaji: Pandaman
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 44
+  episode: 16
+occupations:
+- name: Wrestler
+  status: current
+birthday:
+  month: 2
+  day: 29
+heights:
+- cm: 200
+  period: other
+bounties:
+- amount: 3333333
+  status: current
+  canon: movie

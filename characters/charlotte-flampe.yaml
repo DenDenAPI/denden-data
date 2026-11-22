@@ -1,0 +1,46 @@
+slug: charlotte-flampe
+name:
+  en: Charlotte Flampe
+  ja: シャーロット・フランペ
+  romaji: Shārotto Furanpe
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 891
+  episode: 865
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Honey
+  status: current
+- name: Special Attack Unit Captain
+  status: current
+- name: Katakuri Fan Club President
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: rokumitsu-island
+  status: current
+birthday:
+  month: 2
+  day: 11
+blood_type: S
+ages:
+- years: 15
+  period: other
+heights:
+- cm: 170
+  period: other

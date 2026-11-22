@@ -1,0 +1,14 @@
+slug: black-kingdom
+name:
+  en: Black Kingdom
+  ja: ブラック・キングダム
+  romaji: Burakku Kingudamu
+canon: other
+leaders:
+- character: ven-vendler
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: atarashi-island
+  status: current

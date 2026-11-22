@@ -1,0 +1,17 @@
+slug: waruno-furishiro
+name:
+  en: Waruno Furishiro
+  ja: 割野フリ四郎
+  romaji: Waruno Furishirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 918
+residences:
+- type: location
+  slug: wano-country
+  status: current

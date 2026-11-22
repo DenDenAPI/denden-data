@@ -1,0 +1,21 @@
+slug: liberta
+name:
+  en: Liberta
+  ja: りべルタ
+  romaji: Riberuta
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Wet Nurse
+  status: former
+affiliations:
+- type: organization
+  slug: riku-family
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

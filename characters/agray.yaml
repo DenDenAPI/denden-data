@@ -1,0 +1,20 @@
+slug: agray
+name:
+  en: Agray
+  ja: アグレイ
+  romaji: Agurei
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Lieutenant Commander
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: enies-lobby
+  status: current

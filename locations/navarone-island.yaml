@@ -1,0 +1,13 @@
+slug: navarone-island
+name:
+  en: Navarone Island
+  ja: ナバロン
+  romaji: Nabaron
+canon: movie
+first_appearance:
+  episode: 195
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current

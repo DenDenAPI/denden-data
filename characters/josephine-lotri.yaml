@@ -1,0 +1,17 @@
+slug: josephine-lotri
+name:
+  en: Josephine (LOTRI)
+  ja: ジョセフィーヌ
+  romaji: Josefīnu
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Shopkeeper
+  status: current
+residences:
+- type: location
+  slug: festa-circle
+  status: current

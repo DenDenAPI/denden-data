@@ -1,0 +1,29 @@
+slug: ronja
+name:
+  en: Ronja
+  ja: ローニャ
+  romaji: Rōnya
+canon: manga
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Student
+  status: current
+- name: Class President
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 27
+  period: other

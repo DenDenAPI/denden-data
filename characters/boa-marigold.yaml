@@ -1,0 +1,44 @@
+slug: boa-marigold
+name:
+  en: Boa Marigold
+  ja: ボア・マリーゴールド
+  romaji: Boa Marīgōrudo
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 409
+occupations:
+- name: Ruler of Amazon Lily
+  status: current
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 9
+  day: 5
+blood_type: S
+ages:
+- years: 26
+  period: debut
+- years: 28
+  period: post_timeskip
+heights:
+- cm: 432
+  period: other
+bounties:
+- amount: 40000000
+  status: current

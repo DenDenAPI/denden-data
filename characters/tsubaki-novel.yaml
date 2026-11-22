@@ -1,0 +1,17 @@
+slug: tsubaki-novel
+name:
+  en: Tsubaki (Novel)
+  ja: ツバキ
+  romaji: Tsubaki
+canon: other
+gender: male
+species:
+- human
+status: alive
+origin:
+  location: nazawaka-city
+  region: East Blue
+residences:
+- type: location
+  slug: nazawaka-city
+  status: current

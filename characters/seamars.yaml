@@ -1,0 +1,19 @@
+slug: seamars
+name:
+  en: Seamars
+  ja: シーマーズ
+  romaji: Shīmāzu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 440
+occupations:
+- name: Captain
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: space-pirates
+  status: current

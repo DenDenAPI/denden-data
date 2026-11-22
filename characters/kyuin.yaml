@@ -1,0 +1,28 @@
+slug: kyuin
+name:
+  en: Kyuin
+  ja: キュイーン
+  romaji: Kyuīn
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 755
+  episode: 692
+occupations:
+- name: Pirate
+  status: current
+- name: SMILE Factory Manager
+  status: former
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: former
+birthday:
+  month: 5
+  day: 30
+ages:
+- years: 20
+  period: other

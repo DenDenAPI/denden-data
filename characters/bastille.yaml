@@ -1,0 +1,42 @@
+slug: bastille
+name:
+  en: Bastille
+  ja: バスティーユ
+  romaji: Basutīyu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 462
+epithets:
+- en: Shark Cutter
+  ja: 鮫切り
+  romaji: Same-kiri
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 14
+blood_type: F
+ages:
+- years: 36
+  period: debut
+- years: 38
+  period: post_timeskip
+heights:
+- cm: 291
+  period: other
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

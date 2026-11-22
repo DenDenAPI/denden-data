@@ -1,0 +1,27 @@
+slug: ran
+name:
+  en: Ran
+  ja: ラン
+  romaji: Ran
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 410
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 11
+  day: 24

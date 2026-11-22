@@ -1,0 +1,19 @@
+slug: inukai
+name:
+  en: Inukai
+  ja: 犬飼
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 932
+  episode: 926
+occupations:
+- name: Official
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

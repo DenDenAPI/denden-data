@@ -1,0 +1,43 @@
+slug: gin
+name:
+  en: Gin
+  ja: ギン
+  romaji: Gin
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 44
+  episode: 21
+epithets:
+- en: Gin the "Man-Demon"
+  ja: 鬼人のギン
+  romaji: Kijin no Gin
+occupations:
+- name: Pirate
+  status: current
+- name: Combat Commander
+  status: current
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 4
+  day: 7
+blood_type: S
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 186
+  period: other
+bounties:
+- amount: 12000000
+  status: current

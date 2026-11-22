@@ -1,0 +1,14 @@
+slug: vaun
+name:
+  en: Vaun
+  ja: バーン
+  romaji: Bān
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

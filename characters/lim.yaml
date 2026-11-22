@@ -1,0 +1,28 @@
+slug: lim
+name:
+  en: Lim
+  ja: リム
+  romaji: Rimu
+canon: other
+gender: female
+status: alive
+first_appearance:
+  chapter: 1053
+occupations:
+- name: Sky Priestess
+  status: current
+origin:
+  location: waford
+residences:
+- type: location
+  slug: waford
+  status: current
+birthday:
+  month: 9
+  day: 2
+ages:
+- years: 214
+  period: other
+heights:
+- cm: 157
+  period: other

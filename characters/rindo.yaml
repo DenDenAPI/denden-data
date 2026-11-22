@@ -1,0 +1,29 @@
+slug: rindo
+name:
+  en: Rindo
+  ja: リンドウ
+  romaji: Rindō
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 410
+occupations:
+- name: Pirate
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 9
+  day: 16

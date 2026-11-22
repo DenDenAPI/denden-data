@@ -1,0 +1,14 @@
+slug: vodka-kingdom
+name:
+  en: Vodka Kingdom
+  ja: ウォッカ王国
+  romaji: Wokka Ōkoku
+canon: manga
+first_appearance:
+  chapter: 1049
+  episode: 1076
+region: Grand Line
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

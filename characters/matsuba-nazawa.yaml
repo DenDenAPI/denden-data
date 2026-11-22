@@ -1,0 +1,21 @@
+slug: matsuba-nazawa
+name:
+  en: Matsuba Nazawa
+  ja: マツバ゠ナザワ
+  romaji: Matsuba Nazawa
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: man
+  status: current
+affiliations:
+- type: organization
+  slug: nazawa-family
+  status: current
+residences:
+- type: location
+  slug: nazawaka-city
+  status: current

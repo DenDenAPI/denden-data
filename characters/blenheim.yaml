@@ -1,0 +1,27 @@
+slug: blenheim
+name:
+  en: Blenheim
+  ja: ブレンハイム
+  romaji: Burenhaimu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 461
+occupations:
+- name: 9th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 8
+  day: 6

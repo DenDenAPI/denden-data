@@ -1,0 +1,19 @@
+slug: julius
+name:
+  en: Julius
+  ja: ユリウス
+  romaji: Yuriusu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 578
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

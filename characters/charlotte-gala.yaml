@@ -1,0 +1,20 @@
+slug: charlotte-gala
+name:
+  en: Charlotte Gala
+  ja: シャーロット・ガラ
+  romaji: Shārotto Gara
+canon: manga
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+birthday:
+  month: 9
+  day: 29
+ages:
+- years: 46
+  period: other

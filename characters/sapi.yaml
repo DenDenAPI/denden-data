@@ -1,0 +1,23 @@
+slug: sapi
+name:
+  en: Sapi
+  ja: サピー
+  romaji: Sapī
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 98
+  episode: 51
+occupations:
+- name: Fishmonger
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 3
+  day: 22

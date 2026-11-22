@@ -1,0 +1,20 @@
+slug: bankuro
+name:
+  en: Bankuro
+  ja: バンクロ
+  romaji: Bankuro
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 967
+  episode: 959
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

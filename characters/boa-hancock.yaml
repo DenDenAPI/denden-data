@@ -1,0 +1,59 @@
+slug: boa-hancock
+name:
+  en: Boa Hancock
+  ja: ボア・ハンコック
+  romaji: Boa Hankokku
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 409
+epithets:
+- en: Snake Princess
+  ja: 蛇姫
+  romaji: Hebihime
+- en: Pirate Empress
+  ja: 海賊女帝
+  romaji: Kaizoku Jotei
+occupations:
+- name: Captain of the Kuja Pirates
+  status: current
+- name: Empress of Amazon Lily
+  status: current
+- name: Warlord of the Sea
+  status: former
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 9
+  day: 2
+blood_type: S
+ages:
+- years: 29
+  period: debut
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 191
+  period: debut
+bounties:
+- amount: 80000000
+  status: former
+  revealed_chapter: 522
+- amount: 1659000000
+  status: current
+  revealed_chapter: 1059

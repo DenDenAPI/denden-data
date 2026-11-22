@@ -1,0 +1,30 @@
+slug: egghead-arc
+order: 68
+name:
+  en: Egghead Arc
+kind: story
+canon: manga
+sagas:
+- final-saga
+chapters:
+  count: 68
+  ranges:
+  - start: 1058
+    end: 1125
+volumes:
+  count: 7
+  ranges:
+  - start: 105
+    end: 111
+episodes:
+  count: 70
+  ranges:
+  - start: 1086
+    end: 1155
+years:
+  manga:
+    start: 2022
+    end: 2024
+  anime:
+    start: 2023
+    end: 2025

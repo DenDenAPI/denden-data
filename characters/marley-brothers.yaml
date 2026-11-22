@@ -1,0 +1,34 @@
+slug: marley-brothers
+name:
+  en: Marley Brothers
+  ja: マーレイ兄弟
+  romaji: Mārei Kyōdai
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 197
+occupations:
+- name: Chefs
+  status: current
+- name: Dishwashers
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: mary-geoise
+  status: current
+- type: location
+  slug: g-8
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: former
+- type: location
+  slug: navarone-island
+  status: current

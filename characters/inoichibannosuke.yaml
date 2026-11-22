@@ -1,0 +1,19 @@
+slug: inoichibannosuke
+name:
+  en: Inoichibannosuke
+  ja: いの一番の助
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 917
+  episode: 904
+occupations:
+- name: Firefighter
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

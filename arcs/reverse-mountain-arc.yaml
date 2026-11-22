@@ -1,0 +1,30 @@
+slug: reverse-mountain-arc
+order: 10
+name:
+  en: Reverse Mountain Arc
+kind: story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 5
+  ranges:
+  - start: 101
+    end: 105
+volumes:
+  count: 1
+  ranges:
+  - start: 12
+    end: 12
+episodes:
+  count: 2
+  ranges:
+  - start: 62
+    end: 63
+years:
+  manga:
+    start: 1999
+    end: 1999
+  anime:
+    start: 2001
+    end: 2001

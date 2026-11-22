@@ -1,0 +1,13 @@
+slug: waver
+name:
+  en: Waver
+  ja: ウェイバー
+  romaji: Weibā
+canon: manga
+first_appearance:
+  chapter: 220
+  episode: 144
+affiliations:
+- type: location
+  slug: skypiea
+  status: current

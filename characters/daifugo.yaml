@@ -1,0 +1,25 @@
+slug: daifugo
+name:
+  en: Daifugo
+  ja: ダイフゴー
+  romaji: Daifugō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 934
+  episode: 928
+occupations:
+- name: Shinuchi
+  status: current
+- name: Vice Warden of the Prisoner Mine
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

@@ -1,0 +1,19 @@
+slug: aveyron
+name:
+  en: Aveyron
+  ja: アベロン
+  romaji: Aberon
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  episode: 747
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: silver-pirate-alliance
+  status: current

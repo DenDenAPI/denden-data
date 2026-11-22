@@ -1,0 +1,14 @@
+slug: maya-video-game
+name:
+  en: Maya (Video Game)
+  ja: マヤ
+  romaji: Maya
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: great-ground
+  status: current

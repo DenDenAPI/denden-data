@@ -1,0 +1,32 @@
+slug: straw-hats-separation-serial
+order: 43
+name:
+  en: Straw Hat's Separation Serial
+  ja: 旅行するなら…麦わらの一味それぞれの冒険
+  romaji: Ryokō suru nara... Mugiwara no Ichimi Sorezore no Bōken
+kind: cover_story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 16
+  ranges:
+  - start: 543
+    end: 560
+volumes:
+  count: 2
+  ranges:
+  - start: 56
+    end: 57
+episodes:
+  count: 4
+  ranges:
+  - start: 453
+    end: 456
+years:
+  manga:
+    start: 2009
+    end: 2009
+  anime:
+    start: 2009
+    end: 2010

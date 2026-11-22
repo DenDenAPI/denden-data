@@ -1,0 +1,46 @@
+slug: sentomaru
+name:
+  en: Sentomaru
+  ja: 戦桃丸
+  romaji: Sentōmaru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 497
+  episode: 401
+occupations:
+- name: Marine Officer
+  status: former
+- name: Captain of the Science Unit
+  status: former
+- name: Dr. Vegapunk's bodyguard
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: mt-kintoki
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: former
+birthday:
+  month: 3
+  day: 10
+blood_type: F
+ages:
+- years: 32
+  period: debut
+- years: 34
+  period: post_timeskip
+heights:
+- cm: 279
+  period: other
+marine_rating:
+  stars: 5
+  equivalent: 500000000

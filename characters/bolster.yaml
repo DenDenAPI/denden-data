@@ -1,0 +1,21 @@
+slug: bolster
+name:
+  en: Bolster
+  ja: ボルスター
+  romaji: Borusutā
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Crimson" Bolster'
+  ja: 紅蓮のボルスター
+  romaji: Guren no Borusutā
+occupations:
+- name: Mercenary
+  status: current
+residences:
+- type: location
+  slug: gray-terminal
+  status: former

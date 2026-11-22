@@ -1,0 +1,14 @@
+slug: wild-joe
+name:
+  en: Wild Joe
+  ja: ワイルド・ジョー
+  romaji: Wairudo Jō
+canon: movie
+status: deceased
+occupations:
+- name: Bounty Hunter
+  status: current
+bounties:
+- amount: 2000000
+  status: former
+  canon: movie

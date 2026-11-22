@@ -1,0 +1,17 @@
+slug: minochihuahua
+name:
+  en: Minochihuahua
+  ja: ミノチワワ
+  romaji: Minochiwawa
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 662
+occupations:
+- name: Jailer Beast
+  status: current
+affiliations:
+- type: location
+  slug: impel-down
+  status: current

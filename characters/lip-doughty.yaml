@@ -1,0 +1,30 @@
+slug: lip-doughty
+name:
+  en: Lip Doughty
+  ja: リップ・ドウティ
+  romaji: Rippu Douti
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 600
+  episode: 519
+epithets:
+- en: Lip "Service" Doughty
+  ja: リップ・"サービス"・ドウティ
+  romaji: Rippu Sābisu Douti
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+bounties:
+- amount: 88000000
+  status: former
+  revealed_chapter: 600

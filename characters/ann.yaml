@@ -1,0 +1,22 @@
+slug: ann
+name:
+  en: Ann
+  ja: アン
+  romaji: An
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Diva Ann
+  ja: 歌姫アン
+  romaji: Utahime An
+occupations:
+- name: Singer
+  status: current
+- name: Guest Announcer
+  status: former
+birthday:
+  month: 1
+  day: 1

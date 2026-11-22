@@ -1,0 +1,35 @@
+slug: boodle
+name:
+  en: Boodle
+  ja: ブードル
+  romaji: Būdoru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 12
+  episode: 6
+occupations:
+- name: Mayor
+  status: current
+origin:
+  location: organ-islands
+  region: East Blue
+residences:
+- type: location
+  slug: orange-town
+  status: current
+birthday:
+  month: 1
+  day: 16
+blood_type: F
+ages:
+- years: 73
+  period: debut
+- years: 75
+  period: post_timeskip
+heights:
+- cm: 172
+  period: other

@@ -1,0 +1,25 @@
+slug: funkfreed
+name:
+  en: Funkfreed
+  ja: ファンクフリード
+  romaji: Fankufurīdo
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 365
+  episode: 254
+occupations:
+- name: Spandam's sword
+  status: current
+- name: Pet
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+birthday:
+  month: 4
+  day: 28

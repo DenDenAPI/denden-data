@@ -1,0 +1,28 @@
+slug: bentag
+name:
+  en: Bentag
+  ja: ベンタグ
+  romaji: Bentagu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Misunderstanding
+  ja: 勘違い
+  romaji: Kanchigai
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: former
+bounties:
+- amount: 9000000
+  status: former

@@ -1,0 +1,23 @@
+slug: gazelleman
+name:
+  en: Gazelleman
+  ja: ガゼルマン
+  romaji: Gazeruman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 914
+  episode: 900
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

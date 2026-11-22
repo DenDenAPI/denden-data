@@ -1,0 +1,12 @@
+slug: pine-peak
+name:
+  en: Pine Peak
+  ja: パインピーク号
+  romaji: Pain Pīku-gō
+canon: anime_only
+first_appearance:
+  episode: 205
+affiliations:
+- type: organization
+  slug: marines
+  status: current

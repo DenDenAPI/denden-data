@@ -1,0 +1,32 @@
+slug: post-war-arc
+order: 45
+name:
+  en: Post-War Arc
+kind: story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 17
+  ranges:
+  - start: 581
+    end: 597
+volumes:
+  count: 3
+  ranges:
+  - start: 59
+    end: 61
+episodes:
+  count: 26
+  ranges:
+  - start: 490
+    end: 491
+  - start: 493
+    end: 516
+years:
+  manga:
+    start: 2010
+    end: 2010
+  anime:
+    start: 2011
+    end: 2011

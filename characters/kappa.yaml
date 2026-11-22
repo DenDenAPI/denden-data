@@ -1,0 +1,20 @@
+slug: kappa
+name:
+  en: Kappa
+  ja: カッパ
+  romaji: Kappa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 167
+  episode: 105
+occupations:
+- name: Shoeshiner
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: current

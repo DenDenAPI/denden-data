@@ -1,0 +1,14 @@
+slug: arlong-park
+name:
+  en: Arlong Park
+  ja: アーロンパーク
+  romaji: Āron Pāku
+canon: manga
+first_appearance:
+  chapter: 69
+  episode: 30
+parent: conomi-islands
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: current

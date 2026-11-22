@@ -1,0 +1,17 @@
+slug: rudd
+name:
+  en: Rudd
+  ja: ラッド
+  romaji: Raddo
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Police Officer
+  status: current
+residences:
+- type: location
+  slug: swallow-island
+  status: current

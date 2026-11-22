@@ -1,0 +1,24 @@
+slug: mato
+name:
+  en: Mato
+  ja: マト
+  romaji: Mato
+canon: manga
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1076
+  episode: 1109
+occupations:
+- name: Bartender
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 44
+  period: other
+  minimum: true

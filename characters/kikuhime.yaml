@@ -1,0 +1,17 @@
+slug: kikuhime
+name:
+  en: Kikuhime
+  ja: 菊姫
+canon: other
+gender: female
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: hitaki-family
+  status: current
+residences:
+- type: location
+  slug: yo
+  status: current

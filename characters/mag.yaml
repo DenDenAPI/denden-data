@@ -1,0 +1,27 @@
+slug: mag
+name:
+  en: Mag
+  ja: マグ
+  romaji: Magu
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 30
+  period: other

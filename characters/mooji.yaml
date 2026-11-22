@@ -1,0 +1,26 @@
+slug: mooji
+name:
+  en: Mooji
+  ja: ムージ
+  romaji: Mūji
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Beast Tamer
+  status: current
+affiliations:
+- type: crew
+  slug: buggy-pirates
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: nanohana
+  status: current
+bounties:
+- amount: 3800000
+  status: former

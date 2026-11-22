@@ -1,0 +1,34 @@
+slug: john-giant
+name:
+  en: John Giant
+  ja: ジョン・ジャイアント
+  romaji: Jon Jaianto
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 96
+  episode: 45
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: elbaph
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: former
+birthday:
+  month: 5
+  day: 19
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

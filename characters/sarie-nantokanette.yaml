@@ -1,0 +1,29 @@
+slug: sarie-nantokanette
+name:
+  en: Sarie Nantokanette
+  ja: サリー・ナントカネット
+  romaji: Sarī Nantokanetto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 823
+  episode: 777
+occupations:
+- name: Queen of the Goa Kingdom
+  status: current
+- name: Princess of the Goa Kingdom
+  status: former
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current
+residences:
+- type: location
+  slug: goa-kingdom
+  status: current
+birthday:
+  month: 7
+  day: 31

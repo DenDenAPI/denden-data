@@ -1,0 +1,20 @@
+slug: jabari
+name:
+  en: Jabari
+  ja: ジャバリ
+  romaji: Jabari
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 956
+  episode: 957
+occupations:
+- name: Cipher Pol Agent
+  status: current
+affiliations:
+- type: organization
+  slug: cipher-pol
+  status: current

@@ -1,0 +1,49 @@
+slug: curly-dadan
+name:
+  en: Curly Dadan
+  ja: カーリー・ダダン
+  romaji: Kārī Dadan
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 440
+  episode: 324
+occupations:
+- name: Mountain Bandit Boss
+  status: current
+- name: Caretaker of Monkey D. Luffy
+  status: current
+- name: Portgas D. Ace
+  status: current
+- name: Sabo
+  status: former
+affiliations:
+- type: organization
+  slug: dadan-family
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: mt-colubo
+  status: current
+birthday:
+  month: 8
+  day: 30
+blood_type: X
+ages:
+- years: 43
+  period: debut
+- years: 53
+  period: pre_timeskip
+- years: 55
+  period: post_timeskip
+heights:
+- cm: 221
+  period: other
+bounties:
+- amount: 7800000
+  status: current

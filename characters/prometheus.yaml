@@ -1,0 +1,40 @@
+slug: prometheus
+name:
+  en: Prometheus
+  ja: プロメテウス
+  romaji: Purometeusu
+canon: manga
+gender: male
+species:
+- homie
+status: unknown
+first_appearance:
+  chapter: 827
+  episode: 786
+epithets:
+- en: Prometheus the Sun
+  ja: 太陽のプロメテウス
+  romaji: Taiyō no Purometeusu
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 7
+  day: 19
+ages:
+- years: 44
+  period: other
+  minimum: true
+heights:
+- cm: 239
+  period: other

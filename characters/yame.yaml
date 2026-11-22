@@ -1,0 +1,17 @@
+slug: yame
+name:
+  en: Yame
+  ja: お八女
+  romaji: O-Yame
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 917
+  episode: 904
+residences:
+- type: location
+  slug: wano-country
+  status: current

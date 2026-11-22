@@ -1,0 +1,12 @@
+slug: bolt
+name:
+  en: Bolt
+  ja: ボルト
+  romaji: Boruto
+canon: movie
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current

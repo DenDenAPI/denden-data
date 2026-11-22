@@ -1,0 +1,20 @@
+slug: erik
+name:
+  en: Erik
+  ja: エリック
+  romaji: Erikku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 167
+  episode: 105
+occupations:
+- name: Rebel
+  status: former
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: former

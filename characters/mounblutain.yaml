@@ -1,0 +1,32 @@
+slug: mounblutain
+name:
+  en: Mounblutain
+  ja: マウンブルテン
+  romaji: Maunburuten
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 598
+  episode: 517
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 1
+  day: 9
+blood_type: XF
+ages:
+- years: 30
+  period: other
+heights:
+- cm: 294
+  period: other

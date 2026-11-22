@@ -1,0 +1,23 @@
+slug: world-government
+name:
+  en: World Government
+  ja: 世界政府
+  romaji: Sekai Seifu
+canon: manga
+status: active
+first_appearance:
+  chapter: 142
+  episode: 91
+leaders:
+- character: nerona-imu
+  status: current
+- character: kong
+  status: current
+affiliations:
+- type: location
+  slug: blue-planet
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

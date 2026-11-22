@@ -1,0 +1,19 @@
+slug: maccus
+name:
+  en: Maccus
+  ja: マッカス
+  romaji: Makkasu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: former
+- name: Adoptive father
+  status: current
+affiliations:
+- type: crew
+  slug: bayan-pirates
+  status: former

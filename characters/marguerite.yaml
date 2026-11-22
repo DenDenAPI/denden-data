@@ -1,0 +1,36 @@
+slug: marguerite
+name:
+  en: Marguerite
+  ja: マーガレット
+  romaji: Māgaretto
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 514
+  episode: 408
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 4
+  day: 9
+blood_type: F
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 178
+  period: other

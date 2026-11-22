@@ -1,0 +1,20 @@
+slug: idor
+name:
+  en: Idor
+  ja: イードル
+  romaji: Īdoru
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Talkative
+  ja: しゃべり屋
+  romaji: Shaberi-ya
+occupations:
+- name: Con artist
+  status: current
+bounties:
+- amount: 9000000
+  status: former

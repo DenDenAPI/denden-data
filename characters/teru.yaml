@@ -1,0 +1,20 @@
+slug: teru
+name:
+  en: Teru
+  ja: テル
+  romaji: Teru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Carpenter
+  status: current
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current

@@ -1,0 +1,14 @@
+slug: miho
+name:
+  en: Miho
+  ja: ミホ
+  romaji: Miho
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

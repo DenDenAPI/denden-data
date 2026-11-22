@@ -1,0 +1,50 @@
+slug: mikita
+name:
+  en: Mikita
+  ja: ミキータ
+  romaji: Mikīta
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 110
+  episode: 65
+epithets:
+- en: Courier
+  ja: 運び屋
+  romaji: Hakobi-ya
+aliases:
+- en: Miss Valentine
+  ja: ミス・バレンタイン
+  romaji: Misu Barentain
+occupations:
+- name: Cafe Pâtissier
+  status: current
+- name: Officer Agent
+  status: former
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: West Blue
+birthday:
+  month: 2
+  day: 14
+blood_type: XF
+ages:
+- years: 22
+  period: debut
+- years: 24
+  period: post_timeskip
+heights:
+- cm: 177
+  period: other
+bounties:
+- amount: 7500000
+  status: current

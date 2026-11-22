@@ -1,0 +1,36 @@
+slug: kurozumi-orochi
+name:
+  en: Kurozumi Orochi
+  ja: 黒炭オロチ
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 927
+  episode: 921
+occupations:
+- name: Shogun of Wano Country
+  status: former
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 9
+  day: 23
+blood_type: XF
+heights:
+- cm: 350
+  period: other

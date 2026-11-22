@@ -1,0 +1,15 @@
+slug: juki
+name:
+  en: Juki
+  ja: 十鬼
+  romaji: Jūki
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 977
+  episode: 982
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

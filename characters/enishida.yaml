@@ -1,0 +1,20 @@
+slug: enishida
+name:
+  en: Enishida
+  ja: エニシダ
+  romaji: Enishida
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 517
+  episode: 411
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 2
+  day: 24

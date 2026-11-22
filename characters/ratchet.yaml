@@ -1,0 +1,21 @@
+slug: ratchet
+name:
+  en: Ratchet
+  ja: ラチェット
+  romaji: Rachetto
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Feudal Lord of Mecha Island
+  status: current
+affiliations:
+- type: location
+  slug: mecha-island
+  status: current
+residences:
+- type: location
+  slug: mecha-island
+  status: current

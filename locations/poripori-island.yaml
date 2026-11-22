@@ -1,0 +1,14 @@
+slug: poripori-island
+name:
+  en: Poripori Island
+  ja: ポリポリ島
+  romaji: Poripori-tō
+canon: manga
+first_appearance:
+  chapter: 899
+  episode: 874
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

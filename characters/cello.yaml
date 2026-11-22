@@ -1,0 +1,17 @@
+slug: cello
+name:
+  en: Cello
+  ja: セロ
+  romaji: Sero
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: King
+  status: current
+residences:
+- type: location
+  slug: cream-mist
+  status: current

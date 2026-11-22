@@ -1,0 +1,17 @@
+slug: bonbon
+name:
+  en: Bonbon
+  ja: ボンボン
+  romaji: Bonbon
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Scientist
+  status: current
+affiliations:
+- type: organization
+  slug: b-rst-lab
+  status: current

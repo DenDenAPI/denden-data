@@ -1,0 +1,41 @@
+slug: charlotte-snack
+name:
+  en: Charlotte Snack
+  ja: シャーロット・スナック
+  romaji: Shārotto Sunakku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 798
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Fries
+  status: current
+- name: Sweet Commander
+  status: former
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: potato-island
+  status: current
+birthday:
+  month: 10
+  day: 29
+ages:
+- years: 30
+  period: other
+bounties:
+- amount: 600000000
+  status: current
+  revealed_chapter: 894

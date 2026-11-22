@@ -1,0 +1,20 @@
+slug: jaguar
+name:
+  en: Jaguar
+  ja: ジャガー
+  romaji: Jagā
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1039
+  episode: 1067
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

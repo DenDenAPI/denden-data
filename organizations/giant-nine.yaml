@@ -1,0 +1,17 @@
+slug: giant-nine
+name:
+  en: Giant Nine
+  ja: ジャイアント・ナイン
+  romaji: Jaianto Nain
+canon: other
+leaders:
+- character: trap
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: trap-tower
+  status: current

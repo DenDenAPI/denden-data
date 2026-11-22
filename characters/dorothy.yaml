@@ -1,0 +1,17 @@
+slug: dorothy
+name:
+  en: Dorothy
+  ja: ドロシー
+  romaji: Doroshī
+canon: movie
+gender: female
+species:
+- robot
+status: alive
+occupations:
+- name: Maid
+  status: current
+residences:
+- type: location
+  slug: mecha-island
+  status: current

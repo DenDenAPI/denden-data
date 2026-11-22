@@ -1,0 +1,20 @@
+slug: mishoin-cashible
+name:
+  en: Mishoin Cashible
+  ja: ミショイン・キャシブル
+  romaji: Mishoin Kyashiburu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 324
+  episode: 229
+occupations:
+- name: Bull Rental Salesman
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

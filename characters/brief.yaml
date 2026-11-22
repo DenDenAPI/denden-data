@@ -1,0 +1,19 @@
+slug: brief
+name:
+  en: Brief
+  ja: ブリーフ
+  romaji: Burīfu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: mustache-pirates
+  status: current

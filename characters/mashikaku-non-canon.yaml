@@ -1,0 +1,19 @@
+slug: mashikaku-non-canon
+name:
+  en: Mashikaku (Non-Canon)
+  ja: マシカク
+  romaji: Mashikaku
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 213
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

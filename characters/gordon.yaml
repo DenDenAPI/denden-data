@@ -1,0 +1,17 @@
+slug: gordon
+name:
+  en: Gordon
+  ja: ゴードン
+  romaji: Gōdon
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: King
+  status: former
+residences:
+- type: location
+  slug: elegia
+  status: current

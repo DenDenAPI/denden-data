@@ -1,0 +1,17 @@
+slug: gonzo
+name:
+  en: Gonzo
+  ja: 権造
+  romaji: Gonzō
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Butler
+  status: current
+residences:
+- type: location
+  slug: mecha-island
+  status: current

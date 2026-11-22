@@ -1,0 +1,26 @@
+slug: charlotte-joconde
+name:
+  en: Charlotte Joconde
+  ja: シャーロット・ジョコンド
+  romaji: Shārotto Jokondo
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 23
+  period: other

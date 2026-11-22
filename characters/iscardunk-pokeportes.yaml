@@ -1,0 +1,21 @@
+slug: iscardunk-pokeportes
+name:
+  en: Iscardunk Pokeportes
+  ja: イスカルダンク・ポケポーテス
+  romaji: Isukarudanku Pokepōtesu
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  episode: 55
+occupations:
+- name: King
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: lost-island
+  status: current

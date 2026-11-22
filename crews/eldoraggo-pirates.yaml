@@ -1,0 +1,10 @@
+slug: eldoraggo-pirates
+name:
+  en: Eldoraggo Pirates
+  ja: エルドラゴ海賊団エルドラゴ一味
+  romaji: Erudorago Kaizoku-danErudorago Ichimi
+canon: movie
+status: disbanded
+captains:
+- character: eldoraggo
+  status: current

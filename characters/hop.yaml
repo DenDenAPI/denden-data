@@ -1,0 +1,20 @@
+slug: hop
+name:
+  en: Hop
+  ja: ホップ
+  romaji: Hoppu
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1040
+  episode: 1112
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

@@ -1,0 +1,21 @@
+slug: helsing
+name:
+  en: Helsing
+  ja: ヘルシング
+  romaji: Herushingu
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Helsing of the Wooden Sword
+  ja: 木刀のヘルシング
+  romaji: Bokutō no Herushingu
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: lytton-food-thieves
+  status: current

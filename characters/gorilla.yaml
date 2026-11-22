@@ -1,0 +1,27 @@
+slug: gorilla
+name:
+  en: Gorilla
+  ja: ゴリラ
+  romaji: Gorira
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 596
+  episode: 514
+occupations:
+- name: Marine Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+birthday:
+  month: 5
+  day: 18
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

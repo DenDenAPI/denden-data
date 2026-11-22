@@ -1,0 +1,27 @@
+slug: cocox
+name:
+  en: Cocox
+  ja: ココックス
+  romaji: Kokokkusu
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 22
+  episode: 18
+affiliations:
+- type: location
+  slug: island-of-rare-animals
+  status: current
+origin:
+  location: island-of-rare-animals
+  region: East Blue
+residences:
+- type: location
+  slug: island-of-rare-animals
+  status: current
+birthday:
+  month: 2
+  day: 19

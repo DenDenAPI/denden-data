@@ -1,0 +1,42 @@
+slug: charlotte-pudding
+name:
+  en: Charlotte Pudding
+  ja: シャーロット・プリン
+  romaji: Shārotto Purin
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 651
+  episode: 571
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Chocolatier
+  status: current
+- name: Cafe Owner
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+residences:
+- type: location
+  slug: cacao-island
+  status: current
+birthday:
+  month: 6
+  day: 25
+blood_type: XF
+ages:
+- years: 16
+  period: other
+heights:
+- cm: 166
+  period: other

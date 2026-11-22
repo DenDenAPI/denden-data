@@ -1,0 +1,47 @@
+slug: charlotte-daifuku
+name:
+  en: Charlotte Daifuku
+  ja: シャーロット・ダイフク
+  romaji: Shārotto Daifuku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 861
+  episode: 826
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Beans
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: poripori-island
+  status: current
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 11
+  day: 25
+blood_type: X
+ages:
+- years: 48
+  period: other
+heights:
+- cm: 489
+  period: other
+bounties:
+- amount: 300000000
+  status: current

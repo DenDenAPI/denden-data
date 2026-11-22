@@ -1,0 +1,19 @@
+slug: sukare-karehosui
+name:
+  en: Sukare Karehosui
+  ja: スーカレ・カレホスイ
+  romaji: Sūkare Karehosui
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 963
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: germ-pirates
+  status: current

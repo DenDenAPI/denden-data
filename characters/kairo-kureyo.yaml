@@ -1,0 +1,18 @@
+slug: kairo-kureyo
+name:
+  en: Kairo Kureyo
+  ja: カイロ ・クレヨ
+  romaji: Kairo Kureyo
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 535
+  episode: 437
+bounties:
+- amount: 100000000
+  status: current
+  minimum: true
+  revealed_chapter: 536

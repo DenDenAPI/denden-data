@@ -1,0 +1,17 @@
+slug: naomi-drunk
+name:
+  en: Naomi Drunk
+  ja: ナオミ・ドランク
+  romaji: Naomi Doranku
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: treasure-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: corto
+name:
+  en: Corto
+  ja: コルト
+  romaji: Koruto
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 426
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current

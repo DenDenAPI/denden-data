@@ -1,0 +1,16 @@
+slug: hyougoro-family
+name:
+  en: Hyougoro Family
+  ja: ヒョウ五郎一家
+  romaji: Hyōgorō Ikka
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 960
+  episode: 960
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

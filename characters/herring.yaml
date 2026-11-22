@@ -1,0 +1,17 @@
+slug: herring
+name:
+  en: Herring
+  ja: ヘリング
+  romaji: Heringu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: ganzack-pirates
+  status: former

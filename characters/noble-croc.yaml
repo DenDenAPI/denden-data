@@ -1,0 +1,24 @@
+slug: noble-croc
+name:
+  en: Noble Croc
+  ja: 貴族ワニ
+  romaji: Kizoku Wani
+canon: manga
+gender: male
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 831
+  episode: 791
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 10
+  day: 17

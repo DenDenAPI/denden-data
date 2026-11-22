@@ -1,0 +1,34 @@
+slug: germa-66s-ahh-an-emotionless-excursion
+order: 66
+name:
+  en: Germa 66's Ahh... An Emotionless Excursion
+  ja: ジェルマ66のあゝ無感情海遊記
+  romaji: Jeruma Daburu Shikkusu no Ā Mukanjō Kaiyūki
+kind: cover_story
+canon: manga
+sagas:
+- wano-country-saga
+chapters:
+  count: 33
+  ranges:
+  - start: 1035
+    end: 1078
+volumes:
+  count: 6
+  ranges:
+  - start: 102
+    end: 107
+episodes:
+  count: 2
+  ranges:
+  - start: 1093
+    end: 1093
+  - start: 1114
+    end: 1114
+years:
+  manga:
+    start: 2021
+    end: 2023
+  anime:
+    start: 2024
+    end: 2024

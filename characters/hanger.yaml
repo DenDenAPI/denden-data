@@ -1,0 +1,29 @@
+slug: hanger
+name:
+  en: Hanger
+  ja: ハンガー
+  romaji: Hangā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 97
+  episode: 48
+occupations:
+- name: Salesperson
+  status: current
+affiliations:
+- type: location
+  slug: loguetown
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 9
+  day: 23

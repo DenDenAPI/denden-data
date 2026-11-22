@@ -1,0 +1,12 @@
+slug: hawkins-pirates
+name:
+  en: Hawkins Pirates
+  ja: ホーキンス海賊団
+  romaji: Hōkinsu Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 498
+  episode: 392
+captains:
+- character: basil-hawkins
+  status: current

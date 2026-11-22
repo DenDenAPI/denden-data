@@ -1,0 +1,20 @@
+slug: terry-gilteo
+name:
+  en: Terry Gilteo
+  ja: テリー・ギルテオ
+  romaji: Terī Giruteo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 440
+  episode: 324
+occupations:
+- name: Revolutionary Army Intelligence Controller
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

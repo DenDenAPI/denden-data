@@ -1,0 +1,11 @@
+slug: susaburo
+name:
+  en: Susaburo
+  ja: スサブロ
+  romaji: Susaburo
+canon: other
+status: deceased
+residences:
+- type: location
+  slug: waford
+  status: current

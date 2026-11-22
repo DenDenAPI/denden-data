@@ -1,0 +1,14 @@
+slug: trade
+name:
+  en: Trade
+  ja: トレード
+  romaji: Torēdo
+canon: other
+gender: female
+species:
+- animal
+status: alive
+residences:
+- type: location
+  slug: waford
+  status: former

@@ -1,0 +1,21 @@
+slug: lytton
+name:
+  en: Lytton
+  ja: リットン
+  romaji: Ritton
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Lytton the Well-Fed
+  ja: 飽食のリットン
+  romaji: Hōshoku no Ritton
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: lytton-food-thieves
+  status: current

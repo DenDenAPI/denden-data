@@ -1,0 +1,18 @@
+slug: knights-of-god
+name:
+  en: Knights of God
+  ja: 神の騎士団
+  romaji: Kami no Kishidan
+canon: manga
+first_appearance:
+  chapter: 907
+  episode: 887
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

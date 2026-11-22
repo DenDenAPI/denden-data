@@ -1,0 +1,27 @@
+slug: tristan
+name:
+  en: Tristan
+  ja: トリスタン
+  romaji: Torisutan
+canon: manga
+gender: female
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 795
+  episode: 739
+occupations:
+- name: Nurse
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

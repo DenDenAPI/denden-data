@@ -1,0 +1,23 @@
+slug: scarlett
+name:
+  en: Scarlett
+  ja: スカーレット
+  romaji: Sukāretto
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 721
+  episode: 650
+occupations:
+- name: Princess
+  status: former
+affiliations:
+- type: organization
+  slug: riku-family
+  status: current
+birthday:
+  month: 10
+  day: 28

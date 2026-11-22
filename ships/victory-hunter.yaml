@@ -1,0 +1,16 @@
+slug: victory-hunter
+name:
+  en: Victory Hunter
+  ja: ビクトリー・ハンター号
+  romaji: Bikutorī Hantā-gō
+canon: manga
+first_appearance:
+  chapter: 219
+  episode: 144
+affiliations:
+- type: crew
+  slug: saruyama-alliance
+  status: current
+- type: crew
+  slug: masira-pirates
+  status: current

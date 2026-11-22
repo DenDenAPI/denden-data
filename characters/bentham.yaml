@@ -1,0 +1,51 @@
+slug: bentham
+name:
+  en: Bentham
+  ja: ベンサム
+  romaji: Bensamu
+canon: anime_only
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 129
+  episode: 78
+epithets:
+- en: Bentham of the Wild
+  ja: 荒野のベンサム
+  romaji: Kōya no Bensamu
+aliases:
+- en: Mr. 2 Bon Kurei
+  ja: Mr. 2・ボン・クレー
+  romaji: Misutā Tsū Bon Kurē
+occupations:
+- name: Queen of Newkama Land
+  status: current
+- name: Officer Agent
+  status: former
+- name: Prisoner of the Great Prison
+  status: current
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: East Blue
+birthday:
+  month: 8
+  day: 15
+blood_type: F
+ages:
+- years: 30
+  period: debut
+- years: 32
+  period: post_timeskip
+heights:
+- cm: 238
+  period: other
+bounties:
+- amount: 32000000
+  status: former

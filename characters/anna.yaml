@@ -1,0 +1,18 @@
+slug: anna
+name:
+  en: Anna
+  ja: アンナ
+  romaji: An'na
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Anna the Lonely
+  ja: 寂しがり屋のアンナ
+  romaji: Samishigari-ya no An'na
+residences:
+- type: location
+  slug: jail-island
+  status: current

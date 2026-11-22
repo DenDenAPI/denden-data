@@ -1,0 +1,39 @@
+slug: dias
+name:
+  en: Dias
+  ja: ディアス
+  romaji: Diasu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Boomerang
+  ja: ブーメラン
+  romaji: Būmeran
+occupations:
+- name: Salesman
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: former
+residences:
+- type: location
+  slug: silver-arrow-island
+  status: current
+- type: location
+  slug: loguetown
+  status: former
+bounties:
+- amount: 100000
+  status: former
+- amount: 3000000
+  status: former
+- amount: 9500000
+  status: former
+- amount: 11000000
+  status: current

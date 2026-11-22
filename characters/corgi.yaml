@@ -1,0 +1,23 @@
+slug: corgi
+name:
+  en: Corgi
+  ja: コーギー
+  romaji: Kōgī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 328
+  episode: 233
+occupations:
+- name: Government official
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+birthday:
+  month: 8
+  day: 25

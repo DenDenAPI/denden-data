@@ -1,0 +1,22 @@
+slug: sennorikyuru
+name:
+  en: Sennorikyuru
+  ja: 千利休留
+  romaji: Sen'norikyūru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1053
+  episode: 1080
+occupations:
+- name: Master of Tea Ceremonies
+  status: current
+- name: Cook
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

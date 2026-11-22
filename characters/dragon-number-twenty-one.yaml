@@ -1,0 +1,16 @@
+slug: dragon-number-twenty-one
+name:
+  en: Dragon Number Twenty-One
+  ja: ドラゴン二十一號
+  romaji: Doragon Nijūichi-gō
+canon: manga
+species:
+- animal
+status: unknown
+first_appearance:
+  chapter: 675
+  episode: 601
+residences:
+- type: location
+  slug: punk-hazard
+  status: current

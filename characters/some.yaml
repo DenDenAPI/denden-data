@@ -1,0 +1,16 @@
+slug: some
+name:
+  en: Some
+  ja: お染
+  romaji: O-Some
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1031
+  episode: 1057
+occupations:
+- name: Geisha
+  status: current

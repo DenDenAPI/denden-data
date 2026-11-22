@@ -1,0 +1,14 @@
+slug: nuts-island
+name:
+  en: Nuts Island
+  ja: ナッツ島
+  romaji: Nattsu-tō
+canon: manga
+first_appearance:
+  chapter: 859
+  episode: 829
+parent: new-world
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

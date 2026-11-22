@@ -1,0 +1,23 @@
+slug: draw
+name:
+  en: Draw
+  ja: ドロウ
+  romaji: Dorō
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Lieutenant Commander
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

@@ -1,0 +1,23 @@
+slug: hardy
+name:
+  en: Hardy
+  ja: ハーディ
+  romaji: Hādi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 54
+occupations:
+- name: Lieutenant Commander
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: 8th-branch
+  status: current

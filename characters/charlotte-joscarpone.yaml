@@ -1,0 +1,29 @@
+slug: charlotte-joscarpone
+name:
+  en: Charlotte Joscarpone
+  ja: シャーロット・ジョスカルポーネ
+  romaji: Shārotto Josukarupōne
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 2
+  day: 27
+ages:
+- years: 20
+  period: other

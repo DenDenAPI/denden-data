@@ -1,0 +1,13 @@
+slug: cutie-wagon
+name:
+  en: Cutie Wagon
+  ja: キューティワゴン号
+  romaji: Kyūti Wagon-gō
+canon: manga
+first_appearance:
+  chapter: 306
+  episode: 209
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

@@ -1,0 +1,22 @@
+slug: bungo
+name:
+  en: Bungo
+  ja: ブン業
+  romaji: Bungō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 928
+  episode: 921
+occupations:
+- name: Arsonist
+  status: current
+- name: Graverobber
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

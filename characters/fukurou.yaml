@@ -1,0 +1,38 @@
+slug: fukurou
+name:
+  en: Fukurou
+  ja: フクロウ
+  romaji: Fukurō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 375
+  episode: 264
+epithets:
+- en: Fukurou the Silent
+  ja: 音無しのフクロウ
+  romaji: Otonashi no Fukurō
+occupations:
+- name: Cipher Pol Agent
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 6
+  day: 29
+blood_type: S
+ages:
+- years: 29
+  period: debut
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 331
+  period: other

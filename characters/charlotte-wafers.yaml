@@ -1,0 +1,20 @@
+slug: charlotte-wafers
+name:
+  en: Charlotte Wafers
+  ja: シャーロット・ウエハース
+  romaji: Shārotto Uehāsu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+ages:
+- years: 13
+  period: other

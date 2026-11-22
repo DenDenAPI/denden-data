@@ -1,0 +1,17 @@
+slug: uholisia
+name:
+  en: Uholisia
+  ja: ウホリシア
+  romaji: Uhorishia
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 877
+  episode: 710
+affiliations:
+- type: crew
+  slug: niho-navy
+  status: current

@@ -1,0 +1,17 @@
+slug: marine-rookie-arc
+order: 58
+name:
+  en: Marine Rookie Arc
+kind: filler
+canon: anime_only
+sagas:
+- whole-cake-island-saga
+episodes:
+  count: 3
+  ranges:
+  - start: 780
+    end: 782
+years:
+  anime:
+    start: 2017
+    end: 2017

@@ -1,0 +1,41 @@
+slug: tsuru
+name:
+  en: Tsuru
+  ja: つる
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+epithets:
+- en: Great Staff Officer
+  ja: 大参謀
+  romaji: Dai-Sanbō
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 3
+  day: 26
+blood_type: X
+ages:
+- years: 74
+  period: debut
+- years: 76
+  period: post_timeskip
+heights:
+- cm: 204
+  period: other
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

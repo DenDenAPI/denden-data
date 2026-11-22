@@ -1,0 +1,23 @@
+slug: eric
+name:
+  en: Eric
+  ja: エリック
+  romaji: Erikku
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 54
+epithets:
+- en: Eric the Whirlwind
+  ja: つむじ風のエリック
+  romaji: Tsumujikaze no Erikku
+occupations:
+- name: Mercenary
+  status: current
+affiliations:
+- type: location
+  slug: 8th-branch
+  status: current

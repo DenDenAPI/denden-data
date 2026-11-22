@@ -1,0 +1,17 @@
+slug: deigoro
+name:
+  en: Deigoro
+  ja: でい五郎
+  romaji: Deigorō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 958
+  episode: 959
+residences:
+- type: location
+  slug: wano-country
+  status: current

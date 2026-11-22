@@ -1,0 +1,16 @@
+slug: davy-family
+name:
+  en: Davy Family
+  ja: デービー一族
+  romaji: Dēbī Ichizoku
+canon: manga
+status: active
+first_appearance:
+  chapter: 223
+  episode: 146
+leaders: []
+affiliations:
+- type: location
+  slug: god-valley
+  status: current
+residences: []

@@ -1,0 +1,12 @@
+slug: harry
+name:
+  en: Harry
+  ja: ハリー
+  romaji: Harī
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 135

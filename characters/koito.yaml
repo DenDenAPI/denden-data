@@ -1,0 +1,17 @@
+slug: koito
+name:
+  en: Koito
+  ja: 小糸
+  romaji: Koito
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 930
+  episode: 923
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,19 @@
+slug: joshu
+name:
+  en: Joshu
+  ja: ジョシュ
+  romaji: Joshu
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1065
+  episode: 1095
+occupations:
+- name: Assistant
+  status: current
+residences:
+- type: location
+  slug: egghead
+  status: current

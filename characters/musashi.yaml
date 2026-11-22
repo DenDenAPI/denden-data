@@ -1,0 +1,21 @@
+slug: musashi
+name:
+  en: Musashi
+  ja: ムサシ
+  romaji: Musashi
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Samurai
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current
+origin:
+  location: wano-country

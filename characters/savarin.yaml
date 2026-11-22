@@ -1,0 +1,19 @@
+slug: savarin
+name:
+  en: Savarin
+  ja: サヴァラン
+  romaji: Savaran
+canon: other
+gender: female
+status: alive
+first_appearance:
+  chapter: 1
+epithets:
+- en: Sea-Crossing Tongue
+  ja: 海を跨ぐ大舌
+  romaji: Umi o Matagu Dai Shita
+occupations:
+- name: Food Critic
+  status: current
+- name: Columnist
+  status: current

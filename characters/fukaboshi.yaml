@@ -1,0 +1,36 @@
+slug: fukaboshi
+name:
+  en: Fukaboshi
+  ja: フカボシ
+  romaji: Fukaboshi
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 609
+  episode: 528
+occupations:
+- name: Prince of the Ryugu Kingdom
+  status: current
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-palace
+  status: current
+birthday:
+  month: 2
+  day: 4
+blood_type: S
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 604
+  period: other

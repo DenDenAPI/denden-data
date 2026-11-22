@@ -1,0 +1,39 @@
+slug: pappag
+name:
+  en: Pappag
+  ja: パッパグ
+  romaji: Pappagu
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 195
+  episode: 385
+occupations:
+- name: Fashion Designer
+  status: current
+- name: Takoyaki seller
+  status: current
+- name: Pet
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: gyoverly-hills
+  status: current
+birthday:
+  month: 9
+  day: 21
+blood_type: XF
+ages:
+- years: 31
+  period: debut
+- years: 33
+  period: post_timeskip
+heights:
+- cm: 50
+  period: other

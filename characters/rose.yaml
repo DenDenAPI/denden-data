@@ -1,0 +1,14 @@
+slug: rose
+name:
+  en: Rose
+  ja: ローズ
+  romaji: Rōzu
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: royal-sun-island
+  status: former

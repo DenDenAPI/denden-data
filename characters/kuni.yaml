@@ -1,0 +1,21 @@
+slug: kuni
+name:
+  en: Kuni
+  ja: クニさん
+  romaji: Kuni-san
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 927
+  episode: 919
+affiliations:
+- type: organization
+  slug: kyoshiro-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

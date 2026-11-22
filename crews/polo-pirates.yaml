@@ -1,0 +1,11 @@
+slug: polo-pirates
+name:
+  en: Polo Pirates
+  ja: ポーロ海賊団
+  romaji: Pōro Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 1162
+captains:
+- character: polo-gram
+  status: current

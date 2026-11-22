@@ -1,0 +1,20 @@
+slug: tarara
+name:
+  en: Tarara
+  ja: タララ
+  romaji: Tarara
+canon: manga
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 713
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+residences:
+- type: location
+  slug: green-bit
+  status: current

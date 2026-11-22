@@ -1,0 +1,17 @@
+slug: cidre-guild-arc
+order: 64
+name:
+  en: Cidre Guild Arc
+kind: filler
+canon: anime_only
+sagas:
+- wano-country-saga
+episodes:
+  count: 2
+  ranges:
+  - start: 895
+    end: 896
+years:
+  anime:
+    start: 2019
+    end: 2019

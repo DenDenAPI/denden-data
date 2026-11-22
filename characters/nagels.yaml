@@ -1,0 +1,21 @@
+slug: nagels
+name:
+  en: Nagels
+  ja: ナーゲルス
+  romaji: Nāgerusu
+canon: other
+gender: male
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+- name: King
+  status: current
+affiliations:
+- type: crew
+  slug: nagels-pirates
+  status: current
+bounties:
+- amount: 60000000
+  status: current
+  canon: other

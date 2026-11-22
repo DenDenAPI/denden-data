@@ -1,0 +1,37 @@
+slug: tom
+name:
+  en: Tom
+  ja: トム
+  romaji: Tomu
+canon: manga
+gender: male
+species:
+- fish_man
+status: deceased
+first_appearance:
+  chapter: 352
+  episode: 248
+occupations:
+- name: Shipwright
+  status: current
+affiliations:
+- type: organization
+  slug: toms-workers
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+- type: location
+  slug: fish-man-island
+  status: former
+birthday:
+  month: 3
+  day: 16
+blood_type: F
+heights:
+- cm: 296
+  period: other

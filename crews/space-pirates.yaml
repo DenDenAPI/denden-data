@@ -1,0 +1,11 @@
+slug: space-pirates
+name:
+  en: Space Pirates
+  ja: 宇宙海賊
+  romaji: Uchū Kaizoku
+canon: manga
+first_appearance:
+  chapter: 438
+captains:
+- character: seamars
+  status: current

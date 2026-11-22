@@ -1,0 +1,50 @@
+slug: drophy
+name:
+  en: Drophy
+  ja: ドロフィー
+  romaji: Dorofī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 160
+  episode: 103
+epithets:
+- en: '"Town-Collapser" Drophy'
+  ja: 町落としのドロフィー
+  romaji: Machi Otoshi no Dorofī
+aliases:
+- en: Miss Merry Christmas
+  ja: ミス・メリークリスマス
+  romaji: Misu Merī Kurisumasu
+occupations:
+- name: Cafe Waitress
+  status: current
+- name: Officer Agent
+  status: former
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 12
+  day: 25
+blood_type: S
+ages:
+- years: 49
+  period: debut
+- years: 51
+  period: post_timeskip
+heights:
+- cm: 156
+  period: other
+bounties:
+- amount: 14000000
+  status: current

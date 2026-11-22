@@ -1,0 +1,48 @@
+slug: rob-lucci
+name:
+  en: Rob Lucci
+  ja: ロブ・ルッチ
+  romaji: Robu Rutchi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+epithets:
+- en: Massacre Weapon
+  ja: 殺戮兵器
+  romaji: Satsuriku Heiki
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+- type: organization
+  slug: galley-la-company
+  status: former
+origin:
+  location: guanhao
+  region: Grand Line
+residences:
+- type: location
+  slug: guanhao
+  status: former
+birthday:
+  month: 6
+  day: 2
+blood_type: XF
+ages:
+- years: 28
+  period: debut
+- years: 30
+  period: post_timeskip
+heights:
+- cm: 212
+  period: other

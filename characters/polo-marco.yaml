@@ -1,0 +1,48 @@
+slug: polo-marco
+name:
+  en: Polo Marco
+  ja: ポーロ・マルコ
+  romaji: Pōro Maruko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+epithets:
+- en: Marco the Phoenix
+  ja: 不死鳥マルコ
+  romaji: Fushichō Maruko
+occupations:
+- name: Doctor
+  status: current
+- name: 1st Division Commander
+  status: former
+- name: Apprentice
+  status: former
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 10
+  day: 5
+blood_type: X
+ages:
+- years: 43
+  period: debut
+- years: 45
+  period: post_timeskip
+heights:
+- cm: 203
+  period: other
+bounties:
+- amount: 1374000000
+  status: current

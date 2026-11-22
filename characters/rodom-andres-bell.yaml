@@ -1,0 +1,14 @@
+slug: rodom-andres-bell
+name:
+  en: Rodom Andres Bell
+  ja: ロドム・アンドレス・ベル
+  romaji: Rodomu Andoresu Beru
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

@@ -1,0 +1,46 @@
+slug: sengoku
+name:
+  en: Sengoku
+  ja: センゴク
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+epithets:
+- en: Sengoku the Buddha
+  ja: 仏のセンゴク
+  romaji: Hotoke no Sengoku
+- en: The Resourceful General
+  ja: 智将
+  romaji: Chishō
+occupations:
+- name: Inspector General
+  status: current
+- name: Fleet Admiral
+  status: former
+- name: Admiral
+  status: former
+- name: Vice Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 5
+  day: 9
+blood_type: F
+ages:
+- years: 77
+  period: debut
+- years: 79
+  period: post_timeskip
+heights:
+- cm: 278
+  period: other

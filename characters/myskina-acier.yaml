@@ -1,0 +1,21 @@
+slug: myskina-acier
+name:
+  en: Myskina Acier
+  ja: ミスキナ・アシエ
+  romaji: Misukina Ashie
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Scientist
+  status: current
+residences:
+- type: location
+  slug: alchemi
+  status: former
+ages:
+- years: 206
+  period: other
+  minimum: true

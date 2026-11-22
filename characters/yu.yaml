@@ -1,0 +1,22 @@
+slug: yu
+name:
+  en: Yu
+  ja: ユウ
+  romaji: Yū
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 98
+  episode: 48
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 7
+  day: 19

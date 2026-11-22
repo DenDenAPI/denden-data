@@ -1,0 +1,26 @@
+slug: mad
+name:
+  en: Mad
+  ja: マッド
+  romaji: Maddo
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: alubarna
+  status: current
+bounties:
+- amount: 30000000
+  status: former

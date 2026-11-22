@@ -1,0 +1,18 @@
+slug: kilomane
+name:
+  en: Kilomane
+  ja: キロメーヌ
+  romaji: Kiromēnu
+canon: other
+gender: female
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: omoino-family
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

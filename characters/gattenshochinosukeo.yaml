@@ -1,0 +1,20 @@
+slug: gattenshochinosukeo
+name:
+  en: Gattenshochinosukeo
+  ja: 合点承知の助男
+  romaji: Gattenshōchinosukeo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 954
+  episode: 955
+occupations:
+- name: Shipwright
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,30 @@
+slug: marie
+name:
+  en: Marie
+  ja: マリィ
+  romaji: Marī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 499
+  episode: 393
+occupations:
+- name: Slave
+  status: current
+- name: Nurse
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+- type: location
+  slug: sabaody-archipelago
+  status: former
+birthday:
+  month: 11
+  day: 2

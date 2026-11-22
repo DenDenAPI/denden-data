@@ -1,0 +1,28 @@
+slug: wano-country-saga
+order: 10
+name:
+  en: Wano Country Saga
+chapters:
+  count: 149
+  ranges:
+  - start: 909
+    end: 1057
+volumes:
+  count: 16
+  ranges:
+  - start: 90
+    end: 105
+episodes:
+  count: 195
+  ranges:
+  - start: 890
+    end: 906
+  - start: 908
+    end: 1085
+years:
+  manga:
+    start: 2018
+    end: 2022
+  anime:
+    start: 2019
+    end: 2023

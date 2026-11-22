@@ -1,0 +1,20 @@
+slug: outlook-iii
+name:
+  en: Outlook III
+  ja: アウトルック3世
+  romaji: Autorukku Sansei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 585
+  episode: 496
+occupations:
+- name: Noble
+  status: current
+residences:
+- type: location
+  slug: goa-kingdom
+  status: current

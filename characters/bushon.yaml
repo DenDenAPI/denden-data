@@ -1,0 +1,20 @@
+slug: bushon
+name:
+  en: Bushon
+  ja: ブション
+  romaji: Bushon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 361
+  episode: 251
+occupations:
+- name: Station Manager
+  status: current
+affiliations:
+- type: location
+  slug: water-7
+  status: current

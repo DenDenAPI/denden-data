@@ -1,0 +1,19 @@
+slug: trip
+name:
+  en: Trip
+  ja: トリップ
+  romaji: Torippu
+canon: other
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 25
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+ages:
+- years: 5
+  period: other

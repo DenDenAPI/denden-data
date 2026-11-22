@@ -1,0 +1,14 @@
+slug: yuri
+name:
+  en: Yuri
+  ja: ユーリ
+  romaji: Yūri
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

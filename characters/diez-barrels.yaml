@@ -1,0 +1,31 @@
+slug: diez-barrels
+name:
+  en: Diez Barrels
+  ja: ディエス・バレルズ
+  romaji: Diesu Bareruzu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 765
+  episode: 704
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+- name: Marine Officer
+  status: former
+affiliations:
+- type: crew
+  slug: barrels-pirates
+  status: current
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: minion-island
+  status: current

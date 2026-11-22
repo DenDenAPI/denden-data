@@ -1,0 +1,28 @@
+slug: tsunagoro
+name:
+  en: Tsunagoro
+  ja: 綱ゴロー
+  romaji: Tsunagorō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 947
+  episode: 946
+epithets:
+- en: Broken Hat Tsunagoro
+  ja: 破れ笠綱ゴロー
+  romaji: Yabure-gasa Tsunagorō
+occupations:
+- name: Yakuza boss
+  status: current
+- name: Prisoner
+  status: former
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

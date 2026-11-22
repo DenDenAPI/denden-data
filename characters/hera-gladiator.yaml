@@ -1,0 +1,18 @@
+slug: hera-gladiator
+name:
+  en: Hera (Gladiator)
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 703
+  episode: 633
+occupations:
+- name: Gladiator
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

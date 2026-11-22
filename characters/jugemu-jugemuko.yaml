@@ -1,0 +1,17 @@
+slug: jugemu-jugemuko
+name:
+  en: Jugemu Jugemuko
+  ja: 寿限無寿限無子
+  romaji: Jugemu Jugemuko
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 954
+  episode: 955
+residences:
+- type: location
+  slug: wano-country
+  status: current

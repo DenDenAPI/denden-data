@@ -1,0 +1,21 @@
+slug: pokke
+name:
+  en: Pokke
+  ja: ポッケ
+  romaji: Pokke
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Chore Boy
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: promise-land
+  status: current

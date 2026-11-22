@@ -1,0 +1,14 @@
+slug: gido
+name:
+  en: Gido
+  ja: ギト
+  romaji: Gito
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: alubarna
+  status: current

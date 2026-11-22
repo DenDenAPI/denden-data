@@ -1,0 +1,12 @@
+slug: chibinoa-mini
+name:
+  en: Chibinoa Mini
+  ja: チビノア・ミニ
+  romaji: Chibinoa Mini
+canon: other
+gender: male
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

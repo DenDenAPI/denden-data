@@ -1,0 +1,17 @@
+slug: sigurd
+name:
+  en: Sigurd
+  ja: シグルド
+  romaji: Shigurudo
+canon: other
+species:
+- animal
+- sea_king
+status: alive
+residences:
+- type: location
+  slug: blue-sea
+  status: current
+- type: location
+  slug: rainbow-island
+  status: current

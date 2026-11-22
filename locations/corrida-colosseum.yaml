@@ -1,0 +1,14 @@
+slug: corrida-colosseum
+name:
+  en: Corrida Colosseum
+  ja: コリーダコロシアム
+  romaji: Korīda Koroshiamu
+canon: manga
+first_appearance:
+  chapter: 702
+  episode: 631
+parent: dressrosa
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current

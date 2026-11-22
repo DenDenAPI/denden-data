@@ -1,0 +1,14 @@
+slug: goa-kingdom
+name:
+  en: Goa Kingdom
+  ja: ゴア王国
+  romaji: Goa Ōkoku
+canon: manga
+first_appearance:
+  chapter: 585
+  episode: 496
+parent: dawn-island
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

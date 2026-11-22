@@ -1,0 +1,29 @@
+slug: whitey-bay
+name:
+  en: Whitey Bay
+  ja: ホワイティベイ
+  romaji: Howaiti Bei
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 556
+  episode: 462
+epithets:
+- en: Ice Witch
+  ja: 氷の魔女
+  romaji: Kōri no Majo
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 10
+  day: 31

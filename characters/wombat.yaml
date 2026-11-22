@@ -1,0 +1,17 @@
+slug: wombat
+name:
+  en: Wombat
+  ja: ォンバット
+  romaji: Onbatto
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine soldier
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

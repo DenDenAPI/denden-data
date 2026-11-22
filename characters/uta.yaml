@@ -1,0 +1,37 @@
+slug: uta
+name:
+  en: Uta
+  ja: ウタ
+canon: movie
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1055
+  episode: 1029
+occupations:
+- name: Singer
+  status: current
+- name: Musician
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: former
+residences:
+- type: location
+  slug: elegia
+  status: former
+birthday:
+  month: 10
+  day: 1
+blood_type: XF
+ages:
+- years: 21
+  period: other
+heights:
+- cm: 169
+  period: other

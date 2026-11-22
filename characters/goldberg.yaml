@@ -1,0 +1,45 @@
+slug: goldberg
+name:
+  en: Goldberg
+  ja: ゴールドバーグ
+  romaji: Gōrudobāgu
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 899
+  episode: 836
+occupations:
+- name: Cook
+  status: current
+- name: Pirate
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: former
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 5
+  day: 11
+ages:
+- years: 63
+  period: other
+heights:
+- cm: 2100
+  period: other

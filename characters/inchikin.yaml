@@ -1,0 +1,17 @@
+slug: inchikin
+name:
+  en: Inchikin
+  ja: インチキン
+  romaji: Inchikin
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Magician
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

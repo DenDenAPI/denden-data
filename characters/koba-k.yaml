@@ -1,0 +1,14 @@
+slug: koba-k
+name:
+  en: Koba K
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 100000
+  status: current

@@ -1,0 +1,11 @@
+slug: tanega-island
+name:
+  en: Tanega Island
+  ja: タネガ島
+  romaji: Tanega-shima
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

@@ -1,0 +1,35 @@
+slug: laboon
+name:
+  en: Laboon
+  ja: ラブーン
+  romaji: Rabūn
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 102
+  episode: 62
+affiliations:
+- type: crew
+  slug: rumbar-pirates
+  status: former
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: reverse-mountain
+  status: current
+birthday:
+  month: 9
+  day: 16
+blood_type: F
+ages:
+- years: 51
+  period: debut
+- years: 53
+  period: post_timeskip
+heights:
+- cm: 40000
+  period: other

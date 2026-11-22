@@ -1,0 +1,14 @@
+slug: amazon-lily
+name:
+  en: Amazon Lily
+  ja: アマゾン・リリー
+  romaji: Amazon Rirī
+canon: manga
+first_appearance:
+  chapter: 514
+  episode: 408
+parent: calm-belt
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current

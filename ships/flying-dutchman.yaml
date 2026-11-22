@@ -1,0 +1,13 @@
+slug: flying-dutchman
+name:
+  en: Flying Dutchman
+  ja: フライング・ダッチマン号
+  romaji: Furaingu Datchiman-gō
+canon: manga
+first_appearance:
+  chapter: 606
+  episode: 525
+affiliations:
+- type: crew
+  slug: flying-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: hannah
+name:
+  en: Hannah
+  ja: ハンナ
+  romaji: Han'na
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: tongari-pirates
+  status: current

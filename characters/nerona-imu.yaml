@@ -1,0 +1,29 @@
+slug: nerona-imu
+name:
+  en: Nerona Imu
+  ja: ネロナ・イム聖
+  romaji: Nerona Imu Sei
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 906
+  episode: 885
+occupations:
+- name: King of the World
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: first-twenty
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+ages:
+- years: 800
+  period: other
+  minimum: true

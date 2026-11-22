@@ -1,0 +1,46 @@
+slug: iceburg
+name:
+  en: Iceburg
+  ja: アイスバーグ
+  romaji: Aisubāgu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: President of the Galley-La Company
+  status: current
+- name: Mayor of Water 7
+  status: current
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+- type: location
+  slug: water-7
+  status: current
+- type: organization
+  slug: toms-workers
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 1
+  day: 3
+blood_type: X
+ages:
+- years: 38
+  period: debut
+- years: 40
+  period: post_timeskip
+heights:
+- cm: 199
+  period: other

@@ -1,0 +1,38 @@
+slug: pell
+name:
+  en: Pell
+  ja: ペル
+  romaji: Peru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 155
+  episode: 91
+epithets:
+- en: Pell the Falcon
+  ja: ハヤブサのペル
+  romaji: Hayabusa no Peru
+occupations:
+- name: Commander of Royal Guards
+  status: current
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 8
+  day: 23
+blood_type: X
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 189
+  period: other

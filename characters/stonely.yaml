@@ -1,0 +1,14 @@
+slug: stonely
+name:
+  en: Stonely
+  ja: ストンリー
+  romaji: Sutonrī
+canon: other
+gender: female
+species:
+- animal
+status: alive
+residences:
+- type: location
+  slug: waford
+  status: current

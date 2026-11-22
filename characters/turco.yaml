@@ -1,0 +1,32 @@
+slug: turco
+name:
+  en: Turco
+  ja: トルコ
+  romaji: Toruko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 517
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 10
+  day: 29
+blood_type: X
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 258
+  period: other

@@ -1,0 +1,20 @@
+slug: muchana
+name:
+  en: Muchana
+  ja: ムチャナー
+  romaji: Muchanā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 536
+  episode: 437
+occupations:
+- name: Doctor
+  status: current
+affiliations:
+- type: location
+  slug: impel-down
+  status: current

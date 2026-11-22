@@ -1,0 +1,16 @@
+slug: ian
+name:
+  en: Ian
+  ja: イアン
+  romaji: Ian
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 140
+affiliations:
+- type: crew
+  slug: wetton-pirates
+  status: current

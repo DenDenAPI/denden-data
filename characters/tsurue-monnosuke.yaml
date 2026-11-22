@@ -1,0 +1,19 @@
+slug: tsurue-monnosuke
+name:
+  en: Tsurue Monnosuke
+  ja: 鶴江もんの助
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 933
+  episode: 928
+occupations:
+- name: Machi-bugyō
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

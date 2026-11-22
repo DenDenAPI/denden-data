@@ -1,0 +1,15 @@
+slug: elizabeth
+name:
+  en: Elizabeth
+  ja: エリザベス
+  romaji: Erizabesu
+canon: other
+gender: female
+species:
+- animal
+status: alive
+occupations:
+- name: Steed
+  status: current
+- name: Pet
+  status: current

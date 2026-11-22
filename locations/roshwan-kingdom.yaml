@@ -1,0 +1,14 @@
+slug: roshwan-kingdom
+name:
+  en: Roshwan Kingdom
+  ja: ロシュワン王国
+  romaji: Roshuwan Ōkoku
+canon: manga
+first_appearance:
+  chapter: 905
+  episode: 882
+region: South Blue
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

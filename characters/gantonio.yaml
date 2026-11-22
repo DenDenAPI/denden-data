@@ -1,0 +1,23 @@
+slug: gantonio
+name:
+  en: Gantonio
+  ja: ガントニオ
+  romaji: Gantonio
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1177
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

@@ -1,0 +1,27 @@
+slug: choco-police
+name:
+  en: Choco Police
+  ja: チョコポリス
+  romaji: Chokoporisu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 827
+  episode: 786
+occupations:
+- name: Police Officer
+  status: current
+affiliations:
+- type: location
+  slug: cacao-island
+  status: current
+residences:
+- type: location
+  slug: cacao-island
+  status: current
+- type: location
+  slug: totto-land
+  status: current

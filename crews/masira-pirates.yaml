@@ -1,0 +1,12 @@
+slug: masira-pirates
+name:
+  en: Masira Pirates
+  ja: マシラ海賊団
+  romaji: Mashira Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 219
+  episode: 144
+captains:
+- character: masira
+  status: current

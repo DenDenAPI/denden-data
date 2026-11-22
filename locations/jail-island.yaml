@@ -1,0 +1,11 @@
+slug: jail-island
+name:
+  en: Jail Island
+  ja: 監獄島
+  romaji: Jeiru Airando
+canon: other
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

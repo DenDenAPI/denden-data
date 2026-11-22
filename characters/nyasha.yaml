@@ -1,0 +1,22 @@
+slug: nyasha
+name:
+  en: Nyasha
+  ja: 猫車
+  romaji: Nyasha
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 842
+  episode: 806
+occupations:
+- name: Steed
+  status: current
+residences:
+- type: location
+  slug: germa-kingdom
+  status: current
+birthday:
+  month: 5
+  day: 28

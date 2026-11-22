@@ -1,0 +1,11 @@
+slug: hand-island
+name:
+  en: Hand Island
+  ja: ハンドアイランド
+  romaji: Hando Airando
+canon: anime_only
+parent: new-world
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former

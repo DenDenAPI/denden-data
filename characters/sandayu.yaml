@@ -1,0 +1,20 @@
+slug: sandayu
+name:
+  en: Sandayu
+  ja: 三ダユー
+  romaji: Sandayū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 928
+  episode: 921
+occupations:
+- name: Bodyguard
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

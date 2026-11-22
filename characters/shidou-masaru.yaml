@@ -1,0 +1,12 @@
+slug: shidou-masaru
+name:
+  en: Shidou Masaru
+  ja: 紫藤マサル
+  romaji: Shidō Masaru
+canon: other
+gender: male
+status: alive
+affiliations:
+- type: location
+  slug: miraba-elementary-school
+  status: current

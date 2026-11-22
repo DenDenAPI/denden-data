@@ -1,0 +1,14 @@
+slug: dock-1
+name:
+  en: Dock 1
+  ja: 1番ドック
+  romaji: Ichiban Dokku
+canon: manga
+first_appearance:
+  chapter: 323
+  episode: 230
+parent: water-7
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current

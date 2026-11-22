@@ -1,0 +1,35 @@
+slug: byron
+name:
+  en: Byron
+  ja: バイロン
+  romaji: Bairon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 501
+  episode: 395
+occupations:
+- name: Musician
+  status: current
+- name: Pirate
+  status: current
+- name: Slave
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: toroa
+  status: current
+birthday:
+  month: 12
+  day: 18
+ages:
+- years: 25
+  period: debut
+heights:
+- cm: 192
+  period: other

@@ -1,0 +1,39 @@
+slug: vinsmoke-niji
+name:
+  en: Vinsmoke Niji
+  ja: ヴィンスモーク・ニジ
+  romaji: Vinsumōku Niji
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 828
+  episode: 787
+epithets:
+- en: Dengeki Blue
+  ja: デンゲキブルー
+  romaji: Dengeki Burū
+occupations:
+- name: Prince
+  status: current
+- name: Mercenary
+  status: current
+affiliations:
+- type: organization
+  slug: vinsmoke-family
+  status: current
+- type: location
+  slug: germa-kingdom
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 3
+  day: 2
+blood_type: S
+ages:
+- years: 21
+  period: other
+heights:
+- cm: 185
+  period: other

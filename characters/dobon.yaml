@@ -1,0 +1,21 @@
+slug: dobon
+name:
+  en: Dobon
+  ja: ドボン
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 919
+occupations:
+- name: Shinuchi
+  status: current
+- name: Vice Warden of the Prisoner Mine
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

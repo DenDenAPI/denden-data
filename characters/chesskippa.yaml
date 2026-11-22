@@ -1,0 +1,22 @@
+slug: chesskippa
+name:
+  en: Chesskippa
+  ja: チェスキッパ
+  romaji: Chesukippa
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 398
+  episode: 278
+epithets:
+- en: Chesskippa the Hanger-on
+  ja: スネかじりのチェスキッパ
+  romaji: Sunekajiri no Chesukippa
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

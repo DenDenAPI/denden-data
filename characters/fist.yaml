@@ -1,0 +1,17 @@
+slug: fist
+name:
+  en: Fist
+  ja: フィスト
+  romaji: Fisuto
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: King
+  status: current
+residences:
+- type: location
+  slug: royal-sun-island
+  status: current

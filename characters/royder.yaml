@@ -1,0 +1,20 @@
+slug: royder
+name:
+  en: Royder
+  ja: ロイダー
+  romaji: Roidā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 550
+  episode: 459
+occupations:
+- name: Reporter
+  status: current
+ages:
+- years: 33
+  period: other
+  minimum: true

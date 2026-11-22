@@ -1,0 +1,14 @@
+slug: black-cat-pirates
+name:
+  en: Black Cat Pirates
+  ja: クロネコ海賊団
+  romaji: Kuroneko Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 25
+  episode: 10
+captains:
+- character: kuro
+  status: former
+- character: jango
+  status: former

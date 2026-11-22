@@ -1,0 +1,32 @@
+slug: gardar
+name:
+  en: Gardar
+  ja: ガルダル
+  romaji: Garudaru
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Garuda Pirate
+  ja: 怪鳥海賊
+  romaji: Garūda Kaizoku
+aliases:
+- en: Mr. 66
+  ja: Mr. 66
+  romaji: Misutā Daburu Shikkusu
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+origin:
+  region: North Blue
+bounties:
+- amount: 3000000
+  status: former

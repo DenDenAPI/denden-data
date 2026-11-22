@@ -1,0 +1,48 @@
+slug: shoujou
+name:
+  en: Shoujou
+  ja: ショウジョウ
+  romaji: Shōjō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 226
+  episode: 147
+epithets:
+- en: '"Sonar King" Shoujou'
+  ja: 海底探索王ショウジョウ
+  romaji: Kaitei Tansaku Ō Shōjō
+occupations:
+- name: Pirate
+  status: current
+- name: Big Boss
+  status: current
+affiliations:
+- type: crew
+  slug: saruyama-alliance
+  status: current
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: jaya
+  status: current
+birthday:
+  month: 5
+  day: 8
+blood_type: X
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 351
+  period: other
+bounties:
+- amount: 36000000
+  status: current
+  revealed_chapter: 226

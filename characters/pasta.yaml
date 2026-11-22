@@ -1,0 +1,14 @@
+slug: pasta
+name:
+  en: Pasta
+  ja: パスタ
+  romaji: Pasuta
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: festa-circle
+  status: current

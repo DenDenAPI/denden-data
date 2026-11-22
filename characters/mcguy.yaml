@@ -1,0 +1,29 @@
+slug: mcguy
+name:
+  en: McGuy
+  ja: マクガイ
+  romaji: Makugai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 551
+  episode: 460
+epithets:
+- en: Thunder Lord
+  ja: 雷卿
+  romaji: Raikyō
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 9
+  day: 3

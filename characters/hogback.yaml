@@ -1,0 +1,41 @@
+slug: hogback
+name:
+  en: Hogback
+  ja: ホグバック
+  romaji: Hogubakku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 446
+  episode: 340
+epithets:
+- en: Doctor Hogback
+  ja: ドクトル・ホグバック
+  romaji: Dokutoru Hogubakku
+- en: Genius Surgeon
+  ja: 天才外科医
+  romaji: Tensai Gekai
+occupations:
+- name: Doctor
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 12
+  day: 19
+blood_type: XF
+ages:
+- years: 45
+  period: debut
+- years: 47
+  period: post_timeskip
+heights:
+- cm: 223
+  period: other

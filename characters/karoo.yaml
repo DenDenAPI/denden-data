@@ -1,0 +1,47 @@
+slug: karoo
+name:
+  en: Karoo
+  ja: カルー
+  romaji: Karū
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 109
+  episode: 65
+occupations:
+- name: Pet
+  status: current
+- name: Royal Transport
+  status: current
+- name: Captain of the Super Spot-Billed Duck Troops
+  status: current
+- name: Pirate
+  status: former
+affiliations:
+- type: organization
+  slug: royal-guard
+  status: current
+- type: crew
+  slug: straw-hat-pirates
+  status: former
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  location: arabasta-kingdom
+  region: Grand Line
+birthday:
+  month: 11
+  day: 8
+blood_type: F
+ages:
+- years: 14
+  period: debut
+- years: 16
+  period: post_timeskip
+heights:
+- cm: 150
+  period: other

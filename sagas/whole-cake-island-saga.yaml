@@ -1,0 +1,26 @@
+slug: whole-cake-island-saga
+order: 9
+name:
+  en: Whole Cake Island Saga
+chapters:
+  count: 107
+  ranges:
+  - start: 802
+    end: 908
+volumes:
+  count: 11
+  ranges:
+  - start: 80
+    end: 90
+episodes:
+  count: 143
+  ranges:
+  - start: 747
+    end: 889
+years:
+  manga:
+    start: 2015
+    end: 2018
+  anime:
+    start: 2016
+    end: 2019

@@ -1,0 +1,13 @@
+slug: noah
+name:
+  en: Noah
+  ja: ノア
+  romaji: Noa
+canon: manga
+first_appearance:
+  chapter: 608
+  episode: 527
+affiliations:
+- type: location
+  slug: fish-man-island
+  status: current

@@ -1,0 +1,19 @@
+slug: carmen
+name:
+  en: Carmen
+  ja: カルメン
+  romaji: Karumen
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 51
+epithets:
+- en: Fiery Carmen
+  ja: 炎のカルメン
+  romaji: Honō no Karumen
+occupations:
+- name: Cook
+  status: current

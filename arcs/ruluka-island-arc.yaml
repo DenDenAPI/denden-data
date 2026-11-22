@@ -1,0 +1,13 @@
+slug: ruluka-island-arc
+order: 19
+name:
+  en: Ruluka Island Arc
+kind: filler
+canon: anime_only
+sagas:
+- sky-island-saga
+episodes:
+  count: 5
+  ranges:
+  - start: 139
+    end: 143

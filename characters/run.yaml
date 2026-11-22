@@ -1,0 +1,19 @@
+slug: run
+name:
+  en: Run
+  ja: ルン
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 679
+  episode: 605
+epithets:
+- en: Run the Machete
+  ja: マチェーテのルン
+  romaji: Machēte no Run
+occupations:
+- name: Pirate
+  status: former

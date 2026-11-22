@@ -1,0 +1,23 @@
+slug: fish-man-island
+name:
+  en: Fish-Man Island
+  ja: 魚人島
+  romaji: Gyojin-tō
+canon: manga
+first_appearance:
+  chapter: 68
+  episode: 30
+region: Grand Line
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: former
+- type: crew
+  slug: whitebeard-pirates
+  status: former

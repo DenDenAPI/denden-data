@@ -1,0 +1,26 @@
+slug: isoka
+name:
+  en: Isoka
+  ja: イソカ
+  romaji: Isoka
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: High Ranking Marine
+  status: current
+- name: Chore Girl
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: pumpkin-pirates
+  status: former
+- type: organization
+  slug: marines
+  status: current

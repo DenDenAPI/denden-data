@@ -1,0 +1,27 @@
+slug: sodom
+name:
+  en: Sodom
+  ja: ソドム
+  romaji: Sodomu
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 366
+  episode: 256
+occupations:
+- name: Transportation
+  status: current
+affiliations:
+- type: organization
+  slug: franky-family
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 8
+  day: 6

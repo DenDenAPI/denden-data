@@ -1,0 +1,17 @@
+slug: chiyobbaba
+name:
+  en: Chiyobbaba
+  ja: 恥世ッ婆ァ
+  romaji: Chiyobbabā
+canon: other
+gender: female
+status: deceased
+occupations:
+- name: Clothing Store Owner
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current

@@ -1,0 +1,36 @@
+slug: sugar
+name:
+  en: Sugar
+  ja: シュガー
+  romaji: Shugā
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 682
+  episode: 608
+occupations:
+- name: Pirate Special Officer
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 10
+  day: 22
+blood_type: XF
+ages:
+- years: 22
+  period: other
+heights:
+- cm: 110
+  period: other

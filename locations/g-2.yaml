@@ -1,0 +1,14 @@
+slug: g-2
+name:
+  en: G-2
+  ja: 海軍G・L第2支部
+  romaji: Kaigun Gurando Rain Dai-Ni Shibu
+canon: manga
+first_appearance:
+  chapter: 282
+  episode: 490
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,13 @@
+slug: bluejam-pirates
+name:
+  en: Bluejam Pirates
+  ja: ブルージャム海賊団
+  romaji: Burūjamu Kaizoku-dan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 583
+  episode: 494
+captains:
+- character: bluejam
+  status: current

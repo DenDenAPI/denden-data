@@ -1,0 +1,39 @@
+slug: vista
+name:
+  en: Vista
+  ja: ビスタ
+  romaji: Bisuta
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+epithets:
+- en: Vista of the Flower Swords
+  ja: 花剣のビスタ
+  romaji: Kaken no Bisuta
+occupations:
+- name: 5th Division Commander
+  status: former
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 2
+  day: 5
+blood_type: X
+ages:
+- years: 45
+  period: debut
+- years: 47
+  period: post_timeskip
+heights:
+- cm: 328
+  period: other

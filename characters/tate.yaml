@@ -1,0 +1,20 @@
+slug: tate
+name:
+  en: Tate
+  ja: テート
+  romaji: Tēto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+occupations:
+- name: Nurse
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

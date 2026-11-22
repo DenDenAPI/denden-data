@@ -1,0 +1,30 @@
+slug: return-to-sabaody-arc
+order: 47
+name:
+  en: Return to Sabaody Arc
+kind: story
+canon: manga
+sagas:
+- fish-man-island-saga
+chapters:
+  count: 5
+  ranges:
+  - start: 598
+    end: 602
+volumes:
+  count: 1
+  ranges:
+  - start: 61
+    end: 61
+episodes:
+  count: 6
+  ranges:
+  - start: 517
+    end: 522
+years:
+  manga:
+    start: 2010
+    end: 2010
+  anime:
+    start: 2011
+    end: 2011

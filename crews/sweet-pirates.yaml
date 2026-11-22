@@ -1,0 +1,11 @@
+slug: sweet-pirates
+name:
+  en: Sweet Pirates
+  ja: スイーツ海賊団
+  romaji: Suītsu Kaizokudan
+canon: anime_only
+first_appearance:
+  episode: 747
+captains:
+- character: desire
+  status: current

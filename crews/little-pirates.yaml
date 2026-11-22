@@ -1,0 +1,12 @@
+slug: little-pirates
+name:
+  en: Little Pirates
+  ja: リトル海賊団
+  romaji: Ritoru Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 554
+  episode: 463
+captains:
+- character: little-oars-jr
+  status: current

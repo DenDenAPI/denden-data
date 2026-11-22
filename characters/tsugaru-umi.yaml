@@ -1,0 +1,20 @@
+slug: tsugaru-umi
+name:
+  en: Tsugaru Umi
+  ja: 津軽うみ
+  romaji: Tsugaru Umi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 909
+  episode: 892
+occupations:
+- name: Geisha Master
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

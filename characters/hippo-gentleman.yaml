@@ -1,0 +1,20 @@
+slug: hippo-gentleman
+name:
+  en: Hippo Gentleman
+  ja: カバ紳士
+  romaji: Kaba Shinshi
+canon: manga
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 451
+  episode: 345
+occupations:
+- name: Wild Zombie Vice Commander
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

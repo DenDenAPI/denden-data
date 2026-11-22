@@ -1,0 +1,17 @@
+slug: flora
+name:
+  en: Flora
+  ja: フローラ
+  romaji: Furōra
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Firework maker
+  status: current
+residences:
+- type: location
+  slug: madatascar-island
+  status: current

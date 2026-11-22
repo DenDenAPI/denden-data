@@ -1,0 +1,17 @@
+slug: lip-shark
+name:
+  en: Lip Shark
+  ja: リップシャーク
+  romaji: Rippushāku
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Navigator
+  status: current
+affiliations:
+- type: crew
+  slug: fischers-pirates
+  status: current

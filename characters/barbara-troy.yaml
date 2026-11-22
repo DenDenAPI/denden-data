@@ -1,0 +1,19 @@
+slug: barbara-troy
+name:
+  en: Barbara Troy
+canon: other
+gender: female
+species:
+- human
+status: deceased
+occupations:
+- name: Bartender
+  status: current
+affiliations:
+- type: location
+  slug: water-7
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

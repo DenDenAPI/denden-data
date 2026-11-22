@@ -1,0 +1,14 @@
+slug: marineford
+name:
+  en: Marineford
+  ja: マリンフォード
+  romaji: Marinfōdo
+canon: manga
+first_appearance:
+  chapter: 94
+  episode: 43
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,19 @@
+slug: hamu
+name:
+  en: Hamu
+  ja: ハムウ
+  romaji: Hamuu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Unofficial protector of his village
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: oceans-navel
+  status: current

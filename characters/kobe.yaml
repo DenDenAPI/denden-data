@@ -1,0 +1,20 @@
+slug: kobe
+name:
+  en: Kobe
+  ja: 幸べエ
+  romaji: Kōbē
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 929
+  episode: 922
+occupations:
+- name: Landlord
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

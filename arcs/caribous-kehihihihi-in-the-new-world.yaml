@@ -1,0 +1,29 @@
+slug: caribous-kehihihihi-in-the-new-world
+order: 54
+name:
+  en: Caribou's Kehihihihi in the New World
+  ja: カリブーの新世界でケヒヒヒヒ
+  romaji: Karibū no Shin Sekai de Kehihihihi
+kind: cover_story
+canon: manga
+sagas:
+- dressrosa-saga
+chapters:
+  count: 46
+  ranges:
+  - start: 674
+    end: 731
+volumes:
+  count: 6
+  ranges:
+  - start: 68
+    end: 73
+episodes:
+  count: 1
+  ranges:
+  - start: 921
+    end: 921
+years:
+  manga:
+    start: 2012
+    end: 2013

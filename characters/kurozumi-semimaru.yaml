@@ -1,0 +1,30 @@
+slug: kurozumi-semimaru
+name:
+  en: Kurozumi Semimaru
+  ja: 黒炭せみ丸
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 965
+  episode: 965
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 8
+  day: 23
+blood_type: F
+heights:
+- cm: 227
+  period: other

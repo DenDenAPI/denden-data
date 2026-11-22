@@ -1,0 +1,15 @@
+slug: pr-cieuses
+name:
+  en: Précieuses
+  ja: プレシューズ
+  romaji: Pureshūzu
+canon: other
+leaders: []
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: former
+residences:
+- type: location
+  slug: nanatsu-islands
+  status: former

@@ -1,0 +1,20 @@
+slug: yokan
+name:
+  en: Yokan
+  ja: ようかん
+  romaji: Yōkan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 915
+  episode: 902
+occupations:
+- name: Doctor
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

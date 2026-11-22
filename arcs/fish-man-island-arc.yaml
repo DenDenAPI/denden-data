@@ -1,0 +1,32 @@
+slug: fish-man-island-arc
+order: 48
+name:
+  en: Fish-Man Island Arc
+kind: story
+canon: manga
+sagas:
+- fish-man-island-saga
+chapters:
+  count: 51
+  ranges:
+  - start: 603
+    end: 653
+volumes:
+  count: 6
+  ranges:
+  - start: 61
+    end: 66
+episodes:
+  count: 51
+  ranges:
+  - start: 523
+    end: 541
+  - start: 543
+    end: 574
+years:
+  manga:
+    start: 2010
+    end: 2012
+  anime:
+    start: 2011
+    end: 2012

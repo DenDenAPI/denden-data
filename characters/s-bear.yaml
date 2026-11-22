@@ -1,0 +1,27 @@
+slug: s-bear
+name:
+  en: S-Bear
+  ja: S-ベア
+  romaji: Esu-Bea
+canon: manga
+gender: male
+species:
+- lunarian
+status: alive
+first_appearance:
+  chapter: 1062
+  episode: 1092
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+blood_type: X
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 660
+  period: other

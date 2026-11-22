@@ -1,0 +1,20 @@
+slug: akudai-kanzaburo
+name:
+  en: Akudai Kanzaburo
+  ja: 悪代カン三郎
+  romaji: Akudai Kanzaburō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 918
+occupations:
+- name: Arms dealer
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

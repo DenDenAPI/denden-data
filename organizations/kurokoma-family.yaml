@@ -1,0 +1,15 @@
+slug: kurokoma-family
+name:
+  en: Kurokoma Family
+  ja: 黒駒一家
+  romaji: Kurokoma Ikka
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 960
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,20 @@
+slug: rokuroshi
+name:
+  en: Rokuroshi
+  ja: ロクロシ
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 215
+occupations:
+- name: Pirate
+  status: current
+- name: Head Referee
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

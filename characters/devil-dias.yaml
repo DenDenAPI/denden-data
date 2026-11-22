@@ -1,0 +1,30 @@
+slug: devil-dias
+name:
+  en: Devil Dias
+  ja: デビル・ディアス
+  romaji: Debiru Diasu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+- name: Slave
+  status: current
+affiliations:
+- type: crew
+  slug: acumate-pirates
+  status: current
+birthday:
+  month: 9
+  day: 18
+bounties:
+- amount: 60000000
+  status: former

@@ -1,0 +1,17 @@
+slug: akisu
+name:
+  en: Akisu
+  ja: アキース
+  romaji: Akīsu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Thief Brothers
+  ja: 泥棒兄弟
+  romaji: Dorobō Kyōdai
+occupations:
+- name: Thief
+  status: current

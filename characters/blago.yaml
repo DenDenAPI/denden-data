@@ -1,0 +1,17 @@
+slug: blago
+name:
+  en: Blago
+  ja: ブラゴー
+  romaji: Buragō
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

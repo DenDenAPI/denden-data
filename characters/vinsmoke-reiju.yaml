@@ -1,0 +1,39 @@
+slug: vinsmoke-reiju
+name:
+  en: Vinsmoke Reiju
+  ja: ヴィンスモーク・レイジュ
+  romaji: Vinsumōku Reiju
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 826
+  episode: 784
+epithets:
+- en: Poison Pink
+  ja: ポイズンピンク
+  romaji: Poizun Pinku
+occupations:
+- name: Princess
+  status: current
+- name: Mercenary
+  status: current
+affiliations:
+- type: organization
+  slug: vinsmoke-family
+  status: current
+- type: location
+  slug: germa-kingdom
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 11
+  day: 30
+blood_type: F
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 173
+  period: other

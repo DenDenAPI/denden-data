@@ -1,0 +1,11 @@
+slug: promise-land
+name:
+  en: Promise Land
+  ja: プロミスランド
+  romaji: Puromisu Rando
+canon: other
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

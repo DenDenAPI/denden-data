@@ -1,0 +1,46 @@
+slug: shishilian
+name:
+  en: Shishilian
+  ja: シシリアン
+  romaji: Shishirian
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 808
+  episode: 758
+epithets:
+- en: Full Power Shishilian
+  ja: 全力のシシリアン
+  romaji: Zenryoku no Shishirian
+occupations:
+- name: Captain of the Musketeers
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: inuarashi-musketeer-squad
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: current
+birthday:
+  month: 4
+  day: 4
+blood_type: XF
+ages:
+- years: 34
+  period: other
+heights:
+- cm: 196
+  period: other

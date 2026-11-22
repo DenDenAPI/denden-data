@@ -1,0 +1,20 @@
+slug: purin
+name:
+  en: Purin
+  ja: プリン
+  romaji: Purin
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Shoe shiner
+  status: current
+affiliations:
+- type: location
+  slug: secon-island
+  status: current
+ages:
+- years: 9
+  period: other

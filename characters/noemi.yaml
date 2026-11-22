@@ -1,0 +1,15 @@
+slug: noemi
+name:
+  en: Noemi
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Proprietess
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current

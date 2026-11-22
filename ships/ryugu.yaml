@@ -1,0 +1,13 @@
+slug: ryugu
+name:
+  en: Ryugu
+  ja: リュウグウ号
+  romaji: Ryūgū-gō
+canon: manga
+first_appearance:
+  chapter: 609
+  episode: 528
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current

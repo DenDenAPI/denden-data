@@ -1,0 +1,20 @@
+slug: ahho-desunen-ix
+name:
+  en: Ahho Desunen IX
+  ja: アッホ・デスネン9世
+  romaji: Ahho Desunen Kyūsei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 587
+  episode: 501
+occupations:
+- name: Noble
+  status: current
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current

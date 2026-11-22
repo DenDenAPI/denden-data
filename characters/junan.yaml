@@ -1,0 +1,23 @@
+slug: junan
+name:
+  en: Junan
+  ja: ジュナン
+  romaji: Junan
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+occupations:
+- name: Cashier
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: gyoverly-hills
+  status: current

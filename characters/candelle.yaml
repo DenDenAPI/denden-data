@@ -1,0 +1,25 @@
+slug: candelle
+name:
+  en: Candelle
+  ja: キャンデル
+  romaji: Kyanderu
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1183
+occupations:
+- name: Queen of Esperia
+  status: current
+- name: Captain of Esperia Battle Convoy
+  status: former
+affiliations:
+- type: location
+  slug: esperia-kingdom
+  status: current
+residences:
+- type: location
+  slug: esperia-kingdom
+  status: current

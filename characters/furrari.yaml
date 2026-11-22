@@ -1,0 +1,20 @@
+slug: furrari
+name:
+  en: Furrari
+  ja: フラーリ
+  romaji: Furāri
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 906
+  episode: 884
+occupations:
+- name: King
+  status: current
+residences:
+- type: location
+  slug: nagagutsu-kingdom
+  status: current

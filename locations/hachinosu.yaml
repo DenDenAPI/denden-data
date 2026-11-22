@@ -1,0 +1,17 @@
+slug: hachinosu
+name:
+  en: Hachinosu
+  ja: ハチノス
+  romaji: Hachinosu
+canon: manga
+first_appearance:
+  chapter: 306
+  episode: 208
+parent: new-world
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: crew
+  slug: blackbeard-pirates
+  status: current

@@ -1,0 +1,22 @@
+slug: raymon
+name:
+  en: Raymon
+  ja: レイモン
+  romaji: Reimon
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Serious Raymon
+  ja: 一本気なレイモン
+  romaji: Ippongi na Reimon
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: jail-island
+  status: current

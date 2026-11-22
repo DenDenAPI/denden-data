@@ -1,0 +1,40 @@
+slug: brannew
+name:
+  en: Brannew
+  ja: ブランニュー
+  romaji: Buran'nyū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 96
+  episode: 45
+occupations:
+- name: Commodore
+  status: current
+- name: Lieutenant Commander
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 9
+  day: 3
+blood_type: X
+ages:
+- years: 54
+  period: debut
+- years: 56
+  period: post_timeskip
+heights:
+- cm: 190
+  period: other
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

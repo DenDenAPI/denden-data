@@ -1,0 +1,21 @@
+slug: sheronia
+name:
+  en: Sheronia
+  ja: シェロニア
+  romaji: Sheronia
+canon: other
+status: alive
+epithets:
+- en: Dark Sword
+  ja: 暗剣
+  romaji: Anken
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: nagels-pirates
+  status: current
+bounties:
+- amount: 2000000
+  status: current

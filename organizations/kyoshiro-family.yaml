@@ -1,0 +1,27 @@
+slug: kyoshiro-family
+name:
+  en: Kyoshiro Family
+  ja: 狂死郎一家
+  romaji: Kyōshirō Ikka
+canon: manga
+first_appearance:
+  chapter: 919
+  episode: 909
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: kurozumi-family
+  status: former
+- type: crew
+  slug: beasts-pirates
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,47 @@
+slug: shirahoshi
+name:
+  en: Shirahoshi
+  ja: しらほし
+  romaji: Shirahoshi
+canon: manga
+gender: female
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 612
+  episode: 531
+epithets:
+- en: Mermaid Princess
+  ja: 人魚姫
+  romaji: Ningyo Hime
+aliases:
+- en: Poseidon
+  ja: ポセイドン
+  romaji: Poseidon
+occupations:
+- name: Princess of the Ryugu Kingdom
+  status: current
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+- type: location
+  slug: ryugu-kingdom
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-palace
+  status: current
+birthday:
+  month: 4
+  day: 4
+blood_type: X
+ages:
+- years: 16
+  period: other
+heights:
+- cm: 1187
+  period: other

@@ -1,0 +1,14 @@
+slug: dawn-island
+name:
+  en: Dawn Island
+  ja: ドーン島
+  romaji: Dōn-tō
+canon: manga
+first_appearance:
+  chapter: 1
+  episode: 4
+region: East Blue
+affiliations:
+- type: location
+  slug: goa-kingdom
+  status: current

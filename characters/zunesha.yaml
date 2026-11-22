@@ -1,0 +1,25 @@
+slug: zunesha
+name:
+  en: Zunesha
+  ja: 象主
+  romaji: Zunīsha
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 802
+  episode: 751
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: new-world
+  status: current
+birthday:
+  month: 12
+  day: 18
+ages:
+- years: 1000
+  period: other
+  minimum: true

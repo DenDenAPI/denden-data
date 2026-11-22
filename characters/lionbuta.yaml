@@ -1,0 +1,17 @@
+slug: lionbuta
+name:
+  en: Lionbuta
+  ja: ライオンブタ
+  romaji: Raionbuta
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 22
+  episode: 18
+affiliations:
+- type: location
+  slug: island-of-rare-animals
+  status: current

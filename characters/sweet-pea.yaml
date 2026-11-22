@@ -1,0 +1,27 @@
+slug: sweet-pea
+name:
+  en: Sweet Pea
+  ja: スイトピー
+  romaji: Suitopī
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 514
+  episode: 408
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 1
+  day: 14

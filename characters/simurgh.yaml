@@ -1,0 +1,13 @@
+slug: simurgh
+name:
+  en: Simurgh
+  ja: シームルグ
+  romaji: Shīmurugu
+canon: other
+species:
+- animal
+status: alive
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current

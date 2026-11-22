@@ -1,0 +1,24 @@
+slug: insk
+name:
+  en: Insk
+  ja: インスク
+  romaji: Insuku
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Insect Meister
+  ja: 昆虫マイスター
+  romaji: Konchū Maisutā
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: insect-pirates
+  status: current
+bounties:
+- amount: 57000000
+  status: former

@@ -1,0 +1,24 @@
+slug: bao-huang
+name:
+  en: Bao Huang
+  ja: バオファン
+  romaji: Baofan
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 979
+  episode: 985
+occupations:
+- name: Shinuchi
+  status: current
+- name: Mary
+  status: current
+- name: Scheduler
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

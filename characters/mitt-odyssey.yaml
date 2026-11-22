@@ -1,0 +1,14 @@
+slug: mitt-odyssey
+name:
+  en: Mitt (Odyssey)
+  ja: ミット
+  romaji: Mitto
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

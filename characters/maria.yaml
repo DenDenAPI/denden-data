@@ -1,0 +1,14 @@
+slug: maria
+name:
+  en: Maria
+  ja: マリア
+  romaji: Maria
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current

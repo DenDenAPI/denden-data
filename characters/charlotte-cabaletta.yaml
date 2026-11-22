@@ -1,0 +1,29 @@
+slug: charlotte-cabaletta
+name:
+  en: Charlotte Cabaletta
+  ja: シャーロット・カバレッタ
+  romaji: Shārotto Kabaretta
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 9
+  day: 29
+ages:
+- years: 46
+  period: other

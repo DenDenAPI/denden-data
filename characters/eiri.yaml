@@ -1,0 +1,17 @@
+slug: eiri
+name:
+  en: Eiri
+  ja: エイリ君
+  romaji: Eiri-kun
+canon: manga
+gender: male
+species:
+- giant
+status: unknown
+first_appearance:
+  chapter: 866
+  episode: 836
+residences:
+- type: location
+  slug: elbaph
+  status: current

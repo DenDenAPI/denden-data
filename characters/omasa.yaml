@@ -1,0 +1,28 @@
+slug: omasa
+name:
+  en: Omasa
+  ja: 大マサ
+  romaji: Ōmasa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 952
+  episode: 946
+epithets:
+- en: Blood-Writing Omasa
+  ja: 血文字の大マサ
+  romaji: Chimoji no Ōmasa
+occupations:
+- name: Yakuza boss
+  status: current
+- name: Prisoner
+  status: former
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

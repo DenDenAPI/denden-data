@@ -1,0 +1,24 @@
+slug: rikaon
+name:
+  en: Rikaon
+  ja: リカオン
+  romaji: Rikaon
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Land Karate
+  ja: 陸上空手
+  romaji: Rikujō Karate
+occupations:
+- name: Martial Artist
+  status: current
+residences:
+- type: location
+  slug: alubarna
+  status: current
+bounties:
+- amount: 4000000
+  status: former

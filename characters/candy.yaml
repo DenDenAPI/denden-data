@@ -1,0 +1,24 @@
+slug: candy
+name:
+  en: Candy
+  ja: キャンディー
+  romaji: Kyandī
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 510
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: candy-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 6
+  day: 14

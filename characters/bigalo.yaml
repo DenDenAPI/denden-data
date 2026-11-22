@@ -1,0 +1,21 @@
+slug: bigalo
+name:
+  en: Bigalo
+  ja: ビガロ
+  romaji: Bigaro
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+epithets:
+- en: Bigalo the Hanged Man
+  ja: 縛り首のビガロ
+  romaji: Shibarikubi no Bigaro
+occupations:
+- name: Pirate Captain
+  status: current
+bounties:
+- amount: 14900000
+  status: current
+  canon: movie

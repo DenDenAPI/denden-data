@@ -1,0 +1,16 @@
+slug: sho
+name:
+  en: Sho
+  ja: ショウ
+  romaji: Shō
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 318
+residences:
+- type: location
+  slug: water-7
+  status: current

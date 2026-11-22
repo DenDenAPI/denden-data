@@ -1,0 +1,14 @@
+slug: pangaea-castle
+name:
+  en: Pangaea Castle
+  ja: パンゲア城
+  romaji: Pangea-jō
+canon: manga
+first_appearance:
+  chapter: 142
+  episode: 91
+parent: mary-geoise
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

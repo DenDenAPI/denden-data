@@ -1,0 +1,48 @@
+slug: charlotte-katakuri
+name:
+  en: Charlotte Katakuri
+  ja: シャーロット・カタクリ
+  romaji: Shārotto Katakuri
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 825
+occupations:
+- name: Sweet Commander
+  status: current
+- name: Minister of Flour
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: komugi-island
+  status: current
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 11
+  day: 25
+blood_type: XF
+ages:
+- years: 48
+  period: other
+heights:
+- cm: 509
+  period: other
+bounties:
+- amount: 1057000000
+  status: current
+  revealed_chapter: 860

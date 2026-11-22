@@ -1,0 +1,29 @@
+slug: mr-shimizu
+name:
+  en: Mr. Shimizu
+  ja: Mr.・シミズ
+  romaji: Misutā Shimizu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 107
+  episode: 64
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: cactus-island
+  status: current
+birthday:
+  month: 12
+  day: 11

@@ -1,0 +1,20 @@
+slug: hiroshi
+name:
+  en: Hiroshi
+  ja: ひろし
+  romaji: Hiroshi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 915
+  episode: 901
+occupations:
+- name: Restaurant Owner
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

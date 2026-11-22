@@ -1,0 +1,17 @@
+slug: choshi
+name:
+  en: Choshi
+  ja: チョーシ
+  romaji: Chōshi
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: flower-angel
+  status: current

@@ -1,0 +1,25 @@
+slug: mr-13
+name:
+  en: Mr. 13
+  ja: ミスター・サーティーン
+  romaji: Misutā Sātīn
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 105
+  episode: 63
+occupations:
+- name: Assassin
+  status: former
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 5
+  day: 17

@@ -1,0 +1,26 @@
+slug: tamikebao
+name:
+  en: Tamikebao
+  ja: 多美化羽織
+  romaji: Tamikebao
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 951
+  episode: 952
+occupations:
+- name: Retainer
+  status: current
+- name: Checkpoint Guard
+  status: current
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

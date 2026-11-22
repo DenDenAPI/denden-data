@@ -1,0 +1,17 @@
+slug: kumagoro
+name:
+  en: Kumagoro
+  ja: クマ五郎
+  romaji: Kumagorō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 929
+  episode: 922
+residences:
+- type: location
+  slug: wano-country
+  status: current

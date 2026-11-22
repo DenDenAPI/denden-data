@@ -1,0 +1,11 @@
+slug: moku-moku-branch
+name:
+  en: Moku Moku Branch
+  ja: モクモク支部
+  romaji: Moku Moku Shibu
+canon: other
+region: East Blue
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,45 @@
+slug: vegapunk-york
+name:
+  en: York
+  ja: 欲
+  romaji: Yōku
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1065
+  episode: 1095
+occupations:
+- name: Scientist
+  status: current
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: former
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 3
+  day: 22
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 482
+  period: other

@@ -1,0 +1,27 @@
+slug: s-hawk
+name:
+  en: S-Hawk
+  ja: S-ホーク
+  romaji: Esu-Hōku
+canon: manga
+gender: male
+species:
+- lunarian
+status: alive
+first_appearance:
+  chapter: 1059
+  episode: 1087
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 212
+  period: other

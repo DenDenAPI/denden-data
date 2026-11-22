@@ -1,0 +1,15 @@
+slug: craven
+name:
+  en: Craven
+  ja: クレイヴン
+  romaji: Kureivun
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

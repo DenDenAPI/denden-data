@@ -1,0 +1,47 @@
+slug: silvers-rayleigh
+name:
+  en: Silvers Rayleigh
+  ja: シルバーズ・レイリー
+  romaji: Shirubāzu Reirī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 19
+  episode: 8
+epithets:
+- en: Dark King
+  ja: 冥王
+  romaji: Meiō
+- en: Right Hand of the Pirate King
+  ja: 海賊王の右腕
+  romaji: Kaizoku-Ō no Migiude
+occupations:
+- name: Coating Mechanic
+  status: current
+- name: First Mate
+  status: former
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: former
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+birthday:
+  month: 5
+  day: 13
+blood_type: XF
+ages:
+- years: 76
+  period: debut
+- years: 78
+  period: post_timeskip
+heights:
+- cm: 188
+  period: other

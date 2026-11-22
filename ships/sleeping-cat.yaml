@@ -1,0 +1,10 @@
+slug: sleeping-cat
+name:
+  en: Sleeping Cat
+  ja: スリーピングキャット
+  romaji: Surīpingu Kyatto
+canon: other
+affiliations:
+- type: crew
+  slug: set-sail-pirates
+  status: current

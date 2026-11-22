@@ -1,0 +1,16 @@
+slug: homey-film-z
+name:
+  en: Homey (Film Z)
+  ja: ホーミー
+  romaji: Hōmī
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Nurse
+  status: current
+ages:
+- years: 16
+  period: other

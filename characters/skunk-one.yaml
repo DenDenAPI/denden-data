@@ -1,0 +1,21 @@
+slug: skunk-one
+name:
+  en: Skunk One
+  ja: スカンクワン
+  romaji: Sukanku Wan
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+bounties:
+- amount: 6000000
+  status: current
+  canon: movie

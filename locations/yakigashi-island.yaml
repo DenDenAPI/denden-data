@@ -1,0 +1,11 @@
+slug: yakigashi-island
+name:
+  en: Yakigashi Island
+  ja: ヤキガシ島
+  romaji: Yakigashi-tō
+canon: manga
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

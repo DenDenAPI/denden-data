@@ -1,0 +1,24 @@
+slug: hyena-three
+name:
+  en: Hyena Three
+  ja: ダニー, デニー, ドニー
+  romaji: Danī, Denī, Donī
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Hyena Three
+  ja: ハイエナ三人衆
+  romaji: Haiena San'ninshū
+occupations:
+- name: Pirates
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+- type: crew
+  slug: eldoraggo-pirates
+  status: former

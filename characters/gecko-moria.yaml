@@ -1,0 +1,51 @@
+slug: gecko-moria
+name:
+  en: Gecko Moria
+  ja: ゲッコー・モリア
+  romaji: Gekkō Moria
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 449
+  episode: 343
+aliases:
+- en: Kouzuki Moria
+  ja: 光月もりあ
+  romaji: Kōzuki Moria
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Warlord of the Sea
+  status: former
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+- type: crew
+  slug: gecko-pirates
+  status: former
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: wano-country
+  status: former
+birthday:
+  month: 9
+  day: 6
+blood_type: X
+ages:
+- years: 48
+  period: debut
+- years: 50
+  period: post_timeskip
+heights:
+- cm: 692
+  period: debut
+bounties:
+- amount: 320000000
+  status: current
+  revealed_chapter: 455

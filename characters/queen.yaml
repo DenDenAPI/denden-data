@@ -1,0 +1,52 @@
+slug: queen
+name:
+  en: Queen
+  ja: クイーン
+  romaji: Kuīn
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 910
+epithets:
+- en: Queen the Plague
+  ja: 疫災のクイーン
+  romaji: Ekisai no Kuīn
+occupations:
+- name: All-Star
+  status: current
+- name: Scientist
+  status: current
+- name: De Facto Ruler of Udon
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: mads
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 7
+  day: 13
+blood_type: XF
+ages:
+- years: 56
+  period: other
+heights:
+- cm: 612
+  period: other
+bounties:
+- amount: 1320000000
+  status: current
+  revealed_chapter: 935

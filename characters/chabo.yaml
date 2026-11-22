@@ -1,0 +1,29 @@
+slug: chabo
+name:
+  en: Chabo
+  ja: チャボ
+  romaji: Chabo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 69
+  episode: 31
+occupations:
+- name: Laborer
+  status: current
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: gosa-village
+  status: former
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 6
+  day: 14

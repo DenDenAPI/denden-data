@@ -1,0 +1,14 @@
+slug: nepenta
+name:
+  en: Nepenta
+  ja: ネペンタ
+  romaji: Nepenta
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: location
+  slug: human-auctioning-house
+  status: current

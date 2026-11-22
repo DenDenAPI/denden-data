@@ -1,0 +1,18 @@
+slug: kiku-kuja
+name:
+  en: Kiku
+  ja: キク
+  romaji: Kiku
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 515
+  episode: 409
+occupations:
+- name: Warrior
+  status: current
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

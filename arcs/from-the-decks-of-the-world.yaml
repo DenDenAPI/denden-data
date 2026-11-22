@@ -1,0 +1,24 @@
+slug: from-the-decks-of-the-world
+order: 49
+name:
+  en: From the Decks of the World
+  ja: 世界の甲板から
+  romaji: Sekai no Kanpan kara
+kind: cover_story
+canon: manga
+sagas:
+- fish-man-island-saga
+chapters:
+  count: 48
+  ranges:
+  - start: 613
+    end: 668
+volumes:
+  count: 7
+  ranges:
+  - start: 62
+    end: 68
+years:
+  manga:
+    start: 2011
+    end: 2012

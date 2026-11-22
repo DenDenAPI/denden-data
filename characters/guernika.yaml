@@ -1,0 +1,25 @@
+slug: guernika
+name:
+  en: Guernika
+  ja: ゲルニカ
+  romaji: Gerunika
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 705
+  episode: 635
+occupations:
+- name: Cipher Pol Agent
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 10
+  day: 25
+blood_type: F
+heights:
+- cm: 243
+  period: other

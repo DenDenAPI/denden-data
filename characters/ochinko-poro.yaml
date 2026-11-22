@@ -1,0 +1,14 @@
+slug: ochinko-poro
+name:
+  en: Ochinko Poro
+  ja: オチンコ・ポロ
+  romaji: Ochinko Poro
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

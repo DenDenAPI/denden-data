@@ -1,0 +1,47 @@
+slug: vasco-shot
+name:
+  en: Vasco Shot
+  ja: バスコ・ショット
+  romaji: Basuko Shotto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 575
+  episode: 484
+epithets:
+- en: '"Heavy Drinker" Vasco Shot'
+  ja: 大酒のバスコ・ショット
+  romaji: Ōzake no Basuko Shotto
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 8
+  day: 5
+blood_type: X
+ages:
+- years: 36
+  period: debut
+- years: 38
+  period: post_timeskip
+heights:
+- cm: 573
+  period: other

@@ -1,0 +1,73 @@
+slug: sabo
+name:
+  en: Sabo
+  ja: サボ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 583
+  episode: 494
+epithets:
+- en: Flame Emperor
+  ja: 炎帝
+  romaji: Entei
+aliases:
+- en: Lucy
+  ja: ルｰシｰ
+  romaji: Rūshī
+occupations:
+- name: of the Revolutionary Army
+  status: current
+- name: Noble
+  status: former
+- name: Pirate
+  status: former
+- name: Thief
+  status: former
+- name: Bandit
+  status: former
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: organization
+  slug: dadan-family
+  status: former
+- type: location
+  slug: goa-kingdom
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: mt-colubo
+  status: former
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+- type: location
+  slug: goa-kingdom
+  status: former
+birthday:
+  month: 3
+  day: 20
+blood_type: X
+ages:
+- years: 10
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 100
+  period: debut
+- cm: 187
+  period: post_timeskip
+bounties:
+- amount: 602000000
+  status: former

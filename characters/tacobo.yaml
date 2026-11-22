@@ -1,0 +1,16 @@
+slug: tacobo
+name:
+  en: Tacobo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 20
+occupations:
+- name: Fugitive
+  status: current
+bounties:
+- amount: 1000
+  status: current

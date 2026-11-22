@@ -1,0 +1,79 @@
+slug: donquixote-doflamingo
+name:
+  en: Donquixote Doflamingo
+  ja: ドンキホーテ・ドフラミンゴ
+  romaji: Donkihōte Dofuramingo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 233
+  episode: 151
+epithets:
+- en: Heavenly Yaksha
+  ja: 天夜叉
+  romaji: Ten Yasha
+aliases:
+- en: Joker
+  ja: ジョーカー
+  romaji: Jōkā
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Prisoner of the Great Prison
+  status: current
+- name: Underworld Broker
+  status: current
+- name: King of Dressrosa
+  status: former
+- name: World Noble
+  status: former
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+- type: location
+  slug: impel-down
+  status: current
+- type: organization
+  slug: world-government
+  status: current
+- type: location
+  slug: dressrosa
+  status: former
+origin:
+  location: mary-geoise
+residences:
+- type: location
+  slug: downs
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: mary-geoise
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+- type: location
+  slug: impel-down
+  status: current
+birthday:
+  month: 10
+  day: 23
+blood_type: X
+ages:
+- years: 39
+  period: debut
+- years: 41
+  period: post_timeskip
+heights:
+- cm: 305
+  period: debut
+bounties:
+- amount: 340000000
+  status: former
+  revealed_chapter: 234

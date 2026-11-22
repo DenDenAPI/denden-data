@@ -1,0 +1,35 @@
+slug: tsurujo
+name:
+  en: Tsurujo
+  ja: 鶴女
+  romaji: Tsurujo
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 912
+  episode: 897
+occupations:
+- name: Tea House Owner
+  status: current
+- name: Waitress
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: former
+birthday:
+  month: 9
+  day: 15
+blood_type: F
+ages:
+- years: 55
+  period: other
+heights:
+- cm: 191
+  period: other

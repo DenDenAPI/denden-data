@@ -1,0 +1,35 @@
+slug: charlotte-galette
+name:
+  en: Charlotte Galette
+  ja: シャーロット・ガレット
+  romaji: Shārotto Garetto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+  episode: 789
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Butter
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: margarine-island
+  status: current
+birthday:
+  month: 10
+  day: 19
+ages:
+- years: 31
+  period: other

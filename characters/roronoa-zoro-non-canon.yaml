@@ -1,0 +1,14 @@
+slug: roronoa-zoro-non-canon
+name:
+  en: Roronoa Zoro (Non-Canon)
+  ja: 論々野亜・正六
+  romaji: Roronoa Zoro
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

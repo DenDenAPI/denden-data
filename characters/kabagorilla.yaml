@@ -1,0 +1,15 @@
+slug: kabagorilla
+name:
+  en: Kabagorilla
+  ja: カバゴリラ
+  romaji: Kabagorira
+canon: anime_only
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 18
+residences:
+- type: location
+  slug: island-of-rare-animals
+  status: current

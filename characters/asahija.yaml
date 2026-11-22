@@ -1,0 +1,24 @@
+slug: asahija
+name:
+  en: Asahija
+  ja: アサヒジャー
+  romaji: Asahijā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 483
+  episode: 375
+occupations:
+- name: Chief Petty Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+bounties:
+- amount: 100000
+  status: current
+  minimum: true

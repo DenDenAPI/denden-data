@@ -1,0 +1,19 @@
+slug: moai
+name:
+  en: Moai
+  ja: モアイ
+  romaji: Moai
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1040
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

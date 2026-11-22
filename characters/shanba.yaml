@@ -1,0 +1,20 @@
+slug: shanba
+name:
+  en: Shanba
+  ja: シャンバ
+  romaji: Shanba
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 524
+  episode: 419
+affiliations:
+- type: location
+  slug: torino-kingdom
+  status: current
+birthday:
+  month: 11
+  day: 8

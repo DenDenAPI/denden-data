@@ -1,0 +1,42 @@
+slug: shimotsuki-ryuma
+name:
+  en: Shimotsuki Ryuma
+  ja: 霜月リューマ
+  romaji: Shimotsuki Ryūma
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1023
+  episode: 1046
+epithets:
+- en: Legendary Samurai
+  ja: 伝説の侍
+  romaji: Densetsu no Samurai
+- en: Sword God
+  ja: 刀神様
+  romaji: Tōjin-sama
+- en: Ryuma de King
+  ja: リューマ・ド・キング
+  romaji: Ryūma do Kingu
+occupations:
+- name: Samurai
+  status: current
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  location: wano-country
+birthday:
+  month: 11
+  day: 6
+blood_type: XF
+heights:
+- cm: 179
+  period: other

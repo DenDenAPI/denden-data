@@ -1,0 +1,22 @@
+slug: toto
+name:
+  en: Toto
+  ja: トト
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 163
+  episode: 100
+occupations:
+- name: Yuba villager
+  status: current
+residences:
+- type: location
+  slug: yuba
+  status: current
+birthday:
+  month: 6
+  day: 17

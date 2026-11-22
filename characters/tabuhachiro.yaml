@@ -1,0 +1,24 @@
+slug: tabuhachiro
+name:
+  en: Tabuhachiro
+  ja: たぶ八郎
+  romaji: Tabuhachirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 911
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

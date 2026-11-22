@@ -1,0 +1,22 @@
+slug: glove
+name:
+  en: Glove
+  ja: グローブ
+  romaji: Gurōbu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 427
+  episode: 309
+occupations:
+- name: Marine
+  status: current
+- name: Commander
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

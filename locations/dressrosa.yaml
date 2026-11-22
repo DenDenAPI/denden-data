@@ -1,0 +1,17 @@
+slug: dressrosa
+name:
+  en: Dressrosa
+  ja: ドレスローザ
+  romaji: Doresurōza
+canon: manga
+first_appearance:
+  chapter: 682
+  episode: 608
+parent: new-world
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: former

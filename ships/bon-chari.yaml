@@ -1,0 +1,13 @@
+slug: bon-chari
+name:
+  en: Bon Chari
+  ja: ボンチャリ
+  romaji: Bonchari
+canon: manga
+first_appearance:
+  chapter: 497
+  episode: 391
+affiliations:
+- type: location
+  slug: sabaody-archipelago
+  status: current

@@ -1,0 +1,27 @@
+slug: koda
+name:
+  en: Koda
+  ja: コーダ
+  romaji: Kōda
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 285
+  episode: 381
+occupations:
+- name: Chef
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-2
+  status: current
+residences:
+- type: location
+  slug: g-2
+  status: current

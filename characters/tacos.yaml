@@ -1,0 +1,23 @@
+slug: tacos
+name:
+  en: Tacos
+  ja: タコス
+  romaji: Takosu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 905
+  episode: 882
+occupations:
+- name: King of the Shishano Kingdom
+  status: current
+residences:
+- type: location
+  slug: shishano-kingdom
+  status: current
+birthday:
+  month: 12
+  day: 9

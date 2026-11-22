@@ -1,0 +1,31 @@
+slug: marlon
+name:
+  en: Marlon
+  ja: マーロン
+  romaji: Māron
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1155
+epithets:
+- en: Don Marlon
+  ja: 首領・マーロン
+  romaji: Don Māron
+occupations:
+- name: Pirate
+  status: current
+- name: Gangster
+  status: current
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current

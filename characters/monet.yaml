@@ -1,0 +1,40 @@
+slug: monet
+name:
+  en: Monet
+  ja: モネ
+  romaji: Mone
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 657
+  episode: 581
+occupations:
+- name: Caesar's secretary
+  status: current
+- name: Doflamingo's spy
+  status: current
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: punk-hazard
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 8
+  day: 27
+blood_type: X
+heights:
+- cm: 227
+  period: other

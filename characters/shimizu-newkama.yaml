@@ -1,0 +1,14 @@
+slug: shimizu-newkama
+name:
+  en: Shimizu
+  ja: シミズ
+  romaji: Shimizu
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

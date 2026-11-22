@@ -1,0 +1,14 @@
+slug: g-3
+name:
+  en: G-3
+  ja: 海軍G・L第3支部
+  romaji: Kaigun Gurando Rain Dai-San Shibu
+canon: manga
+first_appearance:
+  chapter: 581
+  episode: 490
+region: Grand Line
+affiliations:
+- type: organization
+  slug: marines
+  status: current

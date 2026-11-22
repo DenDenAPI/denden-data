@@ -1,0 +1,20 @@
+slug: yamanba
+name:
+  en: Yamanba
+  ja: 山姥
+  romaji: Yamanba
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 998
+  episode: 1013
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: ruluka-government
+name:
+  en: Ruluka Government
+  ja: ルルカ政府
+  romaji: Ruruka Seifu
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 139
+leaders:
+- character: wetton
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: ruluka
+  status: current

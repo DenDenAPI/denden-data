@@ -1,0 +1,17 @@
+slug: cp5
+name:
+  en: CP5
+  ja: CP5
+  romaji: Shī Pī Faibu
+canon: manga
+first_appearance:
+  chapter: 355
+  episode: 249
+leaders:
+- character: spandam
+  status: former
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

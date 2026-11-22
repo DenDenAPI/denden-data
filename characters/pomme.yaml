@@ -1,0 +1,14 @@
+slug: pomme
+name:
+  en: Pomme
+  ja: ポム
+  romaji: Pomu
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

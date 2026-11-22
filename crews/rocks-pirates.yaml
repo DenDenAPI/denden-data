@@ -1,0 +1,13 @@
+slug: rocks-pirates
+name:
+  en: Rocks Pirates
+  ja: ロックス海賊団
+  romaji: Rokkusu Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 957
+  episode: 958
+captains:
+- character: rocks-d-xebec
+  status: current

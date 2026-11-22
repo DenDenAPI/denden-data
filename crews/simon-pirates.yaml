@@ -1,0 +1,9 @@
+slug: simon-pirates
+name:
+  en: Simon Pirates
+  ja: サイモン海賊団
+  romaji: Saimon Kaizoku-dan
+canon: other
+captains:
+- character: simon
+  status: current

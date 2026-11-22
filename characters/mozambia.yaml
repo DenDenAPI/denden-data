@@ -1,0 +1,24 @@
+slug: mozambia
+name:
+  en: Mozambia
+  ja: モザンビア
+  romaji: Mozanbia
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

@@ -1,0 +1,13 @@
+slug: kimi-island
+name:
+  en: Kimi Island
+  ja: キミ 島
+  romaji: Kimi-tō
+canon: anime_only
+first_appearance:
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

@@ -1,0 +1,16 @@
+slug: shironyan
+name:
+  en: Shironyan
+  ja: しろにゃん
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Shopkeeper
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

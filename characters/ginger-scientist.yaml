@@ -1,0 +1,30 @@
+slug: ginger-scientist
+name:
+  en: Ginger (Scientist)
+  ja: ジンジャー
+  romaji: Jinjā
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Illusionist
+  ja: 幻惑使い
+  romaji: Genwaku Tsukai
+occupations:
+- name: Scientist
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+bounties:
+- amount: 20000000
+  status: former

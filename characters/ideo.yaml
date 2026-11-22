@@ -1,0 +1,42 @@
+slug: ideo
+name:
+  en: Ideo
+  ja: イデオ
+canon: manga
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 633
+epithets:
+- en: Destruction Cannon
+  ja: 破壊砲
+  romaji: Hakai Hō
+occupations:
+- name: Captain of the Fourth Ship of the Straw Hat Grand Fleet
+  status: current
+- name: Pirate Captain
+  status: current
+- name: Boxer
+  status: current
+affiliations:
+- type: crew
+  slug: ideo-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 10
+  day: 10
+blood_type: X
+ages:
+- years: 22
+  period: other
+heights:
+- cm: 225
+  period: other

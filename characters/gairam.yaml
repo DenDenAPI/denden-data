@@ -1,0 +1,19 @@
+slug: gairam
+name:
+  en: Gairam
+  ja: ガイラム
+  romaji: Gairamu
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current

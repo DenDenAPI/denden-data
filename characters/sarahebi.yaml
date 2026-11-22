@@ -1,0 +1,22 @@
+slug: sarahebi
+name:
+  en: Sarahebi
+  ja: さらへび
+  romaji: Sarahebi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 919
+  episode: 909
+occupations:
+- name: Gifter
+  status: current
+- name: Teacher
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

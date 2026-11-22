@@ -1,0 +1,16 @@
+slug: hilmungardr
+name:
+  en: Hilmungardr
+  ja: ヒルムンガルド
+  romaji: Hirumungarudo
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1128
+  episode: 1158
+residences:
+- type: location
+  slug: land-of-gods
+  status: current

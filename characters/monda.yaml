@@ -1,0 +1,23 @@
+slug: monda
+name:
+  en: Monda
+  ja: モンダ
+  romaji: Monda
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 306
+  episode: 209
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former
+birthday:
+  month: 4
+  day: 3

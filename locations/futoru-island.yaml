@@ -1,0 +1,13 @@
+slug: futoru-island
+name:
+  en: Futoru Island
+  ja: フトル島
+  romaji: Futoru-tō
+canon: anime_only
+first_appearance:
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

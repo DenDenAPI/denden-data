@@ -1,0 +1,23 @@
+slug: gatz
+name:
+  en: Gatz
+  ja: ギャッツ
+  romaji: Gyattsu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 702
+  episode: 631
+occupations:
+- name: Announcer
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current
+birthday:
+  month: 8
+  day: 26

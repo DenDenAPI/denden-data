@@ -1,0 +1,26 @@
+slug: candre
+name:
+  en: Candre
+  ja: カンドレ
+  romaji: Kandore
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 557
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+birthday:
+  month: 5
+  day: 19
+ages:
+- years: 30
+  period: other
+  minimum: true

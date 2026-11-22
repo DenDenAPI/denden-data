@@ -1,0 +1,28 @@
+slug: lassoo
+name:
+  en: Lassoo
+  ja: ラッスー
+  romaji: Rassū
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 160
+  episode: 103
+occupations:
+- name: Cafe Mascot
+  status: current
+- name: Pet
+  status: current
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+birthday:
+  month: 1
+  day: 4

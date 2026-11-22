@@ -1,0 +1,13 @@
+slug: damian
+name:
+  en: Damian
+  ja: ダミアン
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,19 @@
+slug: niseluffy
+name:
+  en: Niseluffy
+  ja: ニセルフィ
+  romaji: Niserufi
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Impersonator
+  status: current
+affiliations:
+- type: crew
+  slug: nisenise-pirates
+  status: current

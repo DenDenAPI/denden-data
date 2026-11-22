@@ -1,0 +1,37 @@
+slug: toko
+name:
+  en: Toko
+  ja: トコ
+  romaji: Toko
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 927
+  episode: 920
+occupations:
+- name: Kamuro
+  status: current
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+birthday:
+  month: 10
+  day: 5
+blood_type: F
+ages:
+- years: 6
+  period: other
+heights:
+- cm: 89
+  period: other

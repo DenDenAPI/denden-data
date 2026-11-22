@@ -1,0 +1,46 @@
+slug: hajrudin
+name:
+  en: Hajrudin
+  ja: ハイルディン
+  romaji: Hairudin
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 639
+occupations:
+- name: Captain of the Sixth Ship of the Straw Hat Grand Fleet
+  status: current
+- name: Pirate Captain
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 8
+  day: 12
+blood_type: XF
+ages:
+- years: 81
+  period: other
+heights:
+- cm: 2200
+  period: other

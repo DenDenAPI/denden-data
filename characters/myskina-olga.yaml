@@ -1,0 +1,17 @@
+slug: myskina-olga
+name:
+  en: Myskina Olga
+  ja: ミスキナ・オルガ
+  romaji: Misukina Oruga
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: alchemi
+  status: former
+ages:
+- years: 206
+  period: other

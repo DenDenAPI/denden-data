@@ -1,0 +1,46 @@
+slug: kouzuki-hiyori
+name:
+  en: Kouzuki Hiyori
+  ja: 光月日和
+  romaji: Kōzuki Hiyori
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 909
+  episode: 892
+aliases:
+- en: Komurasaki
+  ja: 小紫
+  romaji: Komurasaki
+occupations:
+- name: Oiran
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+- type: location
+  slug: flower-capital
+  status: current
+birthday:
+  month: 12
+  day: 23
+blood_type: XF
+ages:
+- years: 26
+  period: other
+heights:
+- cm: 170
+  period: other

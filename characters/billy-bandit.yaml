@@ -1,0 +1,18 @@
+slug: billy-bandit
+name:
+  en: Billy (Bandit)
+  ja: ビリー
+  romaji: Birī
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 135
+occupations:
+- name: bandit
+  status: current
+bounties:
+- amount: 5000000
+  status: former

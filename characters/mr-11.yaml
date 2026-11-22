@@ -1,0 +1,27 @@
+slug: mr-11
+name:
+  en: Mr. 11
+  ja: Mr. 11
+  romaji: Misutā Irebun
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 128
+  episode: 79
+aliases:
+- en: Mr. 11
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 11
+  day: 21

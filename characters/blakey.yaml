@@ -1,0 +1,27 @@
+slug: blakey
+name:
+  en: Blakey
+  ja: ブレイキー
+  romaji: Bureikī
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 649
+  episode: 569
+occupations:
+- name: Drummer
+  status: current
+affiliations:
+- type: location
+  slug: fish-man-island
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-kingdom
+  status: current

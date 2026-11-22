@@ -1,0 +1,20 @@
+slug: gorgon-sisters
+name:
+  en: Gorgon Sisters
+  ja: ゴルゴン三姉妹
+  romaji: Gorugon San Shimai
+canon: manga
+first_appearance:
+  chapter: 516
+  episode: 409
+leaders:
+- character: boa-hancock
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

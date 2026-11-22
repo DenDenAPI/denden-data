@@ -1,0 +1,30 @@
+slug: drum-island-arc
+order: 13
+name:
+  en: Drum Island Arc
+kind: story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 25
+  ranges:
+  - start: 130
+    end: 154
+volumes:
+  count: 3
+  ranges:
+  - start: 15
+    end: 17
+episodes:
+  count: 14
+  ranges:
+  - start: 78
+    end: 91
+years:
+  manga:
+    start: 2000
+    end: 2000
+  anime:
+    start: 2001
+    end: 2001

@@ -1,0 +1,48 @@
+slug: absalom
+name:
+  en: Absalom
+  ja: アブサロム
+  romaji: Abusaromu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 444
+  episode: 339
+epithets:
+- en: Absalom of the Graveyard
+  ja: 墓場のアブサロム
+  romaji: Hakaba no Abusaromu
+aliases:
+- en: Absa
+  ja: アブサ
+  romaji: Abusa
+occupations:
+- name: Reporter
+  status: current
+- name: Pirate
+  status: current
+- name: Soldier Zombies
+  status: current
+- name: General Zombies Commander
+  status: former
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 12
+  day: 30
+blood_type: F
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 195
+  period: other

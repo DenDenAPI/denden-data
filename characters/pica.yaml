@@ -1,0 +1,45 @@
+slug: pica
+name:
+  en: Pica
+  ja: ピーカ
+  romaji: Pīka
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 700
+  episode: 629
+occupations:
+- name: Pirate Executive Officer
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: downs
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 12
+  day: 14
+blood_type: X
+ages:
+- years: 40
+  period: other
+heights:
+- cm: 470
+  period: other
+bounties:
+- amount: 99000000
+  status: former

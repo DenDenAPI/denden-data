@@ -1,0 +1,24 @@
+slug: tensei
+name:
+  en: Tensei
+  ja: テンセイ
+  romaji: Tensei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1054
+  episode: 1081
+aliases:
+- en: Kurouma
+  ja: 黒馬
+  romaji: Kurouma
+occupations:
+- name: Director of the Marine Bureau of Investigation
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

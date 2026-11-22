@@ -1,0 +1,14 @@
+slug: lord-of-the-coast-of-wano-country
+name:
+  en: Lord of the Coast of Wano Country
+  ja: ワノ国近海の主
+  romaji: Wano Kuni Kinkai no Nushi
+canon: other
+species:
+- animal
+- sea_king
+status: alive
+residences:
+- type: location
+  slug: wano-country
+  status: current

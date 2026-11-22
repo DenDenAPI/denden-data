@@ -1,0 +1,45 @@
+slug: charlotte-perospero
+name:
+  en: Charlotte Perospero
+  ja: シャーロット・ペロスペロー
+  romaji: Shārotto Perosuperō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 834
+  episode: 795
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Candy
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: candy-island
+  status: current
+birthday:
+  month: 3
+  day: 14
+blood_type: X
+ages:
+- years: 50
+  period: other
+heights:
+- cm: 333
+  period: other
+bounties:
+- amount: 700000000
+  status: current
+  revealed_chapter: 877

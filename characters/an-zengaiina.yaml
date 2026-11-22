@@ -1,0 +1,23 @@
+slug: an-zengaiina
+name:
+  en: An Zengaiina
+  ja: アン・ゼンガイーナ
+  romaji: An Zengaīna
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 528
+  episode: 425
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 31
+bounties:
+- amount: 15000000
+  status: current
+  minimum: true
+  revealed_chapter: 549

@@ -1,0 +1,17 @@
+slug: mirage
+name:
+  en: Mirage
+  ja: ミラージュ
+  romaji: Mirāju
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Staff officer
+  status: current
+affiliations:
+- type: organization
+  slug: flower-angel
+  status: current

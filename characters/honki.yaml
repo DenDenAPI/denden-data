@@ -1,0 +1,16 @@
+slug: honki
+name:
+  en: Honki
+  ja: ホンキ
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Colonel
+  status: current
+residences:
+- type: location
+  slug: mecha-island
+  status: current

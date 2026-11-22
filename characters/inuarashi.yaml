@@ -1,0 +1,73 @@
+slug: inuarashi
+name:
+  en: Inuarashi
+  ja: イヌアラシ
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 808
+  episode: 756
+epithets:
+- en: Duke Inuarashi
+  ja: イヌアラシ公爵
+  romaji: Inuarashi Kōshaku
+- en: Ruler of Day
+  ja: 昼の王
+  romaji: Hiru no Ō
+occupations:
+- name: Daimyo
+  status: current
+- name: Ruler of the Mokomo Dukedom
+  status: former
+- name: Commander of the Musketeers
+  status: current
+- name: Retainer
+  status: current
+- name: Samurai
+  status: current
+- name: Pirate Apprentice
+  status: former
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: inuarashi-musketeer-squad
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: former
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 10
+  day: 11
+blood_type: X
+ages:
+- years: 40
+  period: other
+heights:
+- cm: 511
+  period: other

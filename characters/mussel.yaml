@@ -1,0 +1,17 @@
+slug: mussel
+name:
+  en: Mussel
+  ja: マッスル
+  romaji: Massuru
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: mussel-pirates
+  status: current

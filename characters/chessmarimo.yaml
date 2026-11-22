@@ -1,0 +1,25 @@
+slug: chessmarimo
+name:
+  en: Chessmarimo
+  ja: チェスマーリモ
+  romaji: Chesumārimo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 147
+  episode: 87
+occupations:
+- name: Servant of Wapol
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bliking-pirates
+  status: current
+- type: location
+  slug: sakura-kingdom
+  status: current

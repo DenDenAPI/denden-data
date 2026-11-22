@@ -1,0 +1,45 @@
+slug: viola
+name:
+  en: Viola
+  ja: ヴィオラ
+  romaji: Viora
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 703
+  episode: 632
+aliases:
+- en: Violet
+  ja: ヴァイオレット
+  romaji: Vaioretto
+occupations:
+- name: Princess of Dressrosa
+  status: current
+- name: Pirate Officer
+  status: former
+- name: Assassin
+  status: former
+- name: Dancer
+  status: current
+affiliations:
+- type: organization
+  slug: riku-family
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 4
+  day: 30
+blood_type: X
+ages:
+- years: 29
+  period: other
+heights:
+- cm: 178
+  period: other

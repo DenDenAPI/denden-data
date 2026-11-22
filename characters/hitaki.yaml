@@ -1,0 +1,21 @@
+slug: hitaki
+name:
+  en: Hitaki
+  ja: ヒタキ
+  romaji: Hitaki
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Daimyo
+  status: current
+affiliations:
+- type: organization
+  slug: hitaki-family
+  status: current
+residences:
+- type: location
+  slug: yo
+  status: current

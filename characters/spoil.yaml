@@ -1,0 +1,23 @@
+slug: spoil
+name:
+  en: Spoil
+  ja: スポイル
+  romaji: Supoiru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 448
+  episode: 343
+occupations:
+- name: Chairman of Thriller Bark Victim's Association
+  status: current
+affiliations:
+- type: organization
+  slug: thriller-bark-victims-association
+  status: current
+birthday:
+  month: 9
+  day: 15

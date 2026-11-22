@@ -1,0 +1,29 @@
+slug: kiba
+name:
+  en: Kiba
+  ja: キバ
+  romaji: Kiba
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1142
+  episode: 1168
+occupations:
+- name: Principal
+  status: current
+- name: Pirate
+  status: former
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+- type: crew
+  slug: giant-warrior-pirates
+  status: former
+residences:
+- type: location
+  slug: elbaph
+  status: current

@@ -1,0 +1,26 @@
+slug: merry
+name:
+  en: Merry
+  ja: メリー
+  romaji: Merī
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 24
+  episode: 11
+occupations:
+- name: Butler
+  status: current
+origin:
+  location: syrup-village
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: current
+birthday:
+  month: 1
+  day: 22

@@ -1,0 +1,18 @@
+slug: omusubi-non-canon
+name:
+  en: Omusubi
+  ja: オムスビ
+  romaji: Omusubi
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Omusubi the Lunch Vendor
+  ja: 弁当屋のオムスビ
+  romaji: Bentō-ya no Omusubi
+residences:
+- type: location
+  slug: jail-island
+  status: current

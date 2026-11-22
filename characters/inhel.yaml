@@ -1,0 +1,28 @@
+slug: inhel
+name:
+  en: Inhel
+  ja: インヘル
+  romaji: Inheru
+canon: anime_only
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 718
+  episode: 648
+occupations:
+- name: Scout
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: tontatta-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current

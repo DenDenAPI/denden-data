@@ -1,0 +1,72 @@
+slug: shanks
+name:
+  en: Shanks
+  ja: シャンクス
+  romaji: Shankusu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+epithets:
+- en: Red-Haired Shanks
+  ja: 赤髪のシャンクス
+  romaji: Akagami no Shankusu
+occupations:
+- name: Chief
+  status: current
+- name: Emperor
+  status: current
+- name: Apprentice
+  status: former
+- name: Devoted Blade of God
+  status: former
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current
+- type: organization
+  slug: four-emperors
+  status: current
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: organization
+  slug: knights-of-god
+  status: former
+- type: organization
+  slug: world-noble
+  status: former
+origin:
+  location: god-valley
+  region: West Blue
+residences:
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 3
+  day: 9
+blood_type: XF
+ages:
+- years: 27
+  period: debut
+- years: 37
+  period: pre_timeskip
+- years: 39
+  period: post_timeskip
+heights:
+- cm: 199
+  period: other
+- cm: 132
+  period: other
+bounties:
+- amount: 1040000000
+  status: former
+  canon: movie
+- amount: 4048900000
+  status: current
+  revealed_chapter: 957

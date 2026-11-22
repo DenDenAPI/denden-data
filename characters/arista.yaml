@@ -1,0 +1,17 @@
+slug: arista
+name:
+  en: Arista
+  ja: アリスタ
+  romaji: Arisuta
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: tongari-pirates
+  status: current

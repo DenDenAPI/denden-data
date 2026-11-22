@@ -1,0 +1,11 @@
+slug: samba-island
+name:
+  en: Samba Island
+  ja: サンバ島
+  romaji: Sanba Shima
+canon: other
+parent: new-world
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former

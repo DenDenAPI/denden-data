@@ -1,0 +1,27 @@
+slug: bian
+name:
+  en: Bian
+  ja: ビアン
+canon: manga
+gender: female
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 717
+  episode: 647
+occupations:
+- name: Leader of Pink Bee Squad
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: tontatta-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current

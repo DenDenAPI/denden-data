@@ -1,0 +1,17 @@
+slug: gates-of-justice
+name:
+  en: Gates of Justice
+  ja: 正義の門
+  romaji: Seigi no Mon
+canon: manga
+first_appearance:
+  chapter: 376
+  episode: 264
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: organization
+  slug: world-government
+  status: current

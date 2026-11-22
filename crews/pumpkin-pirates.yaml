@@ -1,0 +1,11 @@
+slug: pumpkin-pirates
+name:
+  en: Pumpkin Pirates
+  ja: パンプキン海賊団
+  romaji: Panpukin Kaizokudan
+canon: anime_only
+first_appearance:
+  episode: 140
+captains:
+- character: rapanui-pasqua
+  status: current

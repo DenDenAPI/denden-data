@@ -1,0 +1,24 @@
+slug: bili
+name:
+  en: Bilić
+  ja: ビリッチ
+  romaji: Biritchi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine Commodore
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: hand-island
+  status: former
+heights:
+- cm: 348
+  period: other

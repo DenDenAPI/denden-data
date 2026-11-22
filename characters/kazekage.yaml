@@ -1,0 +1,44 @@
+slug: kazekage
+name:
+  en: Kazekage
+  ja: 風影
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 2
+  day: 28
+blood_type: F
+ages:
+- years: 43
+  period: other
+heights:
+- cm: 192
+  period: other

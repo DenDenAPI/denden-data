@@ -1,0 +1,100 @@
+slug: brook
+name:
+  en: Brook
+  ja: ブルック
+  romaji: Burukku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 442
+  episode: 337
+epithets:
+- en: Humming Brook
+  ja: 鼻唄のブルック
+  romaji: Hanauta no Burukku
+- en: Soul King
+  ja: ソウルキング
+  romaji: Souru Kingu
+aliases:
+- en: Demon King Satan-sama
+  ja: 悪魔王サタン様
+  romaji: Akuma-ō Satan-sama
+- en: Hone-kichi
+  ja: ホネ吉
+  romaji: Honekichi
+- en: The Starving Skeleton
+  ja: がしゃどくろ
+  romaji: Gashadokuro
+occupations:
+- name: Musician
+  status: current
+- name: Swordsman
+  status: current
+- name: Senior Officer
+  status: current
+- name: Pirate Captain
+  status: former
+- name: Battle Convoy leader
+  status: former
+- name: Raider Squad leader
+  status: former
+- name: World-Famous Rock Star
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: crew
+  slug: rumbar-pirates
+  status: former
+- type: organization
+  slug: royal-guard
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: esperia-kingdom
+  region: West Blue
+residences:
+- type: location
+  slug: florian-triangle
+  status: former
+- type: location
+  slug: namakura-island
+  status: former
+- type: location
+  slug: esperia-kingdom
+  status: former
+birthday:
+  month: 4
+  day: 3
+blood_type: X
+ages:
+- years: 38
+  period: other
+- years: 88
+  period: debut
+- years: 90
+  period: post_timeskip
+heights:
+- cm: 266
+  period: debut
+- cm: 277
+  period: post_timeskip
+bounties:
+- amount: 33000000
+  status: former
+  revealed_chapter: 489
+- amount: 83000000
+  status: former
+  revealed_chapter: 801
+- amount: 383000000
+  status: current
+  revealed_chapter: 1058

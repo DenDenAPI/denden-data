@@ -1,0 +1,16 @@
+slug: totto-land-grand-fleet
+name:
+  en: Totto Land Grand Fleet
+  ja: 万国大艦隊
+  romaji: Totto Rando Dai-kantai
+canon: manga
+first_appearance:
+  chapter: 730
+  episode: 662
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: location
+  slug: totto-land
+  status: current

@@ -1,0 +1,30 @@
+slug: rocks-d-xebec
+name:
+  en: Rocks D. Xebec
+  ja: ロックス・D・ジーベック
+  romaji: Rokkusu Dī Jībekku
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 957
+  episode: 958
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: current
+origin:
+  location: god-valley
+  region: West Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+heights:
+- cm: 435
+  period: other

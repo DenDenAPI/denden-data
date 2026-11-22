@@ -1,0 +1,20 @@
+slug: akehende
+name:
+  en: Akehende
+  ja: アケヘンデ
+  romaji: Akehende
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 548
+  episode: 451
+occupations:
+- name: Marine Rear Admiral
+  status: current
+marine_rating:
+  stars: 2
+  minimum: true
+  equivalent: 200000000

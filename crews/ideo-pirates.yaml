@@ -1,0 +1,12 @@
+slug: ideo-pirates
+name:
+  en: Ideo Pirates
+  ja: イデオ海賊団
+  romaji: Ideo Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 799
+  episode: 744
+captains:
+- character: ideo
+  status: current

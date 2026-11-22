@@ -1,0 +1,20 @@
+slug: pekkori
+name:
+  en: Pekkori
+  ja: ペッコリ
+  romaji: Pekkori
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 524
+  episode: 421
+occupations:
+- name: Village Mayor
+  status: current
+affiliations:
+- type: location
+  slug: namakura-island
+  status: current

@@ -1,0 +1,27 @@
+slug: pike
+name:
+  en: Pike
+  ja: パイク
+  romaji: Paiku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 652
+  episode: 572
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+residences:
+- type: location
+  slug: g-5
+  status: current

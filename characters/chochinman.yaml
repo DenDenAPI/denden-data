@@ -1,0 +1,19 @@
+slug: chochinman
+name:
+  en: Chochinman
+  ja: 提灯マン
+  romaji: Chōchinman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 980
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

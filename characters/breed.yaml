@@ -1,0 +1,21 @@
+slug: breed
+name:
+  en: Breed
+  ja: ブリード
+  romaji: Burīdo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 625
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: breed-pirates
+  status: current

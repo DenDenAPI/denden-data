@@ -1,0 +1,27 @@
+slug: nugire-yainu
+name:
+  en: Nugire Yainu
+  ja: ヌギレ・ヤイヌ
+  romaji: Nugire Yainu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 37
+  episode: 10
+occupations:
+- name: Shipwright
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: black-cat-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 7
+  day: 18

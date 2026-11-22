@@ -1,0 +1,13 @@
+slug: sea-forest
+name:
+  en: Sea Forest
+  ja: 海の森
+  romaji: Umi no Mori
+canon: manga
+first_appearance:
+  chapter: 615
+  episode: 526
+affiliations:
+- type: location
+  slug: fish-man-island
+  status: current

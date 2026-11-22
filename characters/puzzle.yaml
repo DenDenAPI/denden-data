@@ -1,0 +1,28 @@
+slug: puzzle
+name:
+  en: Puzzle
+  ja: パズール
+  romaji: Pazūru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+epithets:
+- en: Phoenix
+  ja: 不死鳥
+  romaji: Fushichō
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: phoenix-pirates
+  status: current
+bounties:
+- amount: 100000000
+  status: current

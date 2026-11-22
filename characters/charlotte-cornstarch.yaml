@@ -1,0 +1,35 @@
+slug: charlotte-cornstarch
+name:
+  en: Charlotte Cornstarch
+  ja: シャーロット・コンスターチ
+  romaji: Shārotto Konsutāchi
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 865
+  episode: 841
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Love
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: loving-island
+  status: current
+birthday:
+  month: 12
+  day: 16
+ages:
+- years: 40
+  period: other

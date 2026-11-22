@@ -1,0 +1,22 @@
+slug: byojack
+name:
+  en: Byojack
+  ja: ビョージャック
+  romaji: Byōjakku
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current
+ages:
+- years: 78
+  period: other

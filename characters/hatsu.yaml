@@ -1,0 +1,21 @@
+slug: hatsu
+name:
+  en: Hatsu
+  ja: ハツ
+  romaji: Hatsu
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Cook
+  status: current
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

@@ -1,0 +1,29 @@
+slug: charlotte-raisin
+name:
+  en: Charlotte Raisin
+  ja: シャーロット・レザン
+  romaji: Shārotto Rezan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 3
+  day: 23
+ages:
+- years: 22
+  period: other

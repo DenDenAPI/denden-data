@@ -1,0 +1,16 @@
+slug: julian-hatt-xiii
+name:
+  en: Julian Hatt XIII
+  ja: ジュリアン・ハット 13世
+  romaji: Jurian Hatto 13-sei
+canon: other
+species:
+- animal
+status: alive
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current

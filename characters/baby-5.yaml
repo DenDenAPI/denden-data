@@ -1,0 +1,60 @@
+slug: baby-5
+name:
+  en: Baby 5
+  ja: ベビー5
+  romaji: Bebī Faibu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 682
+  episode: 608
+occupations:
+- name: Pirate
+  status: current
+- name: Pirate Officer
+  status: former
+- name: Servant
+  status: former
+- name: Assassin
+  status: former
+affiliations:
+- type: crew
+  slug: happo-navy
+  status: current
+- type: organization
+  slug: chinjao-family
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: former
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: kuen-village
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+- type: location
+  slug: kano-country
+  status: current
+birthday:
+  month: 5
+  day: 15
+blood_type: XF
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 181
+  period: other

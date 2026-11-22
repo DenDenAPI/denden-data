@@ -1,0 +1,63 @@
+slug: tony-tony-chopper
+name:
+  en: Tony Tony Chopper
+  ja: トニートニー・チョッパー
+  romaji: Tonī Tonī Choppā
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 134
+  episode: 81
+epithets:
+- en: Cotton Candy Lover
+  ja: わたあめ大好き
+  romaji: Wataame Daisuki
+aliases:
+- en: Chopa-emon
+  ja: チョッパえもん
+  romaji: Choppaemon
+occupations:
+- name: Doctor
+  status: current
+- name: Senior Officer
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: crew
+  slug: foxy-pirates
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: drum-island
+  region: Grand Line
+residences:
+- type: location
+  slug: sakura-kingdom
+  status: former
+- type: location
+  slug: torino-kingdom
+  status: former
+birthday:
+  month: 12
+  day: 24
+blood_type: X
+ages:
+- years: 15
+  period: debut
+- years: 17
+  period: post_timeskip
+heights:
+- cm: 90
+  period: other
+bounties:
+- amount: 1000
+  status: current
+  revealed_chapter: 1058

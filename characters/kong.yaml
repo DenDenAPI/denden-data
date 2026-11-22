@@ -1,0 +1,33 @@
+slug: kong
+name:
+  en: Kong
+  ja: コング
+  romaji: Kongu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 0
+occupations:
+- name: Commander-in-Chief
+  status: current
+- name: Fleet Admiral
+  status: former
+- name: Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 5
+  day: 9

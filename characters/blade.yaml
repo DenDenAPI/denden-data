@@ -1,0 +1,22 @@
+slug: blade
+name:
+  en: Blade
+  ja: ブレイド
+  romaji: Bureido
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 1142
+  episode: 1172
+occupations:
+- name: Math Teacher
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

@@ -1,0 +1,21 @@
+slug: ko
+name:
+  en: Ko
+  ja: コウ
+  romaji: Kō
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Ko the Landslide
+  ja: 山津波のコウ
+  romaji: Yamatsunami no Kō
+occupations:
+- name: bandit
+  status: current
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

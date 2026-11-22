@@ -1,0 +1,19 @@
+slug: minatomo-east-blue
+name:
+  en: Minatomo (East Blue)
+  ja: みなともさん
+  romaji: Minatomo-san
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 51
+occupations:
+- name: Carpenter
+  status: current
+ages:
+- years: 55
+  period: other
+  minimum: true

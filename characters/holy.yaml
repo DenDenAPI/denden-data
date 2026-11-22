@@ -1,0 +1,19 @@
+slug: holy
+name:
+  en: Holy
+  ja: ホーリー
+  romaji: Hōrī
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 241
+  episode: 155
+occupations:
+- name: Pet
+  status: current
+birthday:
+  month: 11
+  day: 7

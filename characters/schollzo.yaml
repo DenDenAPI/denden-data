@@ -1,0 +1,26 @@
+slug: schollzo
+name:
+  en: Schollzo
+  ja: ショルゾウ
+  romaji: Shoruzō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 325
+  episode: 231
+occupations:
+- name: Dismantler
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: franky-family
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

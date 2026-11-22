@@ -1,0 +1,20 @@
+slug: charlotte-normande
+name:
+  en: Charlotte Normande
+  ja: シャーロット・ノルマンド
+  romaji: Shārotto Norumando
+canon: manga
+gender: female
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+ages:
+- years: 10
+  period: other

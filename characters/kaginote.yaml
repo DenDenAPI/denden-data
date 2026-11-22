@@ -1,0 +1,16 @@
+slug: kaginote
+name:
+  en: Kaginote
+  ja: カギノテ
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: jellyfish-pirates
+  status: current

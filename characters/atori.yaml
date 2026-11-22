@@ -1,0 +1,13 @@
+slug: atori
+name:
+  en: Atori
+  ja: アトリ
+  romaji: Atori
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Cook
+  status: current

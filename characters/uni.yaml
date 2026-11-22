@@ -1,0 +1,22 @@
+slug: uni
+name:
+  en: Uni
+  ja: ウニ
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 810
+  episode: 757
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

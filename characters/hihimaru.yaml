@@ -1,0 +1,30 @@
+slug: hihimaru
+name:
+  en: Hihimaru
+  ja: ひひ丸
+  romaji: Hihimaru
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 910
+  episode: 892
+epithets:
+- en: Raging Baboon of the Mountain
+  ja: 山の暴れ狒々
+  romaji: Yama no Abare Hihi
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+residences:
+- type: location
+  slug: kuri
+  status: current
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,12 @@
+slug: amigo-pirates
+name:
+  en: Amigo Pirates
+  ja: アミーゴ海賊団
+  romaji: Amīgo Kaizokudan
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 426
+captains:
+- character: largo
+  status: current

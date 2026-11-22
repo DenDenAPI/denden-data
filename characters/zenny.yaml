@@ -1,0 +1,26 @@
+slug: zenny
+name:
+  en: Zenny
+  ja: ゼニィ
+  romaji: Zenī
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 136
+occupations:
+- name: Debt Collector
+  status: former
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: zenny-pirates
+  status: current
+residences:
+- canon: other
+  type: location
+  slug: goat-island
+  status: current

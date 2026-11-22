@@ -1,0 +1,15 @@
+slug: royal-guard
+name:
+  en: Royal Guard
+  ja: 衛兵
+  romaji: Eihei
+canon: manga
+first_appearance:
+  chapter: 233
+  episode: 151
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

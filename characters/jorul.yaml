@@ -1,0 +1,40 @@
+slug: jorul
+name:
+  en: Jorul
+  ja: ヨルル
+  romaji: Yoruru
+canon: manga
+gender: male
+species:
+- giant
+status: deceased
+first_appearance:
+  chapter: 866
+  episode: 836
+epithets:
+- en: '"Waterfall Beard" Jorul'
+  ja: 滝ひげのヨルル
+  romaji: Takihige no Yoruru
+occupations:
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: former
+- type: location
+  slug: elbaph
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 12
+  day: 4
+blood_type: F
+heights:
+- cm: 2150
+  period: other

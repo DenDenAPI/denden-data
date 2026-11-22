@@ -1,0 +1,16 @@
+slug: bulmatte
+name:
+  en: Bulmatte
+  ja: ブルマッテー
+  romaji: Burumattē
+canon: other
+species:
+- animal
+status: alive
+occupations:
+- name: Yagara Bull for hire
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

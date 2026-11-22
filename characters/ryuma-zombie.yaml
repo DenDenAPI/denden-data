@@ -1,0 +1,30 @@
+slug: ryuma-zombie
+name:
+  en: Ryuma
+  ja: リューマ
+  romaji: Ryūma
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 448
+  episode: 342
+epithets:
+- en: Legendary Samurai
+  ja: 伝説の侍
+  romaji: Densetsu no Samurai
+- en: Sword God
+  ja: 刀神様
+  romaji: Tōjin-sama
+occupations:
+- name: General Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+heights:
+- cm: 179
+  period: other

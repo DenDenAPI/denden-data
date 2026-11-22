@@ -1,0 +1,41 @@
+slug: ninjin
+name:
+  en: Ninjin
+  ja: にんじん
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 23
+  episode: 9
+occupations:
+- name: Pretend Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: usopp-pirates
+  status: former
+- type: crew
+  slug: usopp-pirates
+  status: current
+origin:
+  location: gecko-islands
+  region: East Blue
+residences:
+- type: location
+  slug: syrup-village
+  status: current
+birthday:
+  month: 2
+  day: 2
+blood_type: X
+ages:
+- years: 9
+  period: debut
+- years: 11
+  period: post_timeskip
+heights:
+- cm: 127
+  period: other

@@ -1,0 +1,17 @@
+slug: nanagi
+name:
+  en: Nanagi
+  ja: ナナギ
+  romaji: Nanagi
+canon: other
+gender: female
+species:
+- human
+status: alive
+origin:
+  location: welbems-island
+  region: North Blue
+residences:
+- type: location
+  slug: welbems-island
+  status: current

@@ -1,0 +1,18 @@
+slug: lylat
+name:
+  en: Lylat
+  ja: ライラット
+  romaji: Rairatto
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: franky-family
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

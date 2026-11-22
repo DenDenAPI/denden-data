@@ -1,0 +1,24 @@
+slug: bingo
+name:
+  en: Bingo
+  ja: びん豪
+  romaji: Bingō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 928
+  episode: 921
+occupations:
+- name: Priest
+  status: former
+- name: Cooper
+  status: former
+- name: Graverobber
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,20 @@
+slug: asashichi
+name:
+  en: Asashichi
+  ja: 麻七
+  romaji: Asashichi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 930
+  episode: 924
+occupations:
+- name: Soba Shop Owner
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

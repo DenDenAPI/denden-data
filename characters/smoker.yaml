@@ -1,0 +1,65 @@
+slug: smoker
+name:
+  en: Smoker
+  ja: スモーカー
+  romaji: Sumōkā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 97
+  episode: 48
+epithets:
+- en: Smoker the White Hunter
+  ja: 白猟のスモーカー
+  romaji: Hakuryō no Sumōkā
+- en: White Chase Smoker
+- en: Smoke Hunter
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Base Commander of G-5
+  status: current
+- name: Commander of G-5 Unit 01
+  status: current
+- name: Commodore
+  status: former
+- name: Captain
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+- type: location
+  slug: loguetown
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: g-5
+  status: current
+- type: location
+  slug: loguetown
+  status: former
+birthday:
+  month: 3
+  day: 14
+blood_type: XF
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 209
+  period: other
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

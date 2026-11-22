@@ -1,0 +1,19 @@
+slug: otogin
+name:
+  en: Otogin
+  ja: オトギン
+  romaji: Otogin
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Bounty Hunter
+  status: current
+- name: Merchant
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: current

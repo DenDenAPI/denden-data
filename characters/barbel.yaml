@@ -1,0 +1,24 @@
+slug: barbel
+name:
+  en: Barbel
+  ja: バーベル
+  romaji: Bāberu
+canon: manga
+gender: male
+species:
+- fish_man
+status: unknown
+first_appearance:
+  chapter: 1096
+  episode: 1130
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: former
+residences:
+- type: location
+  slug: hachinosu
+  status: current

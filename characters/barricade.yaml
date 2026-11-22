@@ -1,0 +1,20 @@
+slug: barricade
+name:
+  en: Barricade
+  ja: バリケード
+  romaji: Barikēdo
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: enies-lobby
+  status: current

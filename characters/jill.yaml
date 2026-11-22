@@ -1,0 +1,18 @@
+slug: jill
+name:
+  en: Jill
+  ja: ジル
+  romaji: Jiru
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Information-Savvy Jill
+  ja: 情報通なジル
+  romaji: Jōhōdōri na Jiru
+residences:
+- type: location
+  slug: jail-island
+  status: current

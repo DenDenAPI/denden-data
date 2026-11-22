@@ -1,0 +1,37 @@
+slug: ipponmatsu
+name:
+  en: Ipponmatsu
+  ja: いっぽんマツ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 97
+  episode: 49
+occupations:
+- name: Arms Shop Proprietor
+  status: current
+affiliations:
+- type: location
+  slug: loguetown
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 1
+  day: 31
+blood_type: X
+ages:
+- years: 38
+  period: debut
+- years: 40
+  period: post_timeskip
+heights:
+- cm: 157
+  period: other

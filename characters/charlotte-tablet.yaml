@@ -1,0 +1,32 @@
+slug: charlotte-tablet
+name:
+  en: Charlotte Tablet
+  ja: シャーロット・タブレット
+  romaji: Shārotto Taburetto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 832
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Toppings
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: topping-island
+  status: current
+ages:
+- years: 36
+  period: other

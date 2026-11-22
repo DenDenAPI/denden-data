@@ -1,0 +1,22 @@
+slug: shimotsuki-family
+name:
+  en: Shimotsuki Family
+  ja: 霜月家
+  romaji: Shimotsuki-ke
+canon: manga
+status: active
+first_appearance:
+  chapter: 5
+  episode: 2
+leaders: []
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current
+- type: location
+  slug: shimotsuki-village
+  status: current

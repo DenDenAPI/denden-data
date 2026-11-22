@@ -1,0 +1,20 @@
+slug: raise-max
+name:
+  en: Raise Max
+  ja: レイズ・マックス
+  romaji: Reizu Makkusu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+epithets:
+- en: Legendary Gambler
+  ja: 伝説のギャンブラー
+  romaji: Densetsu no Gyanburā
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

@@ -1,0 +1,19 @@
+slug: seagull-guns-nozdon
+name:
+  en: Seagull Guns Nozdon
+  ja: シーガル・ガンズ・ノズドン
+  romaji: Shīgaru Ganzu Nozudon
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 0
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: former

@@ -1,0 +1,27 @@
+slug: morishita-yukie
+name:
+  en: Morishita Yukie
+  ja: 森下雪枝
+  romaji: Morishita Yukie
+canon: other
+gender: female
+species:
+- human
+status: alive
+aliases:
+- en: Merry
+  ja: メリー号
+  romaji: Merī-gō
+- en: Sunny
+  ja: サニー号
+  romaji: Sanī-gō
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current
+ages:
+- years: 16
+  period: other

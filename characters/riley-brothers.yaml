@@ -1,0 +1,19 @@
+slug: riley-brothers
+name:
+  en: Riley Brothers
+  ja: ライリー兄弟
+  romaji: Rairī Kyōdai
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 50
+epithets:
+- en: '"Police-Killer" Riley Brothers'
+  ja: 連続警官殺しのライリー兄弟
+  romaji: Renzoku Keikan Goroshi no Rairī Kyōdai
+bounties:
+- amount: 1000000
+  status: current

@@ -1,0 +1,50 @@
+slug: donquixote-rosinante
+name:
+  en: Donquixote Rosinante
+  ja: ドンキホーテ・ロシナンテ
+  romaji: Donkihōte Roshinante
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 761
+  episode: 686
+aliases:
+- en: Corazon
+  ja: コラソン
+  romaji: Korason
+occupations:
+- name: Marine Commander
+  status: current
+- name: Pirate Elite Officer
+  status: current
+- name: World Noble
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: current
+- type: organization
+  slug: world-government
+  status: former
+origin:
+  location: red-line
+residences:
+- type: location
+  slug: mary-geoise
+  status: former
+- type: location
+  slug: spider-miles
+  status: former
+birthday:
+  month: 7
+  day: 15
+blood_type: S
+heights:
+- cm: 293
+  period: other

@@ -1,0 +1,14 @@
+slug: nanya
+name:
+  en: Nanya
+  ja: ナンヤ
+  romaji: Nanya
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: crew
+  slug: naniwa-pirates
+  status: current

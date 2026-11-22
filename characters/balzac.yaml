@@ -1,0 +1,17 @@
+slug: balzac
+name:
+  en: Balzac
+  ja: バルザック
+  romaji: Baruzakku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

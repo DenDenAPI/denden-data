@@ -1,0 +1,19 @@
+slug: odama
+name:
+  en: Odama
+  ja: 大玉
+  romaji: Ōdama
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 134
+occupations:
+- name: Pyrotechnician
+  status: current
+residences:
+- type: location
+  slug: fireworks
+  status: current

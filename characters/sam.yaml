@@ -1,0 +1,23 @@
+slug: sam
+name:
+  en: Sam
+  ja: サムさん
+  romaji: Samu-san
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 94
+  episode: 43
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 10
+  day: 21

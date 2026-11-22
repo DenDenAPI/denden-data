@@ -1,0 +1,29 @@
+slug: doma
+name:
+  en: Doma
+  ja: ドーマ
+  romaji: Dōma
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 551
+  episode: 460
+epithets:
+- en: Bohemian Knight
+  ja: 遊騎士
+  romaji: Yū Kishi
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 2
+  day: 1

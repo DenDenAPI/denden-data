@@ -1,0 +1,26 @@
+slug: isshi-100
+name:
+  en: Isshi-100
+  ja: イッシー100
+  romaji: Isshī Wanhandoreddo
+canon: manga
+first_appearance:
+  chapter: 136
+  episode: 82
+leaders:
+- character: kureha
+  status: current
+affiliations:
+- type: location
+  slug: sakura-kingdom
+  status: current
+- type: crew
+  slug: bliking-pirates
+  status: former
+- type: location
+  slug: sakura-kingdom
+  status: former
+residences:
+- type: location
+  slug: sakura-kingdom
+  status: current

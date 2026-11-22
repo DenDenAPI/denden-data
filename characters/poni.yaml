@@ -1,0 +1,23 @@
+slug: poni
+name:
+  en: Époni
+  ja: エポニー
+  romaji: Eponī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 841
+  episode: 804
+occupations:
+- name: Nurse
+  status: current
+affiliations:
+- type: location
+  slug: germa-kingdom
+  status: current
+birthday:
+  month: 8
+  day: 2

@@ -1,0 +1,41 @@
+slug: wyper
+name:
+  en: Wyper
+  ja: ワイパー
+  romaji: Waipā
+canon: manga
+gender: male
+species:
+- shandia
+status: alive
+first_appearance:
+  chapter: 237
+  episode: 153
+epithets:
+- en: Berserker
+  ja: 戦鬼
+  romaji: Senki
+occupations:
+- name: Shandia Warrior
+  status: current
+- name: God's Guard
+  status: current
+affiliations:
+- type: organization
+  slug: gods-guards
+  status: current
+origin:
+  location: skypiea
+  region: Sky Island
+birthday:
+  month: 8
+  day: 18
+blood_type: X
+ages:
+- years: 22
+  period: debut
+- years: 24
+  period: post_timeskip
+heights:
+- cm: 183
+  period: other

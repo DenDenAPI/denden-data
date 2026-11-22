@@ -1,0 +1,21 @@
+slug: john-non-canon
+name:
+  en: John (Non-Canon)
+  ja: ジョン
+  romaji: Jon
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: John the Scarred
+  ja: 傷だらけのジョン
+  romaji: Kizudarake no Jon
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: amber-pirates
+  status: current

@@ -1,0 +1,53 @@
+slug: chinjao
+name:
+  en: Chinjao
+  ja: チンジャオ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: Don Chinjao
+  ja: 首領・チンジャオ
+  romaji: Don Chinjao
+- en: Chinjao the Drill
+  ja: 錐のチンジャオ
+  romaji: Kiri no Chinjao
+occupations:
+- name: 12th Leader of the Happo Navy
+  status: current
+- name: Pirate
+  status: former
+affiliations:
+- type: organization
+  slug: chinjao-family
+  status: current
+- type: crew
+  slug: happo-navy
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: kano-country
+  status: current
+birthday:
+  month: 12
+  day: 12
+blood_type: F
+ages:
+- years: 78
+  period: other
+heights:
+- cm: 520
+  period: other
+bounties:
+- amount: 542000000
+  status: current

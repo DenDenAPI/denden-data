@@ -1,0 +1,19 @@
+slug: hercules
+name:
+  en: Hercules
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+residences:
+- type: location
+  slug: cactus-island
+  status: current

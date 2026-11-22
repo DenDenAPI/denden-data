@@ -1,0 +1,26 @@
+slug: hikkomitsukumai
+name:
+  en: Hikkomitsukumai
+  ja: 引込突米
+  romaji: Hikkomitsukumai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 951
+  episode: 951
+occupations:
+- name: Retainer
+  status: current
+- name: Prison Guard
+  status: current
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,31 @@
+slug: kurozumi-higurashi
+name:
+  en: Kurozumi Higurashi
+  ja: 黒炭ひぐらし
+  romaji: Kurozumi Higurashi
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 965
+  episode: 965
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 8
+  day: 19
+blood_type: F
+heights:
+- cm: 193
+  period: other

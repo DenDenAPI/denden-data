@@ -1,0 +1,22 @@
+slug: aruyutayan-v
+name:
+  en: Aruyutayan V
+  ja: アルユータヤン五世
+  romaji: Aruyūtayan Gosei
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 292
+  episode: 189
+occupations:
+- name: King
+  status: current
+affiliations:
+- type: location
+  slug: lvneel-kingdom
+  status: current
+origin:
+  region: North Blue

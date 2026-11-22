@@ -1,0 +1,17 @@
+slug: sebastian
+name:
+  en: Sebastian
+  ja: セバスチャン
+  romaji: Sebasuchan
+canon: other
+gender: male
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+- name: Gatekeeper
+  status: current
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current

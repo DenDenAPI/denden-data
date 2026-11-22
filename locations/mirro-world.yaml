@@ -1,0 +1,14 @@
+slug: mirro-world
+name:
+  en: Mirro-World
+  ja: 鏡世界
+  romaji: Miro Wārudo
+canon: manga
+first_appearance:
+  chapter: 838
+  episode: 799
+parent: new-world
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

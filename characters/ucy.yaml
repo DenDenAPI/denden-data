@@ -1,0 +1,27 @@
+slug: ucy
+name:
+  en: Ucy
+  ja: ウーシー
+  romaji: Ūshī
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 639
+epithets:
+- en: Brutal Bull
+  ja: 非情なる牛
+  romaji: Burūtaru Buru
+occupations:
+- name: Gladiator
+  status: current
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current
+birthday:
+  month: 4
+  day: 21

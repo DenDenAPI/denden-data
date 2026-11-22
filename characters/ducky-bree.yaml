@@ -1,0 +1,20 @@
+slug: ducky-bree
+name:
+  en: Ducky Bree
+  ja: ダッキー・ブリー
+  romaji: Dakkī Burī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current

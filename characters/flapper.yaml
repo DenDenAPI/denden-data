@@ -1,0 +1,29 @@
+slug: flapper
+name:
+  en: Flapper
+  ja: フラッパー
+  romaji: Furappā
+canon: manga
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 711
+  episode: 641
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: tontatta-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+birthday:
+  month: 7
+  day: 28

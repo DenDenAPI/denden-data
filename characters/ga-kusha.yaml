@@ -1,0 +1,14 @@
+slug: ga-kusha
+name:
+  en: Ga Kusha
+  ja: ガ・クシャ
+  romaji: Ga Kusha
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

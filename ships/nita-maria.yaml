@@ -1,0 +1,16 @@
+slug: nita-maria
+name:
+  en: Nita Maria
+  ja: ニタマリア号
+  romaji: Nita Maria-gō
+canon: manga
+first_appearance:
+  chapter: 799
+  episode: 744
+affiliations:
+- type: crew
+  slug: yonta-maria-grand-fleet
+  status: current
+- type: crew
+  slug: ideo-pirates
+  status: former

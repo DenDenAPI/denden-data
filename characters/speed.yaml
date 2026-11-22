@@ -1,0 +1,36 @@
+slug: speed
+name:
+  en: Speed
+  ja: スピード
+  romaji: Supīdo
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 917
+  episode: 904
+occupations:
+- name: Shinuchi
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 12
+  day: 11
+blood_type: X
+ages:
+- years: 24
+  period: other
+heights:
+- cm: 298
+  period: other

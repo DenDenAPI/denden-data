@@ -1,0 +1,19 @@
+slug: arbell
+name:
+  en: Arbell
+  ja: アルベル
+  romaji: Aruberu
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: accino-family
+  status: current

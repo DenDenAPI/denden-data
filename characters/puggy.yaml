@@ -1,0 +1,27 @@
+slug: puggy
+name:
+  en: Puggy
+  ja: パギー
+  romaji: Pagī
+canon: other
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 28
+occupations:
+- name: Bodyguard
+  status: current
+- name: Martial Artist
+  status: current
+affiliations:
+- type: organization
+  slug: buggys-delivery
+  status: current
+birthday:
+  month: 8
+  day: 8
+bounties:
+- amount: 200000000
+  status: current

@@ -1,0 +1,25 @@
+slug: lines
+name:
+  en: Lines
+  ja: ラインズ
+  romaji: Rainzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 44
+  episode: 21
+occupations:
+- name: Marine Seaman First Class
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 12
+  day: 27
+bounties:
+- amount: 100000
+  status: current
+  minimum: true

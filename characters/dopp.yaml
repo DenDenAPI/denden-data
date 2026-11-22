@@ -1,0 +1,11 @@
+slug: dopp
+name:
+  en: Dopp
+canon: movie
+gender: male
+species:
+- human
+status: alive
+bounties:
+- amount: 200000000
+  status: current

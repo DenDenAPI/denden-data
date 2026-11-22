@@ -1,0 +1,33 @@
+slug: ukkari
+name:
+  en: Ukkari
+  ja: ウッカリー
+  romaji: Ukkarī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 4
+  episode: 2
+occupations:
+- name: Marine Seaman Recruit
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shells-town
+  status: current
+birthday:
+  month: 2
+  day: 17
+bounties:
+- amount: 100000
+  status: current
+  minimum: true

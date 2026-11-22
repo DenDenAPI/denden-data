@@ -1,0 +1,27 @@
+slug: hatcha
+name:
+  en: Hatcha
+  ja: 八茶
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 981
+  episode: 987
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+origin:
+  location: punk-hazard
+  region: Grand Line
+birthday:
+  month: 10
+  day: 8
+blood_type: XF
+ages:
+- years: 188
+  period: other
+heights:
+- cm: 3675
+  period: other

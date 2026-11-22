@@ -1,0 +1,16 @@
+slug: captain-seven
+name:
+  en: Captain Seven
+  ja: キャプテン・セブン
+  romaji: Kyaputen Sebun
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 7110000
+  status: current

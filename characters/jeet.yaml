@@ -1,0 +1,27 @@
+slug: jeet
+name:
+  en: Jeet
+  ja: ジェット
+  romaji: Jetto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 633
+occupations:
+- name: Pirate
+  status: current
+- name: Criminal
+  status: current
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: crew
+  slug: ideo-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current

@@ -1,0 +1,12 @@
+slug: shoujou-pirates
+name:
+  en: Shoujou Pirates
+  ja: ショウジョウ海賊団
+  romaji: Shōjō Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 226
+  episode: 147
+captains:
+- character: shoujou
+  status: current

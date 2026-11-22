@@ -1,0 +1,23 @@
+slug: battaman
+name:
+  en: Battaman
+  ja: バッタマン
+  romaji: Battaman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 980
+  episode: 1006
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

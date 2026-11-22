@@ -1,0 +1,40 @@
+slug: peepley-lulu
+name:
+  en: Peepley Lulu
+  ja: ピープリー・ルル
+  romaji: Pīpurī Ruru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: Dock 1 Foreman
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 1
+  day: 2
+blood_type: S
+ages:
+- years: 31
+  period: debut
+- years: 33
+  period: post_timeskip
+heights:
+- cm: 206
+  period: other

@@ -1,0 +1,14 @@
+slug: su-newkama
+name:
+  en: Su (Newkama)
+  ja: スー
+  romaji: Sū
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

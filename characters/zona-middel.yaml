@@ -1,0 +1,14 @@
+slug: zona-middel
+name:
+  en: Zona Middel
+  ja: ゾーナ・ミドル
+  romaji: Zōna Midoru
+canon: other
+gender: female
+species:
+- human
+status: deceased
+residences:
+- type: location
+  slug: dressrosa
+  status: current

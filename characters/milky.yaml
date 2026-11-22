@@ -1,0 +1,30 @@
+slug: milky
+name:
+  en: Milky
+  ja: ミルキー
+  romaji: Mirukī
+canon: manga
+gender: female
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 807
+  episode: 757
+occupations:
+- name: Guardian
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: guardians
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

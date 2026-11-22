@@ -1,0 +1,23 @@
+slug: kurozumi-family
+name:
+  en: Kurozumi Family
+  ja: 黒炭家
+  romaji: Kurozumi-ke
+canon: manga
+first_appearance:
+  chapter: 700
+  episode: 629
+leaders:
+- character: kurozumi-orochi
+  status: current
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: kyoshiro-family
+  status: current
+residences: []

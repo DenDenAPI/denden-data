@@ -1,0 +1,10 @@
+slug: pop-rock-candy
+name:
+  en: Pop Rock Candy
+  ja: ポップロックキャンディ号
+  romaji: Poppu Rokku Kyandi-gō
+canon: other
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

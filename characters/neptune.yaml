@@ -1,0 +1,44 @@
+slug: neptune
+name:
+  en: Neptune
+  ja: ネプチューン
+  romaji: Nepuchūn
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+epithets:
+- en: Sea God
+  ja: 海神
+  romaji: Kaishin
+- en: Great Knight of the Sea
+  ja: 海の大騎士
+  romaji: Umi no Dai-kishi
+occupations:
+- name: King of the Ryugu Kingdom
+  status: current
+- name: Prince
+  status: former
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+- type: location
+  slug: ryugu-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 3
+blood_type: X
+ages:
+- years: 70
+  period: other
+heights:
+- cm: 1220
+  period: other

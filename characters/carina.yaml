@@ -1,0 +1,29 @@
+slug: carina
+name:
+  en: Carina
+  ja: カリーナ
+  romaji: Karīna
+canon: movie
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+epithets:
+- en: Phantom Thief
+  ja: 怪盗
+  romaji: Kaitō
+- en: Vixen
+  ja: 女狐
+  romaji: Megitsune
+occupations:
+- name: Thief
+  status: current
+- name: Songstress
+  status: current
+origin:
+  region: East Blue
+ages:
+- years: 19
+  period: other

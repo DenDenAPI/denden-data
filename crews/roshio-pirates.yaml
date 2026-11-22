@@ -1,0 +1,12 @@
+slug: roshio-pirates
+name:
+  en: Roshio Pirates
+  ja: ロシオ海賊団
+  romaji: Roshio Kaizoku-dan
+canon: manga
+first_appearance:
+  chapter: 222
+  episode: 146
+captains:
+- character: roshio
+  status: current

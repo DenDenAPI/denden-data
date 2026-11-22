@@ -1,0 +1,19 @@
+slug: eccoli
+name:
+  en: Eccoli
+  ja: エッコリ
+  romaji: Ekkori
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 51
+occupations:
+- name: Chef
+  status: current
+residences:
+- type: location
+  slug: loguetown
+  status: current

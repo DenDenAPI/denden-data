@@ -1,0 +1,33 @@
+slug: hattori
+name:
+  en: Hattori
+  ja: ハットリ
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: Rob Lucci's Pet
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+- type: organization
+  slug: galley-la-company
+  status: former
+birthday:
+  month: 8
+  day: 10
+ages:
+- years: 18
+  period: debut
+- years: 20
+  period: post_timeskip
+heights:
+- cm: 25
+  period: other

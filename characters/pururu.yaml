@@ -1,0 +1,27 @@
+slug: pururu
+name:
+  en: Pururu
+  ja: プルル
+  romaji: Pururu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1079
+  episode: 1112
+epithets:
+- en: '"Trembling" Pururu'
+  ja: ブルブルのプルル
+  romaji: Buruburu no Pururu
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bourgeois-pirates
+  status: current
+- type: crew
+  slug: red-hair-pirates
+  status: current

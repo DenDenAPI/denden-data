@@ -1,0 +1,50 @@
+slug: chew
+name:
+  en: Chew
+  ja: チュウ
+  romaji: Chū
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 69
+  episode: 31
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: current
+- type: crew
+  slug: sun-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: arlong-park
+  status: former
+birthday:
+  month: 5
+  day: 23
+blood_type: X
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 257
+  period: other
+bounties:
+- amount: 5500000
+  status: former

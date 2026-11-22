@@ -1,0 +1,25 @@
+slug: gomu-gomu-no-mi
+name:
+  en: Gum-Gum Fruit
+  romaji: Gomu Gomu no Mi
+  ja: ゴムゴムの実
+type: paramecia
+meaning: Rubber
+revealed_identity:
+  chapter: 1044
+  name:
+    en: 'Human-Human Fruit, Model: Nika'
+    ja: ヒトヒトの実 モデル「ニカ」
+    romaji: 'Hito Hito no Mi, Model: Nika'
+  type: zoan
+  sub_type: mythical
+  meaning: Human; Nika
+canon: manga
+first_appearance:
+  chapter: 1
+  episode: 1
+users:
+- character: monkey-d-luffy
+  status: current
+- character: joy-boy
+  status: former

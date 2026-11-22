@@ -1,0 +1,22 @@
+slug: ammo-knights
+name:
+  en: Ammo Knights
+  ja: アンモナイツ
+  romaji: Anmo Naitsu
+canon: manga
+status: active
+first_appearance:
+  chapter: 609
+  episode: 528
+leaders: []
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+- type: location
+  slug: ryugu-kingdom
+  status: current
+residences:
+- type: location
+  slug: fish-man-island
+  status: current

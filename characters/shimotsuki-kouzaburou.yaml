@@ -1,0 +1,30 @@
+slug: shimotsuki-kouzaburou
+name:
+  en: Shimotsuki Kouzaburou
+  ja: 霜月コウ三郎
+  romaji: Shimotsuki Kōzaburō
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1033
+  episode: 1060
+occupations:
+- name: Swordsmith
+  status: current
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 11
+  day: 14
+blood_type: XF
+heights:
+- cm: 221
+  period: other

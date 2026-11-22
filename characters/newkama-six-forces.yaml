@@ -1,0 +1,19 @@
+slug: newkama-six-forces
+name:
+  en: Newkama Six Forces
+  ja: ニューカマー武闘派六人衆
+  romaji: Nyūkamā Budōha Rokuninshū
+canon: anime_only
+status: alive
+first_appearance:
+  episode: 445
+occupations:
+- name: Prisoners of the Great Prison
+  status: current
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+- type: organization
+  slug: prison-escape-team
+  status: current

@@ -1,0 +1,30 @@
+slug: roshio
+name:
+  en: Roshio
+  ja: ロシオ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 222
+  episode: 146
+epithets:
+- en: '"Executioner" Roshio'
+  ja: 処刑人ロシオ
+  romaji: Shokei-nin Roshio
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: roshio-pirates
+  status: current
+birthday:
+  month: 6
+  day: 15
+bounties:
+- amount: 42000000
+  status: current
+  revealed_chapter: 222

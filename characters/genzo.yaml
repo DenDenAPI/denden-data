@@ -1,0 +1,39 @@
+slug: genzo
+name:
+  en: Genzo
+  ja: ゲンゾウ
+  romaji: Genzō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 71
+  episode: 32
+occupations:
+- name: Sheriff of Cocoyasi Village
+  status: current
+affiliations:
+- type: location
+  slug: cocoyasi-village
+  status: current
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 6
+  day: 17
+blood_type: F
+ages:
+- years: 46
+  period: debut
+- years: 48
+  period: post_timeskip
+heights:
+- cm: 173
+  period: other

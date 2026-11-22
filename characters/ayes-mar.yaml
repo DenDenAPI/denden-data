@@ -1,0 +1,14 @@
+slug: ayes-mar
+name:
+  en: Ayesé Mar
+  ja: エーエスエ・ムアール
+  romaji: Ēesue Muāru
+canon: manga
+status: alive
+occupations:
+- name: Okaki artisan
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

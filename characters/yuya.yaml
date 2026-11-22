@@ -1,0 +1,16 @@
+slug: yuya
+name:
+  en: Yuya
+  ja: ユウヤ
+  romaji: Yūya
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 318
+residences:
+- type: location
+  slug: water-7
+  status: current

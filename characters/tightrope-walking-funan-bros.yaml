@@ -1,0 +1,35 @@
+slug: tightrope-walking-funan-bros
+name:
+  en: Tightrope Walking Funan Bros
+  ja: 綱渡りフナンボローズ
+  romaji: Tsunawatari Funan Borōzu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 8
+  episode: 4
+occupations:
+- name: Pirates
+  status: current
+affiliations:
+- type: crew
+  slug: buggy-pirates
+  status: current
+- type: crew
+  slug: buggy-and-alvida-alliance
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: karai-bari-island
+  status: current
+birthday:
+  month: 2
+  day: 25

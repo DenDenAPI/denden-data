@@ -1,0 +1,20 @@
+slug: smiley
+name:
+  en: Smiley
+  ja: スマイリー
+  romaji: Sumairī
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 668
+  episode: 594
+occupations:
+- name: Pet
+  status: current
+- name: Bio-Chemical weapon of mass destruction
+  status: current
+birthday:
+  month: 7
+  day: 18

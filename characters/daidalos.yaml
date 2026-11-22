@@ -1,0 +1,17 @@
+slug: daidalos
+name:
+  en: Daidalos
+  ja: ダイダロス
+  romaji: Daidarosu
+canon: manga
+status: deceased
+first_appearance:
+  chapter: 630
+  episode: 550
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: current

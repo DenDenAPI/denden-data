@@ -1,0 +1,11 @@
+slug: zenny-pirates
+name:
+  en: Zenny Pirates
+  ja: ゼニィ海賊団
+  romaji: Zenī Kaizoku-dan
+canon: anime_only
+first_appearance:
+  episode: 137
+captains:
+- character: zenny
+  status: current

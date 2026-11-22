@@ -1,0 +1,20 @@
+slug: risky-brothers-zombies
+name:
+  en: Risky Brothers (Zombies)
+  ja: リスキー兄弟
+  romaji: Risukī Kyōdai
+canon: manga
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 451
+  episode: 344
+occupations:
+- name: Wild Zombies
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

@@ -1,0 +1,25 @@
+slug: accino
+name:
+  en: Accino
+  ja: アッチーノ
+  romaji: Atchīno
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+epithets:
+- en: Don Accino
+  ja: ドン・アッチーノ
+  romaji: Don Atchīno
+occupations:
+- name: Patriarch
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: accino-family
+  status: current

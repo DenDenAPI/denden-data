@@ -1,0 +1,22 @@
+slug: golass
+name:
+  en: Golass
+  ja: ゴラス
+  romaji: Gorasu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Mercenary
+  status: current
+affiliations:
+- type: crew
+  slug: eldoraggo-pirates
+  status: current
+bounties:
+- amount: 8000000
+  status: current

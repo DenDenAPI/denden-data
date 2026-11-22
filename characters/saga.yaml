@@ -1,0 +1,34 @@
+slug: saga
+name:
+  en: Saga
+  ja: サガ
+  romaji: Saga
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine
+  status: current
+- name: Swordsman
+  status: current
+- name: Dojo Master
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: asuka-island
+  status: current
+- type: location
+  slug: shimotsuki-village
+  status: former
+residences:
+- type: location
+  slug: asuka-island
+  status: current
+- type: location
+  slug: shimotsuki-village
+  status: former

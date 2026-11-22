@@ -1,0 +1,25 @@
+slug: itomimizu
+name:
+  en: Itomimizu
+  ja: イトミミズ
+  romaji: Itomimizu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 306
+  episode: 209
+occupations:
+- name: Pirate
+  status: current
+- name: Announcer
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former
+birthday:
+  month: 1
+  day: 11

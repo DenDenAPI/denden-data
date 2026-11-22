@@ -1,0 +1,17 @@
+slug: tabi
+name:
+  en: Tabi
+  ja: タビ
+  romaji: Tabi
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: festival-pirates
+  status: current

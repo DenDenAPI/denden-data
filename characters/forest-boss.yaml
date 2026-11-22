@@ -1,0 +1,26 @@
+slug: forest-boss
+name:
+  en: Forest Boss
+  ja: 森番長
+  romaji: Mori Banchō
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 333
+occupations:
+- name: Boss of the Forest
+  status: current
+affiliations:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+residences:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+birthday:
+  month: 4
+  day: 10

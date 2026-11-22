@@ -1,0 +1,11 @@
+slug: kibo-island
+name:
+  en: Kibo Island
+  ja: キーボ 島
+  romaji: Kībo-tō
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

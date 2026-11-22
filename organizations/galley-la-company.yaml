@@ -1,0 +1,17 @@
+slug: galley-la-company
+name:
+  en: Galley-La Company
+  ja: ガレーラカンパニー
+  romaji: Garēra Kanpanī
+canon: manga
+first_appearance:
+  chapter: 323
+  episode: 230
+leaders:
+- character: iceburg
+  status: current
+affiliations:
+- type: location
+  slug: water-7
+  status: current
+residences: []

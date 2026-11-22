@@ -1,0 +1,27 @@
+slug: gal
+name:
+  en: Gal
+  ja: ガル
+  romaji: Garu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 680
+  episode: 606
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+residences:
+- type: location
+  slug: g-5
+  status: current

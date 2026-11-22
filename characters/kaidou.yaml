@@ -1,0 +1,71 @@
+slug: kaidou
+name:
+  en: Kaidou
+  ja: カイドウ
+  romaji: Kaidō
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 795
+  episode: 736
+epithets:
+- en: Kaidou of the Beasts
+  ja: 百獣のカイドウ
+  romaji: Hyakujū no Kaidō
+- en: The Strongest Creature
+  ja: 最強の生物
+  romaji: Saikyō no Seibutsu
+- en: Wise King
+  ja: 明王
+  romaji: Myōō
+occupations:
+- name: Governor-General
+  status: current
+- name: Emperor
+  status: former
+- name: Soldier
+  status: former
+- name: Apprentice
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: organization
+  slug: four-emperors
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+- type: location
+  slug: vodka-kingdom
+  status: former
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 5
+  day: 1
+blood_type: F
+ages:
+- years: 59
+  period: other
+heights:
+- cm: 710
+  period: other
+bounties:
+- amount: 70000000
+  status: former
+  revealed_chapter: 1049
+- amount: 4611100000
+  status: current
+  revealed_chapter: 957

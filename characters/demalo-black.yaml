@@ -1,0 +1,40 @@
+slug: demalo-black
+name:
+  en: Demalo Black
+  ja: デマロ・ブラック
+  romaji: Demaro Burakku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 517
+epithets:
+- en: '"Three-Tongued" Demalo Black'
+  ja: 三枚舌のデマロ・ブラック
+  romaji: Sanmai-jita no Demaro Burakku
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 5
+  day: 5
+blood_type: S
+ages:
+- years: 36
+  period: other
+heights:
+- cm: 245
+  period: other
+bounties:
+- amount: 26000000
+  status: former
+  revealed_chapter: 601

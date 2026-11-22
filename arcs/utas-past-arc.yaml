@@ -1,0 +1,17 @@
+slug: utas-past-arc
+order: 65
+name:
+  en: Uta's Past Arc
+kind: filler
+canon: anime_only
+sagas:
+- wano-country-saga
+episodes:
+  count: 2
+  ranges:
+  - start: 1029
+    end: 1030
+years:
+  anime:
+    start: 2022
+    end: 2022

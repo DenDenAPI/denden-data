@@ -1,0 +1,10 @@
+slug: makiguso-pirates
+name:
+  en: Makiguso Pirates
+  ja: まきぐそ海賊団
+  romaji: Makiguso Kaizoku-dan
+canon: other
+status: disbanded
+captains:
+- character: chinpy
+  status: current

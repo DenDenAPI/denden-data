@@ -1,0 +1,18 @@
+slug: ikidaore-josh
+name:
+  en: Ikidaore Josh
+  ja: 行き倒れジョシュ
+  romaji: Ikidaore Joshu
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: ikidaore-family
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

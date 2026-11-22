@@ -1,0 +1,14 @@
+slug: marine-gs-general-hospital
+name:
+  en: Marine GS General Hospital
+  ja: 海軍GS総合病院
+  romaji: Kaigun Jī-Esu Sōgō Byōin
+canon: manga
+first_appearance:
+  chapter: 1117
+  episode: 1150
+region: Grand Line
+affiliations:
+- type: organization
+  slug: marines
+  status: current

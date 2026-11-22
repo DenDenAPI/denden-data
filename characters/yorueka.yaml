@@ -1,0 +1,12 @@
+slug: yorueka
+name:
+  en: Yorueka
+  ja: ヨルエカ
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Shepherd
+  status: current

@@ -1,0 +1,22 @@
+slug: horseman
+name:
+  en: Horseman
+  ja: ホースマン
+  romaji: Hōsuman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1016
+  episode: 1037
+occupations:
+- name: Gifter
+  status: current
+- name: Attendant
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

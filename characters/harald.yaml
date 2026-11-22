@@ -1,0 +1,28 @@
+slug: harald
+name:
+  en: Harald
+  ja: ハラルド
+  romaji: Hararudo
+canon: manga
+gender: male
+status: deceased
+first_appearance:
+  chapter: 1136
+  episode: 1166
+occupations:
+- name: King of the Warland Kingdom
+  status: current
+- name: Knight of God
+  status: current
+- name: Devoted Blade of God
+  status: former
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current

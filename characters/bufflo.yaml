@@ -1,0 +1,17 @@
+slug: bufflo
+name:
+  en: Bufflo
+  ja: バフロー
+  romaji: Bafurō
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

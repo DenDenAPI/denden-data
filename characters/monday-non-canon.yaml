@@ -1,0 +1,19 @@
+slug: monday-non-canon
+name:
+  en: Monday
+  ja: マンデー
+  romaji: Mandē
+canon: other
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 2
+occupations:
+- name: Beekeeper
+  status: current
+residences:
+- type: location
+  slug: tony-tony-island
+  status: current

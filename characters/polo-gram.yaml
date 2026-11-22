@@ -1,0 +1,22 @@
+slug: polo-gram
+name:
+  en: Polo Gram
+  ja: ポーロ・グラム
+  romaji: Pōro Guramu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1162
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+- type: crew
+  slug: polo-pirates
+  status: current

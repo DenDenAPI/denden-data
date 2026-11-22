@@ -1,0 +1,10 @@
+slug: bayan-pirates
+name:
+  en: Bayan Pirates
+  ja: バイアン海賊団
+  romaji: Baian Kaizoku-dan
+canon: anime_only
+status: disbanded
+captains:
+- character: bayan
+  status: current

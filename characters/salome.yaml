@@ -1,0 +1,28 @@
+slug: salome
+name:
+  en: Salome
+  ja: サロメ
+  romaji: Sarome
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 409
+occupations:
+- name: Snake Weapon
+  status: current
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 3
+  day: 6

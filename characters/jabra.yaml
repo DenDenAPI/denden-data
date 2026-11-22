@@ -1,0 +1,38 @@
+slug: jabra
+name:
+  en: Jabra
+  ja: ジャブラ
+  romaji: Jabura
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 375
+  episode: 264
+occupations:
+- name: Cipher Pol Agent
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: guanhao
+  status: former
+birthday:
+  month: 6
+  day: 5
+blood_type: S
+ages:
+- years: 35
+  period: debut
+- years: 37
+  period: post_timeskip
+heights:
+- cm: 212
+  period: other

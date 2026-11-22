@@ -1,0 +1,25 @@
+slug: shepherd-non-canon
+name:
+  en: Shepherd
+  ja: シェパード
+  romaji: Shepādo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 199
+aliases:
+- en: Condoriano
+  ja: コンドリアーノ
+  romaji: Kondoriāno
+occupations:
+- name: Commander
+  status: current
+- name: Major Inspector/Special Inspector
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

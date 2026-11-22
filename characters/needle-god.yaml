@@ -1,0 +1,16 @@
+slug: needle-god
+name:
+  en: Needle God
+  ja: 針神
+  romaji: Harigami
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1127
+  episode: 1157
+residences:
+- type: location
+  slug: land-of-gods
+  status: current

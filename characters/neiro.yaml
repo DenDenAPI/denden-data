@@ -1,0 +1,21 @@
+slug: neiro
+name:
+  en: Neiro
+  ja: ネイロ
+  romaji: Neiro
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Nunchuck Master Neiro
+  ja: ヌンチャクマスターのネイロ
+  romaji: Nunchaku Masutā no Neiro
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-pirates
+  status: current

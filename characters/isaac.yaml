@@ -1,0 +1,28 @@
+slug: isaac
+name:
+  en: Isaac
+  ja: アイザック
+  romaji: Aizakku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Prison Warden
+  status: current
+- name: Scientist
+  status: current
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

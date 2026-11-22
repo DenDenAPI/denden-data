@@ -1,0 +1,20 @@
+slug: zona-mam
+name:
+  en: Zona Mam
+  ja: ゾーナ・マァム
+  romaji: Zōna Māmu
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Quiz Researcher
+  status: current
+residences:
+- type: location
+  slug: marineford
+  status: former
+- type: location
+  slug: dressrosa
+  status: current

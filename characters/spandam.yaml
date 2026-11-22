@@ -1,0 +1,41 @@
+slug: spandam
+name:
+  en: Spandam
+  ja: スパンダム
+  romaji: Supandamu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 355
+  episode: 249
+occupations:
+- name: CP0 Chief
+  status: former
+- name: CP9 Chief
+  status: former
+- name: CP5 Chief
+  status: former
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+- type: organization
+  slug: cp5
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 3
+  day: 11
+blood_type: XF
+ages:
+- years: 39
+  period: debut
+- years: 41
+  period: post_timeskip
+heights:
+- cm: 192
+  period: other

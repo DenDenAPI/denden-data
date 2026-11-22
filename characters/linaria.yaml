@@ -1,0 +1,27 @@
+slug: linaria
+name:
+  en: Linaria
+  ja: リナリア
+  romaji: Rinaria
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1079
+  episode: 1112
+epithets:
+- en: Igniting Linaria
+  ja: 着火のリナリア
+  romaji: Chakka no Rinaria
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: night-butterfly-pirates
+  status: current
+- type: crew
+  slug: red-hair-pirates
+  status: current

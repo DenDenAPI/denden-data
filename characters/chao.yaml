@@ -1,0 +1,28 @@
+slug: chao
+name:
+  en: Chao
+  ja: チャオ
+  romaji: Chao
+canon: manga
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 738
+  episode: 671
+occupations:
+- name: Factory worker
+  status: former
+- name: Pirate
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: location
+  slug: smile-factory
+  status: former
+- type: crew
+  slug: tontatta-pirates
+  status: current

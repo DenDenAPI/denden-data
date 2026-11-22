@@ -1,0 +1,17 @@
+slug: sword
+name:
+  en: SWORD
+  ja: SWORD
+  romaji: Sōdo
+canon: manga
+first_appearance:
+  chapter: 498
+  episode: 392
+leaders:
+- character: x-drake
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences: []

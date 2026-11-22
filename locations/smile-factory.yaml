@@ -1,0 +1,14 @@
+slug: smile-factory
+name:
+  en: SMILE Factory
+  ja: SMILE工場
+  romaji: Sumairu Kōjō
+canon: manga
+first_appearance:
+  chapter: 738
+  episode: 671
+parent: dressrosa
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current

@@ -1,0 +1,32 @@
+slug: buggys-crew-adventure-chronicles
+order: 7
+name:
+  en: Buggy's Crew Adventure Chronicles
+  ja: バギー一味冒険記
+  romaji: Bagī Ichimi Bōken-ki
+kind: cover_story
+canon: manga
+sagas:
+- east-blue-saga
+chapters:
+  count: 28
+  ranges:
+  - start: 35
+    end: 75
+volumes:
+  count: 6
+  ranges:
+  - start: 4
+    end: 9
+episodes:
+  count: 2
+  ranges:
+  - start: 46
+    end: 47
+years:
+  manga:
+    start: 1998
+    end: 1999
+  anime:
+    start: 2000
+    end: 2000

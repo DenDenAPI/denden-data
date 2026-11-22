@@ -1,0 +1,17 @@
+slug: kasa
+name:
+  en: Kasa
+  ja: カサ
+  romaji: Kasa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 594
+  episode: 511
+affiliations:
+- type: location
+  slug: raijin-island
+  status: current

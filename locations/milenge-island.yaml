@@ -1,0 +1,13 @@
+slug: milenge-island
+name:
+  en: Milenge Island
+  ja: ミレンゲ島
+  romaji: Mirenge-tō
+canon: manga
+first_appearance:
+  chapter: 894
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

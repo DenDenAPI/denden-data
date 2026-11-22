@@ -1,0 +1,13 @@
+slug: striker
+name:
+  en: Striker
+  ja: ストライカー
+  romaji: Sutoraikā
+canon: manga
+first_appearance:
+  chapter: 159
+  episode: 95
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

@@ -1,0 +1,50 @@
+slug: kouzuki-oden
+name:
+  en: Kouzuki Oden
+  ja: 光月おでん
+  romaji: Kōzuki Oden
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 920
+  episode: 910
+epithets:
+- en: Idiot Lord
+  ja: バカ殿
+  romaji: Bakatono
+occupations:
+- name: Samurai
+  status: current
+- name: Daimyo
+  status: current
+- name: Pirate
+  status: former
+- name: 2nd Division Commander
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 2
+  day: 22
+blood_type: F
+heights:
+- cm: 382
+  period: other

@@ -1,0 +1,32 @@
+slug: margin
+name:
+  en: Margin
+  ja: マージン
+  romaji: Mājin
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Broker
+  ja: 仲介屋
+  romaji: Chūkai-ya
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: former
+bounties:
+- amount: 100000000
+  status: former
+  canon: other

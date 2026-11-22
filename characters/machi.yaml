@@ -1,0 +1,14 @@
+slug: machi
+name:
+  en: Machi
+  ja: マッチ
+  romaji: Matchi
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: age-age-super-marines
+  status: current

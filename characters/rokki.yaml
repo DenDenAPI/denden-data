@@ -1,0 +1,18 @@
+slug: rokki
+name:
+  en: Rokki
+  ja: 六鬼
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 1036
+  episode: 1063
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+residences:
+- type: location
+  slug: onigashima
+  status: current

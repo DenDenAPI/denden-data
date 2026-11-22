@@ -1,0 +1,17 @@
+slug: alto
+name:
+  en: Alto
+  ja: アルト
+  romaji: Aruto
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: ganzack-pirates
+  status: current

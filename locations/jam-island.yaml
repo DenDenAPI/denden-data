@@ -1,0 +1,14 @@
+slug: jam-island
+name:
+  en: Jam Island
+  ja: ジャム島
+  romaji: Jamu-tō
+canon: manga
+first_appearance:
+  chapter: 829
+  episode: 788
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

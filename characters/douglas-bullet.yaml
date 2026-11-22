@@ -1,0 +1,39 @@
+slug: douglas-bullet
+name:
+  en: Douglas Bullet
+  ja: ダグラス・バレット
+  romaji: Dagurasu Baretto
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Demon Heir
+  ja: “鬼”の跡目
+  romaji: “Oni” no Atome
+occupations:
+- name: Pirate
+  status: current
+- name: Soldier
+  status: former
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: organization
+  slug: galzforce
+  status: former
+residences:
+- type: location
+  slug: galzburg
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+ages:
+- years: 45
+  period: other
+heights:
+- cm: 355
+  period: other

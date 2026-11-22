@@ -1,0 +1,25 @@
+slug: prodi
+name:
+  en: Prodi
+  ja: プロディ
+  romaji: Purodi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 780
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Chief of the G-F Marine Base
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: fron-island
+  status: current

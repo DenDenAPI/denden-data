@@ -1,0 +1,49 @@
+slug: fullbody
+name:
+  en: Fullbody
+  ja: フルボディ
+  romaji: Furubodi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 43
+  episode: 20
+epithets:
+- en: Double Ironfist Fullbody
+  ja: 両鉄拳のフルボディ
+  romaji: Ryōtekken no Furubodi
+- en: Ironfist Fullbody
+  ja: 鉄拳のフルボディ
+  romaji: Tekken no Furubodi
+occupations:
+- name: Marine Lieutenant Commander
+  status: current
+- name: Marine Seaman Recruit
+  status: current
+- name: Marine Lieutenant
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 9
+  day: 7
+blood_type: F
+ages:
+- years: 26
+  period: debut
+- years: 28
+  period: post_timeskip
+heights:
+- cm: 184
+  period: other
+bounties:
+- amount: 1000000
+  status: current
+  minimum: true

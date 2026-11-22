@@ -1,0 +1,20 @@
+slug: eliza-odyssey
+name:
+  en: Eliza (Odyssey)
+  ja: エリザ
+  romaji: Eriza
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Intelligence Agent
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: organization
+  slug: revolutionary-army
+  status: current

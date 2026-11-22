@@ -1,0 +1,11 @@
+slug: sword-obsessed-branch
+name:
+  en: Sword Obsessed Branch
+  ja: 刀バカ支部
+  romaji: Katana Baka Shibu
+canon: other
+region: East Blue
+affiliations:
+- type: organization
+  slug: marines
+  status: current

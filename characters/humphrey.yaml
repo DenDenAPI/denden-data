@@ -1,0 +1,20 @@
+slug: humphrey
+name:
+  en: Humphrey
+  ja: ハンフリー
+  romaji: Hanfurī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 517
+occupations:
+- name: Bartender
+  status: current
+affiliations:
+- type: location
+  slug: sabaody-archipelago
+  status: current

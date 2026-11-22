@@ -1,0 +1,14 @@
+slug: gartel-island
+name:
+  en: Gartel Island
+  ja: ガルテル島
+  romaji: Garuteru-tō
+canon: manga
+first_appearance:
+  chapter: 869
+  episode: 885
+parent: new-world
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

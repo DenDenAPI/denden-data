@@ -1,0 +1,19 @@
+slug: demoni-aiyo
+name:
+  en: Demoni Aiyo
+  ja: デモーニ・アイヨ
+  romaji: Demōni Aiyo
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 966
+occupations:
+- name: Hairstylist
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

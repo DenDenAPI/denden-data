@@ -1,0 +1,23 @@
+slug: iyaneno-chinode
+name:
+  en: Iyan'eno Chinode
+  ja: イヤンエーノウ・チノデ
+  romaji: Iyan'ēnō Chinode
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1074
+  episode: 1106
+occupations:
+- name: Newspaper Columnist
+  status: current
+affiliations:
+- type: organization
+  slug: world-economy-news-paper
+  status: current
+ages:
+- years: 24
+  period: other

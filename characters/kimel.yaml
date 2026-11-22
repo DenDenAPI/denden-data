@@ -1,0 +1,20 @@
+slug: kimel
+name:
+  en: Kimel
+  ja: キメル
+  romaji: Kimeru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current

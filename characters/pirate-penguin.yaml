@@ -1,0 +1,21 @@
+slug: pirate-penguin
+name:
+  en: Pirate Penguin
+  ja: かいぞくペンギン
+  romaji: Kaizoku Pengin
+canon: other
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 17
+aliases:
+- en: Penkichi
+  ja: ペンキチ
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: current

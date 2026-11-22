@@ -1,0 +1,19 @@
+slug: sasoz
+name:
+  en: Sasoz
+  ja: サソヅ
+  romaji: Sasozu
+canon: other
+gender: male
+species:
+- fish_man
+status: alive
+occupations:
+- name: Pirate
+  status: former
+- name: Cook
+  status: current
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current

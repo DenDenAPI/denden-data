@@ -1,0 +1,29 @@
+slug: byrnndi-world
+name:
+  en: Byrnndi World
+  ja: バーンディ・ワールド
+  romaji: Bāndi Wārudo
+canon: other
+gender: male
+species:
+- human
+status: unknown
+epithets:
+- en: World Destroyer
+  ja: 世界の破壊者
+  romaji: Sekai no Hakaisha
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current
+ages:
+- years: 78
+  period: other
+bounties:
+- amount: 200000000
+  status: former
+- amount: 500000000
+  status: current

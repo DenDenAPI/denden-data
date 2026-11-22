@@ -1,0 +1,47 @@
+slug: hody-jones
+name:
+  en: Hody Jones
+  ja: ホーディ・ジョーンズ
+  romaji: Hōdi Jōnzu
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 608
+  episode: 527
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+- name: Soldier
+  status: former
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: current
+- type: crew
+  slug: flying-pirates
+  status: former
+- type: location
+  slug: ryugu-kingdom
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+birthday:
+  month: 4
+  day: 14
+blood_type: F
+ages:
+- years: 30
+  period: other
+heights:
+- cm: 331
+  period: other

@@ -1,0 +1,48 @@
+slug: carmel
+name:
+  en: Carmel
+  ja: カルメル
+  romaji: Karumeru
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 861
+  episode: 831
+epithets:
+- en: Holy Mother
+  ja: 聖母
+  romaji: Seibo
+aliases:
+- en: Mother Carmel
+  ja: マザー・カルメル
+  romaji: Mazā Karumeru
+- en: Sister Carmel
+  ja: シスター・カルメル
+  romaji: Shisutā Karumeru
+- en: Mountain Witch
+  ja: 山姥
+  romaji: Yamanba
+occupations:
+- name: Child Trafficker
+  status: current
+- name: Caretaker of Sheep's House
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: elbaph
+  status: former
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 12
+  day: 21
+blood_type: S
+heights:
+- cm: 185
+  period: other

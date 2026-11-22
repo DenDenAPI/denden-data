@@ -1,0 +1,30 @@
+slug: skypiea-arc
+order: 21
+name:
+  en: Skypiea Arc
+kind: story
+canon: manga
+sagas:
+- sky-island-saga
+chapters:
+  count: 66
+  ranges:
+  - start: 237
+    end: 302
+volumes:
+  count: 7
+  ranges:
+  - start: 26
+    end: 32
+episodes:
+  count: 43
+  ranges:
+  - start: 153
+    end: 195
+years:
+  manga:
+    start: 2002
+    end: 2003
+  anime:
+    start: 2003
+    end: 2004

@@ -1,0 +1,14 @@
+slug: rose-world-seeker
+name:
+  en: Rose (World Seeker)
+  ja: ローズ
+  romaji: Rōzu
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

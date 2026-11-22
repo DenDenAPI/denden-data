@@ -1,0 +1,52 @@
+slug: vegapunk
+name:
+  en: Vegapunk
+  ja: Dr.ベガパンク
+  romaji: Dokutā Begapanku
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: deceased
+first_appearance:
+  chapter: 684
+  episode: 610
+epithets:
+- en: The Man With the Best Brain in the World
+  ja: 世界一の頭脳を持つ男
+  romaji: Sekaiichi no Zunō o Motsu Otoko
+aliases:
+- en: Stella
+  ja: 本体
+  romaji: Sutera
+occupations:
+- name: Scientist
+  status: current
+affiliations:
+- type: organization
+  slug: mads
+  status: former
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: karakuri-island
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+- type: location
+  slug: punk-hazard
+  status: former
+- type: location
+  slug: karakuri-island
+  status: former
+birthday:
+  month: 8
+  day: 9
+blood_type: S
+heights:
+- cm: 314
+  period: other

@@ -1,0 +1,24 @@
+slug: hippie
+name:
+  en: Hippie
+  ja: ヒッピー
+  romaji: Hippī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1122
+  episode: 1153
+epithets:
+- en: Hippie the Skull Curry
+  ja: ヒッピー・ザ・ドクロカレー
+  romaji: Hippī za Dokurokarē
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: endurance-curry-pirates
+  status: current

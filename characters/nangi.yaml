@@ -1,0 +1,18 @@
+slug: nangi
+name:
+  en: Nangi
+  ja: 七鬼
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 988
+  episode: 997
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+residences:
+- type: location
+  slug: onigashima
+  status: current

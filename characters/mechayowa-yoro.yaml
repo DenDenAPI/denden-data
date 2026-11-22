@@ -1,0 +1,23 @@
+slug: mechayowa-yoro
+name:
+  en: Mechayowa Yoro
+  ja: メチャヨワ・ヨロ
+  romaji: Mechayowa Yoro
+canon: other
+gender: male
+status: deceased
+epithets:
+- en: World's Weakest Lifeform
+  ja: 世界最弱の生命体
+  romaji: Sekai Saijaku no Seimei-tai
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

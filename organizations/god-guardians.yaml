@@ -1,0 +1,17 @@
+slug: god-guardians
+name:
+  en: God Guardians
+  ja: 神の守護者
+  romaji: Goddo Gādianzu
+canon: manga
+first_appearance:
+  chapter: 241
+  episode: 155
+leaders:
+- character: mckinley
+  status: current
+affiliations:
+- type: location
+  slug: skypiea
+  status: current
+residences: []

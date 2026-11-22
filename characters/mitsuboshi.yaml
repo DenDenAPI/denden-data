@@ -1,0 +1,19 @@
+slug: mitsuboshi
+name:
+  en: Mitsuboshi
+  ja: ミツボシ
+  romaji: Mitsuboshi
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 427
+occupations:
+- name: Cook
+  status: current
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

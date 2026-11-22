@@ -1,0 +1,19 @@
+slug: sleepy
+name:
+  en: Sleepy
+  ja: スリーピー
+  romaji: Surīpī
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

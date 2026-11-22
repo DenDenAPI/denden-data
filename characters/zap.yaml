@@ -1,0 +1,19 @@
+slug: zap
+name:
+  en: Zap
+  ja: ザップ
+  romaji: Zappu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current
+affiliations:
+- type: crew
+  slug: bayan-pirates
+  status: current

@@ -1,0 +1,16 @@
+slug: a-a-a
+name:
+  en: A A A
+  ja: A・A・A
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate Captain
+  status: current
+bounties:
+- amount: 2200000
+  status: current
+  canon: movie

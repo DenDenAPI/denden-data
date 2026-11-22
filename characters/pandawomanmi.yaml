@@ -1,0 +1,20 @@
+slug: pandawomanmi
+name:
+  en: Pandawomanmi
+  ja: パンダウーマン美
+  romaji: Pandaūmanmi
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 517
+  episode: 409
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 2
+  day: 29

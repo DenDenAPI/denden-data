@@ -1,0 +1,18 @@
+slug: uzuki-family
+name:
+  en: Uzuki Family
+  ja: 雨月家
+  romaji: Uzuki-ke
+canon: manga
+first_appearance:
+  chapter: 949
+  episode: 949
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences: []

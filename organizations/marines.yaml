@@ -1,0 +1,15 @@
+slug: marines
+name:
+  en: Marines
+  ja: 海軍
+  romaji: Kaigun
+canon: manga
+first_appearance:
+  chapter: 3
+  episode: 1
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

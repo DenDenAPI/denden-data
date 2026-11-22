@@ -1,0 +1,14 @@
+slug: salma-and-yasmine
+name:
+  en: Salma and Yasmine
+  ja: サルマ, ヤスミン
+  romaji: Saruma, Yasumin
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

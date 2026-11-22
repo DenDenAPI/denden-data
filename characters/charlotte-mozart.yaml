@@ -1,0 +1,29 @@
+slug: charlotte-mozart
+name:
+  en: Charlotte Mozart
+  ja: シャーロット・モーツアルト
+  romaji: Shārotto Mōtsaruto
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 831
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 20
+ages:
+- years: 37
+  period: other

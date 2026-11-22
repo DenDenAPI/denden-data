@@ -1,0 +1,23 @@
+slug: muret
+name:
+  en: Muret
+  ja: ミュレ
+  romaji: Myure
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Doctor
+  status: current
+affiliations:
+- type: crew
+  slug: bellamy-pirates
+  status: former
+origin:
+  location: notice
+  region: North Blue

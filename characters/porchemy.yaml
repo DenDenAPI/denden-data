@@ -1,0 +1,33 @@
+slug: porchemy
+name:
+  en: Porchemy
+  ja: ポルシェーミ
+  romaji: Porushēmi
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 583
+  episode: 494
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bluejam-pirates
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+birthday:
+  month: 4
+  day: 3
+blood_type: X
+heights:
+- cm: 320
+  period: other
+bounties:
+- amount: 3400000
+  status: former

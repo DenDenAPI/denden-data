@@ -1,0 +1,45 @@
+slug: coribou
+name:
+  en: Coribou
+  ja: コリブー
+  romaji: Koribū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 600
+  episode: 519
+epithets:
+- en: '"Blood-Splatterer" Coribou'
+  ja: 返り血のコリブー
+  romaji: Kaerichi no Koribū
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: caribou-pirates
+  status: current
+- type: crew
+  slug: fake-straw-hat-crew
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 5
+  day: 2
+blood_type: XF
+ages:
+- years: 29
+  period: other
+heights:
+- cm: 250
+  period: other
+bounties:
+- amount: 190000000
+  status: current
+  revealed_chapter: 600

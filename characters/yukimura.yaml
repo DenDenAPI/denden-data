@@ -1,0 +1,27 @@
+slug: yukimura
+name:
+  en: Yukimura
+  ja: ユキムラ
+  romaji: Yukimura
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  episode: 464
+epithets:
+- en: Slayer of a Thousand Men
+  ja: 千人斬り
+  romaji: Sen'ningiri
+occupations:
+- name: Marine Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 2
+  minimum: true
+  equivalent: 200000000

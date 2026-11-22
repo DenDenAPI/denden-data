@@ -1,0 +1,19 @@
+slug: douglas-gray
+name:
+  en: Douglas Gray
+  ja: ダグラス・グレイ
+  romaji: Dagurasu Gurei
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: General of Galzforce
+  status: current
+- name: Commander
+  status: former
+residences:
+- type: location
+  slug: galzburg
+  status: current

@@ -1,0 +1,13 @@
+slug: bezan-black
+name:
+  en: Bezan Black
+  ja: ベザン・ブラック号
+  romaji: Bezan Burakku-gō
+canon: manga
+first_appearance:
+  chapter: 26
+  episode: 10
+affiliations:
+- type: crew
+  slug: black-cat-pirates
+  status: current

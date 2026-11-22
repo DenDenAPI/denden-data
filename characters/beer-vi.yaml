@@ -1,0 +1,20 @@
+slug: beer-vi
+name:
+  en: Beer VI
+  ja: ビール6世
+  romaji: Bīru Rokusei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 823
+  episode: 777
+occupations:
+- name: King of the Roshwan Kingdom
+  status: current
+residences:
+- type: location
+  slug: roshwan-kingdom
+  status: current

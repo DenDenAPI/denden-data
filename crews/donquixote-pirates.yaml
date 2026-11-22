@@ -1,0 +1,13 @@
+slug: donquixote-pirates
+name:
+  en: Donquixote Pirates
+  ja: ドンキホーテ海賊団
+  romaji: Donkihōte Kaizoku-dan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 233
+  episode: 151
+captains:
+- character: donquixote-doflamingo
+  status: current

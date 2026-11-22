@@ -1,0 +1,10 @@
+slug: sasaki-pirates
+name:
+  en: Sasaki Pirates
+  ja: ササキ海賊団
+  romaji: Sasaki Kaizokudan
+canon: manga
+status: disbanded
+captains:
+- character: sasaki
+  status: current

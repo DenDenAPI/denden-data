@@ -1,0 +1,20 @@
+slug: tsumegeri-guards
+name:
+  en: Tsumegeri Guards
+  ja: ツメゲリ部隊
+  romaji: Tsumegeri Butai
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 196
+  episode: 120
+occupations:
+- name: Soldiers
+  status: current
+affiliations:
+- type: organization
+  slug: royal-guard
+  status: current

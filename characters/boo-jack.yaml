@@ -1,0 +1,21 @@
+slug: boo-jack
+name:
+  en: Boo Jack
+  ja: ブージャック
+  romaji: Būjakku
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+bounties:
+- amount: 3200000
+  status: current
+  canon: movie

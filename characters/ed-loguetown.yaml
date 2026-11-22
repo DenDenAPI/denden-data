@@ -1,0 +1,19 @@
+slug: ed-loguetown
+name:
+  en: Ed (Loguetown)
+  ja: エド
+  romaji: Edo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 48
+occupations:
+- name: Shopkeeper
+  status: current
+residences:
+- type: location
+  slug: loguetown
+  status: current

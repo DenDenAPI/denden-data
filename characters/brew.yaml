@@ -1,0 +1,22 @@
+slug: brew
+name:
+  en: Brew
+  ja: ブリュー
+  romaji: Buryū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 561
+  episode: 470
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

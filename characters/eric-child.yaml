@@ -1,0 +1,18 @@
+slug: eric-child
+name:
+  en: Eric (Child)
+  ja: エリク
+  romaji: Eriku
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Cowardly Eric
+  ja: 臆病なエリク
+  romaji: Okubyō na Eriku
+residences:
+- type: location
+  slug: jail-island
+  status: current

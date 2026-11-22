@@ -1,0 +1,23 @@
+slug: bad-one-gracie
+name:
+  en: Bad One Gracie
+  ja: バット・ワン・グレイシー
+  romaji: Batto Wan Gureishī
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Gracie the Ash Cat
+  ja: 灰猫のグレイシー
+  romaji: Hai Neko no Gureishī
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: big-pirates
+  status: current

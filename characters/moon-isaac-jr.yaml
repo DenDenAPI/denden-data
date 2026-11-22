@@ -1,0 +1,22 @@
+slug: moon-isaac-jr
+name:
+  en: Moon Isaac Jr.
+  ja: ムーン・アイザックJr.
+  romaji: Mūn Aizakku Junia
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+  episode: 969
+occupations:
+- name: Pirate
+  status: current
+- name: Tactical staff officer
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

@@ -1,0 +1,25 @@
+slug: ririka
+name:
+  en: Ririka
+  ja: リリカ
+  romaji: Ririka
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 4
+  episode: 2
+occupations:
+- name: Bartender
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shells-town
+  status: current
+birthday:
+  month: 11
+  day: 15

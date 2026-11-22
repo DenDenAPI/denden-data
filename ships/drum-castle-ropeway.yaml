@@ -1,0 +1,13 @@
+slug: drum-castle-ropeway
+name:
+  en: Drum Castle Ropeway
+  ja: ドラム城ロープウェイ
+  romaji: Doramu-jō Rōpuu~ei
+canon: manga
+first_appearance:
+  chapter: 142
+  episode: 91
+affiliations:
+- type: location
+  slug: drum-island
+  status: current

@@ -1,0 +1,17 @@
+slug: tomatito
+name:
+  en: Tomatito
+  ja: トマティート
+  romaji: Tomatīto
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 956
+occupations:
+- name: Musician
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

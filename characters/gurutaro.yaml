@@ -1,0 +1,29 @@
+slug: gurutaro
+name:
+  en: Gurutaro
+  ja: ぐる太郎
+  romaji: Gurutarō
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+occupations:
+- name: Samurai
+  status: current
+- name: Retainer
+  status: current
+affiliations:
+- type: organization
+  slug: mimawarigumi
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

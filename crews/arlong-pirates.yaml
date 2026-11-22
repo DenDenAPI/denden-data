@@ -1,0 +1,13 @@
+slug: arlong-pirates
+name:
+  en: Arlong Pirates
+  ja: アーロン一味
+  romaji: Āron Ichimi
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 69
+  episode: 31
+captains:
+- character: arlong
+  status: current

@@ -1,0 +1,10 @@
+slug: world-pirates
+name:
+  en: World Pirates
+  ja: ワールド海賊団
+  romaji: Wārudo Kaizokudan
+canon: other
+status: disbanded
+captains:
+- character: byrnndi-world
+  status: current

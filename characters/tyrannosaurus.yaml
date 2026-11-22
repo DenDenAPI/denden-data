@@ -1,0 +1,22 @@
+slug: tyrannosaurus
+name:
+  en: Tyrannosaurus
+  ja: ティラノサウルス
+  romaji: Tiranosaurusu
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: Iceburg's pet
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 10
+  day: 20

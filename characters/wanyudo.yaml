@@ -1,0 +1,20 @@
+slug: wanyudo
+name:
+  en: Wanyudo
+  ja: 輪入道
+  romaji: Wanyūdō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1005
+  episode: 1021
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

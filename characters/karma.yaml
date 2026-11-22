@@ -1,0 +1,26 @@
+slug: karma
+name:
+  en: Karma
+  ja: カルマ
+  romaji: Karuma
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 467
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: takotopus-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 6
+  day: 6

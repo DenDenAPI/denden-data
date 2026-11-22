@@ -1,0 +1,17 @@
+slug: taylor
+name:
+  en: Taylor
+  ja: テイラー
+  romaji: Teirā
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Prince
+  status: current
+residences:
+- type: location
+  slug: strumia
+  status: current

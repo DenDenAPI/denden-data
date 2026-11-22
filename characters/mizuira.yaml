@@ -1,0 +1,20 @@
+slug: mizuira
+name:
+  en: Mizuira
+  ja: ミズイラ
+  romaji: Mizuira
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 391
+  episode: 275
+occupations:
+- name: Civilian
+  status: current
+affiliations:
+- type: location
+  slug: ohara
+  status: current

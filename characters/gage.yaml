@@ -1,0 +1,20 @@
+slug: gage
+name:
+  en: Gage
+  ja: ゲージ
+  romaji: Gēji
+canon: other
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Commodore
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: enies-lobby
+  status: current

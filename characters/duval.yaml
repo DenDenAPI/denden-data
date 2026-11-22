@@ -1,0 +1,42 @@
+slug: duval
+name:
+  en: Duval
+  ja: デュバル
+  romaji: Dyubaru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 491
+  episode: 386
+epithets:
+- en: Iron Mask Duval
+  ja: 鉄仮面のデュバル
+  romaji: Tetsu Kamen no Dyubaru
+occupations:
+- name: Leader of the Rosy Life Riders
+  status: former
+- name: Slave trader
+  status: former
+- name: Mafia
+  status: current
+affiliations:
+- type: organization
+  slug: rosy-life-riders
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 8
+  day: 11
+blood_type: S
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 470
+  period: other

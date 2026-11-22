@@ -1,0 +1,17 @@
+slug: governor
+name:
+  en: Governor
+  ja: ガバナー
+  romaji: Gabanā
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Commander
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

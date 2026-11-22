@@ -1,0 +1,13 @@
+slug: ipposai
+name:
+  en: Ipposai
+  ja: 一宝塞
+  romaji: Ippōsai
+canon: manga
+first_appearance:
+  chapter: 800
+  episode: 745
+affiliations:
+- type: crew
+  slug: happo-navy
+  status: current

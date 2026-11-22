@@ -1,0 +1,14 @@
+slug: dahlia-child
+name:
+  en: Dahlia (Child)
+  ja: ダリア
+  romaji: Daria
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current

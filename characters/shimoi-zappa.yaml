@@ -1,0 +1,26 @@
+slug: shimoi-zappa
+name:
+  en: Shimoi Zappa
+  ja: シモイ・ザッパ
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 16
+  episode: 780
+occupations:
+- name: Marine Lieutenant Junior Grade
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: fron-island
+  status: current
+ages:
+- years: 20
+  period: other

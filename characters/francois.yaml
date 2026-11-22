@@ -1,0 +1,16 @@
+slug: francois
+name:
+  en: Francois
+  ja: フランソワ
+  romaji: Furansowa
+canon: manga
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 537
+  episode: 438
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

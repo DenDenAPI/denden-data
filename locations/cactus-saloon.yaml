@@ -1,0 +1,10 @@
+slug: cactus-saloon
+name:
+  en: Cactus Saloon
+canon: manga
+first_appearance:
+  chapter: 409
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current

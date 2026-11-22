@@ -1,0 +1,33 @@
+slug: albion
+name:
+  en: Albion
+  ja: アルビオン
+  romaji: Arubion
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 600
+  episode: 519
+epithets:
+- en: Gashed Albion
+  ja: 深手のアルビオン
+  romaji: Fukade no Arubion
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: former
+birthday:
+  month: 11
+  day: 9
+bounties:
+- amount: 92000000
+  status: current
+  revealed_chapter: 600

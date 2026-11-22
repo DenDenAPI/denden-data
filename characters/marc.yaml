@@ -1,0 +1,17 @@
+slug: marc
+name:
+  en: Marc
+  ja: マルク
+  romaji: Maruku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: former

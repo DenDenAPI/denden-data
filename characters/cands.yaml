@@ -1,0 +1,21 @@
+slug: cands
+name:
+  en: Cands
+  ja: キャンズ
+  romaji: Kyanzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 569
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

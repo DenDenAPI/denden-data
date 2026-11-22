@@ -1,0 +1,20 @@
+slug: kamekichi
+name:
+  en: Kamekichi
+  ja: カメ吉
+  romaji: Kamekichi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 918
+occupations:
+- name: Newspaper deliveryman
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

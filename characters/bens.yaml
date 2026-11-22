@@ -1,0 +1,20 @@
+slug: bens
+name:
+  en: Bens
+  ja: ベンス
+  romaji: Bensu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Dice
+  ja: 賽の目
+  romaji: Sainome
+occupations:
+- name: Pirate Gambler
+  status: current
+bounties:
+- amount: 20000000
+  status: former

@@ -1,0 +1,50 @@
+slug: babe
+name:
+  en: Babe
+  ja: ベーブ
+  romaji: Bēbu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 160
+  episode: 103
+epithets:
+- en: '"Catcher-Killing" Babe'
+  ja: キャッチャー殺しのベーブ
+  romaji: Kyatchā-Goroshi no Bēbu
+aliases:
+- en: Mr. 4
+  ja: Mr. 4
+  romaji: Misutā Fō
+occupations:
+- name: Cafe Delivery Boy
+  status: current
+- name: Officer Agent
+  status: former
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 6
+  day: 19
+blood_type: F
+ages:
+- years: 28
+  period: debut
+- years: 30
+  period: post_timeskip
+heights:
+- cm: 218
+  period: other
+bounties:
+- amount: 3200000
+  status: current

@@ -1,0 +1,30 @@
+slug: baratie-arc
+order: 4
+name:
+  en: Baratie Arc
+kind: story
+canon: manga
+sagas:
+- east-blue-saga
+chapters:
+  count: 27
+  ranges:
+  - start: 42
+    end: 68
+volumes:
+  count: 4
+  ranges:
+  - start: 5
+    end: 8
+episodes:
+  count: 12
+  ranges:
+  - start: 19
+    end: 30
+years:
+  manga:
+    start: 1998
+    end: 1998
+  anime:
+    start: 2000
+    end: 2000

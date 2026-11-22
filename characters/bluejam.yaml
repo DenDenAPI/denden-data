@@ -1,0 +1,38 @@
+slug: bluejam
+name:
+  en: Bluejam
+  ja: ブルージャム
+  romaji: Burūjamu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 584
+  episode: 494
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bluejam-pirates
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+birthday:
+  month: 2
+  day: 16
+blood_type: X
+ages:
+- years: 42
+  period: debut
+heights:
+- cm: 261
+  period: other
+bounties:
+- amount: 14300000
+  status: current

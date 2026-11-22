@@ -1,0 +1,14 @@
+slug: jeanne
+name:
+  en: Jeanne
+  ja: ジャンヌ
+  romaji: Jannu
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,21 @@
+slug: banchi
+name:
+  en: Banchi
+  ja: バンチ
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 114
+  episode: 67
+occupations:
+- name: Transportation
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: West Blue

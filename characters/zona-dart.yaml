@@ -1,0 +1,17 @@
+slug: zona-dart
+name:
+  en: Zona Dart
+  ja: ゾーナ・ダート
+  romaji: Zōna Dāto
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Quiz Researcher
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

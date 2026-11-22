@@ -1,0 +1,25 @@
+slug: andre
+name:
+  en: Andre
+  ja: アンドレ
+  romaji: Andore
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 558
+  episode: 479
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 5
+  day: 19

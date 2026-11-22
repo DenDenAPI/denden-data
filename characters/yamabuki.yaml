@@ -1,0 +1,14 @@
+slug: yamabuki
+name:
+  en: Yamabuki
+  ja: ヤマブキ
+  romaji: Yamabuki
+canon: anime_only
+gender: female
+status: alive
+first_appearance:
+  episode: 410
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

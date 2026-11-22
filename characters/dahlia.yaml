@@ -1,0 +1,21 @@
+slug: dahlia
+name:
+  en: Dahlia
+  ja: ダリア
+  romaji: Daria
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

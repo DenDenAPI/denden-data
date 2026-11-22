@@ -1,0 +1,17 @@
+slug: anikin
+name:
+  en: Anikin
+  ja: アニキン
+  romaji: Anikin
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Bounty Hunter
+  status: current
+residences:
+- type: location
+  slug: nanohana
+  status: current

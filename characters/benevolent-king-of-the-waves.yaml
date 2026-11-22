@@ -1,0 +1,25 @@
+slug: benevolent-king-of-the-waves
+name:
+  en: Benevolent King of the Waves
+  ja: 波頭の仁王
+  romaji: Hatō no Niō
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Benevolent King of the Waves
+occupations:
+- name: Marine Captain
+  status: current
+- name: Seaman Recruit
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current

@@ -1,0 +1,25 @@
+slug: ain
+name:
+  en: Ain
+  ja: アイン
+  romaji: Ain
+canon: movie
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 691
+  episode: 575
+occupations:
+- name: Second-in-command of the Neo Marines
+  status: current
+- name: Marine Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+heights:
+- cm: 174
+  period: other

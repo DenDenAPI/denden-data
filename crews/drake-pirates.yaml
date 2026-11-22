@@ -1,0 +1,12 @@
+slug: drake-pirates
+name:
+  en: Drake Pirates
+  ja: ドレーク海賊団
+  romaji: Dorēku Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 498
+  episode: 392
+captains:
+- character: x-drake
+  status: current

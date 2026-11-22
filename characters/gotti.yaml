@@ -1,0 +1,39 @@
+slug: gotti
+name:
+  en: Gotti
+  ja: ゴッティ
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: alive
+first_appearance:
+  chapter: 825
+  episode: 783
+occupations:
+- name: Pirate
+  status: current
+- name: Assassin
+  status: current
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: fire-tank-pirates
+  status: current
+origin:
+  region: West Blue
+birthday:
+  month: 5
+  day: 21
+blood_type: S
+ages:
+- years: 33
+  period: other
+heights:
+- cm: 375
+  period: other
+bounties:
+- amount: 90000000
+  status: current

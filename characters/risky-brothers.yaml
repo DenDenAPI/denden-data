@@ -1,0 +1,23 @@
+slug: risky-brothers
+name:
+  en: Risky Brothers
+  ja: リスキー兄弟
+  romaji: Risukī Kyōdai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 475
+  episode: 369
+occupations:
+- name: Pirates
+  status: current
+affiliations:
+- type: crew
+  slug: rolling-pirates
+  status: current
+- type: organization
+  slug: thriller-bark-victims-association
+  status: current

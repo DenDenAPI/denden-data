@@ -1,0 +1,21 @@
+slug: old-physiognomist
+name:
+  en: Old Physiognomist
+  ja: 人相見の老人
+  romaji: Ninsōmi no Rōjin
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Physiognomist
+  status: current
+residences:
+- type: location
+  slug: loguetown
+  status: current
+ages:
+- years: 100
+  period: other
+  minimum: true

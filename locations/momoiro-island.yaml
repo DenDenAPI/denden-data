@@ -1,0 +1,14 @@
+slug: momoiro-island
+name:
+  en: Momoiro Island
+  ja: モモイロ島
+  romaji: Momoiro Airando
+canon: manga
+first_appearance:
+  chapter: 523
+  episode: 419
+region: Paradise
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

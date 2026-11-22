@@ -1,0 +1,46 @@
+slug: perona
+name:
+  en: Perona
+  ja: ペローナ
+  romaji: Perōna
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 443
+  episode: 338
+epithets:
+- en: Ghost Princess
+  ja: ゴーストプリンセス
+  romaji: Gōsuto Purinsesu
+occupations:
+- name: Pirate
+  status: current
+- name: Wild Zombies
+  status: current
+- name: Surprise Zombies Commander
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: kuraigana-island
+  status: former
+birthday:
+  month: 6
+  day: 7
+blood_type: XF
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 160
+  period: other

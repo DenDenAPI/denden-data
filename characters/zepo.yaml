@@ -1,0 +1,22 @@
+slug: zepo
+name:
+  en: Zepo
+  ja: ゼポ
+  romaji: Zepo
+canon: manga
+gender: male
+species:
+- mink
+status: deceased
+first_appearance:
+  chapter: 850
+  episode: 816
+occupations:
+- name: Pirate
+  status: current
+- name: Explorer
+  status: former
+affiliations:
+- type: crew
+  slug: nox-pirates
+  status: current

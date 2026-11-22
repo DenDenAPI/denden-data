@@ -1,0 +1,17 @@
+slug: wadatsumi-non-canon
+name:
+  en: Wadatsumi (Non-Canon)
+  ja: ワダツミ
+  romaji: Wadatsumi
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

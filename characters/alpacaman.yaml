@@ -1,0 +1,20 @@
+slug: alpacaman
+name:
+  en: Alpacaman
+  ja: アルパカマン
+  romaji: Arupakaman
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 934
+  episode: 929
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

@@ -1,0 +1,15 @@
+slug: narcy
+name:
+  en: Narcy
+  ja: ナルシー
+  romaji: Narushī
+canon: movie
+gender: male
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: long-long-pirates
+  status: current

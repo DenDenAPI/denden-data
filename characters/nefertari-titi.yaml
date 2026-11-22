@@ -1,0 +1,20 @@
+slug: nefertari-titi
+name:
+  en: Nefertari Titi
+  ja: ネフェルタリ・ティティ
+  romaji: Neferutari Titi
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 215
+  episode: 129
+occupations:
+- name: Queen of the Arabasta Kingdom
+  status: current
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current

@@ -1,0 +1,36 @@
+slug: hannyabal
+name:
+  en: Hannyabal
+  ja: ハンニャバル
+  romaji: Hannyabaru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 525
+  episode: 422
+occupations:
+- name: Chief Warden
+  status: current
+- name: Vice Warden
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 8
+  day: 28
+blood_type: S
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 309
+  period: other

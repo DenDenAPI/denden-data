@@ -1,0 +1,36 @@
+slug: vander-decken-ix
+name:
+  en: Vander Decken IX
+  ja: バンダー・デッケン九世
+  romaji: Bandā Dekken Kyūsei
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 606
+  episode: 525
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: flying-pirates
+  status: current
+- type: crew
+  slug: new-fish-man-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+birthday:
+  month: 8
+  day: 22
+blood_type: XF
+ages:
+- years: 35
+  period: other
+heights:
+- cm: 352
+  period: other

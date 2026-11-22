@@ -1,0 +1,17 @@
+slug: kikipatsu
+name:
+  en: Kikipatsu
+  ja: キキパツ
+  romaji: Kikipatsu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 925
+  episode: 917
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current

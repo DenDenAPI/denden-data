@@ -1,0 +1,25 @@
+slug: soro
+name:
+  en: Soro
+  ja: ソーロ
+  romaji: Sōro
+canon: manga
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 3
+  episode: 2
+occupations:
+- name: Pet
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shells-town
+  status: current
+birthday:
+  month: 11
+  day: 11

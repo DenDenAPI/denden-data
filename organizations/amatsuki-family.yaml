@@ -1,0 +1,19 @@
+slug: amatsuki-family
+name:
+  en: Amatsuki Family
+  ja: 天月家
+  romaji: Amatsuki-ke
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 919
+  episode: 909
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences: []

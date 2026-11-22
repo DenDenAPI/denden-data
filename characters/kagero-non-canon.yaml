@@ -1,0 +1,17 @@
+slug: kagero-non-canon
+name:
+  en: Kagero (Non-Canon)
+  ja: カゲロウ
+  romaji: Kagerō
+canon: other
+species:
+- robot
+status: deceased
+affiliations:
+- type: location
+  slug: jail-island
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

@@ -1,0 +1,19 @@
+slug: sukare-tainen
+name:
+  en: Sukare Tainen
+  ja: スーカレ・タイネン
+  romaji: Sūkare Tainen
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 963
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: germ-pirates
+  status: current

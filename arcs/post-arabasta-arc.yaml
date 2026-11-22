@@ -1,0 +1,17 @@
+slug: post-arabasta-arc
+order: 15
+name:
+  en: Post-Arabasta Arc
+kind: filler
+canon: anime_only
+sagas:
+- arabasta-saga
+episodes:
+  count: 5
+  ranges:
+  - start: 131
+    end: 135
+years:
+  anime:
+    start: 2002
+    end: 2002

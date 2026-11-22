@@ -1,0 +1,34 @@
+slug: gambia
+name:
+  en: Gambia
+  ja: ガンビア
+  romaji: Ganbia
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 705
+  episode: 634
+epithets:
+- en: The Missionary
+  ja: 宣教師
+  romaji: Senkyōshi
+occupations:
+- name: Staff Officer
+  status: current
+affiliations:
+- type: crew
+  slug: barto-club
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+birthday:
+  month: 2
+  day: 18
+bounties:
+- amount: 67000000
+  status: current
+  revealed_chapter: 705

@@ -1,0 +1,19 @@
+slug: stansen-non-canon
+name:
+  en: Stansen (Non-Canon)
+  ja: スタンセン
+  romaji: Sutansen
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: phoenix-pirates
+  status: current

@@ -1,0 +1,29 @@
+slug: miss-monday
+name:
+  en: Miss Monday
+  ja: ミス・マンデー
+  romaji: Misu Mandē
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 107
+  episode: 64
+aliases:
+- en: Miss Monday, Sister
+occupations:
+- name: Frontier Agent
+  status: former
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 24

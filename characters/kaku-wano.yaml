@@ -1,0 +1,17 @@
+slug: kaku-wano
+name:
+  en: Kaku (Wano)
+  ja: カクさん
+  romaji: Kaku-san
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 927
+  episode: 919
+affiliations:
+- type: organization
+  slug: kyoshiro-family
+  status: current

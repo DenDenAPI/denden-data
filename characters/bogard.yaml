@@ -1,0 +1,20 @@
+slug: bogard
+name:
+  en: Bogard
+  ja: ボガード
+  romaji: Bogādo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 92
+  episode: 68
+occupations:
+- name: Commissioned Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

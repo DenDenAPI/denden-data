@@ -1,0 +1,15 @@
+slug: fune
+name:
+  en: Fune
+  ja: フネ
+  romaji: Fune
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Navigator
+  status: current

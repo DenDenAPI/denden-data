@@ -1,0 +1,22 @@
+slug: rowing
+name:
+  en: Rowing
+  ja: ローウィング
+  romaji: Rо̄wingu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 967
+  episode: 959
+occupations:
+- name: Pirate
+  status: current
+- name: Scholar
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: karai-bari-island
+name:
+  en: Karai Bari Island
+  ja: カライ・バリ島
+  romaji: Karai Bari-tō
+canon: manga
+first_appearance:
+  chapter: 803
+  episode: 752
+parent: new-world
+affiliations:
+- type: organization
+  slug: buggys-delivery
+  status: current
+- type: organization
+  slug: cross-guild
+  status: current

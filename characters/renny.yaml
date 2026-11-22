@@ -1,0 +1,15 @@
+slug: renny
+name:
+  en: Renny
+  ja: レニー
+  romaji: Renī
+canon: other
+gender: female
+status: alive
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+ages:
+- years: 14
+  period: other

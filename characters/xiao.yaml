@@ -1,0 +1,14 @@
+slug: xiao
+name:
+  en: Xiao
+  ja: シャオ
+  romaji: Shao
+canon: movie
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: merveille
+  status: former

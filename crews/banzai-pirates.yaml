@@ -1,0 +1,9 @@
+slug: banzai-pirates
+name:
+  en: Banzai Pirates
+  ja: バンザイ海賊団
+  romaji: Banzai kaizoku-dan
+canon: other
+captains:
+- character: banzai
+  status: current

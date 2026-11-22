@@ -1,0 +1,22 @@
+slug: dagama
+name:
+  en: Dagama
+  ja: ダガマ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+occupations:
+- name: Tactician
+  status: current
+affiliations:
+- type: location
+  slug: prodence-kingdom
+  status: current
+birthday:
+  month: 9
+  day: 26

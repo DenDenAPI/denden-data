@@ -1,0 +1,25 @@
+slug: bizarre
+name:
+  en: Bizarre
+  ja: ビザール
+  romaji: Bizāru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 468
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 2
+  day: 3

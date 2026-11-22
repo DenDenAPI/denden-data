@@ -1,0 +1,22 @@
+slug: komachiyo
+name:
+  en: Komachiyo
+  ja: 狛ちよ
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 910
+  episode: 892
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+residences:
+- type: location
+  slug: kuri
+  status: current
+- type: location
+  slug: wano-country
+  status: current

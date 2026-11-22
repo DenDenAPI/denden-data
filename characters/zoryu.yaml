@@ -1,0 +1,17 @@
+slug: zoryu
+name:
+  en: Zoryu
+  ja: ゾリュウ
+  romaji: Zoryū
+canon: other
+species:
+- animal
+status: alive
+epithets:
+- en: Zoryu the Three-Headed Dragon
+  ja: さん頭竜のゾリュウ
+  romaji: Santōryū No Zoryuu
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

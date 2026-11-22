@@ -1,0 +1,19 @@
+slug: pete
+name:
+  en: Pete
+  ja: ピート
+  romaji: Pīto
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 50
+epithets:
+- en: '"Two-Pistol" Pete'
+  ja: 二丁拳銃のピート
+  romaji: Nichō Kenjū no Pīto
+bounties:
+- amount: 1000000
+  status: current

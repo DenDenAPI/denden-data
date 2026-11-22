@@ -1,0 +1,37 @@
+slug: sterry
+name:
+  en: Sterry
+  ja: ステリー
+  romaji: Suterī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 586
+  episode: 500
+occupations:
+- name: King of the Goa Kingdom
+  status: current
+- name: Noble
+  status: former
+origin:
+  location: dawn-island
+  region: East Blue
+residences:
+- type: location
+  slug: goa-kingdom
+  status: current
+birthday:
+  month: 3
+  day: 12
+blood_type: S
+ages:
+- years: 8
+  period: debut
+- years: 20
+  period: post_timeskip
+heights:
+- cm: 180
+  period: other

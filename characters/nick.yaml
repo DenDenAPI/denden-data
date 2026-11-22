@@ -1,0 +1,16 @@
+slug: nick
+name:
+  en: Nick
+  ja: ニック
+  romaji: Nikku
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Knowledgeable Nick
+residences:
+- type: location
+  slug: jail-island
+  status: current

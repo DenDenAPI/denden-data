@@ -1,0 +1,12 @@
+slug: akagami-yuki
+name:
+  en: Akagami Yuki
+  ja: 赤神勇輝
+  romaji: Akagami Yūki
+canon: other
+gender: male
+status: alive
+affiliations:
+- type: location
+  slug: miraba-elementary-school
+  status: current

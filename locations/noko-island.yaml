@@ -1,0 +1,11 @@
+slug: noko-island
+name:
+  en: Noko Island
+  ja: 濃厚島
+  romaji: Nōkō-tō
+canon: other
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: miranda
+name:
+  en: Miranda
+  ja: ミランダ
+canon: other
+gender: female
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

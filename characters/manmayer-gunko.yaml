@@ -1,0 +1,41 @@
+slug: manmayer-gunko
+name:
+  en: Manmayer Gunko
+  ja: マンマイヤー・軍子宮
+  romaji: Manmaiyā Gunko Gū
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+epithets:
+- en: Father-Killing Princess
+  ja: 父殺しの姫
+  romaji: Chichi-goroshi no Hime
+occupations:
+- name: Knight of God
+  status: current
+- name: Devoted Blade of God
+  status: former
+- name: Princess
+  status: former
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+origin:
+  location: esperia-kingdom
+  region: West Blue
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+ages:
+- years: 77
+  period: other

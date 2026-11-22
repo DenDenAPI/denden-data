@@ -1,0 +1,12 @@
+slug: animal-band
+name:
+  en: Animal Band
+  ja: アニマルバンド
+  romaji: Animaru Bando
+canon: movie
+species:
+- animal
+status: alive
+occupations:
+- name: Musicians
+  status: current

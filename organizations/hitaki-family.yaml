@@ -1,0 +1,17 @@
+slug: hitaki-family
+name:
+  en: Hitaki Family
+  ja: ヒタキ家
+  romaji: Hitaki-ke
+canon: other
+status: active
+leaders:
+- character: hitaki
+  status: former
+- character: kikuhime
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

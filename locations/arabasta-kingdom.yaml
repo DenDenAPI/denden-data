@@ -1,0 +1,14 @@
+slug: arabasta-kingdom
+name:
+  en: Arabasta Kingdom
+  ja: アラバスタ王国
+  romaji: Arabasuta Ōkoku
+canon: manga
+first_appearance:
+  chapter: 113
+  episode: 78
+region: Paradise
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

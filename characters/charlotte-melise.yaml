@@ -1,0 +1,25 @@
+slug: charlotte-melise
+name:
+  en: Charlotte Melise
+  ja: シャーロット・メリゼ
+  romaji: Shārotto Merize
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 854
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 33
+  period: other

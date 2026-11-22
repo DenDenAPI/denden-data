@@ -1,0 +1,34 @@
+slug: pesca
+name:
+  en: Pesca
+  ja: ペスカ
+  romaji: Pesuka
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Endless Knives
+  ja: 連包丁のペスカ
+  romaji: Ren Hōchō no Pesuka
+aliases:
+- en: Byron
+  ja: バイロン
+  romaji: Bairon
+occupations:
+- name: Pirate
+  status: current
+- name: First Mate
+  status: current
+affiliations:
+- type: crew
+  slug: drayke-pirates
+  status: current
+bounties:
+- amount: 10000000
+  status: former
+- amount: 12000000
+  status: former
+- amount: 14500000
+  status: current

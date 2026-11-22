@@ -1,0 +1,29 @@
+slug: charlotte-basskarte
+name:
+  en: Charlotte Basskarte
+  ja: シャーロット・バスカルテ
+  romaji: Shārotto Basukarute
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 830
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 1
+  day: 23
+ages:
+- years: 42
+  period: other

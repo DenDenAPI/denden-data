@@ -1,0 +1,34 @@
+slug: satori
+name:
+  en: Satori
+  ja: サトリ
+canon: manga
+gender: male
+species:
+- birkan
+status: unknown
+first_appearance:
+  chapter: 241
+  episode: 155
+epithets:
+- en: Satori of the Forest
+  ja: 森のサトリ
+  romaji: Mori no Satori
+occupations:
+- name: Priest of Enel
+  status: current
+origin:
+  location: birka
+  region: Sky Island
+birthday:
+  month: 3
+  day: 10
+blood_type: S
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 179
+  period: other

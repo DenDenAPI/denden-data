@@ -1,0 +1,24 @@
+slug: tosa
+name:
+  en: Tosa
+  ja: 土茶
+  romaji: Tosa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1089
+  episode: 1123
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

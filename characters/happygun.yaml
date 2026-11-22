@@ -1,0 +1,22 @@
+slug: happygun
+name:
+  en: Happygun
+  ja: ハッピーガン
+  romaji: Happīgan
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 578
+  episode: 487
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

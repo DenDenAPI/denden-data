@@ -1,0 +1,16 @@
+slug: maji
+name:
+  en: Maji
+  ja: マジ
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: General
+  status: current
+residences:
+- type: location
+  slug: mecha-island
+  status: current

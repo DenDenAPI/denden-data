@@ -1,0 +1,31 @@
+slug: nora-gitsune
+name:
+  en: Nora Gitsune
+  ja: のらギツネ
+  romaji: Nora-Gitsune
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 598
+  episode: 518
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: fake-straw-hat-crew
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 4
+  day: 10
+ages:
+- years: 13
+  period: other
+heights:
+- cm: 103
+  period: other

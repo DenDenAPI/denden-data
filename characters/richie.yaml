@@ -1,0 +1,38 @@
+slug: richie
+name:
+  en: Richie
+  ja: リッチー
+  romaji: Ritchī
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 9
+  episode: 6
+occupations:
+- name: Pet
+  status: current
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: organization
+  slug: cross-guild
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: current
+- type: crew
+  slug: buggy-and-alvida-alliance
+  status: current
+- type: crew
+  slug: buggy-pirates
+  status: current
+residences:
+- type: location
+  slug: karai-bari-island
+  status: current
+birthday:
+  month: 7
+  day: 23

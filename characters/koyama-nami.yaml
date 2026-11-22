@@ -1,0 +1,20 @@
+slug: koyama-nami
+name:
+  en: Koyama Nami
+  ja: 小山菜美
+  romaji: Koyama Nami
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current
+ages:
+- years: 16
+  period: other

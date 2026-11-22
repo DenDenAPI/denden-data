@@ -1,0 +1,17 @@
+slug: iguchi-kameko
+name:
+  en: Iguchi Kameko
+  ja: 井口瓶子
+  romaji: Iguchi Kameko
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Teacher
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current

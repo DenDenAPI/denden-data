@@ -1,0 +1,14 @@
+slug: roba
+name:
+  en: Roba
+  ja: ローバ
+  romaji: Rōba
+canon: movie
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: mecha-island
+  status: current

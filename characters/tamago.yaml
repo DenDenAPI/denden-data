@@ -1,0 +1,45 @@
+slug: tamago
+name:
+  en: Tamago
+  ja: タマゴ
+canon: manga
+gender: male
+species:
+- longleg
+status: alive
+first_appearance:
+  chapter: 651
+  episode: 570
+epithets:
+- en: Baron Tamago
+  ja: タマゴ男爵
+  romaji: Tamago Danshaku
+occupations:
+- name: Combatant
+  status: current
+- name: Broker
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 5
+  day: 14
+blood_type: XF
+ages:
+- years: 46
+  period: other
+heights:
+- cm: 301
+  period: other
+bounties:
+- amount: 429000000
+  status: current
+  revealed_chapter: 850

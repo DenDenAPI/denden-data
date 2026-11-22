@@ -1,0 +1,11 @@
+slug: kusonoa-kun
+name:
+  en: Kusonoa Kun
+  ja: クソノア・クン
+  romaji: Kusonoa Kun
+canon: other
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

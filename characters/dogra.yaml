@@ -1,0 +1,27 @@
+slug: dogra
+name:
+  en: Dogra
+  ja: ドグラ
+  romaji: Dogura
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 582
+  episode: 493
+occupations:
+- name: bandit
+  status: current
+affiliations:
+- type: organization
+  slug: dadan-family
+  status: current
+residences:
+- type: location
+  slug: mt-colubo
+  status: current
+birthday:
+  month: 12
+  day: 19

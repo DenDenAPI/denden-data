@@ -1,0 +1,18 @@
+slug: charles
+name:
+  en: Charles
+  ja: チャールズ
+  romaji: Chāruzu
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

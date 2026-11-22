@@ -1,0 +1,53 @@
+slug: ashura-doji
+name:
+  en: Ashura Doji
+  ja: アシュラ童子
+  romaji: Ashura Dōji
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 920
+  episode: 910
+epithets:
+- en: Strongest Monster of Kuri
+  ja: 九里最強の怪物
+  romaji: Kuri Saikyō no Kaibutsu
+aliases:
+- en: Shutenmaru
+  ja: 酒天丸
+  romaji: Shutenmaru
+occupations:
+- name: Bandit
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Yakuza Boss
+  status: former
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: mt-atama-thieves
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 4
+  day: 10
+blood_type: X
+heights:
+- cm: 544
+  period: other

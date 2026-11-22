@@ -1,0 +1,28 @@
+slug: sicily
+name:
+  en: Sicily
+  ja: シシリー
+  romaji: Shishirī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 504
+occupations:
+- name: Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 6
+  day: 5
+marine_rating:
+  stars: 2
+  minimum: true
+  equivalent: 200000000

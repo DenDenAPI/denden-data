@@ -1,0 +1,18 @@
+slug: pochi
+name:
+  en: Pochi
+  ja: ポチ
+canon: anime_only
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 493
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: organization
+  slug: dadan-family
+  status: current

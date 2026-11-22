@@ -1,0 +1,31 @@
+slug: vegapunk-pythagoras
+name:
+  en: Pythagoras
+  ja: 知
+  romaji: Pitagorasu
+canon: manga
+status: alive
+first_appearance:
+  chapter: 1065
+  episode: 1095
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+birthday:
+  month: 3
+  day: 22
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 341
+  period: other

@@ -1,0 +1,17 @@
+slug: chico-pirate
+name:
+  en: Chico (Pirate)
+  ja: チコ
+  romaji: Chiko
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: ganzack-pirates
+  status: current

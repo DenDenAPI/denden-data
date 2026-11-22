@@ -1,0 +1,29 @@
+slug: goro
+name:
+  en: Goro
+  ja: ゴロー
+  romaji: Gorō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 316
+occupations:
+- name: Onsen manager
+  status: current
+affiliations:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: former
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+birthday:
+  month: 11
+  day: 26

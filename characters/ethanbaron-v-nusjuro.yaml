@@ -1,0 +1,27 @@
+slug: ethanbaron-v-nusjuro
+name:
+  en: Ethanbaron V. Nusjuro
+  ja: イーザンバロン・V・ナス寿郎聖
+  romaji: Īzanbaron Bui Nasujurō Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 233
+  episode: 151
+occupations:
+- name: Co-Head of the World Government
+  status: current
+affiliations:
+- type: organization
+  slug: five-elders
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

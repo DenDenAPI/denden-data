@@ -1,0 +1,14 @@
+slug: karakuri-dolls
+name:
+  en: Karakuri Dolls
+  ja: からくり人形
+  romaji: Karakuri ningyō
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

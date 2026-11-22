@@ -1,0 +1,32 @@
+slug: bobbin
+name:
+  en: Bobbin
+  ja: ボビン
+  romaji: Bobin
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 651
+  episode: 571
+epithets:
+- en: Sweeper
+  ja: 始末屋
+  romaji: Shimatsu-ya
+occupations:
+- name: Combatant
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+bounties:
+- amount: 105500000
+  status: current
+  revealed_chapter: 855

@@ -1,0 +1,36 @@
+slug: uzuki-tempura
+name:
+  en: Uzuki Tempura
+  ja: 雨月天ぷら
+  romaji: Uzuki Tenpura
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1024
+  episode: 1048
+occupations:
+- name: Samurai
+  status: current
+- name: Daimyo of Udon
+  status: current
+affiliations:
+- type: organization
+  slug: uzuki-family
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 7
+  day: 23
+blood_type: X
+heights:
+- cm: 334
+  period: other

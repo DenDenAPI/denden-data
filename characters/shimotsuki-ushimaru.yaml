@@ -1,0 +1,31 @@
+slug: shimotsuki-ushimaru
+name:
+  en: Shimotsuki Ushimaru
+  ja: 霜月牛マル
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 953
+  episode: 954
+occupations:
+- name: Daimyo of Ringo
+  status: current
+- name: Samurai
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 11
+  day: 2
+blood_type: XF
+heights:
+- cm: 298
+  period: other

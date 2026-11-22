@@ -1,0 +1,14 @@
+slug: liqueur-island
+name:
+  en: Liqueur Island
+  ja: リキュール島
+  romaji: Rikyūru-tō
+canon: manga
+first_appearance:
+  chapter: 894
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

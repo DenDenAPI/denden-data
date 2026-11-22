@@ -1,0 +1,12 @@
+slug: macro-pirates
+name:
+  en: Macro Pirates
+  ja: マクロ一味
+  romaji: Makuro Ichimi
+canon: manga
+first_appearance:
+  chapter: 197
+  episode: 386
+captains:
+- character: macro
+  status: current

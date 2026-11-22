@@ -1,0 +1,14 @@
+slug: cacao-island
+name:
+  en: Cacao Island
+  ja: カカオ島
+  romaji: Kakao-tō
+canon: manga
+first_appearance:
+  chapter: 827
+  episode: 785
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

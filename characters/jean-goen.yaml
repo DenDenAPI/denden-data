@@ -1,0 +1,24 @@
+slug: jean-goen
+name:
+  en: Jean Goen
+  ja: ジャン・ゴエン
+  romaji: Jan Goen
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 526
+  episode: 423
+occupations:
+- name: Prisoner
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 9
+  day: 24
+bounties:
+- amount: 15000000
+  status: current

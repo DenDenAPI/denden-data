@@ -1,0 +1,14 @@
+slug: noriko-newkama
+name:
+  en: Noriko (Newkama)
+  ja: ノリコ
+  romaji: Noriko
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

@@ -1,0 +1,14 @@
+slug: kinno
+name:
+  en: Kinno
+  ja: キンノウ
+  romaji: Kin'nou
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: age-age-super-marines
+  status: current

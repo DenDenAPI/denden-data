@@ -1,0 +1,22 @@
+slug: boss
+name:
+  en: Boss
+  ja: ボス
+  romaji: Bosu
+canon: anime_only
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 426
+occupations:
+- name: Protector of the island
+  status: current
+affiliations:
+- type: location
+  slug: little-east-blue
+  status: current
+- type: crew
+  slug: golden-lion-pirates
+  status: former

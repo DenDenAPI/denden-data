@@ -1,0 +1,51 @@
+slug: gedatsu
+name:
+  en: Gedatsu
+  ja: ゲダツ
+canon: manga
+gender: male
+species:
+- birkan
+status: alive
+first_appearance:
+  chapter: 241
+  episode: 155
+epithets:
+- en: Sky Boss
+  ja: 空番長
+  romaji: Sora Banchō
+- en: Sky Punk
+occupations:
+- name: Priest of Enel
+  status: former
+- name: Head Clerk of Hot Springs Resort
+  status: current
+affiliations:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+origin:
+  location: birka
+  region: Sky Island
+residences:
+- type: location
+  slug: birka
+  status: former
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+- type: location
+  slug: skypiea
+  status: former
+birthday:
+  month: 8
+  day: 10
+blood_type: S
+ages:
+- years: 29
+  period: debut
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 220
+  period: other

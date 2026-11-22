@@ -1,0 +1,25 @@
+slug: jean-ango
+name:
+  en: Jean Ango
+  ja: ジャン・アンゴ
+  romaji: Jan Ango
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 639
+epithets:
+- en: Jean the Bandit
+  ja: 追剥のジャン
+  romaji: Oihagi no Jan
+occupations:
+- name: Bounty Hunter
+  status: current
+- name: Sniper
+  status: current
+birthday:
+  month: 8
+  day: 14

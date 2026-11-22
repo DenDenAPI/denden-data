@@ -1,0 +1,19 @@
+slug: mad-treasure
+name:
+  en: Mad Treasure
+  ja: マッド・トレジャー
+  romaji: Maddo Torejā
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Treasure Hunter
+  status: current
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: treasure-pirates
+  status: current

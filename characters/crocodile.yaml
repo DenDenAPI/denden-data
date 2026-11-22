@@ -1,0 +1,73 @@
+slug: crocodile
+name:
+  en: Crocodile
+  ja: クロコダイル
+  romaji: Kurokodairu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 126
+  episode: 76
+epithets:
+- en: Sir Crocodile
+  ja: サー・クロコダイル
+  romaji: Sā Kurokodairu
+- en: Desert King
+  ja: 砂漠の王
+  romaji: Sabaku no Ō
+aliases:
+- en: Mr. 0
+  ja: ミスター・ゼロ
+  romaji: Misutā Zero
+occupations:
+- name: Pirate
+  status: current
+- name: Cross Guild Officer
+  status: current
+- name: Baroque Works President
+  status: former
+- name: Proprietor of Rain Dinners
+  status: former
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: organization
+  slug: cross-guild
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: rainbase
+  status: current
+- type: location
+  slug: arabasta-kingdom
+  status: former
+birthday:
+  month: 9
+  day: 5
+blood_type: S
+ages:
+- years: 44
+  period: debut
+- years: 46
+  period: post_timeskip
+heights:
+- cm: 253
+  period: debut
+bounties:
+- amount: 81000000
+  status: former
+  revealed_chapter: 155
+- amount: 1965000000
+  status: current
+  revealed_chapter: 1058

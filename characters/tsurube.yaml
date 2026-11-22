@@ -1,0 +1,28 @@
+slug: tsurube
+name:
+  en: Tsurube
+  ja: ツル兵衛
+  romaji: Tsurubē
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 971
+  episode: 972
+epithets:
+- en: Careless Tsurube
+  ja: うっかりツル兵衛
+  romaji: Ukkari Tsurubē
+occupations:
+- name: Retainer
+  status: current
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

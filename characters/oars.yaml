@@ -1,0 +1,39 @@
+slug: oars
+name:
+  en: Oars
+  ja: オーズ
+  romaji: Ōzu
+canon: manga
+gender: male
+species:
+- giant
+- zombie
+status: deceased
+first_appearance:
+  chapter: 456
+  episode: 350
+epithets:
+- en: Devil
+  ja: 魔人
+  romaji: Majin
+- en: Continent-Puller
+  ja: 国引き
+  romaji: Kunihiki
+occupations:
+- name: Special Zombie
+  status: current
+- name: Leader of clan of evil giants
+  status: former
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 10
+  day: 4
+blood_type: F
+heights:
+- cm: 6700
+  period: other

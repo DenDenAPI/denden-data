@@ -1,0 +1,29 @@
+slug: miss-catherina
+name:
+  en: Miss Catherina
+  ja: ミス・キャサリーナ
+  romaji: Misu Kyasarīna
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 106
+  episode: 64
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: cactus-island
+  status: current
+birthday:
+  month: 3
+  day: 23

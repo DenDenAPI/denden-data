@@ -1,0 +1,25 @@
+slug: smash
+name:
+  en: Smash
+  ja: スマッシュ
+  romaji: Sumasshu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Commander-in-Chief
+  status: current
+- name: Prisoner of the Great Prison
+  status: current
+affiliations:
+- type: organization
+  slug: dx-marines
+  status: current
+- type: organization
+  slug: marines
+  status: former
+- type: location
+  slug: impel-down
+  status: current

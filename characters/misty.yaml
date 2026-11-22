@@ -1,0 +1,22 @@
+slug: misty
+name:
+  en: Misty
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 107
+  episode: 64
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+residences:
+- type: location
+  slug: cactus-island
+  status: current

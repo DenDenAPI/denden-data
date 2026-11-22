@@ -1,0 +1,49 @@
+slug: road
+name:
+  en: Road
+  ja: ロード
+  romaji: Rōdo
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 898
+  episode: 836
+aliases:
+- en: Sun God
+  ja: 太陽神
+  romaji: Taiyō-shin
+occupations:
+- name: Navigator
+  status: current
+- name: Pirate
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: location
+  slug: land-of-gods
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 2
+  day: 19
+ages:
+- years: 63
+  period: other
+heights:
+- cm: 2600
+  period: other

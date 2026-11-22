@@ -1,0 +1,27 @@
+slug: bomba-marine
+name:
+  en: Bomba (Marine)
+  ja: ボンバ
+  romaji: Bonba
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 652
+  episode: 589
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+residences:
+- type: location
+  slug: g-5
+  status: current

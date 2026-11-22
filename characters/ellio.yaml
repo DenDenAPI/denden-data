@@ -1,0 +1,17 @@
+slug: ellio
+name:
+  en: Ellio
+  ja: エリオ
+  romaji: Erio
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Riku Royal Army
+  status: former
+residences:
+- type: location
+  slug: dressrosa
+  status: current

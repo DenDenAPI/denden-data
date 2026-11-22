@@ -1,0 +1,9 @@
+slug: nagels-pirates
+name:
+  en: Nagels Pirates
+  ja: ナーゲルス海賊団
+  romaji: Nāgerusu Kaizoku-dan
+canon: other
+captains:
+- character: nagels
+  status: current

@@ -1,0 +1,17 @@
+slug: mobanby
+name:
+  en: Mobanby
+  ja: モバンビー
+  romaji: Mobanbī
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Animal King
+  status: current
+affiliations:
+- type: location
+  slug: o-kan-island
+  status: current

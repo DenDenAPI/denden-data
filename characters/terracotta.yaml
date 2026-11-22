@@ -1,0 +1,25 @@
+slug: terracotta
+name:
+  en: Terracotta
+  ja: テラコッタ
+  romaji: Terakotta
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 213
+  episode: 128
+occupations:
+- name: Royal Head Chef
+  status: current
+- name: Royal Seamstress
+  status: current
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+birthday:
+  month: 9
+  day: 25

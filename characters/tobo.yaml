@@ -1,0 +1,24 @@
+slug: tobo
+name:
+  en: Tobo
+  ja: トーボ
+  romaji: Tōbo
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Shipwright
+  status: current
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: former
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+- type: location
+  slug: water-7
+  status: former

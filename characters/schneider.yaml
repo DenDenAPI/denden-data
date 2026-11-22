@@ -1,0 +1,19 @@
+slug: schneider
+name:
+  en: Schneider
+  ja: シュナイダー
+  romaji: Shunaidā
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: schneider-pirates
+  status: current

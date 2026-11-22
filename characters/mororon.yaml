@@ -1,0 +1,19 @@
+slug: mororon
+name:
+  en: Mororon
+  ja: モロロン
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 905
+  episode: 882
+occupations:
+- name: Queen of the Tajine Kingdom
+  status: current
+residences:
+- type: location
+  slug: tajine-kingdom
+  status: current

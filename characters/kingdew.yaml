@@ -1,0 +1,27 @@
+slug: kingdew
+name:
+  en: Kingdew
+  ja: キングデュー
+  romaji: Kingudyū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 562
+  episode: 461
+occupations:
+- name: 11th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 11
+  day: 13

@@ -1,0 +1,17 @@
+slug: spa-island-arc
+order: 37
+name:
+  en: Spa Island Arc
+kind: filler
+canon: anime_only
+sagas:
+- thriller-bark-saga
+episodes:
+  count: 3
+  ranges:
+  - start: 382
+    end: 384
+years:
+  anime:
+    start: 2008
+    end: 2009

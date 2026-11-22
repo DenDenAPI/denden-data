@@ -1,0 +1,17 @@
+slug: garth
+name:
+  en: Garth
+  ja: ガルス
+  romaji: Garusu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Jewelry Designer
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

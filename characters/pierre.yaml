@@ -1,0 +1,19 @@
+slug: pierre
+name:
+  en: Pierre
+  ja: ピエール
+  romaji: Piēru
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 237
+  episode: 153
+occupations:
+- name: Gan Fall's Pet
+  status: current
+birthday:
+  month: 10
+  day: 8

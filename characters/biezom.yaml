@@ -1,0 +1,30 @@
+slug: biezom
+name:
+  en: Biezom
+  ja: ビーゾン
+  romaji: Bīzon
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Deathless
+  ja: 不死
+  romaji: Fushi
+occupations:
+- name: Pirate
+  status: current
+- name: Gladiator
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+bounties:
+- amount: 15000000
+  status: former

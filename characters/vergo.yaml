@@ -1,0 +1,56 @@
+slug: vergo
+name:
+  en: Vergo
+  ja: ヴェルゴ
+  romaji: Verugo
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 671
+  episode: 597
+epithets:
+- en: '"Demon Bamboo" Vergo'
+  ja: 鬼竹のヴェルゴ
+  romaji: Kichiku no Verugo
+aliases:
+- en: Corazon
+  ja: コラソン
+  romaji: Korason
+occupations:
+- name: Pirate Elite Officer
+  status: current
+- name: Vice Admiral
+  status: current
+- name: Head of G-5
+  status: current
+- name: Marine Captain
+  status: former
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: downs
+  status: former
+- type: location
+  slug: g-5
+  status: current
+birthday:
+  month: 7
+  day: 5
+blood_type: X
+heights:
+- cm: 247
+  period: other

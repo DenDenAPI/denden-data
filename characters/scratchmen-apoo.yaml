@@ -1,0 +1,52 @@
+slug: scratchmen-apoo
+name:
+  en: Scratchmen Apoo
+  ja: スクラッチメン・アプー
+  romaji: Sukuratchimen Apū
+canon: manga
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+epithets:
+- en: Roar of the Sea
+  ja: 海鳴り
+  romaji: Umi Nari
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Musician
+  status: current
+- name: Informant
+  status: current
+affiliations:
+- type: crew
+  slug: on-air-pirates
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 3
+  day: 19
+blood_type: XF
+ages:
+- years: 29
+  period: debut
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 256
+  period: debut
+bounties:
+- amount: 198000000
+  status: former
+  revealed_chapter: 498
+- amount: 350000000
+  status: current
+  revealed_chapter: 677

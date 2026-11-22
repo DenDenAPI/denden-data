@@ -1,0 +1,23 @@
+slug: binz
+name:
+  en: Binz
+  ja: ビンズ
+  romaji: Binzu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 691
+  episode: 575
+occupations:
+- name: Marine Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+heights:
+- cm: 435
+  period: other

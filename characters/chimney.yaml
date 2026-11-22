@@ -1,0 +1,34 @@
+slug: chimney
+name:
+  en: Chimney
+  ja: チムニー
+  romaji: Chimunī
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 322
+  episode: 229
+occupations:
+- name: Sunday stationmaster of the Shift Station
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 6
+  day: 2
+blood_type: S
+ages:
+- years: 8
+  period: debut
+- years: 10
+  period: post_timeskip
+heights:
+- cm: 115
+  period: other

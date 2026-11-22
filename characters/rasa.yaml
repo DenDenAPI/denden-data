@@ -1,0 +1,24 @@
+slug: rasa
+name:
+  en: Rasa
+  ja: ラサ
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 97
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: barbar-pirates
+  status: current
+origin:
+  location: melias
+residences:
+- type: location
+  slug: sandora-desert
+  status: current

@@ -1,0 +1,29 @@
+slug: jaygarcia-saturn
+name:
+  en: Jaygarcia Saturn
+  ja: ジェイガルシア・サターン聖
+  romaji: Jeigarushia Satān Sei
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 233
+  episode: 151
+occupations:
+- name: Co-Head of the World Government
+  status: current
+- name: Scientist
+  status: current
+affiliations:
+- type: organization
+  slug: five-elders
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

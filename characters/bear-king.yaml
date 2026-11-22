@@ -1,0 +1,21 @@
+slug: bear-king
+name:
+  en: Bear King
+  ja: ベアキング
+  romaji: Bea Kingu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+bounties:
+- amount: 11600000
+  status: current
+  canon: movie

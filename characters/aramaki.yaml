@@ -1,0 +1,46 @@
+slug: aramaki
+name:
+  en: Aramaki
+  ja: アラマキ
+  romaji: Aramaki
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 905
+  episode: 882
+aliases:
+- en: Ryokugyu
+  ja: 緑牛
+  romaji: Ryokugyū
+occupations:
+- name: Admiral
+  status: current
+- name: Police Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: taya-kingdom
+  region: South Blue
+residences:
+- type: location
+  slug: taya-kingdom
+  status: former
+birthday:
+  month: 2
+  day: 29
+blood_type: X
+ages:
+- years: 41
+  period: other
+heights:
+- cm: 308
+  period: other
+marine_rating:
+  stars: 3
+  equivalent: 3000000000

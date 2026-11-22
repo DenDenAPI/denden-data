@@ -1,0 +1,52 @@
+slug: jesus-burgess
+name:
+  en: Jesus Burgess
+  ja: ジーザス・バージェス
+  romaji: Jīzasu Bājesu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 222
+  episode: 146
+epithets:
+- en: Champion
+  ja: チャンピオン
+  romaji: Chanpion
+aliases:
+- en: Mr. Store
+  ja: Mr.ストア
+  romaji: Misutā Sutoa
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Helmsman
+  status: current
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 12
+  day: 25
+blood_type: F
+ages:
+- years: 27
+  period: debut
+- years: 29
+  period: post_timeskip
+heights:
+- cm: 355
+  period: other
+bounties:
+- amount: 20000000
+  status: current
+  minimum: true

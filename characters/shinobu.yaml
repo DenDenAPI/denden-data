@@ -1,0 +1,46 @@
+slug: shinobu
+name:
+  en: Shinobu
+  ja: しのぶ
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 921
+  episode: 911
+epithets:
+- en: Bewitching Kunoichi
+  ja: 悩殺くの一
+  romaji: Nōsatsu Kunoichi
+- en: Shinobu the Man-Killer
+  ja: 男殺しのしのぶ
+  romaji: Otoko-goroshi no Shinobu
+occupations:
+- name: Kunoichi
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Member of the Kouzuki Family Oniwabanshu
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 10
+  day: 23
+blood_type: F
+ages:
+- years: 49
+  period: other
+heights:
+- cm: 180
+  period: other

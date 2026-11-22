@@ -1,0 +1,66 @@
+slug: denjiro
+name:
+  en: Denjiro
+  ja: 傳ジロー
+  romaji: Denjirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 919
+  episode: 909
+epithets:
+- en: Dozing Kyoshiro
+  ja: 居眠り狂死郎
+  romaji: Inemuri Kyōshirō
+aliases:
+- en: Kyoshiro
+  ja: 狂死郎
+  romaji: Kyōshirō
+- en: Ushimitsu Kozo
+  ja: 丑三つ小僧
+  romaji: Ushimitsu Kozō
+occupations:
+- name: Daimyo
+  status: current
+- name: Samurai
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: former
+- name: Yakuza Boss
+  status: former
+- name: Money Changer
+  status: former
+- name: Thief
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: kyoshiro-family
+  status: current
+- type: organization
+  slug: kurozumi-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 10
+  day: 26
+blood_type: XF
+ages:
+- years: 47
+  period: other
+heights:
+- cm: 306
+  period: other

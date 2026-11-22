@@ -1,0 +1,17 @@
+slug: buzz
+name:
+  en: Buzz
+  ja: バズ
+  romaji: Bazu
+canon: movie
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: schneider-pirates
+  status: current

@@ -1,0 +1,26 @@
+slug: arabasta-saga
+order: 2
+name:
+  en: Arabasta Saga
+chapters:
+  count: 117
+  ranges:
+  - start: 101
+    end: 217
+volumes:
+  count: 13
+  ranges:
+  - start: 12
+    end: 24
+episodes:
+  count: 74
+  ranges:
+  - start: 62
+    end: 135
+years:
+  manga:
+    start: 1999
+    end: 2002
+  anime:
+    start: 2001
+    end: 2002

@@ -1,0 +1,12 @@
+slug: aoba-michiru
+name:
+  en: Aoba Michiru
+  ja: 青葉ミチル
+  romaji: Aoba Michiru
+canon: other
+gender: male
+status: alive
+affiliations:
+- type: location
+  slug: miraba-elementary-school
+  status: current

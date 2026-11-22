@@ -1,0 +1,51 @@
+slug: shiki
+name:
+  en: Shiki
+  ja: シキ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 0
+  episode: 425
+epithets:
+- en: Shiki the Golden Lion
+  ja: 金獅子のシキ
+  romaji: Kinjishi no Shiki
+- en: The Flying Pirate
+  ja: 空飛ぶ海賊
+  romaji: Soratobu Kaizoku
+occupations:
+- name: Pirate Captain/Admiral
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  location: yano-country
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+- type: location
+  slug: merveille
+  status: current
+birthday:
+  month: 3
+  day: 20
+ages:
+- years: 71
+  period: other
+- years: 73
+  period: post_timeskip

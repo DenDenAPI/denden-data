@@ -1,0 +1,42 @@
+slug: jarul
+name:
+  en: Jarul
+  ja: ヤルル
+  romaji: Yaruru
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 866
+  episode: 836
+epithets:
+- en: '"Mountain Beard" Jarul'
+  ja: 山ひげのヤルル
+  romaji: Yamahige no Yaruru
+occupations:
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 12
+  day: 8
+blood_type: F
+ages:
+- years: 345
+  period: debut
+- years: 408
+  period: post_timeskip
+heights:
+- cm: 2050
+  period: other

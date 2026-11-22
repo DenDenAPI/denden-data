@@ -1,0 +1,31 @@
+slug: doll
+name:
+  en: Doll
+  ja: ドール
+  romaji: Dōru
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1061
+  episode: 1090
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-14
+  status: current
+residences:
+- type: location
+  slug: g-14
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

@@ -1,0 +1,20 @@
+slug: unigaro
+name:
+  en: Unigaro
+  ja: ユニガロ
+  romaji: Yunigaro
+canon: manga
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 445
+  episode: 340
+occupations:
+- name: Wild Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

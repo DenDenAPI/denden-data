@@ -1,0 +1,30 @@
+slug: whisky-peak-arc
+order: 11
+name:
+  en: Whisky Peak Arc
+kind: story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 9
+  ranges:
+  - start: 106
+    end: 114
+volumes:
+  count: 2
+  ranges:
+  - start: 12
+    end: 13
+episodes:
+  count: 4
+  ranges:
+  - start: 64
+    end: 67
+years:
+  manga:
+    start: 1999
+    end: 1999
+  anime:
+    start: 2001
+    end: 2001

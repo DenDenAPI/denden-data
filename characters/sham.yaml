@@ -1,0 +1,43 @@
+slug: sham
+name:
+  en: Sham
+  ja: シャム
+  romaji: Shamu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 31
+  episode: 13
+epithets:
+- en: Nyaban Brothers
+  ja: ニャーバン兄弟
+  romaji: Nyāban Burazāzu
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Ship Guard
+  status: current
+affiliations:
+- type: crew
+  slug: black-cat-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 4
+  day: 19
+blood_type: X
+ages:
+- years: 21
+  period: debut
+- years: 23
+  period: post_timeskip
+heights:
+- cm: 201
+  period: other
+bounties:
+- amount: 7000000
+  status: current

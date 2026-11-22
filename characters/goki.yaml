@@ -1,0 +1,15 @@
+slug: goki
+name:
+  en: Goki
+  ja: 五鬼
+  romaji: Gōki
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 954
+  episode: 955
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

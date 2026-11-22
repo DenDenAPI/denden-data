@@ -1,0 +1,15 @@
+slug: world-noble
+name:
+  en: World Noble
+  ja: 世界貴族
+  romaji: Sekai Kizoku
+canon: manga
+first_appearance:
+  chapter: 233
+  episode: 151
+leaders: []
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences: []

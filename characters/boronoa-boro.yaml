@@ -1,0 +1,14 @@
+slug: boronoa-boro
+name:
+  en: Boronoa Boro
+  ja: ボロノア・ボロ
+  romaji: Boronoa Boro
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

@@ -1,0 +1,29 @@
+slug: ipponume
+name:
+  en: Ipponume
+  ja: いっぽんウメ
+  romaji: Ippon'ume
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 97
+  episode: 49
+occupations:
+- name: Arms Shop Proprietress
+  status: current
+affiliations:
+- type: location
+  slug: loguetown
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 12
+  day: 1

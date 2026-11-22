@@ -1,0 +1,27 @@
+slug: all-hunt-grount
+name:
+  en: All-Hunt Grount
+  ja: オールハント・グラント
+  romaji: Ōruhanto Guranto
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 16
+  episode: 780
+occupations:
+- name: Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: fron-island
+  status: current
+ages:
+- years: 17
+  period: other

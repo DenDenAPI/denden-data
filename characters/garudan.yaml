@@ -1,0 +1,28 @@
+slug: garudan
+name:
+  en: Garudan
+  ja: がる弾
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 951
+  episode: 951
+occupations:
+- name: Samurai
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: mimawarigumi
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

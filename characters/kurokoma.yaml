@@ -1,0 +1,23 @@
+slug: kurokoma
+name:
+  en: Kurokoma
+  ja: 黒駒
+  romaji: Kurokoma
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+occupations:
+- name: Yakuza
+  status: current
+affiliations:
+- type: organization
+  slug: kurokoma-family
+  status: current
+residences:
+- type: location
+  slug: flower-capital
+  status: current

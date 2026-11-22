@@ -1,0 +1,29 @@
+slug: indigo
+name:
+  en: Indigo
+  ja: インディゴ
+  romaji: Indigo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 0
+  episode: 429
+occupations:
+- name: Pirate
+  status: current
+- name: Scientist
+  status: current
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current
+residences:
+- type: location
+  slug: merveille
+  status: current
+birthday:
+  month: 12
+  day: 5

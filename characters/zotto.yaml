@@ -1,0 +1,31 @@
+slug: zotto
+name:
+  en: Zotto
+  ja: ゾット
+  romaji: Zotto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 533
+  episode: 434
+occupations:
+- name: Marine Lieutenant
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-1
+  status: current
+residences:
+- type: location
+  slug: g-1
+  status: current
+bounties:
+- amount: 1000000
+  status: current
+  minimum: true

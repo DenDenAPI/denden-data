@@ -1,0 +1,42 @@
+slug: ginny
+name:
+  en: Ginny
+  ja: ジニー
+  romaji: Jinī
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1095
+  episode: 1129
+occupations:
+- name: East Army Captain of the Revolutionary Army
+  status: current
+- name: Slave
+  status: former
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: organization
+  slug: freedom-fighters
+  status: former
+origin:
+  location: porco-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: mary-geoise
+  status: former
+birthday:
+  month: 10
+  day: 21
+blood_type: F
+heights:
+- cm: 174
+  period: other
+bounties:
+- amount: 190000000
+  status: former

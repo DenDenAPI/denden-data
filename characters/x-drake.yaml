@@ -1,0 +1,66 @@
+slug: x-drake
+name:
+  en: X Drake
+  ja: X・ドレーク
+  romaji: Diesu Dorēku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+epithets:
+- en: Red Flag
+  ja: 赤旗
+  romaji: Akahata
+aliases:
+- en: Dory
+  ja: ドリィ
+  romaji: Dorii
+occupations:
+- name: Captain of SWORD
+  status: current
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+- name: Shinuchi
+  status: former
+- name: Marine Rear Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: drake-pirates
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former
+- type: crew
+  slug: barrels-pirates
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 10
+  day: 24
+blood_type: X
+ages:
+- years: 31
+  period: debut
+- years: 33
+  period: post_timeskip
+heights:
+- cm: 233
+  period: debut
+bounties:
+- amount: 222000000
+  status: current
+  revealed_chapter: 498

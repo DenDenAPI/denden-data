@@ -1,0 +1,17 @@
+slug: daisy-non-canon
+name:
+  en: Daisy (Non-Canon)
+  ja: デイジー
+  romaji: Deijī
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: tearoom-pirates
+  status: current

@@ -1,0 +1,23 @@
+slug: bismarck
+name:
+  en: Bismarck
+  ja: ビスマルク
+  romaji: Bisumaruku
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine
+  status: current
+- name: Swordsman
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: asuka-island
+  status: current

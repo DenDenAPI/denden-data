@@ -1,0 +1,19 @@
+slug: caroline
+name:
+  en: Caroline
+  ja: キャロライン
+  romaji: Kyarorain
+canon: anime_only
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 4
+  episode: 454
+occupations:
+- name: Substitute Queen
+  status: former
+affiliations:
+- type: location
+  slug: momoiro-island
+  status: current

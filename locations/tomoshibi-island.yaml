@@ -1,0 +1,11 @@
+slug: tomoshibi-island
+name:
+  en: Tomoshibi Island
+  ja: トモシビ島
+  romaji: Tomoshibi shima
+canon: other
+parent: new-world
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former

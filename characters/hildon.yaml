@@ -1,0 +1,18 @@
+slug: hildon
+name:
+  en: Hildon
+  ja: ヒルドン
+  romaji: Hirudon
+canon: manga
+gender: male
+status: deceased
+first_appearance:
+  chapter: 444
+  episode: 339
+occupations:
+- name: Wild Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

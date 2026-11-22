@@ -1,0 +1,21 @@
+slug: tei
+name:
+  en: Tei
+  ja: テイ
+  romaji: Tei
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Tei the Light Snow
+  ja: 細雪のテイ
+  romaji: Sasameyuki no Tei
+occupations:
+- name: bandit
+  status: current
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

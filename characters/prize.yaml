@@ -1,0 +1,24 @@
+slug: prize
+name:
+  en: Prize
+  ja: プライズ
+  romaji: Puraizu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Cunning
+  ja: 悪知恵
+  romaji: Warujie
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bounties-pirates
+  status: current
+bounties:
+- amount: 800000000
+  status: current

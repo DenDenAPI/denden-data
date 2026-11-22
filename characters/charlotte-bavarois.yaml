@@ -1,0 +1,29 @@
+slug: charlotte-bavarois
+name:
+  en: Charlotte Bavarois
+  ja: シャーロット・ババロア
+  romaji: Shārotto Babaroa
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 888
+  episode: 861
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 10
+  day: 29
+ages:
+- years: 30
+  period: other

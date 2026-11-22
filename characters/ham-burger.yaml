@@ -1,0 +1,23 @@
+slug: ham-burger
+name:
+  en: Ham Burger
+  ja: ハン・バーガー
+  romaji: Han Bāgā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 823
+  episode: 777
+occupations:
+- name: King of the Ballywood Kingdom
+  status: current
+residences:
+- type: location
+  slug: ballywood-kingdom
+  status: current
+birthday:
+  month: 7
+  day: 20

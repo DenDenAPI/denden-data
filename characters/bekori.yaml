@@ -1,0 +1,24 @@
+slug: bekori
+name:
+  en: Bekori
+  ja: ベコリ
+  romaji: Bekori
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1097
+  episode: 1131
+occupations:
+- name: King
+  status: former
+affiliations:
+- type: location
+  slug: sorbet-kingdom
+  status: former
+residences:
+- type: location
+  slug: sorbet-kingdom
+  status: current

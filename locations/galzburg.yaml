@@ -1,0 +1,11 @@
+slug: galzburg
+name:
+  en: Galzburg
+  ja: ガルツバーグ
+  romaji: Garutsubāgu
+canon: movie
+region: Grand Line
+affiliations:
+- type: organization
+  slug: galzforce
+  status: current

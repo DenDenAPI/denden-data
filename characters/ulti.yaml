@@ -1,0 +1,35 @@
+slug: ulti
+name:
+  en: Ulti
+  ja: うるティ
+  romaji: Uruti
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 977
+  episode: 982
+occupations:
+- name: Shinuchi
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 4
+blood_type: XF
+ages:
+- years: 22
+  period: other
+heights:
+- cm: 173
+  period: other
+bounties:
+- amount: 400000000
+  status: current

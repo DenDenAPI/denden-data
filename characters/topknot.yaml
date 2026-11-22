@@ -1,0 +1,16 @@
+slug: topknot
+name:
+  en: Topknot
+  ja: チョンマゲ
+  romaji: Chonmage
+canon: manga
+species:
+- sea_king
+status: alive
+first_appearance:
+  chapter: 101
+  episode: 55
+residences:
+- type: location
+  slug: calm-belt
+  status: current

@@ -1,0 +1,29 @@
+slug: sogekiller
+name:
+  en: Sogekiller
+  ja: ソゲキラー
+  romaji: Sogekirā
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Sniper Genius
+  ja: 狙撃の天才
+  romaji: Sogeki no Tensai
+occupations:
+- name: Sniper
+  status: current
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+- type: crew
+  slug: bulls-eye-hit-pirates
+  status: current
+bounties:
+- amount: 3000000
+  status: former

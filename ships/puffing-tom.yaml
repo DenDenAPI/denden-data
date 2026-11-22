@@ -1,0 +1,16 @@
+slug: puffing-tom
+name:
+  en: Puffing Tom
+  ja: パッフィング・トム
+  romaji: Paffingu Tomu
+canon: manga
+first_appearance:
+  chapter: 322
+  episode: 228
+affiliations:
+- type: organization
+  slug: toms-workers
+  status: current
+- type: location
+  slug: water-7
+  status: current

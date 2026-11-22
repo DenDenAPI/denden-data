@@ -1,0 +1,11 @@
+slug: kuroki-shi
+name:
+  en: Kuroki Shi
+  ja: 黒き死の船
+  romaji: Kuroki Shi no Fune
+canon: other
+status: unknown
+affiliations:
+- type: crew
+  slug: ancient-pirates
+  status: current

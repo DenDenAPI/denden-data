@@ -1,0 +1,14 @@
+slug: katabuti
+name:
+  en: Katabuti
+  ja: カタブティ
+  romaji: Katabuti
+canon: other
+gender: female
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: age-age-super-marines
+  status: current

@@ -1,0 +1,53 @@
+slug: sai
+name:
+  en: Sai
+  ja: サイ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: Don Sai
+  ja: 首領・サイ
+  romaji: Don Sai
+occupations:
+- name: Captain of the Third Ship of the Straw Hat Grand Fleet
+  status: current
+- name: 13th Leader of the Happo Navy
+  status: current
+- name: Martial Artist
+  status: current
+affiliations:
+- type: crew
+  slug: happo-navy
+  status: current
+- type: organization
+  slug: chinjao-family
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  location: kano-country
+  region: West Blue
+residences:
+- type: location
+  slug: kano-country
+  status: current
+birthday:
+  month: 8
+  day: 13
+blood_type: F
+ages:
+- years: 28
+  period: other
+heights:
+- cm: 242
+  period: other
+bounties:
+- amount: 210000000
+  status: current

@@ -1,0 +1,13 @@
+slug: omoino-family
+name:
+  en: Omoino Family
+  ja: オモイーノ家
+  romaji: Omoīno-ke
+canon: other
+status: active
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: dressrosa
+  status: current

@@ -1,0 +1,22 @@
+slug: dick
+name:
+  en: Dick
+  ja: ディック
+  romaji: Dikku
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 135
+epithets:
+- en: Mountain Whale
+  ja: 山鯨
+  romaji: Yamakujira
+occupations:
+- name: bandit
+  status: current
+bounties:
+- amount: 10000000
+  status: current

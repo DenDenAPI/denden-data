@@ -1,0 +1,29 @@
+slug: charlotte-mash
+name:
+  en: Charlotte Mash
+  ja: シャーロット・マッシュ
+  romaji: Shārotto Masshu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 865
+  episode: 831
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 16
+ages:
+- years: 40
+  period: other

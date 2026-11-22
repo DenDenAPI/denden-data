@@ -1,0 +1,36 @@
+slug: spandine
+name:
+  en: Spandine
+  ja: スパンダイン
+  romaji: Supandain
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 392
+  episode: 275
+occupations:
+- name: CP9 Chief
+  status: former
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 19
+blood_type: XF
+ages:
+- years: 44
+  period: debut
+- years: 64
+  period: pre_timeskip
+- years: 66
+  period: post_timeskip
+heights:
+- cm: 275
+  period: other

@@ -1,0 +1,34 @@
+slug: zenran
+name:
+  en: Zenran
+  ja: ゼンラン
+  romaji: Zenran
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Anarchy Pirate
+  ja: アナーキー海賊
+  romaji: Anākī Kaizoku
+aliases:
+- en: God
+  ja: ゴッド
+  romaji: Goddo
+occupations:
+- name: Pirate
+  status: current
+- name: Gladiator
+  status: former
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+bounties:
+- amount: 30000000
+  status: former

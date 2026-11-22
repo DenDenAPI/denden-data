@@ -1,0 +1,14 @@
+slug: lucie
+name:
+  en: Lucie
+  ja: ルーシェ
+  romaji: Rūshe
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: water-7
+  status: current

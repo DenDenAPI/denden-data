@@ -1,0 +1,25 @@
+slug: charlotte-panna
+name:
+  en: Charlotte Panna
+  ja: シャーロット・パンナ
+  romaji: Shārotto Panna
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 897
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 21
+  period: other

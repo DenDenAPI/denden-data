@@ -1,0 +1,24 @@
+slug: bonk-punch
+name:
+  en: Bonk Punch
+  ja: ボンク・パンチ
+  romaji: Bonku Panchi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+- name: Musician
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

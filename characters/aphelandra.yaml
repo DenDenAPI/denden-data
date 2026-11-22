@@ -1,0 +1,29 @@
+slug: aphelandra
+name:
+  en: Aphelandra
+  ja: アフェランドラ
+  romaji: Aferandora
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 514
+  episode: 408
+occupations:
+- name: Warrior
+  status: former
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 8
+  day: 1

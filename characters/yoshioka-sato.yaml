@@ -1,0 +1,20 @@
+slug: yoshioka-sato
+name:
+  en: Yoshioka Sato
+  ja: 吉岡咲灯
+  romaji: Yoshioka Sato
+canon: other
+gender: female
+species:
+- human
+status: alive
+aliases:
+- en: Sanji Yoshioka
+  ja: サンジ吉岡
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current

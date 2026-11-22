@@ -1,0 +1,17 @@
+slug: biera
+name:
+  en: Biera
+  ja: ビエラ
+  romaji: Biera
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Machinist
+  status: former
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: former

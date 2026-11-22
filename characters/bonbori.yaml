@@ -1,0 +1,12 @@
+slug: bonbori
+name:
+  en: Bonbori
+  ja: ボンボリ
+canon: other
+species:
+- animal
+status: alive
+ages:
+- years: 200
+  period: other
+  minimum: true

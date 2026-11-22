@@ -1,0 +1,15 @@
+slug: scorpion
+name:
+  en: Scorpion
+  ja: スコーピオン
+  romaji: Sukōpion
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 101
+occupations:
+- name: Bounty Hunter
+  status: former

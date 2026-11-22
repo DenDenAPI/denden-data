@@ -1,0 +1,24 @@
+slug: panz-fry
+name:
+  en: Panz Fry
+  ja: パンズフライ
+  romaji: Panzufurai
+canon: anime_only
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  episode: 575
+occupations:
+- name: Pirate
+  status: current
+- name: Cook
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+bounties:
+- amount: 320000000
+  status: current

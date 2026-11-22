@@ -1,0 +1,16 @@
+slug: kirinkodanuki
+name:
+  en: Kirinkodanuki
+  ja: キリン子ダヌキ
+  romaji: Kirinkodanuki
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 22
+  episode: 18
+affiliations:
+- type: location
+  slug: island-of-rare-animals
+  status: current

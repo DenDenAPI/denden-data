@@ -1,0 +1,29 @@
+slug: curiel
+name:
+  en: Curiel
+  ja: クリエル
+  romaji: Kurieru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: 10th Division Commander
+  status: current
+- name: Pirate
+  status: current
+- name: Sniper
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 9
+  day: 12

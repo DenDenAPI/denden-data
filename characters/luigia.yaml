@@ -1,0 +1,19 @@
+slug: luigia
+name:
+  en: Luigia
+  ja: ルイジア
+  romaji: Ruigia
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 427
+occupations:
+- name: Mansion Owner
+  status: current
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

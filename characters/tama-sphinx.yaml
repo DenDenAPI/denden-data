@@ -1,0 +1,15 @@
+slug: tama-sphinx
+name:
+  en: Tama (Sphinx)
+  ja: タマ
+  romaji: Tama
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 909
+  episode: 890
+occupations:
+- name: Pet
+  status: current

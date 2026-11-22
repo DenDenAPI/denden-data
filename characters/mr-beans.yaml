@@ -1,0 +1,29 @@
+slug: mr-beans
+name:
+  en: Mr. Beans
+  ja: ミスター・ビーンズ
+  romaji: Misutā Bīnzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 106
+  episode: 64
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: cactus-island
+  status: current
+birthday:
+  month: 2
+  day: 24

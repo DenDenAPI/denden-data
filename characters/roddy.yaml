@@ -1,0 +1,30 @@
+slug: roddy
+name:
+  en: Roddy
+  ja: ロディ
+  romaji: Rodi
+canon: manga
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 805
+  episode: 754
+occupations:
+- name: Guardian
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: guardians
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+residences:
+- type: location
+  slug: zou
+  status: current

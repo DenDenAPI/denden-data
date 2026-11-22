@@ -1,0 +1,18 @@
+slug: revolutionary-army
+name:
+  en: Revolutionary Army
+  ja: 革命軍
+  romaji: Kakumei-gun
+canon: manga
+first_appearance:
+  chapter: 100
+  episode: 52
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: momoiro-island
+  status: current
+- type: location
+  slug: baltigo
+  status: former

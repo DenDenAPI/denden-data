@@ -1,0 +1,22 @@
+slug: judy
+name:
+  en: Judy
+  ja: ジュディ
+  romaji: Judi
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 499
+  episode: 393
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+birthday:
+  month: 11
+  day: 2

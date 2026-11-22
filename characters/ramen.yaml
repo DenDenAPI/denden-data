@@ -1,0 +1,24 @@
+slug: ramen
+name:
+  en: Ramen
+  ja: ラーメン
+  romaji: Rāmen
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 823
+  episode: 777
+occupations:
+- name: King
+  status: current
+affiliations:
+- type: crew
+  slug: happo-navy
+  status: current
+residences:
+- type: location
+  slug: kano-country
+  status: current

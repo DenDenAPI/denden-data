@@ -1,0 +1,24 @@
+slug: diesel
+name:
+  en: Diesel
+  ja: ディーゼル
+  romaji: Dīzeru
+canon: manga
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  chapter: 827
+  episode: 786
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: totto-land
+  status: current

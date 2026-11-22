@@ -1,0 +1,13 @@
+slug: little-gerais
+name:
+  en: Little Gerais
+  ja: リトルジェライス号
+  romaji: Ritoru Jeraisu-gō
+canon: manga
+first_appearance:
+  chapter: 551
+  episode: 460
+affiliations:
+- type: crew
+  slug: little-pirates
+  status: current

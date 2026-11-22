@@ -1,0 +1,19 @@
+slug: yurikah
+name:
+  en: Yurikah
+  ja: ユリカー
+  romaji: Yurikā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 151
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: tulip-pirates
+  status: current

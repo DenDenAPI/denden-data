@@ -1,0 +1,13 @@
+slug: bondola
+name:
+  en: Bondola
+  ja: ボンドラ
+  romaji: Bondora
+canon: manga
+first_appearance:
+  chapter: 905
+  episode: 882
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

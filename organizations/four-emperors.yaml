@@ -1,0 +1,15 @@
+slug: four-emperors
+name:
+  en: Four Emperors
+  ja: 四皇
+  romaji: Yonkō
+canon: manga
+first_appearance:
+  chapter: 96
+  episode: 45
+leaders: []
+affiliations:
+- type: organization
+  slug: three-great-powers
+  status: current
+residences: []

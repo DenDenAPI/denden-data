@@ -1,0 +1,37 @@
+slug: komei
+name:
+  en: Komei
+  ja: コーメイ
+  romaji: Kōmei
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Genius Tactician
+  ja: 天才策略家
+  romaji: Tensai Sakuryaku-ka
+- en: White Feather Komei
+  ja: 白羽のコーメイ
+  romaji: Shiraha no Kōmei
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Special Operations Adviser
+  status: current
+- name: Pirate
+  status: former
+- name: Petty Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: foxy-pirates
+  status: former
+residences:
+- type: location
+  slug: nebulandia
+  status: current

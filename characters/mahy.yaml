@@ -1,0 +1,14 @@
+slug: mahy
+name:
+  en: Mahy
+  ja: マーイ
+  romaji: Māi
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: water-7
+  status: current

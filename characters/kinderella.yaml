@@ -1,0 +1,29 @@
+slug: kinderella
+name:
+  en: Kinderella
+  ja: キンデレラ
+  romaji: Kinderera
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 261
+  episode: 778
+epithets:
+- en: Miss Universe
+  ja: ミス・ユニバース
+  romaji: Misu Yunibāsu
+occupations:
+- name: Miss Universe
+  status: current
+- name: Queen of the Evil Black Drum Kingdom
+  status: current
+affiliations:
+- type: location
+  slug: evil-black-drum-kingdom
+  status: current
+birthday:
+  month: 1
+  day: 20

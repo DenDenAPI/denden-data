@@ -1,0 +1,17 @@
+slug: kusopp
+name:
+  en: Kusopp
+  ja: クソップ
+  romaji: Kusoppu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: makiguso-pirates
+  status: current

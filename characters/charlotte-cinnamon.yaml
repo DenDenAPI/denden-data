@@ -1,0 +1,32 @@
+slug: charlotte-cinnamon
+name:
+  en: Charlotte Cinnamon
+  ja: シャーロット・シナモン
+  romaji: Shārotto Shinamon
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 830
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+birthday:
+  month: 10
+  day: 12
+ages:
+- years: 35
+  period: other

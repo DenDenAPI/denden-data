@@ -1,0 +1,19 @@
+slug: fugetsu-family
+name:
+  en: Fugetsu Family
+  ja: 風月家
+  romaji: Fūgetsu-ke
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 1024
+  episode: 1048
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences: []

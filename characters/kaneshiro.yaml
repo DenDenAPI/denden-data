@@ -1,0 +1,38 @@
+slug: kaneshiro
+name:
+  en: Kaneshiro
+  ja: カネシロ
+  romaji: Kaneshiro
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 72
+  episode: 31
+occupations:
+- name: Pirate
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: current
+- type: crew
+  slug: sun-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: arlong-park
+  status: former
+birthday:
+  month: 12
+  day: 2

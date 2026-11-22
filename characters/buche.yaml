@@ -1,0 +1,23 @@
+slug: buche
+name:
+  en: Buche
+  ja: ブッシュ
+  romaji: Busshu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 880
+  episode: 852
+occupations:
+- name: Head Chef
+  status: current
+affiliations:
+- type: organization
+  slug: wci-31
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current

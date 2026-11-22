@@ -1,0 +1,20 @@
+slug: cezar
+name:
+  en: Cezar
+  ja: セーザ
+  romaji: Sēza
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 823
+  episode: 777
+occupations:
+- name: King
+  status: current
+residences:
+- type: location
+  slug: ilisia-kingdom
+  status: current

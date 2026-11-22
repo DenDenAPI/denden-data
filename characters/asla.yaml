@@ -1,0 +1,19 @@
+slug: asla
+name:
+  en: Asla
+  ja: アスラ
+  romaji: Asura
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 1153
+epithets:
+- en: Horse of Fortune
+  ja: 幸運の馬
+  romaji: Kōun no Uma
+residences:
+- type: location
+  slug: aurust-castle
+  status: current

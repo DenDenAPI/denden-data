@@ -1,0 +1,11 @@
+slug: choronoa-choro
+name:
+  en: Choronoa Choro
+  ja: チョロノア・チョロ
+  romaji: Choronoa Choro
+canon: other
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

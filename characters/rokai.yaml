@@ -1,0 +1,25 @@
+slug: rokai
+name:
+  en: Rokai
+  ja: ローカイ
+  romaji: Rōkai
+canon: other
+gender: male
+species:
+- human
+status: alive
+aliases:
+- en: Skullface
+  ja: スカルフェース
+  romaji: Sukarufēsu
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: ancient-pirates
+  status: current
+residences:
+- type: location
+  slug: farce-island
+  status: current

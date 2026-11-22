@@ -1,0 +1,32 @@
+slug: charlotte-compo
+name:
+  en: Charlotte Compo
+  ja: シャーロット・コンポ
+  romaji: Shārotto Konpo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 864
+  episode: 834
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Pie
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: piepie-island
+  status: current
+ages:
+- years: 39
+  period: other

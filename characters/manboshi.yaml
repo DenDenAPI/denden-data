@@ -1,0 +1,36 @@
+slug: manboshi
+name:
+  en: Manboshi
+  ja: マンボシ
+  romaji: Manboshi
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 609
+  episode: 528
+occupations:
+- name: Prince of the Ryugu Kingdom
+  status: current
+affiliations:
+- type: organization
+  slug: neptune-family
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-palace
+  status: current
+birthday:
+  month: 3
+  day: 30
+blood_type: S
+ages:
+- years: 20
+  period: other
+heights:
+- cm: 473
+  period: other

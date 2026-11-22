@@ -1,0 +1,17 @@
+slug: chokyumei-no-chosuke
+name:
+  en: Chokyumei-no Chosuke
+  ja: 長久命の長助
+  romaji: Chōkyūmei-no Chōsuke
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 954
+  episode: 955
+residences:
+- type: location
+  slug: wano-country
+  status: current

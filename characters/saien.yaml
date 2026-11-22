@@ -1,0 +1,13 @@
+slug: saien
+name:
+  en: Saien
+  ja: サイエン
+  romaji: Saien
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Scientist
+  status: current

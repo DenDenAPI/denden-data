@@ -1,0 +1,28 @@
+slug: lacuba
+name:
+  en: Lacuba
+  ja: ラキューバ
+  romaji: Rakyūba
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 501
+  episode: 394
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+- name: Slave
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 5
+  day: 31
+bounties:
+- amount: 17000000
+  status: current

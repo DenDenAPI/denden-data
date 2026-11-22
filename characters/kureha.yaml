@@ -1,0 +1,54 @@
+slug: kureha
+name:
+  en: Kureha
+  ja: くれは
+  romaji: Kureha
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 134
+  episode: 80
+epithets:
+- en: Witch
+  ja: 魔女
+  romaji: Majo
+- en: Master of Doctors
+  ja: マスターオブ医者
+  romaji: Masutā Obu Isha
+aliases:
+- en: Doctorine
+  ja: ドクトリーヌ
+  romaji: Dokutorīnu
+occupations:
+- name: Head-Doctor of the Sakura Kingdom
+  status: current
+- name: Leader of the Isshi-100
+  status: current
+affiliations:
+- type: location
+  slug: sakura-kingdom
+  status: current
+- type: organization
+  slug: isshi-100
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: drum-island
+  status: current
+birthday:
+  month: 9
+  day: 8
+blood_type: S
+ages:
+- years: 139
+  period: debut
+- years: 141
+  period: post_timeskip
+heights:
+- cm: 188
+  period: other

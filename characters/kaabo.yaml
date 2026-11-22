@@ -1,0 +1,30 @@
+slug: kaabo
+name:
+  en: Kaabo
+  ja: カアボ
+  romaji: Kaabo
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Leader Kaabo
+  ja: リーダーのカアボ
+  romaji: Rīdā no Kaabo
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: drayke-pirates
+  status: current
+bounties:
+- amount: 4500000
+  status: former
+- amount: 3500000
+  status: former
+- amount: 2500000
+  status: former
+- amount: 1000000
+  status: current

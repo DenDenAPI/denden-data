@@ -1,0 +1,19 @@
+slug: nash
+name:
+  en: Nash
+  ja: ナッシュ
+  romaji: Nasshu
+canon: manga
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 899
+  episode: 885
+occupations:
+- name: Goldberg's shield
+  status: current
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current

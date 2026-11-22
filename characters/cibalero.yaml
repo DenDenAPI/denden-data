@@ -1,0 +1,11 @@
+slug: cibalero
+name:
+  en: Cibalero
+  ja: シバレロ
+  romaji: Shibarero
+canon: other
+status: deceased
+residences:
+- type: location
+  slug: waford
+  status: current

@@ -1,0 +1,19 @@
+slug: shikon-kettai
+name:
+  en: Shikon Kettai
+  ja: シコン・ケッタイ
+  romaji: Shikon Kettai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 963
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: germ-pirates
+  status: current

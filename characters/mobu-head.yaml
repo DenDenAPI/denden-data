@@ -1,0 +1,17 @@
+slug: mobu-head
+name:
+  en: Mobu Head
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  episode: 826
+occupations:
+- name: Pirate Captain
+  status: current
+bounties:
+- amount: 10000000
+  status: current
+  minimum: true

@@ -1,0 +1,30 @@
+slug: post-enies-lobby-arc
+order: 30
+name:
+  en: Post-Enies Lobby Arc
+kind: story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 11
+  ranges:
+  - start: 431
+    end: 441
+volumes:
+  count: 2
+  ranges:
+  - start: 45
+    end: 46
+episodes:
+  count: 13
+  ranges:
+  - start: 313
+    end: 325
+years:
+  manga:
+    start: 2006
+    end: 2007
+  anime:
+    start: 2007
+    end: 2007

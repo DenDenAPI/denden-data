@@ -1,0 +1,52 @@
+slug: dorry
+name:
+  en: Dorry
+  ja: ドリー
+  romaji: Dorī
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 116
+  episode: 71
+epithets:
+- en: Dorry the Blue Ogre
+  ja: 青鬼のドリー
+  romaji: Ao-Oni no Dorī
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+- type: location
+  slug: little-garden
+  status: former
+birthday:
+  month: 10
+  day: 2
+blood_type: F
+ages:
+- years: 158
+  period: debut
+- years: 160
+  period: post_timeskip
+heights:
+- cm: 2260
+  period: other
+bounties:
+- amount: 100000000
+  status: former
+  revealed_chapter: 118
+- amount: 1800000000
+  status: current
+  revealed_chapter: 1130

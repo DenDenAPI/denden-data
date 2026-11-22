@@ -1,0 +1,14 @@
+slug: totto-land
+name:
+  en: Totto Land
+  ja: 万国
+  romaji: Totto Rando
+canon: manga
+first_appearance:
+  chapter: 651
+  episode: 571
+parent: new-world
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

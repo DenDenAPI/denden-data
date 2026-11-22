@@ -1,0 +1,26 @@
+slug: kagikko
+name:
+  en: Kagikko
+  ja: カギッコ
+  romaji: Kagikko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 64
+occupations:
+- name: Pirate
+  status: current
+- name: Locksmith
+  status: current
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 10
+  day: 27

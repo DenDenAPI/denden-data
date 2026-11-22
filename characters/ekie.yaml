@@ -1,0 +1,21 @@
+slug: ekie
+name:
+  en: Ekie
+  ja: エキエ
+  romaji: Ekie
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Soldier
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: former
+residences:
+- type: location
+  slug: dressrosa
+  status: current

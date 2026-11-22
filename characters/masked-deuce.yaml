@@ -1,0 +1,29 @@
+slug: masked-deuce
+name:
+  en: Masked Deuce
+  ja: マスクド・デュース
+  romaji: Masukudo Dyūsu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Journalist
+  status: current
+- name: Pirate
+  status: former
+- name: Doctor
+  status: former
+- name: Explorer
+  status: former
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current
+- type: crew
+  slug: whitebeard-pirates
+  status: current

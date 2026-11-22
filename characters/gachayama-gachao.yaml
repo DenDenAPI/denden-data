@@ -1,0 +1,14 @@
+slug: gachayama-gachao
+name:
+  en: Gachayama Gachao
+  ja: ガチャ山 ガチャ夫
+  romaji: Gachayama Gachao
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

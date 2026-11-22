@@ -1,0 +1,47 @@
+slug: chome
+name:
+  en: Chome
+  ja: ちょめ
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 931
+  episode: 925
+occupations:
+- name: Ninja
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: orochi-oniwabanshu
+  status: former
+- type: organization
+  slug: kurozumi-family
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 4
+  day: 24
+blood_type: F
+ages:
+- years: 14
+  period: other
+heights:
+- cm: 150
+  period: other

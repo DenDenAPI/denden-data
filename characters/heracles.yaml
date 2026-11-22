@@ -1,0 +1,38 @@
+slug: heracles
+name:
+  en: Heracles
+  ja: ヘラクレス
+  romaji: Herakuresu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 524
+  episode: 420
+occupations:
+- name: Explorer
+  status: current
+- name: Warrior
+  status: current
+- name: Botanist
+  status: current
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: boin-archipelago
+  status: current
+birthday:
+  month: 5
+  day: 10
+blood_type: F
+ages:
+- years: 49
+  period: debut
+- years: 51
+  period: post_timeskip
+heights:
+- cm: 214
+  period: other

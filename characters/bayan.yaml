@@ -1,0 +1,21 @@
+slug: bayan
+name:
+  en: Bayan
+  ja: バイアン
+  romaji: Baian
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+- name: Musician
+  status: current
+affiliations:
+- type: crew
+  slug: bayan-pirates
+  status: current

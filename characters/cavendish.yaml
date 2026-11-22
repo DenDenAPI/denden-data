@@ -1,0 +1,65 @@
+slug: cavendish
+name:
+  en: Cavendish
+  ja: キャベンディッシュ
+  romaji: Kyabendisshu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 632
+epithets:
+- en: Cavendish of the White Horse
+  ja: 白馬のキャベンディッシュ
+  romaji: Hakuba no Kyabendisshu
+- en: Pirate Prince
+  ja: 海賊貴公子
+  romaji: Kaizoku Kikōshi
+aliases:
+- en: Hakuba
+  ja: ハクバ
+  romaji: Hakuba
+occupations:
+- name: Captain of the First Ship of the Straw Hat Grand Fleet
+  status: current
+- name: Pirate Captain
+  status: current
+- name: Prince of the Bourgeois Kingdom
+  status: former
+affiliations:
+- type: crew
+  slug: beautiful-pirates
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+- type: location
+  slug: bourgeois-kingdom
+  status: current
+origin:
+  location: bourgeois-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: bourgeois-kingdom
+  status: former
+birthday:
+  month: 8
+  day: 31
+blood_type: XF
+ages:
+- years: 26
+  period: other
+heights:
+- cm: 208
+  period: other
+bounties:
+- amount: 280000000
+  status: former
+  revealed_chapter: 704
+- amount: 330000000
+  status: current
+  revealed_chapter: 801

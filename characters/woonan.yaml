@@ -1,0 +1,27 @@
+slug: woonan
+name:
+  en: Woonan
+  ja: ウーナン
+  romaji: Ūnan
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+epithets:
+- en: Great Gold Pirate
+  ja: 黄金の大海賊
+  romaji: Ōgon no Dai Kaizoku
+occupations:
+- name: Pirate Captain/Admiral
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: gold-island
+  status: current
+bounties:
+- amount: 60000000
+  status: former
+  canon: movie

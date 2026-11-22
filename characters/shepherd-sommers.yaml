@@ -1,0 +1,25 @@
+slug: shepherd-sommers
+name:
+  en: Shepherd Sommers
+  ja: シェパード・ソマーズ聖
+  romaji: Shepādo Somāzu Sei
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: alive
+first_appearance:
+  chapter: 1140
+  episode: 1170
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

@@ -1,0 +1,17 @@
+slug: bolam
+name:
+  en: Bolam
+  ja: ボラム
+  romaji: Boramu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Scientist
+  status: current
+residences:
+- type: location
+  slug: digital-art-island
+  status: current

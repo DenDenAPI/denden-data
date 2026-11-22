@@ -1,0 +1,14 @@
+slug: lord-of-the-coasts-children
+name:
+  en: Lord of the Coast's Children
+  ja: 子ヌシ
+  romaji: Ko Nushi
+canon: other
+species:
+- animal
+- sea_king
+status: alive
+residences:
+- type: location
+  slug: dawn-island
+  status: current

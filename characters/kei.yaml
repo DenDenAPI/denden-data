@@ -1,0 +1,14 @@
+slug: kei
+name:
+  en: Kei
+  ja: ケイ
+  romaji: Kei
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

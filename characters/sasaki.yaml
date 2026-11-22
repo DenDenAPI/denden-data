@@ -1,0 +1,44 @@
+slug: sasaki
+name:
+  en: Sasaki
+  ja: ササキ
+  romaji: Sasaki
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 977
+  episode: 954
+epithets:
+- en: Overflowing Sasaki
+  ja: 盛っ切りのササキ
+  romaji: Mokkiri no Sasaki
+occupations:
+- name: Shinuchi
+  status: current
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: crew
+  slug: sasaki-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 3
+blood_type: XF
+ages:
+- years: 34
+  period: other
+heights:
+- cm: 318
+  period: other
+bounties:
+- amount: 472000000
+  status: current

@@ -1,0 +1,27 @@
+slug: blamenco
+name:
+  en: Blamenco
+  ja: ブラメンコ
+  romaji: Buramenko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 461
+occupations:
+- name: 6th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 2
+  day: 5

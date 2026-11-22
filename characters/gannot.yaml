@@ -1,0 +1,24 @@
+slug: gannot
+name:
+  en: Gannot
+  ja: ギャノット
+  romaji: Gyanotto
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Weapons Mania
+  ja: 兵器マニア
+  romaji: Heiki Mania
+occupations:
+- name: Weapons Collector
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current
+bounties:
+- amount: 21000000
+  status: former

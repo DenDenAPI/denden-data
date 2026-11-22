@@ -1,0 +1,18 @@
+slug: olive
+name:
+  en: Olive
+  ja: オリーブ
+  romaji: Orību
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 446
+occupations:
+- name: Pirate
+  status: current
+bounties:
+- amount: 50000000
+  status: former

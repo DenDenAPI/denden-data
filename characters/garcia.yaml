@@ -1,0 +1,19 @@
+slug: garcia
+name:
+  en: Garcia
+  ja: ガーシァ
+  romaji: Gāshia
+canon: anime_only
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  episode: 548
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: gyoverly-hills
+  status: current

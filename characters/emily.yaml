@@ -1,0 +1,14 @@
+slug: emily
+name:
+  en: Emily
+  ja: エミリー
+  romaji: Emirī
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: water-7
+  status: current

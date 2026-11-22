@@ -1,0 +1,28 @@
+slug: desire
+name:
+  en: Desire
+  ja: デザイア
+  romaji: Dezaia
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 747
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: sweet-pirates
+  status: current
+- type: crew
+  slug: silver-pirate-alliance
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: silver-mine
+  status: former

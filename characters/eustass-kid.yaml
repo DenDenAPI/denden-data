@@ -1,0 +1,53 @@
+slug: eustass-kid
+name:
+  en: Eustass Kid
+  ja: ユースタス・キッド
+  romaji: Yūsutasu Kiddo
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: unknown
+first_appearance:
+  chapter: 498
+  episode: 392
+epithets:
+- en: Captain
+  ja: キャプテン
+  romaji: Kyaputen
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+origin:
+  location: kutsukku-island
+  region: South Blue
+birthday:
+  month: 1
+  day: 10
+blood_type: F
+ages:
+- years: 21
+  period: debut
+- years: 23
+  period: post_timeskip
+heights:
+- cm: 205
+  period: debut
+bounties:
+- amount: 315000000
+  status: former
+  revealed_chapter: 498
+- amount: 470000000
+  status: former
+  revealed_chapter: 677
+- amount: 3000000000
+  status: current
+  revealed_chapter: 1053

@@ -1,0 +1,10 @@
+slug: god
+name:
+  en: God
+  ja: 神
+  romaji: Kami
+canon: other
+status: alive
+occupations:
+- name: God
+  status: current

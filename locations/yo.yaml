@@ -1,0 +1,11 @@
+slug: yo
+name:
+  en: Yo
+  ja: ヨウ
+  romaji: Yō
+canon: other
+parent: wano-country
+affiliations:
+- type: organization
+  slug: hitaki-family
+  status: current

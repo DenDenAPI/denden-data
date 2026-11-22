@@ -1,0 +1,21 @@
+slug: pontanitaire
+name:
+  en: Pontanitaire
+  ja: ポンタニテール
+  romaji: Pontanitēru
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: tongari-island
+  status: current

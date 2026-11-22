@@ -1,0 +1,33 @@
+slug: mansherry
+name:
+  en: Mansherry
+  ja: マンシェリー
+  romaji: Mansherī
+canon: manga
+gender: female
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 717
+  episode: 647
+occupations:
+- name: Princess
+  status: current
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+origin:
+  location: green-bit
+  region: Grand Line
+birthday:
+  month: 1
+  day: 28
+blood_type: X
+ages:
+- years: 25
+  period: other
+heights:
+- cm: 20
+  period: other

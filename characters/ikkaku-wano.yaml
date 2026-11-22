@@ -1,0 +1,20 @@
+slug: ikkaku-wano
+name:
+  en: Ikkaku (Wano)
+  ja: 一鶴
+  romaji: Ikkaku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 915
+  episode: 902
+occupations:
+- name: Announcer
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,32 @@
+slug: diary-of-koby-meppo
+order: 9
+name:
+  en: Diary of Koby-Meppo
+  ja: コビメッポ奮闘日記
+  romaji: Kobimeppo Funtō Nikki
+kind: cover_story
+canon: manga
+sagas:
+- east-blue-saga
+chapters:
+  count: 30
+  ranges:
+  - start: 83
+    end: 119
+volumes:
+  count: 5
+  ranges:
+  - start: 10
+    end: 14
+episodes:
+  count: 2
+  ranges:
+  - start: 68
+    end: 69
+years:
+  manga:
+    start: 1999
+    end: 2000
+  anime:
+    start: 2001
+    end: 2001

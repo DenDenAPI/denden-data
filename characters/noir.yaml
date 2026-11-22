@@ -1,0 +1,21 @@
+slug: noir
+name:
+  en: Noir
+  ja: ノワール
+  romaji: Nowāru
+canon: other
+gender: male
+species:
+- mink
+status: alive
+epithets:
+- en: Capoeira Master Noir
+  ja: カポエラマスターノワール
+  romaji: Kapoera Masutā Nowāru
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-pirates
+  status: current

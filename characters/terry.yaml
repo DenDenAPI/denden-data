@@ -1,0 +1,20 @@
+slug: terry
+name:
+  en: Terry
+  ja: テリー
+  romaji: Terī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Bartender
+  status: current
+residences:
+- type: location
+  slug: mock-town
+  status: current

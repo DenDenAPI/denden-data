@@ -1,0 +1,21 @@
+slug: biblo
+name:
+  en: Biblo
+  ja: ビブロ
+  romaji: Biburo
+canon: manga
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Chief Librarian
+  status: current
+affiliations:
+- type: location
+  slug: owl-library
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

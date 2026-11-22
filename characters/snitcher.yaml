@@ -1,0 +1,21 @@
+slug: snitcher
+name:
+  en: Snitcher
+  ja: スニッチャー
+  romaji: Sunitchā
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: former
+- name: Information Broker
+  status: current
+- name: Reporter
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

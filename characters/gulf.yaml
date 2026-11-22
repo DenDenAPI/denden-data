@@ -1,0 +1,17 @@
+slug: gulf
+name:
+  en: Gulf
+  ja: ガルフ
+  romaji: Garufu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Jewelry Designer
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

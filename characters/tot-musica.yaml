@@ -1,0 +1,17 @@
+slug: tot-musica
+name:
+  en: Tot Musica
+  ja: トットムジカ
+  romaji: Totto Mujika
+canon: movie
+status: unknown
+first_appearance:
+  episode: 1030
+epithets:
+- en: Demon King of Songs
+  ja: 歌の魔王
+  romaji: Uta no Maō
+residences:
+- type: location
+  slug: elegia
+  status: current

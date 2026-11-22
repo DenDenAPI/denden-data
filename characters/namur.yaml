@@ -1,0 +1,27 @@
+slug: namur
+name:
+  en: Namur
+  ja: ナミュール
+  romaji: Namyūru
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: 8th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 6

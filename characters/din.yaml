@@ -1,0 +1,25 @@
+slug: din
+name:
+  en: Din
+  ja: ディン
+  romaji: Din
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Blue-Winged Din
+  ja: 青い翼のディン
+  romaji: Aoi Tsubasa no Din
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current
+bounties:
+- amount: 30000000
+  status: current
+  canon: other

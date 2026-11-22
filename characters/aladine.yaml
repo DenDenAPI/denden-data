@@ -1,0 +1,43 @@
+slug: aladine
+name:
+  en: Aladine
+  ja: アラディン
+  romaji: Aradin
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 620
+  episode: 540
+occupations:
+- name: Pirate
+  status: current
+- name: Doctor
+  status: current
+- name: First Mate
+  status: current
+- name: Soldier
+  status: former
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: sun-pirates
+  status: current
+- type: location
+  slug: ryugu-kingdom
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 31
+blood_type: XF
+ages:
+- years: 46
+  period: other
+heights:
+- cm: 627
+  period: other

@@ -1,0 +1,18 @@
+slug: plesiosaur
+name:
+  en: Plesiosaur
+  ja: 首長竜
+  romaji: Kubinagaryū
+canon: other
+species:
+- animal
+status: deceased
+occupations:
+- name: Sea monster
+  status: current
+affiliations:
+- type: crew
+  slug: ganzack-pirates
+  status: current
+origin:
+  region: East Blue

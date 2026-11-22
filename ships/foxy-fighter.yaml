@@ -1,0 +1,13 @@
+slug: foxy-fighter
+name:
+  en: Foxy Fighter
+  ja: フォクシー飛行狐
+  romaji: Fokkushī Faitā
+canon: manga
+first_appearance:
+  chapter: 317
+  episode: 219
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

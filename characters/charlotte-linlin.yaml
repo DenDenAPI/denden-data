@@ -1,0 +1,76 @@
+slug: charlotte-linlin
+name:
+  en: Charlotte Linlin
+  ja: シャーロット・リンリン
+  romaji: Shārotto Rinrin
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 651
+  episode: 571
+epithets:
+- en: Big Mom
+  ja: ビッグ・マム
+  romaji: Biggu Mamu
+- en: Evil Spirit
+  ja: 悪神
+  romaji: Akujin
+aliases:
+- en: O-Lin
+  ja: おリン
+  romaji: Orin
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Emperor
+  status: former
+- name: Queen of Totto Land
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+- type: organization
+  slug: four-emperors
+  status: former
+- type: organization
+  slug: charlotte-family
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current
+- type: location
+  slug: elbaph
+  status: former
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 2
+  day: 15
+blood_type: X
+ages:
+- years: 68
+  period: other
+heights:
+- cm: 880
+  period: other
+bounties:
+- amount: 50000000
+  status: former
+  revealed_chapter: 868
+- amount: 500000000
+  status: former
+  revealed_chapter: 868
+- amount: 4388000000
+  status: current
+  revealed_chapter: 957

@@ -1,0 +1,26 @@
+slug: banzaburo
+name:
+  en: Banzaburo
+  ja: 番三郎
+  romaji: Banzaburō
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 960
+  episode: 960
+occupations:
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Food taster
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

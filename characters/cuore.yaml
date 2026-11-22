@@ -1,0 +1,19 @@
+slug: cuore
+name:
+  en: Cuore
+  ja: クオーレ
+  romaji: Kuōre
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Musician
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

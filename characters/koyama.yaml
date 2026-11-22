@@ -1,0 +1,21 @@
+slug: koyama
+name:
+  en: Koyama
+  ja: 小山
+  romaji: Koyama
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+occupations:
+- name: Retainer
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

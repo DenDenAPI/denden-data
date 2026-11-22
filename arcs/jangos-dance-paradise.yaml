@@ -1,0 +1,24 @@
+slug: jangos-dance-paradise
+order: 16
+name:
+  en: Jango's Dance Paradise
+  ja: ジャンゴのダンス天国
+  romaji: Jango no Dansu Tengoku
+kind: cover_story
+canon: manga
+sagas:
+- arabasta-saga
+chapters:
+  count: 37
+  ranges:
+  - start: 126
+    end: 172
+volumes:
+  count: 6
+  ranges:
+  - start: 14
+    end: 19
+years:
+  manga:
+    start: 2000
+    end: 2001

@@ -1,0 +1,17 @@
+slug: hinoki
+name:
+  en: Hinoki
+  ja: ヒノキ
+  romaji: Hinoki
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Swordsmith
+  status: current
+residences:
+- type: location
+  slug: blacksmith-village
+  status: current

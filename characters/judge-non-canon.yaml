@@ -1,0 +1,14 @@
+slug: judge-non-canon
+name:
+  en: Judge
+  ja: ジャッジ
+  romaji: Jajji
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: royal-sun-island
+  status: current

@@ -1,0 +1,39 @@
+slug: z
+name:
+  en: Z
+  ja: ゼット
+  romaji: Zetto
+canon: movie
+gender: male
+species:
+- cyborg
+- human
+status: deceased
+first_appearance:
+  chapter: 691
+  episode: 577
+epithets:
+- en: Black Arm Zephyr
+  ja: 黒腕のゼファー
+  romaji: Kokuwan no Zefā
+occupations:
+- name: Neo Marines Supreme Commander
+  status: current
+- name: Marine Instructor
+  status: former
+- name: Marine Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+- type: location
+  slug: g-5
+  status: former
+residences:
+- type: location
+  slug: g-5
+  status: former
+heights:
+- cm: 348
+  period: other

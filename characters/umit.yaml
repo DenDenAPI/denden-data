@@ -1,0 +1,27 @@
+slug: umit
+name:
+  en: Umit
+  ja: ウミット
+  romaji: Umitto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 828
+epithets:
+- en: Deep-Sea Currents
+  ja: 深層海流
+  romaji: Shinsō Kairyū
+occupations:
+- name: Emperor of the Underworld
+  status: current
+affiliations:
+- type: organization
+  slug: umit-shipping
+  status: current
+birthday:
+  month: 9
+  day: 23

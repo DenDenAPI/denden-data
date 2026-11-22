@@ -1,0 +1,13 @@
+slug: silver-mine-arc
+order: 56
+name:
+  en: Silver Mine Arc
+kind: filler
+canon: anime_only
+sagas:
+- whole-cake-island-saga
+episodes:
+  count: 4
+  ranges:
+  - start: 747
+    end: 750

@@ -1,0 +1,17 @@
+slug: haraguroyas-owner
+name:
+  en: Haraguroya's Owner
+  ja: 波ら黒屋の店主
+  romaji: Haraguroya no Tenshu
+canon: other
+gender: male
+status: alive
+first_appearance:
+  chapter: 5
+occupations:
+- name: Soba cook
+  status: current
+affiliations:
+- type: organization
+  slug: yakuza
+  status: current

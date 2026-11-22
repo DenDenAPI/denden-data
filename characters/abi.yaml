@@ -1,0 +1,15 @@
+slug: abi
+name:
+  en: Abi
+  ja: アビ
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 317
+residences:
+- type: location
+  slug: water-7
+  status: current

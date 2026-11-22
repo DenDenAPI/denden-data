@@ -1,0 +1,19 @@
+slug: baggaley
+name:
+  en: Baggaley
+  ja: バガリー
+  romaji: Bagarī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 561
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

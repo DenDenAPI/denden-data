@@ -1,0 +1,47 @@
+slug: catarina-devon
+name:
+  en: Catarina Devon
+  ja: カタリーナ・デボン
+  romaji: Katarīna Debon
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 575
+  episode: 484
+epithets:
+- en: Crescent Moon Hunter
+  ja: 若月狩り
+  romaji: Mikazuki-gari
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: South Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 3
+  day: 29
+blood_type: F
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 361
+  period: other

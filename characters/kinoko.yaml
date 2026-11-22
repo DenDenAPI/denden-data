@@ -1,0 +1,25 @@
+slug: kinoko
+name:
+  en: Kinoko
+  ja: キノコ
+  romaji: Kinoko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 536
+  episode: 437
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: buggy-pirates
+  status: current
+bounties:
+- amount: 100000000
+  status: current
+  minimum: true
+  revealed_chapter: 536

@@ -1,0 +1,20 @@
+slug: gina
+name:
+  en: Gina
+  ja: ジーナ
+  romaji: Jīna
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 318
+  episode: 215
+occupations:
+- name: Shipwright
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former

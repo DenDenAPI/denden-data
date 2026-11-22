@@ -1,0 +1,13 @@
+slug: tarako
+name:
+  en: Tarako
+  ja: タラコ
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

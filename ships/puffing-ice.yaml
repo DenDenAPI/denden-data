@@ -1,0 +1,15 @@
+slug: puffing-ice
+name:
+  en: Puffing Ice
+  ja: パッフィング・アイス
+  romaji: Paffingu Aisu
+canon: manga
+first_appearance:
+  chapter: 656
+affiliations:
+- type: location
+  slug: water-7
+  status: current
+- type: organization
+  slug: galley-la-company
+  status: current

@@ -1,0 +1,19 @@
+slug: bill
+name:
+  en: Bill
+  ja: ビル
+  romaji: Biru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 746
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: silver-pirate-alliance
+  status: current

@@ -1,0 +1,36 @@
+slug: shimotsuki-koushirou
+name:
+  en: Shimotsuki Koushirou
+  ja: 霜月コウシロウ
+  romaji: Shimotsuki Kōshirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 5
+  episode: 19
+occupations:
+- name: Dojo Master
+  status: current
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 5
+  day: 4
+blood_type: S
+ages:
+- years: 40
+  period: debut
+- years: 49
+  period: pre_timeskip
+- years: 51
+  period: post_timeskip
+heights:
+- cm: 184
+  period: other

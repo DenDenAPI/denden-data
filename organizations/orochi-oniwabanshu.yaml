@@ -1,0 +1,25 @@
+slug: orochi-oniwabanshu
+name:
+  en: Orochi Oniwabanshu
+  ja: オロチお庭番衆
+  romaji: Orochi Oniwabanshū
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 931
+  episode: 925
+leaders: []
+affiliations:
+- type: location
+  slug: wano-country
+  status: current
+- type: organization
+  slug: kurozumi-family
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

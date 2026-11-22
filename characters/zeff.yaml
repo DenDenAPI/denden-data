@@ -1,0 +1,40 @@
+slug: zeff
+name:
+  en: Zeff
+  ja: ゼフ
+  romaji: Zefu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 43
+  episode: 20
+epithets:
+- en: Red-Leg Zeff
+  ja: 赫足のゼフ
+  romaji: Akaashi no Zefu
+occupations:
+- name: Head Chef of Baratie
+  status: current
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: cook-pirates
+  status: former
+origin:
+  region: East Blue
+birthday:
+  month: 4
+  day: 2
+blood_type: XF
+ages:
+- years: 65
+  period: debut
+- years: 67
+  period: post_timeskip
+heights:
+- cm: 189
+  period: other

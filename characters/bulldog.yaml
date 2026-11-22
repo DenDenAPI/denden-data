@@ -1,0 +1,24 @@
+slug: bulldog
+name:
+  en: Bulldog
+  ja: ブルドッグ
+  romaji: Burudoggu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1099
+  episode: 1133
+occupations:
+- name: King
+  status: current
+affiliations:
+- type: location
+  slug: sorbet-kingdom
+  status: current
+residences:
+- type: location
+  slug: sorbet-kingdom
+  status: current

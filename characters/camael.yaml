@@ -1,0 +1,21 @@
+slug: camael
+name:
+  en: Camael
+  ja: カマエル
+  romaji: Kamaeru
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

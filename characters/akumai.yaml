@@ -1,0 +1,21 @@
+slug: akumai
+name:
+  en: Akumai
+  ja: アクマイ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 129
+  episode: 78
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 12
+  day: 27

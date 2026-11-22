@@ -1,0 +1,15 @@
+slug: giant-squad
+name:
+  en: Giant Squad
+  ja: 巨人部隊
+  romaji: Kyojin Butai
+canon: manga
+first_appearance:
+  chapter: 550
+  episode: 459
+leaders: []
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences: []

@@ -1,0 +1,16 @@
+slug: big-top
+name:
+  en: Big Top
+  ja: ビッグトップ号
+  romaji: Biggu Toppu-gō
+canon: manga
+first_appearance:
+  chapter: 8
+  episode: 4
+affiliations:
+- type: crew
+  slug: buggy-pirates
+  status: current
+- type: crew
+  slug: buggy-and-alvida-alliance
+  status: current

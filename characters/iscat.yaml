@@ -1,0 +1,19 @@
+slug: iscat
+name:
+  en: Iscat
+  ja: イスカット
+  romaji: Isukatto
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 1127
+  episode: 1157
+residences:
+- type: location
+  slug: elbaph
+  status: current
+- type: location
+  slug: land-of-gods
+  status: former

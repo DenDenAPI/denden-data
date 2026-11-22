@@ -1,0 +1,17 @@
+slug: cerberus-sword
+name:
+  en: Cerberus (Sword)
+  ja: ケルベロス
+  romaji: Keruberosu
+canon: manga
+status: alive
+first_appearance:
+  chapter: 1137
+  episode: 1167
+occupations:
+- name: Figarland Shamrock's sword
+  status: current
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current

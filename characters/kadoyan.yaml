@@ -1,0 +1,16 @@
+slug: kadoyan
+name:
+  en: Kadoyan
+  ja: かどやん
+  romaji: Kadoyan
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 134
+residences:
+- type: location
+  slug: fireworks
+  status: current

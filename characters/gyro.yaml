@@ -1,0 +1,36 @@
+slug: gyro
+name:
+  en: Gyro
+  ja: ジャイロ
+  romaji: Jairo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 611
+  episode: 530
+epithets:
+- en: Crab-Hand Gyro
+  ja: 蟹手のジャイロ
+  romaji: Kanite no Jairo
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: gyro-pirates
+  status: current
+- type: crew
+  slug: new-fish-man-pirates
+  status: former
+birthday:
+  month: 6
+  day: 22
+bounties:
+- amount: 73000000
+  status: current
+  revealed_chapter: 611

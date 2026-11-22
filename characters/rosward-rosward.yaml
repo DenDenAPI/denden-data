@@ -1,0 +1,38 @@
+slug: rosward-rosward
+name:
+  en: Rosward Rosward
+  ja: ロズワード・ロズワード聖
+  romaji: Rozuwādo Rozuwādo Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  location: red-line
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 6
+  day: 28
+blood_type: XF
+ages:
+- years: 53
+  period: debut
+- years: 55
+  period: post_timeskip
+heights:
+- cm: 215
+  period: other

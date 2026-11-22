@@ -1,0 +1,29 @@
+slug: higuma
+name:
+  en: Higuma
+  ja: ヒグマ
+  romaji: Higuma
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Bandit Leader
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 11
+  day: 18
+blood_type: X
+heights:
+- cm: 190
+  period: other
+bounties:
+- amount: 8000000
+  status: former
+  revealed_chapter: 1

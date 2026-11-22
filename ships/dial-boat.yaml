@@ -1,0 +1,13 @@
+slug: dial-boat
+name:
+  en: Dial Boat
+  ja: 貝船
+  romaji: Daiaru Sen
+canon: manga
+first_appearance:
+  chapter: 244
+  episode: 158
+affiliations:
+- type: location
+  slug: skypiea
+  status: current

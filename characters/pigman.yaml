@@ -1,0 +1,15 @@
+slug: pigman
+name:
+  en: Pigman
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Royal Guard
+  status: current
+residences:
+- type: location
+  slug: drum-island
+  status: current

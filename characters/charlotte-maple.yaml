@@ -1,0 +1,28 @@
+slug: charlotte-maple
+name:
+  en: Charlotte Maple
+  ja: シャーロット・メープル
+  romaji: Shārotto Mēpuru
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 897
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 11
+  day: 17
+ages:
+- years: 25
+  period: other

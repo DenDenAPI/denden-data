@@ -1,0 +1,42 @@
+slug: belo-betty
+name:
+  en: Belo Betty
+  ja: ベロ・ベティ
+  romaji: Bero Beti
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 904
+  episode: 880
+occupations:
+- name: East Army Commander of the Revolutionary Army
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 6
+  day: 15
+blood_type: XF
+ages:
+- years: 34
+  period: other
+heights:
+- cm: 196
+  period: other
+bounties:
+- amount: 457000000
+  status: current

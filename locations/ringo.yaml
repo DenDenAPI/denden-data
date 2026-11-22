@@ -1,0 +1,14 @@
+slug: ringo
+name:
+  en: Ringo
+  ja: 鈴後
+  romaji: Ringo
+canon: manga
+first_appearance:
+  chapter: 934
+  episode: 929
+parent: wano-country
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: former

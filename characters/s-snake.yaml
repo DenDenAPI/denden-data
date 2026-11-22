@@ -1,0 +1,27 @@
+slug: s-snake
+name:
+  en: S-Snake
+  ja: S-スネーク
+  romaji: Esu-Sunēku
+canon: manga
+gender: female
+species:
+- lunarian
+status: alive
+first_appearance:
+  chapter: 1059
+  episode: 1087
+origin:
+  location: egghead
+  region: Grand Line
+residences:
+- type: location
+  slug: egghead
+  status: current
+blood_type: S
+ages:
+- years: 2
+  period: other
+heights:
+- cm: 208
+  period: other

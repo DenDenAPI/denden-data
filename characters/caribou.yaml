@@ -1,0 +1,48 @@
+slug: caribou
+name:
+  en: Caribou
+  ja: カリブー
+  romaji: Karibū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 600
+  episode: 519
+epithets:
+- en: Wet-Haired Caribou
+  ja: 濡れ髪のカリブー
+  romaji: Nuregami no Karibū
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Kidnapper
+  status: current
+affiliations:
+- type: crew
+  slug: caribou-pirates
+  status: current
+- type: crew
+  slug: fake-straw-hat-crew
+  status: former
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 7
+  day: 4
+blood_type: XF
+ages:
+- years: 32
+  period: other
+heights:
+- cm: 228
+  period: other
+bounties:
+- amount: 210000000
+  status: current
+  revealed_chapter: 600

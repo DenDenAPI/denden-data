@@ -1,0 +1,19 @@
+slug: sunbell
+name:
+  en: Sunbell
+  ja: サンベル
+  romaji: Sanberu
+canon: manga
+gender: male
+species:
+- fish_man
+status: unknown
+first_appearance:
+  chapter: 0
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

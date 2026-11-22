@@ -1,0 +1,20 @@
+slug: mountain-ricky
+name:
+  en: Mountain Ricky
+  ja: マウンテン・リッキー
+  romaji: Maunten Rikkī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 313
+  episode: 217
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: former

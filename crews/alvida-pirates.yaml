@@ -1,0 +1,13 @@
+slug: alvida-pirates
+name:
+  en: Alvida Pirates
+  ja: アルビダ海賊団
+  romaji: Arubida Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 2
+  episode: 1
+captains:
+- character: alvida
+  status: current

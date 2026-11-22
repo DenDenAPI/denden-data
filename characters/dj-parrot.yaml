@@ -1,0 +1,18 @@
+slug: dj-parrot
+name:
+  en: DJ Parrot
+  ja: オウムDJ
+  romaji: Ōmu Dījei
+canon: other
+gender: male
+status: alive
+occupations:
+- name: DJ
+  status: current
+residences:
+- type: location
+  slug: tongari-island
+  status: current
+birthday:
+  month: 8
+  day: 11

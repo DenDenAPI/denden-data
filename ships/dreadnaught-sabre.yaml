@@ -1,0 +1,14 @@
+slug: dreadnaught-sabre
+name:
+  en: Dreadnaught Sabre
+  ja: ドレッドノート・サーベル号
+  romaji: Doreddonōto Sāberu-gō
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 46
+  episode: 21
+affiliations:
+- type: crew
+  slug: krieg-pirates
+  status: current

@@ -1,0 +1,22 @@
+slug: estrid
+name:
+  en: Estrid
+  ja: エストリッダ
+  romaji: Esutoridda
+canon: manga
+gender: female
+status: deceased
+first_appearance:
+  chapter: 1153
+occupations:
+- name: Queen of the Warland Kingdom
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+- type: location
+  slug: sun-world
+  status: former

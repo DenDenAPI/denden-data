@@ -1,0 +1,32 @@
+slug: tansui
+name:
+  en: Tansui
+  ja: タンスイ
+  romaji: Tansui
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 197
+  episode: 386
+occupations:
+- name: Pirate
+  status: current
+- name: Slave trader
+  status: current
+affiliations:
+- type: crew
+  slug: macro-pirates
+  status: current
+- type: crew
+  slug: sun-pirates
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-kingdom
+  status: former

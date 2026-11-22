@@ -1,0 +1,12 @@
+slug: wetton-pirates
+name:
+  en: Wetton Pirates
+  ja: ウェットン海賊団
+  romaji: Wetton Kaizoku-dan
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 140
+captains:
+- character: wetton
+  status: current

@@ -1,0 +1,14 @@
+slug: mi
+name:
+  en: Mi
+  ja: ミー
+  romaji: Mī
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

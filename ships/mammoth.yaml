@@ -1,0 +1,14 @@
+slug: mammoth
+name:
+  en: Mammoth
+  ja: マンモス号
+  romaji: Manmosu-gō
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 801
+  episode: 746
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

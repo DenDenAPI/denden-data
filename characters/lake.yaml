@@ -1,0 +1,19 @@
+slug: lake
+name:
+  en: Lake
+  ja: レイク
+  romaji: Reiku
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: Leader of the Dynamo Team
+  status: current
+affiliations:
+- type: organization
+  slug: ruluka-government
+  status: current

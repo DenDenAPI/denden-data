@@ -1,0 +1,32 @@
+slug: fugetsu-omusubi
+name:
+  en: Fugetsu Omusubi
+  ja: 風月おむすび
+  romaji: Fūgetsu Omusubi
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 1024
+  episode: 1048
+occupations:
+- name: Samurai
+  status: current
+- name: Daimyo of Kibi
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 6
+  day: 30
+blood_type: S
+heights:
+- cm: 270
+  period: other

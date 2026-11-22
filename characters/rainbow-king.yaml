@@ -1,0 +1,17 @@
+slug: rainbow-king
+name:
+  en: Rainbow King
+  ja: 虹の王
+  romaji: Niji no Ō
+canon: other
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: King
+  status: current
+residences:
+- type: location
+  slug: rainbow-island
+  status: current

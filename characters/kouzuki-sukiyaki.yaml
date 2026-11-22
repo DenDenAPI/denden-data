@@ -1,0 +1,46 @@
+slug: kouzuki-sukiyaki
+name:
+  en: Kouzuki Sukiyaki
+  ja: 光月スキヤキ
+  romaji: Kōzuki Sukiyaki
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 911
+  episode: 894
+aliases:
+- en: Tenguyama Hitetsu
+  ja: 天狗山飛徹
+  romaji: Tenguyama Hitetsu
+occupations:
+- name: Swordsmith
+  status: current
+- name: Shogun
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: former
+birthday:
+  month: 5
+  day: 19
+blood_type: F
+ages:
+- years: 81
+  period: other
+heights:
+- cm: 214
+  period: other

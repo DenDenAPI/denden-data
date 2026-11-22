@@ -1,0 +1,17 @@
+slug: usagihebi
+name:
+  en: Usagihebi
+  ja: うさぎヘビ
+  romaji: Usagihebi
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 22
+  episode: 18
+affiliations:
+- type: location
+  slug: island-of-rare-animals
+  status: current

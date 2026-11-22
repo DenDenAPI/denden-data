@@ -1,0 +1,21 @@
+slug: mr-10
+name:
+  en: Mr. 10
+  ja: Mr. 10
+  romaji: Misutā Ten
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 155
+aliases:
+- en: Mr. 10
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

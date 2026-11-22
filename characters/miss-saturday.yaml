@@ -1,0 +1,19 @@
+slug: miss-saturday
+name:
+  en: Miss Saturday
+  ja: ミス・サタデー
+  romaji: Misu Satadē
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 155
+aliases:
+- en: Miss Saturday
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

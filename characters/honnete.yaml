@@ -1,0 +1,14 @@
+slug: honnete
+name:
+  en: Honnete
+  ja: オネット
+  romaji: Onetto
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: black-kingdom
+  status: current

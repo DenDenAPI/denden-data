@@ -1,0 +1,19 @@
+slug: ginnosuke
+name:
+  en: Ginnosuke
+  ja: 銀のすけ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 919
+  episode: 909
+occupations:
+- name: Student
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

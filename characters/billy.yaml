@@ -1,0 +1,26 @@
+slug: billy
+name:
+  en: Billy
+  ja: ビリー
+  romaji: Birī
+canon: movie
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Mutant animal soldier
+  status: former
+- name: Straw Hats ally
+  status: current
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: former
+- type: crew
+  slug: straw-hat-pirates
+  status: current
+residences:
+- type: location
+  slug: merveille
+  status: former

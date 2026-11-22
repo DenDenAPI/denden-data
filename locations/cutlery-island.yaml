@@ -1,0 +1,14 @@
+slug: cutlery-island
+name:
+  en: Cutlery Island
+  ja: カトラリー島
+  romaji: Katorarī-tō
+canon: manga
+first_appearance:
+  chapter: 899
+  episode: 874
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

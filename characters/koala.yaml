@@ -1,0 +1,52 @@
+slug: koala
+name:
+  en: Koala
+  ja: コアラ
+  romaji: Koara
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 622
+  episode: 541
+occupations:
+- name: Revolutionary Army Officer
+  status: current
+- name: Assistant Fish-Man Karate Instructor
+  status: current
+- name: Slave
+  status: former
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+- type: crew
+  slug: sun-pirates
+  status: former
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: foolshout-island
+  status: former
+- type: location
+  slug: mary-geoise
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 10
+  day: 25
+blood_type: F
+ages:
+- years: 11
+  period: debut
+- years: 23
+  period: post_timeskip
+heights:
+- cm: 160
+  period: other

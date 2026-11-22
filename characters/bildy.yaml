@@ -1,0 +1,17 @@
+slug: bildy
+name:
+  en: Bildy
+  ja: ビルディ
+  romaji: Birudi
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Chief of Staff
+  status: current
+affiliations:
+- type: organization
+  slug: dx-marines
+  status: current

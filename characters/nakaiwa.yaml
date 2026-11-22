@@ -1,0 +1,17 @@
+slug: nakaiwa
+name:
+  en: Nakaiwa
+  ja: 中岩
+  romaji: Nakaiwa
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+residences:
+- type: location
+  slug: wano-country
+  status: current

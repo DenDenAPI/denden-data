@@ -1,0 +1,12 @@
+slug: sand-sled
+name:
+  en: Sand Sled
+  ja: 砂ぞり
+  romaji: Suna Zori
+canon: anime_only
+first_appearance:
+  episode: 98
+affiliations:
+- type: crew
+  slug: barbar-pirates
+  status: current

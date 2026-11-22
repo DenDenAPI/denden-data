@@ -1,0 +1,13 @@
+slug: barbados
+name:
+  en: Barbados
+  ja: バルバドス
+  romaji: Barubadosu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current

@@ -1,0 +1,14 @@
+slug: gama-pyonnosuke
+name:
+  en: Gama Pyonnosuke
+  ja: ガマ・ピョンの助
+  romaji: Gama Pyonnosuke
+canon: manga
+status: alive
+first_appearance:
+  chapter: 909
+  episode: 892
+residences:
+- type: location
+  slug: wano-country
+  status: current

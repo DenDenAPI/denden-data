@@ -1,0 +1,13 @@
+slug: fish-man-karate-dojo
+name:
+  en: Fish-Man Karate Dojo
+  ja: 魚人空手道場
+  romaji: Gyojin Karate Dōjō
+canon: manga
+first_appearance:
+  chapter: 593
+  episode: 512
+affiliations:
+- type: location
+  slug: fish-man-island
+  status: current

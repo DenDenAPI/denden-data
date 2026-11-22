@@ -1,0 +1,14 @@
+slug: swanda-express
+name:
+  en: Swanda Express
+  ja: 快速スワンダ号
+  romaji: Kaisoku Suwanda-gō
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 129
+  episode: 78
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

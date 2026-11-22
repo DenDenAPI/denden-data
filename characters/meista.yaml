@@ -1,0 +1,23 @@
+slug: meista
+name:
+  en: Meista
+  ja: マイスタ
+  romaji: Maisuta
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Lock-Picking Meista
+  ja: こじ開けのマイスタ
+  romaji: Kojiake no Maisuta
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

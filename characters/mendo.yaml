@@ -1,0 +1,19 @@
+slug: mendo
+name:
+  en: Mendo
+  ja: メンドウ
+  romaji: Mendō
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 427
+occupations:
+- name: Dojo Master
+  status: current
+residences:
+- type: location
+  slug: little-east-blue
+  status: current

@@ -1,0 +1,17 @@
+slug: honma
+name:
+  en: Honma
+  ja: ホンマ
+  romaji: Honma
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: naniwa-pirates
+  status: current

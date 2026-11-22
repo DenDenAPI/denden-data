@@ -1,0 +1,19 @@
+slug: zaba
+name:
+  en: Zaba
+  ja: ザバ
+  romaji: Zaba
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 98
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: barbar-pirates
+  status: current

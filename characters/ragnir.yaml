@@ -1,0 +1,26 @@
+slug: ragnir
+name:
+  en: Ragnir
+  ja: 鉄雷
+  romaji: Raguniru
+canon: manga
+status: alive
+first_appearance:
+  chapter: 1130
+  episode: 1160
+occupations:
+- name: Loki's warhammer
+  status: current
+- name: 'guardian of the Ryu Ryu no Mi, Model: Nidhöggr'
+  status: former
+affiliations:
+- type: location
+  slug: elbaph
+  status: current
+residences:
+- type: location
+  slug: aurust-castle
+  status: current
+- type: location
+  slug: elbaph
+  status: former

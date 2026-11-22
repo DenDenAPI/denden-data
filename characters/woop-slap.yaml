@@ -1,0 +1,30 @@
+slug: woop-slap
+name:
+  en: Woop Slap
+  ja: ウープ・スラップ
+  romaji: Ūpu Surappu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Mayor
+  status: current
+affiliations:
+- type: location
+  slug: foosha-village
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: foosha-village
+  status: current
+birthday:
+  month: 2
+  day: 28

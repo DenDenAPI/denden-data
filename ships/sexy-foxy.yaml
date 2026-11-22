@@ -1,0 +1,16 @@
+slug: sexy-foxy
+name:
+  en: Sexy Foxy
+  ja: セクシー・フォクシー号
+  romaji: Sekushī Fokushī-gō
+canon: manga
+first_appearance:
+  chapter: 304
+  episode: 207
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current
+- type: crew
+  slug: straw-hat-pirates
+  status: current

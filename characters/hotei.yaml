@@ -1,0 +1,27 @@
+slug: hotei
+name:
+  en: Hotei
+  ja: ホテイ
+  romaji: Hotei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 951
+  episode: 951
+occupations:
+- name: Samurai
+  status: current
+- name: Pirate
+  status: current
+- name: Captain of the Mimawarigumi
+  status: former
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: kurozumi-family
+  status: former

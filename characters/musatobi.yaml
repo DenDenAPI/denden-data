@@ -1,0 +1,15 @@
+slug: musatobi
+name:
+  en: Musatobi
+  ja: ムサトビ
+canon: anime_only
+gender: male
+species:
+- mink
+status: alive
+first_appearance:
+  episode: 775
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current

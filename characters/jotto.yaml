@@ -1,0 +1,12 @@
+slug: jotto
+name:
+  en: Jotto
+  ja: ジョット
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Actor
+  status: current

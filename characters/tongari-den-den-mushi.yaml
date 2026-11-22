@@ -1,0 +1,21 @@
+slug: tongari-den-den-mushi
+name:
+  en: Tongari Den Den Mushi
+  ja: トンガリ電伝虫
+  romaji: Tongari Den Den Mushi
+canon: other
+gender: male
+status: alive
+occupations:
+- name: Island Leader
+  status: current
+residences:
+- type: location
+  slug: tongari-island
+  status: current
+birthday:
+  month: 3
+  day: 13
+ages:
+- years: 115
+  period: other

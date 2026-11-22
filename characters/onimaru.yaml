@@ -1,0 +1,52 @@
+slug: onimaru
+name:
+  en: Onimaru
+  ja: オニ丸
+  romaji: Onimaru
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 936
+  episode: 932
+epithets:
+- en: Gyukimaru on Oihagi Bridge
+  ja: おいはぎ橋の牛鬼丸
+  romaji: Oihagi-bashi no Gyūkimaru
+aliases:
+- en: Gyukimaru
+  ja: 牛鬼丸
+  romaji: Gyūkimaru
+occupations:
+- name: Warrior Monk
+  status: current
+- name: Highway Robber
+  status: current
+- name: Pet
+  status: former
+affiliations:
+- type: organization
+  slug: shimotsuki-family
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 11
+  day: 19
+blood_type: X
+ages:
+- years: 69
+  period: other
+heights:
+- cm: 428
+  period: other

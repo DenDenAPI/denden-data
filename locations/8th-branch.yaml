@@ -1,0 +1,13 @@
+slug: 8th-branch
+name:
+  en: 8th Branch
+  ja: 海軍第8支部
+  romaji: Kaigun Dai-Hachi Shibu
+canon: anime_only
+first_appearance:
+  episode: 54
+region: East Blue
+affiliations:
+- type: organization
+  slug: marines
+  status: current

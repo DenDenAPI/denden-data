@@ -1,0 +1,17 @@
+slug: beryl
+name:
+  en: Beryl
+  ja: ベリル
+  romaji: Beriru
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Cook
+  status: current
+affiliations:
+- type: location
+  slug: germa-kingdom
+  status: current

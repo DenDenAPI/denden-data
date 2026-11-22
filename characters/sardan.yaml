@@ -1,0 +1,17 @@
+slug: sardan
+name:
+  en: Sardan
+  ja: サーダン
+  romaji: Sādan
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Dancing Instructor
+  status: current
+residences:
+- type: location
+  slug: alubarna
+  status: current

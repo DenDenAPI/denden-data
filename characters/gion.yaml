@@ -1,0 +1,28 @@
+slug: gion
+name:
+  en: Gion
+  ja: ギオン
+  romaji: Gion
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 907
+  episode: 887
+aliases:
+- en: Momousagi
+  ja: 桃兎
+  romaji: Momousagi
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

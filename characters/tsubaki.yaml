@@ -1,0 +1,19 @@
+slug: tsubaki
+name:
+  en: Tsubaki
+  ja: ツバキ
+  romaji: Tsubaki
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 280
+epithets:
+- en: Tsubaki at the Scene
+  ja: 現場のツバキ
+  romaji: Genba no Tsubaki
+occupations:
+- name: Reporter
+  status: current

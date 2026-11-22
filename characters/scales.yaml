@@ -1,0 +1,16 @@
+slug: scales
+name:
+  en: Scales
+  ja: ウロコ
+  romaji: Uroko
+canon: manga
+species:
+- sea_king
+status: alive
+first_appearance:
+  chapter: 525
+  episode: 567
+residences:
+- type: location
+  slug: calm-belt
+  status: current

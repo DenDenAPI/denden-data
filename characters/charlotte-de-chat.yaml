@@ -1,0 +1,18 @@
+slug: charlotte-de-chat
+name:
+  en: Charlotte De-Chat
+  ja: シャーロット・ドシャ
+  romaji: Shārotto Dosha
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+ages:
+- years: 11
+  period: other

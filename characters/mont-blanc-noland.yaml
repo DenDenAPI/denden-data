@@ -1,0 +1,41 @@
+slug: mont-blanc-noland
+name:
+  en: Mont Blanc Noland
+  ja: モンブラン・ノーランド
+  romaji: Monburan Nōrando
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 286
+  episode: 187
+epithets:
+- en: Liar Noland
+  ja: うそつきノーランド
+  romaji: Usotsuki Nōrando
+occupations:
+- name: Explorer
+  status: current
+- name: Botanist
+  status: current
+- name: Admiral
+  status: current
+affiliations:
+- type: location
+  slug: lvneel-kingdom
+  status: current
+- type: organization
+  slug: mont-blanc-family
+  status: current
+origin:
+  location: lvneel-kingdom
+  region: North Blue
+birthday:
+  month: 10
+  day: 9
+blood_type: S
+heights:
+- cm: 220
+  period: other

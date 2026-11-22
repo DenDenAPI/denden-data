@@ -1,0 +1,24 @@
+slug: nightin
+name:
+  en: Nightin
+  ja: ナイチン
+  romaji: Naichin
+canon: other
+gender: female
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+- name: Doctor
+  status: current
+- name: Ship Engineer
+  status: current
+affiliations:
+- type: crew
+  slug: world-pirates
+  status: current
+ages:
+- years: 80
+  period: other

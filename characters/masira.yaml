@@ -1,0 +1,47 @@
+slug: masira
+name:
+  en: Masira
+  ja: マシラ
+  romaji: Mashira
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 219
+  episode: 144
+epithets:
+- en: '"Salvage King" Masira'
+  ja: サルベージ王マシラ
+  romaji: Sarubēji-Ō Mashira
+occupations:
+- name: Pirate
+  status: current
+- name: Boss
+  status: current
+affiliations:
+- type: crew
+  slug: saruyama-alliance
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: jaya
+  status: current
+birthday:
+  month: 3
+  day: 4
+blood_type: F
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 345
+  period: other
+bounties:
+- amount: 23000000
+  status: current

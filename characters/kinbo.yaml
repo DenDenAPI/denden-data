@@ -1,0 +1,17 @@
+slug: kinbo
+name:
+  en: Kinbo
+  ja: キン坊
+  romaji: Kinbō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 917
+  episode: 904
+residences:
+- type: location
+  slug: wano-country
+  status: current

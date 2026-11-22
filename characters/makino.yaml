@@ -1,0 +1,42 @@
+slug: makino
+name:
+  en: Makino
+  ja: マキノ
+  romaji: Makino
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 4
+occupations:
+- name: Bar Owner
+  status: current
+- name: Bartender
+  status: current
+affiliations:
+- type: location
+  slug: foosha-village
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: foosha-village
+  status: current
+birthday:
+  month: 2
+  day: 23
+blood_type: S
+ages:
+- years: 19
+  period: debut
+- years: 29
+  period: pre_timeskip
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 166
+  period: other

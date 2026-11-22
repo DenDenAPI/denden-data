@@ -1,0 +1,21 @@
+slug: hasami
+name:
+  en: Hasami
+  ja: ハサミ
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 176
+  episode: 110
+occupations:
+- name: Ukkari Hot-Springs Resort Transportation
+  status: current
+affiliations:
+- type: location
+  slug: ukkari-hot-spring-island
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

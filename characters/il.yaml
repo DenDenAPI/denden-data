@@ -1,0 +1,14 @@
+slug: il
+name:
+  en: Il
+  ja: イル
+  romaji: Iru
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: tongari-island
+  status: current

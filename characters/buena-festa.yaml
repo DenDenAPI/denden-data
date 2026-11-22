@@ -1,0 +1,29 @@
+slug: buena-festa
+name:
+  en: Buena Festa
+  ja: ブエナ・フェスタ
+  romaji: Buena Fesuta
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 895
+epithets:
+- en: Master of Festivities
+  ja: 祭り屋
+  romaji: Matsuri-ya
+- en: Worst Warmonger
+  ja: 最悪の戦争仕掛け人
+  romaji: Saiaku no Sensō Shikake-nin
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: festival-pirates
+  status: current
+ages:
+- years: 70
+  period: other

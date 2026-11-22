@@ -1,0 +1,24 @@
+slug: mr-7
+name:
+  en: Mr. 7
+  ja: Mr. 7
+  romaji: Misutā Sebun
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 205
+  episode: 124
+aliases:
+- en: Mr. 7
+occupations:
+- name: Frontier Agent
+  status: former
+- name: Sniper
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

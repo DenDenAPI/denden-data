@@ -1,0 +1,17 @@
+slug: trafalgar-lami
+name:
+  en: Trafalgar Lami
+  ja: トラファルガー・ラミ
+  romaji: Torafarugā Rami
+canon: manga
+gender: female
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 762
+  episode: 701
+residences:
+- type: location
+  slug: flevance
+  status: current

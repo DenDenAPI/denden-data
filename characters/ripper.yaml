@@ -1,0 +1,35 @@
+slug: ripper
+name:
+  en: Ripper
+  ja: リッパー
+  romaji: Rippā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 7
+  episode: 3
+occupations:
+- name: Marine Commander
+  status: current
+- name: Base Commander
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: shells-town
+  status: current
+birthday:
+  month: 6
+  day: 13
+bounties:
+- amount: 1000000
+  status: current
+  minimum: true

@@ -1,0 +1,21 @@
+slug: cidre
+name:
+  en: Cidre
+  ja: シードル
+  romaji: Shīdoru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 895
+occupations:
+- name: Bounty Hunter
+  status: current
+- name: Cidre Guild Leader
+  status: current
+affiliations:
+- type: organization
+  slug: cidre-guild
+  status: current

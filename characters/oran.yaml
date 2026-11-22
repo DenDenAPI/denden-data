@@ -1,0 +1,17 @@
+slug: oran
+name:
+  en: Oran
+  ja: オラン
+  romaji: Oran
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 391
+  episode: 275
+residences:
+- type: location
+  slug: ohara
+  status: current

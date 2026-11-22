@@ -1,0 +1,16 @@
+slug: kau-ra-kau
+name:
+  en: Kau Ra Kau
+  ja: カウ・ラ・カウ
+  romaji: Kau ra Kau
+canon: other
+species:
+- robot
+status: deceased
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current

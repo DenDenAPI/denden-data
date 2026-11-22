@@ -1,0 +1,13 @@
+slug: pogo
+name:
+  en: Pogo
+  ja: ポーゴ
+  romaji: Pōgo
+canon: movie
+gender: male
+species:
+- giant
+status: alive
+occupations:
+- name: Pirate
+  status: current

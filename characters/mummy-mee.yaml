@@ -1,0 +1,30 @@
+slug: mummy-mee
+name:
+  en: Mummy Mee
+  ja: マミーミー
+  romaji: Mamīmī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 79
+  episode: 35
+occupations:
+- name: Housemother
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  location: conomi-islands
+  region: East Blue
+residences:
+- type: location
+  slug: cocoyasi-village
+  status: current
+birthday:
+  month: 11
+  day: 21

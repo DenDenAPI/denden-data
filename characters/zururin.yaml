@@ -1,0 +1,20 @@
+slug: zururin
+name:
+  en: Zururin
+  ja: ズルーリン
+  romaji: Zurūrin
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 621
+  episode: 540
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-kingdom
+  status: current

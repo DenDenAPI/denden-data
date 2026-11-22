@@ -1,0 +1,29 @@
+slug: saldeath
+name:
+  en: Saldeath
+  ja: サルデス
+  romaji: Sarudesu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 530
+  episode: 431
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 6
+  day: 8
+blood_type: F
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 218
+  period: post_timeskip

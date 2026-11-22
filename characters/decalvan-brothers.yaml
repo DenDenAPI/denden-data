@@ -1,0 +1,25 @@
+slug: decalvan-brothers
+name:
+  en: Decalvan Brothers
+  ja: ディカルバン兄弟
+  romaji: Dikaruban Kyōdai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 551
+  episode: 460
+occupations:
+- name: Pirates
+  status: current
+- name: Captains
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 5
+  day: 22

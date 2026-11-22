@@ -1,0 +1,17 @@
+slug: julie
+name:
+  en: Julie
+  ja: ジュリー
+  romaji: Jurī
+canon: other
+gender: female
+species:
+- animal
+status: alive
+occupations:
+- name: Fashion Designer
+  status: current
+residences:
+- type: location
+  slug: waford
+  status: current

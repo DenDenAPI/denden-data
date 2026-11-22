@@ -1,0 +1,40 @@
+slug: gan-fall
+name:
+  en: Gan Fall
+  ja: ガン・フォール
+  romaji: Gan Fōru
+canon: manga
+gender: male
+species:
+- skypiean
+status: alive
+first_appearance:
+  chapter: 237
+  episode: 153
+epithets:
+- en: Knight of the Sky
+  ja: 空の騎士
+  romaji: Sora no Kishi
+occupations:
+- name: God of Skypiea
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: location
+  slug: skypiea
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 12
+  day: 22
+blood_type: X
+ages:
+- years: 66
+  period: debut
+- years: 68
+  period: post_timeskip
+heights:
+- cm: 180
+  period: other

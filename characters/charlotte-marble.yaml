@@ -1,0 +1,29 @@
+slug: charlotte-marble
+name:
+  en: Charlotte Marble
+  ja: シャーロット・マーブル
+  romaji: Shārotto Māburu
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 894
+  episode: 869
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 11
+  day: 17
+ages:
+- years: 25
+  period: other

@@ -1,0 +1,14 @@
+slug: jelly-island
+name:
+  en: Jelly Island
+  ja: ゼリー島
+  romaji: Zerī-tō
+canon: manga
+first_appearance:
+  chapter: 894
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

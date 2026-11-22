@@ -1,0 +1,18 @@
+slug: kitajima
+name:
+  en: Kitajima
+  ja: キタジマ
+canon: movie
+gender: male
+species:
+- fish_man
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Golden Lion Pirates' ally
+  status: current
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current

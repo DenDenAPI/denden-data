@@ -1,0 +1,25 @@
+slug: elmy
+name:
+  en: Elmy
+  ja: エルミー
+  romaji: Erumī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 551
+  episode: 460
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+birthday:
+  month: 6
+  day: 30

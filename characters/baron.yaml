@@ -1,0 +1,15 @@
+slug: baron
+name:
+  en: Baron
+  ja: バーロン
+  romaji: Bāron
+canon: movie
+gender: male
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: long-long-pirates
+  status: current

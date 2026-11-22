@@ -1,0 +1,29 @@
+slug: ripley
+name:
+  en: Ripley
+  ja: リプリー
+  romaji: Ripurī
+canon: manga
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Warrior
+  status: current
+- name: Biology Teacher
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 80
+  period: other

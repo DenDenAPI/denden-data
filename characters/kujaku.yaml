@@ -1,0 +1,39 @@
+slug: kujaku
+name:
+  en: Kujaku
+  ja: 孔雀
+  romaji: Kujaku
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 966
+  episode: 1090
+occupations:
+- name: Rear Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: g-14
+  status: current
+birthday:
+  month: 9
+  day: 18
+blood_type: X
+ages:
+- years: 26
+  period: other
+heights:
+- cm: 180
+  period: other
+marine_rating:
+  stars: 5
+  equivalent: 500000000

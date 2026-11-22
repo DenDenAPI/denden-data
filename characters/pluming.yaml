@@ -1,0 +1,24 @@
+slug: pluming
+name:
+  en: Pluming
+  ja: プルミング聖
+  romaji: Purumingu Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1083
+  episode: 1117
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

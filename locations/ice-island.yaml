@@ -1,0 +1,14 @@
+slug: ice-island
+name:
+  en: Ice Island
+  ja: アイス島
+  romaji: Aisu-tō
+canon: manga
+first_appearance:
+  chapter: 899
+  episode: 874
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

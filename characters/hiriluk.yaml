@@ -1,0 +1,32 @@
+slug: hiriluk
+name:
+  en: Hiriluk
+  ja: Dr. ヒルルク
+  romaji: Dokutā Hiruruku
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 141
+  episode: 85
+occupations:
+- name: Doctor
+  status: current
+- name: Thief
+  status: former
+origin:
+  location: sakura-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: drum-island
+  status: current
+birthday:
+  month: 1
+  day: 12
+blood_type: F
+heights:
+- cm: 213
+  period: other

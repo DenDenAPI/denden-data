@@ -1,0 +1,17 @@
+slug: oiwa
+name:
+  en: Oiwa
+  ja: 大岩
+  romaji: Ōiwa
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,32 @@
+slug: charlotte-kanten
+name:
+  en: Charlotte Kanten
+  ja: シャーロット・カンテン
+  romaji: Shārotto Kanten
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 839
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Agar
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: jelly-island
+  status: current
+ages:
+- years: 28
+  period: other

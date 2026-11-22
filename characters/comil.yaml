@@ -1,0 +1,36 @@
+slug: comil
+name:
+  en: Comil
+  ja: コーミル
+  romaji: Kōmiru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 289
+  episode: 421
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Base Commander of G-2
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-2
+  status: current
+residences:
+- type: location
+  slug: g-2
+  status: current
+birthday:
+  month: 10
+  day: 1
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

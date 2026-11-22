@@ -1,0 +1,19 @@
+slug: camel
+name:
+  en: Camel
+  ja: キャメル
+  romaji: Kyameru
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 695
+  episode: 621
+occupations:
+- name: Kuzan's traveling companion
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: former

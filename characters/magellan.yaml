@@ -1,0 +1,36 @@
+slug: magellan
+name:
+  en: Magellan
+  ja: マゼラン
+  romaji: Mazeran
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 528
+  episode: 425
+occupations:
+- name: Vice Warden
+  status: current
+- name: Chief Warden
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 10
+  day: 9
+blood_type: X
+ages:
+- years: 45
+  period: debut
+- years: 47
+  period: post_timeskip
+heights:
+- cm: 491
+  period: other

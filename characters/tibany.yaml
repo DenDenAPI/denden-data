@@ -1,0 +1,22 @@
+slug: tibany
+name:
+  en: Tibany
+  ja: ティバニー
+  romaji: Tibanī
+canon: manga
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 543
+  episode: 419
+occupations:
+- name: Okama
+  status: current
+affiliations:
+- type: location
+  slug: momoiro-island
+  status: current
+birthday:
+  month: 6
+  day: 19

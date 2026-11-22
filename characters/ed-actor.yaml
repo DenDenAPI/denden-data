@@ -1,0 +1,13 @@
+slug: ed-actor
+name:
+  en: Ed (Actor)
+  ja: エド
+  romaji: Edo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Actor
+  status: current

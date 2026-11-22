@@ -1,0 +1,14 @@
+slug: jim
+name:
+  en: Jim
+  ja: ジム
+  romaji: Jimu
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+affiliations:
+- type: organization
+  slug: marines
+  status: current

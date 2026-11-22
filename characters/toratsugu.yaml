@@ -1,0 +1,22 @@
+slug: toratsugu
+name:
+  en: Toratsugu
+  ja: 虎次
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Florist/Teacher of ikebana
+  status: former
+- name: Prisoner
+  status: former
+affiliations:
+- type: organization
+  slug: hitaki-family
+  status: current
+residences:
+- type: location
+  slug: yo
+  status: current

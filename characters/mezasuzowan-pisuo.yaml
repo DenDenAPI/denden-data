@@ -1,0 +1,19 @@
+slug: mezasuzowan-pisuo
+name:
+  en: Mezasuzowan Pisuo
+  ja: メザスゾワン・ピースオ
+  romaji: Mezasuzowan Pīsuo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 963
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: germ-pirates
+  status: current

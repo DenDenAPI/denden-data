@@ -1,0 +1,13 @@
+slug: regen
+name:
+  en: Regen
+  ja: リーゼン
+  romaji: Rīzen
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Cook Apprentice
+  status: current

@@ -1,0 +1,23 @@
+slug: boss-luffy-historical-special
+order: 38
+name:
+  en: Boss Luffy Historical Special
+kind: special
+canon: anime_only
+sagas:
+- summit-war-saga
+episodes:
+  count: 5
+  ranges:
+  - start: 291
+    end: 292
+  - start: 303
+    end: 303
+  - start: 406
+    end: 407
+special_episodes:
+- 4
+years:
+  anime:
+    start: 2005
+    end: 2009

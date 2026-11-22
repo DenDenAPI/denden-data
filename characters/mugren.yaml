@@ -1,0 +1,20 @@
+slug: mugren
+name:
+  en: Mugren
+  ja: ミュグレン大佐
+  romaji: Myuguren Taisa
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+  episode: 966
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

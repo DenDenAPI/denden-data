@@ -1,0 +1,35 @@
+slug: charlotte-marnier
+name:
+  en: Charlotte Marnier
+  ja: シャーロット・マルニエ
+  romaji: Shārotto Marunie
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 861
+  episode: 834
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Yeast
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: kibo-island
+  status: current
+birthday:
+  month: 12
+  day: 20
+ages:
+- years: 37
+  period: other

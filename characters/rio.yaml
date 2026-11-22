@@ -1,0 +1,14 @@
+slug: rio
+name:
+  en: Rio
+  ja: リオ
+  romaji: Rio
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: samba-island
+  status: current

@@ -1,0 +1,51 @@
+slug: issho
+name:
+  en: Issho
+  ja: イッショウ
+  romaji: Isshō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 701
+  episode: 630
+aliases:
+- en: Fujitora
+  ja: 藤虎
+  romaji: Fujitora
+occupations:
+- name: Admiral
+  status: current
+- name: Guard Captain
+  status: former
+- name: Bodyguard
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: aoi-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: aoi-kingdom
+  status: former
+- type: location
+  slug: soja-island
+  status: former
+birthday:
+  month: 8
+  day: 10
+blood_type: S
+ages:
+- years: 54
+  period: other
+heights:
+- cm: 270
+  period: other
+marine_rating:
+  stars: 3
+  equivalent: 3000000000

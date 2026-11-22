@@ -1,0 +1,17 @@
+slug: eisha
+name:
+  en: Eisha
+  ja: エイシャ
+  romaji: Eisha
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

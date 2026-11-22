@@ -1,0 +1,11 @@
+slug: barbar-pirates
+name:
+  en: Barbar Pirates
+  ja: バルバル団
+  romaji: Barubaru Dan
+canon: anime_only
+first_appearance:
+  episode: 97
+captains:
+- character: barbarossa
+  status: current

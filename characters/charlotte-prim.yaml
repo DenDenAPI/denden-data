@@ -1,0 +1,32 @@
+slug: charlotte-prim
+name:
+  en: Charlotte Prim
+  ja: シャーロット・プリム
+  romaji: Shārotto Purimu
+canon: manga
+gender: female
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 896
+  episode: 871
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: totto-land
+  region: Grand Line
+birthday:
+  month: 7
+  day: 22
+ages:
+- years: 29
+  period: other

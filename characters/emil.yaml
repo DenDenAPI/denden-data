@@ -1,0 +1,24 @@
+slug: emil
+name:
+  en: Emil
+  ja: エミル
+  romaji: Emiru
+canon: manga
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1134
+  episode: 1164
+occupations:
+- name: Student
+  status: current
+affiliations:
+- type: location
+  slug: walrus-school
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

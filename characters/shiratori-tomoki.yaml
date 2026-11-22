@@ -1,0 +1,12 @@
+slug: shiratori-tomoki
+name:
+  en: Shiratori Tomoki
+  ja: 白鳥友樹
+  romaji: Shiratori Tomoki
+canon: other
+gender: male
+status: alive
+affiliations:
+- type: location
+  slug: miraba-elementary-school
+  status: current

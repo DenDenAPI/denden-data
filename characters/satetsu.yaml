@@ -1,0 +1,17 @@
+slug: satetsu
+name:
+  en: Satetsu
+  ja: サテツ
+  romaji: Satetsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Swordsmith
+  status: current
+residences:
+- type: location
+  slug: blacksmith-village
+  status: current

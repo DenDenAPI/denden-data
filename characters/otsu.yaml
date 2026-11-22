@@ -1,0 +1,21 @@
+slug: otsu
+name:
+  en: Otsu
+  ja: オツ
+  romaji: Otsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Otsu the Gentle Breeze
+  ja: 微風のオツ
+  romaji: Soyokaze no Otsu
+occupations:
+- name: bandit
+  status: current
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

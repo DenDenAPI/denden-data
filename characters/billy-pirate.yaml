@@ -1,0 +1,24 @@
+slug: billy-pirate
+name:
+  en: Billy (Pirate)
+  ja: ビリー
+  romaji: Birī
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: The Orca Killer
+  ja: 鯱殺し
+  romaji: Shachi Goroshi
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: yes-pirates
+  status: current
+bounties:
+- amount: 3000000
+  status: former

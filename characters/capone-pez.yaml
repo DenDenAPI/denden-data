@@ -1,0 +1,30 @@
+slug: capone-pez
+name:
+  en: Capone Pez
+  ja: カポネ・ペッツ
+  romaji: Kapone Pettsu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 834
+  episode: 795
+epithets:
+- en: Gang
+  ja: ギャング
+  romaji: Gyangu
+affiliations:
+- type: crew
+  slug: fire-tank-pirates
+  status: current
+- type: organization
+  slug: charlotte-family
+  status: current
+birthday:
+  month: 1
+  day: 22
+ages:
+- years: 1
+  period: other

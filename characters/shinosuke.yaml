@@ -1,0 +1,25 @@
+slug: shinosuke
+name:
+  en: Shinosuke
+  ja: 忍助
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 955
+  episode: 956
+occupations:
+- name: Ninja
+  status: current
+- name: Retainer
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,14 @@
+slug: baltigo
+name:
+  en: Baltigo
+  ja: バルティゴ
+  romaji: Barutigo
+canon: manga
+first_appearance:
+  chapter: 440
+  episode: 324
+region: Grand Line
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current

@@ -1,0 +1,17 @@
+slug: emmy
+name:
+  en: Emmy
+  ja: エミー
+  romaji: Emī
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: current

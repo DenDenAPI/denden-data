@@ -1,0 +1,20 @@
+slug: kinga
+name:
+  en: Kinga
+  ja: キンガ
+  romaji: Kinga
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 570
+  episode: 467
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

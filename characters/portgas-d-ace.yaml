@@ -1,0 +1,69 @@
+slug: portgas-d-ace
+name:
+  en: Portgas D. Ace
+  ja: ポートガス・D・エース
+  romaji: Pōtogasu Dī Ēsu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 154
+  episode: 91
+epithets:
+- en: '"Fire Fist" Ace'
+  ja: 火拳のエース
+  romaji: Hiken no Ēsu
+occupations:
+- name: 2nd Division Commander
+  status: current
+- name: Pirate
+  status: current
+- name: Captain
+  status: former
+- name: Prisoner of the Great Prison
+  status: former
+- name: Thief
+  status: former
+- name: Bandit
+  status: former
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+- type: crew
+  slug: spade-pirates
+  status: former
+- type: organization
+  slug: dadan-family
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  location: baterilla
+  region: South Blue
+residences:
+- type: location
+  slug: baterilla
+  status: former
+- type: location
+  slug: mt-colubo
+  status: former
+birthday:
+  month: 1
+  day: 1
+blood_type: S
+heights:
+- cm: 185
+  period: other
+- cm: 103
+  period: other
+bounties:
+- amount: 100000000
+  status: former
+  minimum: true
+  canon: other
+- amount: 550000000
+  status: former

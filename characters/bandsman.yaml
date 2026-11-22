@@ -1,0 +1,13 @@
+slug: bandsman
+name:
+  en: Bandsman
+  ja: バンドマン
+  romaji: Bandoman
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Musician
+  status: current

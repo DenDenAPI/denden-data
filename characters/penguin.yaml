@@ -1,0 +1,40 @@
+slug: penguin
+name:
+  en: Penguin
+  ja: ペンギン
+  romaji: Pengin
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 498
+  episode: 392
+occupations:
+- name: Pirate
+  status: current
+- name: Waiter
+  status: former
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: swallow-island
+  status: former
+birthday:
+  month: 4
+  day: 25
+blood_type: X
+ages:
+- years: 26
+  period: debut
+- years: 28
+  period: post_timeskip

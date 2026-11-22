@@ -1,0 +1,20 @@
+slug: rabbitman
+name:
+  en: Rabbitman
+  ja: ラビットマン
+  romaji: Rabittoman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 916
+  episode: 904
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

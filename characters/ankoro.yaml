@@ -1,0 +1,22 @@
+slug: ankoro
+name:
+  en: Ankoro
+  ja: アンコロ
+  romaji: Ankoro
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 606
+  episode: 525
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: flying-pirates
+  status: current
+birthday:
+  month: 11
+  day: 23

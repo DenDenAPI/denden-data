@@ -1,0 +1,41 @@
+slug: matsuge
+name:
+  en: Matsuge
+  ja: 睫毛（マツゲ）
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 162
+  episode: 93
+occupations:
+- name: Royal Transport
+  status: current
+- name: Member of the Super Spot-Billed Duck Troops
+  status: current
+affiliations:
+- type: organization
+  slug: super-spot-billed-duck-troops
+  status: current
+origin:
+  location: arabasta-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: alubarna
+  status: current
+- type: location
+  slug: rainbase
+  status: former
+birthday:
+  month: 8
+  day: 17
+blood_type: F
+ages:
+- years: 15
+  period: debut
+- years: 17
+  period: post_timeskip
+heights:
+- cm: 190
+  period: other

@@ -1,0 +1,18 @@
+slug: mocdonald
+name:
+  en: MocDonald
+  ja: モクドナルド
+  romaji: Mokudonarudo
+canon: manga
+gender: male
+status: deceased
+first_appearance:
+  chapter: 445
+  episode: 340
+occupations:
+- name: Wild Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current

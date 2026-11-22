@@ -1,0 +1,23 @@
+slug: octopako
+name:
+  en: Octopako
+  ja: オクトパ子
+  romaji: Okutopako
+canon: manga
+gender: female
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 203
+  episode: 531
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: gyoverly-hills
+  status: current
+birthday:
+  month: 8
+  day: 5

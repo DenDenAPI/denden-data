@@ -1,0 +1,14 @@
+slug: blow
+name:
+  en: Blow
+  ja: ブロー
+  romaji: Burō
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: royal-sun-island
+  status: current

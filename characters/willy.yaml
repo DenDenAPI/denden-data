@@ -1,0 +1,17 @@
+slug: willy
+name:
+  en: Willy
+  ja: ウィリー
+  romaji: Wirī
+canon: movie
+gender: male
+species:
+- fish_man
+status: unknown
+occupations:
+- name: Pirate Captain
+  status: current
+bounties:
+- amount: 20000000
+  status: current
+  canon: movie

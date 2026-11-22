@@ -1,0 +1,39 @@
+slug: kalifa
+name:
+  en: Kalifa
+  ja: カリファ
+  romaji: Karifa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Secretary
+  status: former
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+- type: organization
+  slug: galley-la-company
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 4
+  day: 23
+blood_type: XF
+ages:
+- years: 25
+  period: debut
+- years: 27
+  period: post_timeskip
+heights:
+- cm: 185
+  period: other

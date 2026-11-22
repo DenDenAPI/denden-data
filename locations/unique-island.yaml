@@ -1,0 +1,13 @@
+slug: unique-island
+name:
+  en: Unique Island
+  ja: ユニーク 島
+  romaji: Yunīku-tō
+canon: anime_only
+first_appearance:
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

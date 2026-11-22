@@ -1,0 +1,15 @@
+slug: zaraza
+name:
+  en: Zaraza
+  ja: ザラーザ
+  romaji: Zarāza
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: bandit
+  status: current
+- name: Traveler Guide
+  status: current

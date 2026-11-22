@@ -1,0 +1,13 @@
+slug: black-island
+name:
+  en: Black Island
+  ja: ブラック島
+  romaji: Burakku-tō
+canon: anime_only
+first_appearance:
+  episode: 868
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

@@ -1,0 +1,23 @@
+slug: kibin
+name:
+  en: Kibin
+  ja: キビン
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 594
+  episode: 475
+occupations:
+- name: Marine Commodore
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

@@ -1,0 +1,87 @@
+slug: buggy
+name:
+  en: Buggy
+  ja: バギー
+  romaji: Bagī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 9
+  episode: 4
+epithets:
+- en: Buggy the Clown
+  ja: 道化のバギー
+  romaji: Dōke no Bagī
+- en: Buggy the Star Clown
+  ja: 千両道化のバギー
+  romaji: Senryō Dōke no Bagī
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Emperor
+  status: current
+- name: Figurehead President of Cross Guild
+  status: current
+- name: Chairman of Buggy's Delivery
+  status: former
+- name: Warlord of the Sea
+  status: former
+- name: Apprentice
+  status: former
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: organization
+  slug: cross-guild
+  status: current
+- type: organization
+  slug: four-emperors
+  status: current
+- type: crew
+  slug: buggy-pirates
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: former
+- type: crew
+  slug: buggy-and-alvida-alliance
+  status: former
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: karai-bari-island
+  status: current
+- type: location
+  slug: orange-town
+  status: former
+birthday:
+  month: 8
+  day: 8
+blood_type: F
+ages:
+- years: 37
+  period: debut
+- years: 39
+  period: post_timeskip
+heights:
+- cm: 192
+  period: other
+- cm: 130
+  period: other
+bounties:
+- amount: 15000000
+  status: former
+  revealed_chapter: 96
+- amount: 3189000000
+  status: current
+  revealed_chapter: 1058

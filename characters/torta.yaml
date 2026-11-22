@@ -1,0 +1,14 @@
+slug: torta
+name:
+  en: Torta
+  ja: トルタ
+  romaji: Toruta
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: festa-circle
+  status: current

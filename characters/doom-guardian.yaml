@@ -1,0 +1,10 @@
+slug: doom-guardian
+name:
+  en: Doom Guardian
+  ja: 裁きの番人 滅びの鬼神
+  romaji: Sabaki no Ban'nin Horobi no Kijin
+canon: other
+status: alive
+occupations:
+- name: Guardian
+  status: current

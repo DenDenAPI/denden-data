@@ -1,0 +1,36 @@
+slug: donquixote-mjosgard
+name:
+  en: Donquixote Mjosgard
+  ja: ドンキホーテ・ミョスガルド聖
+  romaji: Donkihōte Myosugarudo Sei
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 625
+  episode: 545
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 12
+  day: 13
+blood_type: X
+ages:
+- years: 25
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 211
+  period: other

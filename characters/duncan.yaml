@@ -1,0 +1,21 @@
+slug: duncan
+name:
+  en: Duncan
+  ja: ダンカン
+  romaji: Dankan
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: tongari-island
+  status: current

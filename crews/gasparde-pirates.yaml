@@ -1,0 +1,10 @@
+slug: gasparde-pirates
+name:
+  en: Gasparde Pirates
+  ja: ガスパーデ海賊団
+  romaji: Gasupāde Kaizokudan
+canon: movie
+status: disbanded
+captains:
+- character: gasparde
+  status: current

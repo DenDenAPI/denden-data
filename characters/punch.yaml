@@ -1,0 +1,14 @@
+slug: punch
+name:
+  en: Punch
+  ja: パンチ
+  romaji: Panchi
+canon: other
+gender: male
+species:
+- animal
+status: alive
+residences:
+- type: location
+  slug: royal-sun-island
+  status: current

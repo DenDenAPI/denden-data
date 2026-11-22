@@ -1,0 +1,42 @@
+slug: gladius
+name:
+  en: Gladius
+  ja: グラディウス
+  romaji: Guradiusu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 682
+  episode: 608
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 8
+  day: 6
+blood_type: XF
+ages:
+- years: 33
+  period: other
+heights:
+- cm: 260
+  period: other
+bounties:
+- amount: 31000000
+  status: former

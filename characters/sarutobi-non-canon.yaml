@@ -1,0 +1,23 @@
+slug: sarutobi-non-canon
+name:
+  en: Sarutobi (Non-Canon)
+  ja: サルトビ
+  romaji: Sarutobi
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Spider" Sarutobi'
+  ja: クモノサルトビ
+  romaji: Kumo no Sarutobi
+occupations:
+- name: Pirate
+  status: current
+- name: Ninja
+  status: current
+affiliations:
+- type: crew
+  slug: new-donquixote-family
+  status: current

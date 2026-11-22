@@ -1,0 +1,9 @@
+slug: tearoom-pirates
+name:
+  en: Tearoom Pirates
+  ja: お茶の間海賊団
+  romaji: Ochanoma Kaizokudan
+canon: movie
+captains:
+- character: ochanoma-papa
+  status: current

@@ -1,0 +1,12 @@
+slug: gyro-pirates
+name:
+  en: Gyro Pirates
+  ja: ジャイロ海賊団
+  romaji: Jairo Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 611
+  episode: 530
+captains:
+- character: gyro
+  status: current

@@ -1,0 +1,43 @@
+slug: zambai
+name:
+  en: Zambai
+  ja: ザンバイ
+  romaji: Zanbai
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 324
+  episode: 230
+occupations:
+- name: Dismantler
+  status: current
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: organization
+  slug: galley-la-company
+  status: current
+- type: organization
+  slug: franky-family
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 3
+  day: 8
+blood_type: S
+ages:
+- years: 33
+  period: debut
+- years: 35
+  period: post_timeskip
+heights:
+- cm: 227
+  period: other

@@ -1,0 +1,44 @@
+slug: sakazuki
+name:
+  en: Sakazuki
+  ja: サカズキ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 397
+  episode: 278
+aliases:
+- en: Akainu
+  ja: 赤犬
+  romaji: Akainu
+occupations:
+- name: Fleet Admiral
+  status: current
+- name: Admiral
+  status: former
+- name: Vice Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 8
+  day: 16
+blood_type: F
+ages:
+- years: 53
+  period: debut
+- years: 55
+  period: post_timeskip
+heights:
+- cm: 306
+  period: other
+marine_rating:
+  stars: 5
+  equivalent: 5000000000

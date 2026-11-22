@@ -1,0 +1,26 @@
+slug: charlotte-anana
+name:
+  en: Charlotte Anana
+  ja: シャーロット・アナナ
+  romaji: Shārotto Anana
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 4
+  day: 17
+ages:
+- years: 8
+  period: other

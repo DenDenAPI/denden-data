@@ -1,0 +1,17 @@
+slug: garays
+name:
+  en: Garays
+  ja: ガレース
+  romaji: Garēsu
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Jewelry Designer
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

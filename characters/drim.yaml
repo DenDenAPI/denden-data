@@ -1,0 +1,15 @@
+slug: drim
+name:
+  en: Drim
+  ja: ドリム
+  romaji: Dorimu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 220
+occupations:
+- name: Citizen
+  status: current

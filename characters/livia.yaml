@@ -1,0 +1,14 @@
+slug: livia
+name:
+  en: Livia
+  ja: リビア
+  romaji: Ribia
+canon: other
+gender: female
+species:
+- human
+status: deceased
+residences:
+- type: location
+  slug: alchemi
+  status: former

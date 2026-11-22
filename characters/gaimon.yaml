@@ -1,0 +1,36 @@
+slug: gaimon
+name:
+  en: Gaimon
+  ja: ガイモン
+  romaji: Gaimon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 22
+  episode: 18
+occupations:
+- name: Guardian of the Island of Rare Animals
+  status: current
+- name: Pirate
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: island-of-rare-animals
+  status: current
+birthday:
+  month: 8
+  day: 5
+blood_type: X
+ages:
+- years: 43
+  period: debut
+- years: 45
+  period: post_timeskip
+heights:
+- cm: 130
+  period: other

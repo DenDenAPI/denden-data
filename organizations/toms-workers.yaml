@@ -1,0 +1,18 @@
+slug: toms-workers
+name:
+  en: Tom's Workers
+  ja: トムズワーカーズ
+  romaji: Tomuzu Wākāzu
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 353
+  episode: 248
+leaders:
+- character: tom
+  status: current
+affiliations:
+- type: location
+  slug: water-7
+  status: current
+residences: []

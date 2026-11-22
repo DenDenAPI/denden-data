@@ -1,0 +1,18 @@
+slug: kotatsu
+name:
+  en: Kotatsu
+  ja: コタツ
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 552
+  episode: 461
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: spade-pirates
+  status: current

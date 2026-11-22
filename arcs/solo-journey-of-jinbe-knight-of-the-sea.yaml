@@ -1,0 +1,24 @@
+slug: solo-journey-of-jinbe-knight-of-the-sea
+order: 55
+name:
+  en: Solo Journey of Jinbe, Knight of the Sea
+  ja: ジンベエの海侠一人旅
+  romaji: Jinbē no Kaikyō Hitoritabi
+kind: cover_story
+canon: manga
+sagas:
+- dressrosa-saga
+chapters:
+  count: 28
+  ranges:
+  - start: 751
+    end: 785
+volumes:
+  count: 4
+  ranges:
+  - start: 75
+    end: 78
+years:
+  manga:
+    start: 2014
+    end: 2015

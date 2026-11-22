@@ -1,0 +1,19 @@
+slug: joke
+name:
+  en: Joke
+  ja: ジョーク
+  romaji: Jōku
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Pirate Captain
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: oceans-navel
+  status: current

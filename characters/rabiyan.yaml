@@ -1,0 +1,19 @@
+slug: rabiyan
+name:
+  en: Rabiyan
+  ja: ラビヤン
+  romaji: Rabiyan
+canon: manga
+species:
+- homie
+status: alive
+first_appearance:
+  chapter: 827
+  episode: 786
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: location
+  slug: cacao-island
+  status: current

@@ -1,0 +1,21 @@
+slug: great-michael
+name:
+  en: Great Michael
+  ja: グレートミカエル
+  romaji: Gurēto Mikaeru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 563
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

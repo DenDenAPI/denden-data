@@ -1,0 +1,17 @@
+slug: harasho
+name:
+  en: Harasho
+  ja: ハラショ
+  romaji: Harasho
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: banzai-pirates
+  status: current

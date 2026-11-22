@@ -1,0 +1,14 @@
+slug: gods-guards
+name:
+  en: God's Guards
+  ja: 神の護衛隊
+  romaji: Kami no Goei-tai
+canon: manga
+first_appearance:
+  chapter: 648
+leaders: []
+affiliations:
+- type: location
+  slug: skypiea
+  status: current
+residences: []

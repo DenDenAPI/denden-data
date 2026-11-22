@@ -1,0 +1,11 @@
+slug: dacson
+name:
+  en: Dacson
+  ja: ダクソン
+  romaji: Dakuson
+canon: movie
+gender: male
+status: alive
+occupations:
+- name: Musician
+  status: current

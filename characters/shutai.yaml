@@ -1,0 +1,19 @@
+slug: shutai
+name:
+  en: Shutai
+  ja: シュウタイ
+  romaji: Shūtai
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 51
+epithets:
+- en: Shutai the Lizard
+  ja: トカゲのシュウタイ
+  romaji: Tokage no Shūtai
+occupations:
+- name: Cook
+  status: current

@@ -1,0 +1,20 @@
+slug: raccoon
+name:
+  en: Raccoon
+  ja: ラクーン
+  romaji: Rakūn
+canon: other
+gender: male
+species:
+- human
+status: unknown
+epithets:
+- en: Pretended Sleep
+  ja: 狸寝入りのラクーン
+  romaji: Tanukineiri no Rakūn
+occupations:
+- name: Pirate Captain
+  status: current
+bounties:
+- amount: 75000000
+  status: current

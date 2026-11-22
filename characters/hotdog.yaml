@@ -1,0 +1,24 @@
+slug: hotdog
+name:
+  en: Hotdog
+  ja: ホットドッグ
+  romaji: Hottodoggu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Hotdog the Mad Dog
+  ja: 狂犬のホットドッグ
+  romaji: Kyōken no Hottodoggu
+- en: General Hotdog
+  ja: ホットドッグ将軍
+  romaji: Hottodoggu Shōgun
+occupations:
+- name: Battler's henchman
+  status: current
+bounties:
+- amount: 4000000
+  status: current
+  canon: movie

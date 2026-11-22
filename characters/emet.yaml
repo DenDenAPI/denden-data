@@ -1,0 +1,23 @@
+slug: emet
+name:
+  en: Emet
+  ja: エメト
+  romaji: Emeto
+canon: manga
+species:
+- robot
+status: unknown
+first_appearance:
+  chapter: 1065
+  episode: 1095
+epithets:
+- en: Iron Giant
+  ja: 鉄の巨人
+  romaji: Tetsu no Kyojin
+residences:
+- type: location
+  slug: egghead
+  status: current
+ages:
+- years: 900
+  period: other

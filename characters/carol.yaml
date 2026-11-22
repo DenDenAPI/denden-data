@@ -1,0 +1,16 @@
+slug: carol
+name:
+  en: Carol
+  ja: キャロル
+  romaji: Kyaroru
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 50
+residences:
+- type: location
+  slug: loguetown
+  status: current

@@ -1,0 +1,19 @@
+slug: rangram
+name:
+  en: Rangram
+  ja: ラングラム
+  romaji: Ranguramu
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

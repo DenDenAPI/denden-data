@@ -1,0 +1,16 @@
+slug: gum
+name:
+  en: Gum
+  ja: ガム
+  romaji: Gamu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 830
+affiliations:
+- type: organization
+  slug: organ-dealing-assassination-group
+  status: current

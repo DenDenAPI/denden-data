@@ -1,0 +1,19 @@
+slug: count-times
+name:
+  en: Count Times
+  ja: タイムス伯爵
+  romaji: Taimusu Hakushaku
+canon: movie
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Press King
+  ja: 新聞王
+  romaji: Shinbun-ō
+occupations:
+- name: Reporter
+  status: current
+- name: Turtle Car Racer
+  status: current

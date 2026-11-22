@@ -1,0 +1,22 @@
+slug: dynamo-team
+name:
+  en: Dynamo Team
+  ja: ダイナモ部隊
+  romaji: Dainamo Butai
+canon: anime_only
+status: disbanded
+first_appearance:
+  episode: 139
+leaders:
+- character: lake
+  status: current
+- character: wetton
+  status: current
+affiliations:
+- type: organization
+  slug: ruluka-government
+  status: current
+residences:
+- type: location
+  slug: ruluka
+  status: current

@@ -1,0 +1,20 @@
+slug: zangirimaru
+name:
+  en: Zangirimaru
+  ja: ザン切丸
+  romaji: Zangirimaru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 948
+  episode: 947
+occupations:
+- name: Prisoner
+  status: former
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current

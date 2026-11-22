@@ -1,0 +1,24 @@
+slug: scotch
+name:
+  en: Scotch
+  ja: スコッチ
+  romaji: Sukotchi
+canon: manga
+gender: male
+species:
+- cyborg
+status: unknown
+first_appearance:
+  chapter: 595
+  episode: 513
+epithets:
+- en: Iron Boy
+  ja: アイアンボーイ
+  romaji: Aian Bōi
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

@@ -1,0 +1,17 @@
+slug: eric-tongari-island
+name:
+  en: Eric (Tongari Island)
+  ja: エリック
+  romaji: Erikku
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Guardian of the Fountain of Miracles
+  status: current
+residences:
+- type: location
+  slug: tongari-island
+  status: current

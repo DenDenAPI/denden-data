@@ -1,0 +1,32 @@
+slug: pudding-pudding
+name:
+  en: Pudding Pudding
+  ja: プリンプリン
+  romaji: Purinpurin
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 75
+  episode: 34
+occupations:
+- name: Marine Commodore
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: 77th-branch
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: 77th-branch
+  status: current
+birthday:
+  month: 5
+  day: 16

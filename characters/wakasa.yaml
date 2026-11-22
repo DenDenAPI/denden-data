@@ -1,0 +1,20 @@
+slug: wakasa
+name:
+  en: Wakasa
+  ja: わかさ
+  romaji: Wakasa
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 915
+  episode: 901
+occupations:
+- name: Restaurant Owner
+  status: current
+residences:
+- type: location
+  slug: kuri
+  status: current

@@ -1,0 +1,15 @@
+slug: miucha
+name:
+  en: Miucha
+  ja: ミウチャ
+  romaji: Miucha
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Saleswoman
+  status: current
+- name: Shoemaker
+  status: current

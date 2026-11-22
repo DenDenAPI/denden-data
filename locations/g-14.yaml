@@ -1,0 +1,14 @@
+slug: g-14
+name:
+  en: G-14
+  ja: 海軍本部G-14支部
+  romaji: Kaigun Honbu Jī Fōtīn Shibu
+canon: manga
+first_appearance:
+  chapter: 1061
+  episode: 1090
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

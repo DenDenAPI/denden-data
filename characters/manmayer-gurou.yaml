@@ -1,0 +1,23 @@
+slug: manmayer-gurou
+name:
+  en: Manmayer Gurou
+  ja: マンマイヤー・グロウ聖
+  romaji: Manmaiyā Gurou Sei
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1185
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

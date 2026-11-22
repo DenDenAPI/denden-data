@@ -1,0 +1,20 @@
+slug: saki
+name:
+  en: Saki
+  ja: お咲
+  romaji: O-Saki
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 940
+  episode: 937
+residences:
+- type: location
+  slug: flower-capital
+  status: current
+- type: location
+  slug: wano-country
+  status: current

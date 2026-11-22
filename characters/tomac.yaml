@@ -1,0 +1,17 @@
+slug: tomac
+name:
+  en: Tomac
+  ja: トマク
+  romaji: Tomaku
+canon: other
+gender: male
+species:
+- giant
+status: alive
+occupations:
+- name: Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

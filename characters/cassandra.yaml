@@ -1,0 +1,17 @@
+slug: cassandra
+name:
+  en: Cassandra
+  ja: カッサンドラ
+  romaji: Kassandora
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Midwife
+  status: current
+residences:
+- type: location
+  slug: amazon-lily
+  status: current

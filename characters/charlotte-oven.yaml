@@ -1,0 +1,47 @@
+slug: charlotte-oven
+name:
+  en: Charlotte Oven
+  ja: シャーロット・オーブン
+  romaji: Shārotto Ōbun
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 861
+  episode: 827
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Browned Food
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: yakigashi-island
+  status: current
+- type: location
+  slug: hachinosu
+  status: former
+birthday:
+  month: 11
+  day: 25
+blood_type: F
+ages:
+- years: 48
+  period: other
+heights:
+- cm: 492
+  period: other
+bounties:
+- amount: 300000000
+  status: current

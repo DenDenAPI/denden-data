@@ -1,0 +1,50 @@
+slug: laffitte
+name:
+  en: Laffitte
+  ja: ラフィット
+  romaji: Rafitto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 234
+  episode: 151
+epithets:
+- en: Demon Sheriff
+  ja: 鬼保安官
+  romaji: Oni Hoankan
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Navigator
+  status: current
+- name: Sheriff
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 3
+  day: 13
+blood_type: X
+ages:
+- years: 39
+  period: debut
+- years: 41
+  period: post_timeskip
+heights:
+- cm: 340
+  period: other
+bounties:
+- amount: 42200000
+  status: current
+  minimum: true

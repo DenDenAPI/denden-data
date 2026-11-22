@@ -1,0 +1,12 @@
+slug: beautiful-pirates
+name:
+  en: Beautiful Pirates
+  ja: 美しき海賊団
+  romaji: Utsukushiki Kaizoku-dan
+canon: manga
+first_appearance:
+  chapter: 704
+  episode: 633
+captains:
+- character: cavendish
+  status: current

@@ -1,0 +1,17 @@
+slug: flower-capital
+name:
+  en: Flower Capital
+  ja: 花の都
+  romaji: Hana no Miyako
+canon: manga
+first_appearance:
+  chapter: 909
+  episode: 892
+parent: wano-country
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former

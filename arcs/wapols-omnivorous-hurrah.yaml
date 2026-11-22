@@ -1,0 +1,32 @@
+slug: wapols-omnivorous-hurrah
+order: 23
+name:
+  en: Wapol's Omnivorous Hurrah
+  ja: ワポルの雑食バンザイ
+  romaji: Waporu no Zasshoku Banzai
+kind: cover_story
+canon: manga
+sagas:
+- sky-island-saga
+chapters:
+  count: 23
+  ranges:
+  - start: 236
+    end: 262
+volumes:
+  count: 4
+  ranges:
+  - start: 25
+    end: 28
+episodes:
+  count: 1
+  ranges:
+  - start: 778
+    end: 778
+years:
+  manga:
+    start: 2002
+    end: 2003
+  anime:
+    start: 2017
+    end: 2017

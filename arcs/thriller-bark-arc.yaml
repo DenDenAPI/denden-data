@@ -1,0 +1,30 @@
+slug: thriller-bark-arc
+order: 36
+name:
+  en: Thriller Bark Arc
+kind: story
+canon: manga
+sagas:
+- thriller-bark-saga
+chapters:
+  count: 48
+  ranges:
+  - start: 442
+    end: 489
+volumes:
+  count: 5
+  ranges:
+  - start: 46
+    end: 50
+episodes:
+  count: 45
+  ranges:
+  - start: 337
+    end: 381
+years:
+  manga:
+    start: 2007
+    end: 2008
+  anime:
+    start: 2008
+    end: 2008

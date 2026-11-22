@@ -1,0 +1,31 @@
+slug: dolce
+name:
+  en: Dolce
+  ja: ドルチェ
+  romaji: Doruche
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Gourmet
+  ja: グルメ
+  romaji: Gurume
+- en: Beautiful Girl
+  ja: 美少女
+  romaji: Bishōjo
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: drayke-pirates
+  status: current
+bounties:
+- amount: 3500000
+  status: former
+- amount: 4000000
+  status: former
+- amount: 5000000
+  status: current

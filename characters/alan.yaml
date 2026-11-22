@@ -1,0 +1,13 @@
+slug: alan
+name:
+  en: Alan
+  ja: アラン
+  romaji: Aran
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Actor
+  status: current

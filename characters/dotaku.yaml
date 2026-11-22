@@ -1,0 +1,24 @@
+slug: dotaku
+name:
+  en: Dotaku
+  ja: 道たく
+  romaji: Dōtaku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 926
+  episode: 918
+occupations:
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

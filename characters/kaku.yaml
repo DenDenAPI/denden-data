@@ -1,0 +1,46 @@
+slug: kaku
+name:
+  en: Kaku
+  ja: カク
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+epithets:
+- en: Mountain Wind
+  ja: 山風
+  romaji: Yamakaze
+occupations:
+- name: Cipher Pol Agent
+  status: current
+- name: Shipwright
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+- type: organization
+  slug: galley-la-company
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: guanhao
+  status: former
+birthday:
+  month: 8
+  day: 7
+blood_type: X
+ages:
+- years: 23
+  period: debut
+- years: 25
+  period: post_timeskip
+heights:
+- cm: 193
+  period: other

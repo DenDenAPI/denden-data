@@ -1,0 +1,21 @@
+slug: usakkov
+name:
+  en: Usakkov
+  ja: ウサッコフ
+  romaji: Usakkofu
+canon: manga
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 537
+  episode: 438
+occupations:
+- name: Dancer
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

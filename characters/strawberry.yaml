@@ -1,0 +1,29 @@
+slug: strawberry
+name:
+  en: Strawberry
+  ja: ストロベリー
+  romaji: Sutoroberī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 420
+  episode: 302
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Rear Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+birthday:
+  month: 1
+  day: 5
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

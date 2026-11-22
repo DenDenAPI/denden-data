@@ -1,0 +1,11 @@
+slug: nebulandia
+name:
+  en: Nebulandia
+  ja: ネブランディア
+  romaji: Neburandia
+canon: other
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,38 @@
+slug: rosward-charlos
+name:
+  en: Rosward Charlos
+  ja: ロズワード・チャルロス聖
+  romaji: Rosuwādo Charurosu Sei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 499
+  episode: 393
+occupations:
+- name: World Noble
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  location: red-line
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 6
+  day: 1
+blood_type: XF
+ages:
+- years: 22
+  period: debut
+- years: 24
+  period: post_timeskip
+heights:
+- cm: 230
+  period: other

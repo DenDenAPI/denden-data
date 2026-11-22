@@ -1,0 +1,30 @@
+slug: ida
+name:
+  en: Ida
+  ja: イーダ
+  romaji: Īda
+canon: manga
+gender: female
+species:
+- giant
+status: deceased
+first_appearance:
+  chapter: 1153
+occupations:
+- name: Bartender
+  status: current
+- name: Circus Performer
+  status: former
+origin:
+  location: samuwanai-island
+  region: South Blue
+residences:
+- type: location
+  slug: elbaph
+  status: current
+- type: location
+  slug: bunt-kingdom
+  status: former
+- type: location
+  slug: samuwanai-island
+  status: former

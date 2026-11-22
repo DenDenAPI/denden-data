@@ -1,0 +1,47 @@
+slug: sanjuan-wolf
+name:
+  en: Sanjuan Wolf
+  ja: サンファン・ウルフ
+  romaji: Sanfan Urufu
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 575
+  episode: 484
+epithets:
+- en: Colossal Battleship
+  ja: 巨大戦艦
+  romaji: Kyodai Senkan
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+- type: location
+  slug: impel-down
+  status: former
+origin:
+  region: West Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 3
+  day: 2
+blood_type: S
+ages:
+- years: 97
+  period: debut
+- years: 99
+  period: post_timeskip
+heights:
+- cm: 18000
+  period: other

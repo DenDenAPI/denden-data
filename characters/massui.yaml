@@ -1,0 +1,20 @@
+slug: massui
+name:
+  en: Massui
+  ja: マッスイ
+  romaji: Massui
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 911
+  episode: 893
+occupations:
+- name: Waiter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

@@ -1,0 +1,22 @@
+slug: cerberus
+name:
+  en: Cerberus
+  ja: ケルベロス
+  romaji: Keruberosu
+canon: manga
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 444
+  episode: 339
+occupations:
+- name: Wild Zombie
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+birthday:
+  month: 11
+  day: 29

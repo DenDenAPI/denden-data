@@ -1,0 +1,38 @@
+slug: morgans
+name:
+  en: Morgans
+  ja: モルガンズ
+  romaji: Moruganzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 828
+epithets:
+- en: Big News
+  ja: ビッグニュース
+  romaji: Biggu Nyūsu
+occupations:
+- name: World Economy News Paper President
+  status: current
+- name: Emperor of the Underworld
+  status: current
+affiliations:
+- type: organization
+  slug: world-economy-news-paper
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 14
+blood_type: XF
+ages:
+- years: 53
+  period: other
+heights:
+- cm: 305
+  period: other

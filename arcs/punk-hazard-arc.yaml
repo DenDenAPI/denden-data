@@ -1,0 +1,32 @@
+slug: punk-hazard-arc
+order: 51
+name:
+  en: Punk Hazard Arc
+kind: story
+canon: manga
+sagas:
+- dressrosa-saga
+chapters:
+  count: 46
+  ranges:
+  - start: 654
+    end: 699
+volumes:
+  count: 5
+  ranges:
+  - start: 66
+    end: 70
+episodes:
+  count: 46
+  ranges:
+  - start: 579
+    end: 589
+  - start: 591
+    end: 625
+years:
+  manga:
+    start: 2012
+    end: 2013
+  anime:
+    start: 2013
+    end: 2013

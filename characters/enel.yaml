@@ -1,0 +1,42 @@
+slug: enel
+name:
+  en: Enel
+  ja: エネル
+  romaji: Eneru
+canon: manga
+gender: male
+species:
+- birkan
+status: alive
+first_appearance:
+  chapter: 254
+  episode: 167
+epithets:
+- en: God Enel
+  ja: 神・エネル
+  romaji: Goddo Eneru
+occupations:
+- name: God of Skypiea
+  status: former
+origin:
+  location: birka
+  region: Sky Island
+residences:
+- type: location
+  slug: moon
+  status: current
+- type: location
+  slug: birka
+  status: former
+birthday:
+  month: 5
+  day: 6
+blood_type: S
+ages:
+- years: 37
+  period: debut
+- years: 39
+  period: post_timeskip
+heights:
+- cm: 266
+  period: other

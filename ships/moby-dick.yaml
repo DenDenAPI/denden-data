@@ -1,0 +1,14 @@
+slug: moby-dick
+name:
+  en: Moby Dick
+  ja: モビーディック号
+  romaji: Mobī Dikku-gō
+canon: manga
+status: destroyed
+first_appearance:
+  chapter: 234
+  episode: 151
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

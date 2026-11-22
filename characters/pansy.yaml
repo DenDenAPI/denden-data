@@ -1,0 +1,23 @@
+slug: pansy
+name:
+  en: Pansy
+  ja: パンジー
+  romaji: Panjī
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 515
+  episode: 409
+occupations:
+- name: Warrior
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 7
+  day: 20

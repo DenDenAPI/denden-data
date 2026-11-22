@@ -1,0 +1,13 @@
+slug: hakamori
+name:
+  en: Hakamori
+  ja: ハカモリ
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: jail-island
+  status: current

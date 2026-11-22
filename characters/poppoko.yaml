@@ -1,0 +1,29 @@
+slug: poppoko
+name:
+  en: Poppoko
+  ja: ポッポコ
+  romaji: Poppoko
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 2
+  episode: 1
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: alvida-pirates
+  status: former
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: goat-island
+  status: current
+birthday:
+  month: 9
+  day: 2

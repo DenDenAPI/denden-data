@@ -1,0 +1,23 @@
+slug: tank-lepanto
+name:
+  en: Tank Lepanto
+  ja: タンク・レパント
+  romaji: Tanku Repanto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 706
+  episode: 636
+occupations:
+- name: Army Commander
+  status: current
+affiliations:
+- type: organization
+  slug: riku-family
+  status: current
+birthday:
+  month: 11
+  day: 28

@@ -1,0 +1,21 @@
+slug: komakkov
+name:
+  en: Komakkov
+  ja: コマッコフ
+  romaji: Komakkofu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Winter Cuisine" Komakkov'
+  ja: 冬料理のコマッコフ
+  romaji: Fuyu Ryōri no Komakkofu
+occupations:
+- name: Cook
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

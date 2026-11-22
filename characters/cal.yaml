@@ -1,0 +1,22 @@
+slug: cal
+name:
+  en: Cal
+  ja: カル
+  romaji: Karu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Servant
+  status: former
+affiliations:
+- type: crew
+  slug: lytton-food-thieves
+  status: current
+- type: location
+  slug: cream-mist
+  status: former

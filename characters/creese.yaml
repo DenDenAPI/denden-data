@@ -1,0 +1,30 @@
+slug: creese
+name:
+  en: Creese
+  ja: クリーズ
+  romaji: Kurīzu
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Dance Dance
+  ja: ダンス・ダンス
+  romaji: Dansu dansu
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+- type: crew
+  slug: dance-pirates
+  status: current
+origin:
+  region: Grand Line
+bounties:
+- amount: 12000000
+  status: former
+  canon: other

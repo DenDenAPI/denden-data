@@ -1,0 +1,48 @@
+slug: streusen
+name:
+  en: Streusen
+  ja: シュトロイゼン
+  romaji: Shutoroizen
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 858
+  episode: 827
+epithets:
+- en: Gourmet Knight
+  ja: 美食騎士
+  romaji: Bishoku Kishi
+occupations:
+- name: Executive Chef
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+- type: crew
+  slug: rocks-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+- type: location
+  slug: whole-cake-island
+  status: current
+birthday:
+  month: 4
+  day: 27
+blood_type: S
+ages:
+- years: 92
+  period: other
+heights:
+- cm: 140
+  period: other

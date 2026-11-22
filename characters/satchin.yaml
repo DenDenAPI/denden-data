@@ -1,0 +1,14 @@
+slug: satchin
+name:
+  en: Satchin
+  ja: サッチン
+  romaji: Satchin
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

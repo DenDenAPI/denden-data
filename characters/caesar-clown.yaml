@@ -1,0 +1,60 @@
+slug: caesar-clown
+name:
+  en: Caesar Clown
+  ja: シーザー・クラウン
+  romaji: Shīzā Kuraun
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 658
+  episode: 581
+epithets:
+- en: Master
+  ja: M
+  romaji: Masutā
+aliases:
+- en: Cedar
+  ja: シーダー
+  romaji: Shīdā
+- en: '''Gangster'' Gastino'
+  ja: “ギャングスター”ガスティーノ
+  romaji: Gyangusutā Gasutīno
+occupations:
+- name: Scientist
+  status: current
+affiliations:
+- type: organization
+  slug: neo-mads
+  status: current
+- type: crew
+  slug: donquixote-pirates
+  status: former
+- type: organization
+  slug: marines
+  status: former
+- type: organization
+  slug: mads
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: punk-hazard
+  status: former
+birthday:
+  month: 4
+  day: 9
+blood_type: X
+ages:
+- years: 55
+  period: other
+heights:
+- cm: 309
+  period: other
+bounties:
+- amount: 300000000
+  status: current
+  revealed_chapter: 664

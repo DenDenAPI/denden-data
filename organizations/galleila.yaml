@@ -1,0 +1,15 @@
+slug: galleila
+name:
+  en: Galleila
+  ja: 大槌戦団
+  romaji: Gareira
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 1154
+leaders: []
+affiliations:
+- type: location
+  slug: elbaph
+  status: current
+residences: []

@@ -1,0 +1,33 @@
+slug: moyas
+name:
+  en: Moyas
+  ja: モーヤス
+  romaji: Mōyasu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Antlion
+  ja: 蟻地獄
+  romaji: Arijigoku
+aliases:
+- en: Hikas
+  ja: ヒーケス
+  romaji: Hīkesu
+occupations:
+- name: Conman
+  status: current
+- name: Actor
+  status: former
+residences:
+- type: location
+  slug: alubarna
+  status: current
+- type: location
+  slug: arabasta-kingdom
+  status: current
+bounties:
+- amount: 13000000
+  status: former

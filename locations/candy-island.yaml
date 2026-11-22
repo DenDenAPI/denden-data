@@ -1,0 +1,14 @@
+slug: candy-island
+name:
+  en: Candy Island
+  ja: キャンディ島
+  romaji: Kyandi-tō
+canon: manga
+first_appearance:
+  chapter: 828
+  episode: 787
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

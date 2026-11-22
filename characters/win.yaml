@@ -1,0 +1,14 @@
+slug: win
+name:
+  en: Win
+  ja: ウィン
+  romaji: Win
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: royal-sun-island
+  status: former

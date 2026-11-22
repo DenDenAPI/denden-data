@@ -1,0 +1,20 @@
+slug: colon
+name:
+  en: Colon
+  ja: コロン
+  romaji: Koron
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1076
+  episode: 1109
+residences:
+- type: location
+  slug: elbaph
+  status: current
+ages:
+- years: 20
+  period: other

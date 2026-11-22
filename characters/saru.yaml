@@ -1,0 +1,22 @@
+slug: saru
+name:
+  en: Saru
+  ja: サルウ
+  romaji: Sarū
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: Pet
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current
+birthday:
+  month: 3
+  day: 28

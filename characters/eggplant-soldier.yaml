@@ -1,0 +1,26 @@
+slug: eggplant-soldier
+name:
+  en: Eggplant Soldier
+  ja: ナス兵
+  romaji: Nasu-hei
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 849
+  episode: 802
+occupations:
+- name: Guard
+  status: current
+- name: Soldier
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: whole-cake-island
+  status: current

@@ -1,0 +1,23 @@
+slug: brindo
+name:
+  en: Brindo
+  ja: ブリンド
+  romaji: Burindo
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+epithets:
+- en: Love Hunter
+  ja: 愛狩人
+  romaji: Ai Kariudo
+occupations:
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: accino-family
+  status: current

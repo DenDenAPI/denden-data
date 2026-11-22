@@ -1,0 +1,33 @@
+slug: kumadori
+name:
+  en: Kumadori
+  ja: クマドリ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 375
+  episode: 264
+occupations:
+- name: Cipher Pol Agent
+  status: current
+affiliations:
+- type: organization
+  slug: cp9
+  status: former
+origin:
+  region: South Blue
+birthday:
+  month: 2
+  day: 20
+blood_type: XF
+ages:
+- years: 34
+  period: debut
+- years: 36
+  period: post_timeskip
+heights:
+- cm: 338
+  period: other

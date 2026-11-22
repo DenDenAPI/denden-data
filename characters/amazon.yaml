@@ -1,0 +1,41 @@
+slug: amazon
+name:
+  en: Amazon
+  ja: アマゾン
+  romaji: Amazon
+canon: manga
+gender: female
+species:
+- skypiean
+status: alive
+first_appearance:
+  chapter: 238
+  episode: 153
+occupations:
+- name: Heaven's Gate Inspector
+  status: former
+- name: Ticket Saleswoman
+  status: current
+affiliations:
+- type: location
+  slug: wagomuland
+  status: current
+origin:
+  location: skypiea
+  region: Grand Line
+residences:
+- type: location
+  slug: skypiea
+  status: current
+birthday:
+  month: 8
+  day: 4
+blood_type: X
+ages:
+- years: 77
+  period: debut
+- years: 79
+  period: post_timeskip
+heights:
+- cm: 120
+  period: other

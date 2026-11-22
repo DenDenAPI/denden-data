@@ -1,0 +1,29 @@
+slug: gavivel-papelchinoir
+name:
+  en: Gavivel Papelchinoir
+  ja: ガヴィーヴェル・パペルチノアール
+  romaji: Gavīveru Paperuchinoāru
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Instant Slash" Gavial'
+  ja: 即斬のガビアル
+  romaji: Sokuki no Gabiaru
+aliases:
+- en: Gavial
+  ja: ガビアル
+  romaji: Gabiaru
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current
+- type: organization
+  slug: royal-guard
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

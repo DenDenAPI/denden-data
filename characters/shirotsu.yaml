@@ -1,0 +1,17 @@
+slug: shirotsu
+name:
+  en: Shirotsu
+  ja: シロツ
+  romaji: Shirotsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: organization
+  slug: age-age-super-marines
+  status: former

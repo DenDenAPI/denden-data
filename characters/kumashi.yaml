@@ -1,0 +1,23 @@
+slug: kumashi
+name:
+  en: Kumashi
+  ja: クマシー
+  romaji: Kumashī
+canon: manga
+gender: male
+status: deceased
+first_appearance:
+  chapter: 449
+  episode: 343
+occupations:
+- name: Perona's servant
+  status: current
+- name: Wild Zombie Commander-in-Chief
+  status: current
+affiliations:
+- type: crew
+  slug: thriller-bark-pirates
+  status: current
+birthday:
+  month: 9
+  day: 4

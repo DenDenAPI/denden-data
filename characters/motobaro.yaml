@@ -1,0 +1,25 @@
+slug: motobaro
+name:
+  en: Motobaro
+  ja: モトバロ
+  romaji: Motobaro
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 494
+  episode: 388
+occupations:
+- name: Duval's pet
+  status: current
+affiliations:
+- type: organization
+  slug: rosy-life-riders
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 8
+  day: 19

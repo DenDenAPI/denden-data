@@ -1,0 +1,27 @@
+slug: mikazuki
+name:
+  en: Mikazuki
+  ja: ミカヅキ
+  romaji: Mikazuki
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 323
+  episode: 230
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: big-helmet-pirates
+  status: current
+birthday:
+  month: 2
+  day: 10
+bounties:
+- amount: 36000000
+  status: current
+  revealed_chapter: 323

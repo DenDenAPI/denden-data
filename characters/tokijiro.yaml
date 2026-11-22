@@ -1,0 +1,17 @@
+slug: tokijiro
+name:
+  en: Tokijiro
+  ja: 時ジロー
+  romaji: Tokijirō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 929
+  episode: 922
+residences:
+- type: location
+  slug: wano-country
+  status: current

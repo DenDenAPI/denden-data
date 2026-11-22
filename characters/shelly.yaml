@@ -1,0 +1,23 @@
+slug: shelly
+name:
+  en: Shelly
+  ja: シェリー
+  romaji: Sherī
+canon: manga
+gender: female
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 304
+  episode: 207
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current
+birthday:
+  month: 10
+  day: 31

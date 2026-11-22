@@ -1,0 +1,12 @@
+slug: straw-hat-grand-fleet
+name:
+  en: Straw Hat Grand Fleet
+  ja: 麦わら大船団
+  romaji: Mugiwara Dai-sendan
+canon: manga
+first_appearance:
+  chapter: 800
+  episode: 745
+captains:
+- character: monkey-d-luffy
+  status: current

@@ -1,0 +1,20 @@
+slug: utan-divers
+name:
+  en: Utan Divers
+  ja: ウータン・ダイバーズ
+  romaji: Ūtan Daibāzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 226
+  episode: 147
+occupations:
+- name: Pirates
+  status: current
+affiliations:
+- type: crew
+  slug: shoujou-pirates
+  status: current

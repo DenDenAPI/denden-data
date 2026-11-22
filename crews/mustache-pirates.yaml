@@ -1,0 +1,10 @@
+slug: mustache-pirates
+name:
+  en: Mustache Pirates
+  ja: チョビヒゲ海賊団
+  romaji: Chobihige Kaizokudan
+canon: movie
+status: disbanded
+captains:
+- character: brief
+  status: current

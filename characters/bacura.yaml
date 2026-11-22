@@ -1,0 +1,31 @@
+slug: bacura
+name:
+  en: Bacura
+  ja: バキュラ
+  romaji: Bakyura
+canon: manga
+gender: female
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 516
+  episode: 410
+occupations:
+- name: Pet
+  status: current
+- name: Executioner
+  status: current
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: current
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 11
+  day: 29

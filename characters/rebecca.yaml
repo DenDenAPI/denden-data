@@ -1,0 +1,50 @@
+slug: rebecca
+name:
+  en: Rebecca
+  ja: レベッカ
+  romaji: Rebekka
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 704
+  episode: 633
+epithets:
+- en: The Undefeated Woman
+  ja: 無敗の女
+  romaji: Muhai no Onna
+- en: The Phantom Princess
+  ja: 幻の王女
+  romaji: Maboroshi no Ōjo
+occupations:
+- name: Lady-in-waiting
+  status: current
+- name: Gladiator
+  status: former
+- name: Princess Of Dressrosa
+  status: former
+affiliations:
+- type: location
+  slug: dressrosa
+  status: current
+- type: location
+  slug: corrida-colosseum
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: dressrosa
+  status: current
+birthday:
+  month: 8
+  day: 4
+blood_type: S
+ages:
+- years: 16
+  period: other
+heights:
+- cm: 171
+  period: other

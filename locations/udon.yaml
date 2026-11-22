@@ -1,0 +1,17 @@
+slug: udon
+name:
+  en: Udon
+  ja: 兎丼
+  romaji: Udon
+canon: manga
+first_appearance:
+  chapter: 924
+  episode: 916
+parent: wano-country
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former
+- type: organization
+  slug: kouzuki-family
+  status: current

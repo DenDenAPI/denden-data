@@ -1,0 +1,43 @@
+slug: borsalino
+name:
+  en: Borsalino
+  ja: ボルサリーノ
+  romaji: Borusarīno
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 504
+  episode: 398
+aliases:
+- en: Kizaru
+  ja: 黄猿
+  romaji: Kizaru
+occupations:
+- name: Admiral
+  status: current
+- name: Vice Admiral
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 11
+  day: 23
+blood_type: XF
+ages:
+- years: 56
+  period: debut
+- years: 58
+  period: post_timeskip
+heights:
+- cm: 302
+  period: other
+marine_rating:
+  stars: 3
+  equivalent: 3000000000

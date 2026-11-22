@@ -1,0 +1,20 @@
+slug: jorge
+name:
+  en: Jorge
+  ja: ジョルジ
+  romaji: Joruji
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 353
+  episode: 248
+occupations:
+- name: Judge
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

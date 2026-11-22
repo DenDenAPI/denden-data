@@ -1,0 +1,11 @@
+slug: island-ship
+name:
+  en: Island Ship
+  ja: 島船
+  romaji: Shima-bune
+canon: movie
+status: destroyed
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current

@@ -1,0 +1,20 @@
+slug: scimitarta
+name:
+  en: Scimitarta
+  ja: シミター太
+  romaji: Shimitāta
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1122
+  episode: 1153
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: endurance-curry-pirates
+  status: current

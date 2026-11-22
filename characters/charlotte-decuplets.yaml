@@ -1,0 +1,30 @@
+slug: charlotte-decuplets
+name:
+  en: Charlotte Decuplets
+  ja: 10つ子達
+  romaji: Juttsugo-tachi
+canon: manga
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+occupations:
+- name: Pirates
+  status: current
+- name: Officers
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 12
+  day: 2
+ages:
+- years: 18
+  period: other

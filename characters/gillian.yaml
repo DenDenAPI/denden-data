@@ -1,0 +1,32 @@
+slug: gillian
+name:
+  en: Gillian
+  ja: ギリアン
+  romaji: Girian
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Bandit Nine
+  ja: バンデットナイン
+  romaji: Bandettonain
+occupations:
+- name: bandit
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bounty-pirates
+  status: current
+- type: organization
+  slug: bandit-nine
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+bounties:
+- amount: 30000000
+  status: former

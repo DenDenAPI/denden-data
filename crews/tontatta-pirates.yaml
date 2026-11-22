@@ -1,0 +1,12 @@
+slug: tontatta-pirates
+name:
+  en: Tontatta Pirates
+  ja: トンタッタ海賊団
+  romaji: Tontatta Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 799
+  episode: 745
+captains:
+- character: leo
+  status: current

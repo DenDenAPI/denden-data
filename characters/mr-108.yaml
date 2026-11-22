@@ -1,0 +1,13 @@
+slug: mr-108
+name:
+  en: Mr. 108
+  ja: Mr. 108
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

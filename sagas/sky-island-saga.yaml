@@ -1,0 +1,26 @@
+slug: sky-island-saga
+order: 3
+name:
+  en: Sky Island Saga
+chapters:
+  count: 85
+  ranges:
+  - start: 218
+    end: 302
+volumes:
+  count: 9
+  ranges:
+  - start: 24
+    end: 32
+episodes:
+  count: 71
+  ranges:
+  - start: 136
+    end: 206
+years:
+  manga:
+    start: 2002
+    end: 2003
+  anime:
+    start: 2002
+    end: 2004

@@ -1,0 +1,23 @@
+slug: makko
+name:
+  en: Makko
+  ja: マッコー
+  romaji: Makkō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 216
+occupations:
+- name: Marine Ensign
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+bounties:
+- amount: 1000000
+  status: current
+  minimum: true

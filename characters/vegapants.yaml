@@ -1,0 +1,14 @@
+slug: vegapants
+name:
+  en: Vegapants
+  ja: ベガパンツ
+  romaji: Begapantsu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: pants-hazard
+  status: current

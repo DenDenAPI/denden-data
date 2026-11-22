@@ -1,0 +1,14 @@
+slug: popo
+name:
+  en: Popo
+  ja: ポポ
+canon: anime_only
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  episode: 101
+occupations:
+- name: Pet
+  status: current

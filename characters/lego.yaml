@@ -1,0 +1,14 @@
+slug: lego
+name:
+  en: Lego
+  ja: レゴ
+  romaji: Rego
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,13 @@
+slug: pokori
+name:
+  en: Pokori
+  ja: ポコリ
+  romaji: Pokori
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Shipwright
+  status: current

@@ -1,0 +1,14 @@
+slug: prodence-kingdom
+name:
+  en: Prodence Kingdom
+  ja: プロデンス王国
+  romaji: Purodensu Ōkoku
+canon: manga
+first_appearance:
+  chapter: 823
+  episode: 778
+parent: new-world
+affiliations:
+- type: organization
+  slug: world-government
+  status: current

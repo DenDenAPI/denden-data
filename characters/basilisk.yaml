@@ -1,0 +1,24 @@
+slug: basilisk
+name:
+  en: Basilisk
+  ja: バシリスク
+  romaji: Bashirisuku
+canon: manga
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 528
+  episode: 425
+occupations:
+- name: Level 2 Guardian
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: West Blue

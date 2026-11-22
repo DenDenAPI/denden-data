@@ -1,0 +1,10 @@
+slug: umibozu
+name:
+  en: Umibozu
+  ja: ウミボウズ号
+  romaji: Umibōzu-gō
+canon: other
+affiliations:
+- type: organization
+  slug: laotour-bandits
+  status: current

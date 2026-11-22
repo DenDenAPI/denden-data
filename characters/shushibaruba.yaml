@@ -1,0 +1,11 @@
+slug: shushibaruba
+name:
+  en: Shushibaruba
+  ja: シュシバルバ
+  romaji: Shushibaruba
+canon: other
+status: unknown
+residences:
+- type: location
+  slug: nanatsu-islands
+  status: current

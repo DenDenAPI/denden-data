@@ -1,0 +1,11 @@
+slug: pachinoa-rozo
+name:
+  en: Pachinoa Rozo
+  ja: パチノア・ロゾ
+  romaji: Pachinoa Rozo
+canon: other
+status: alive
+residences:
+- type: location
+  slug: gacha-gacha-island
+  status: current

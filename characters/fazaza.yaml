@@ -1,0 +1,17 @@
+slug: fazaza
+name:
+  en: Fazaza
+  ja: ファザーザ
+  romaji: Fazāza
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Head of a bandit gang
+  status: current
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

@@ -1,0 +1,19 @@
+slug: flip
+name:
+  en: Flip
+  ja: フリップ
+  romaji: Furippu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 139
+occupations:
+- name: Leader of The Collection Party
+  status: current
+affiliations:
+- type: organization
+  slug: ruluka-government
+  status: current

@@ -1,0 +1,20 @@
+slug: hiro-gomon
+name:
+  en: Hiro Gomon
+  ja: ヒロ★ゴーモン
+  romaji: Hiro Gōmon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1122
+  episode: 1153
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: endurance-curry-pirates
+  status: current

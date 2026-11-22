@@ -1,0 +1,19 @@
+slug: mr-12
+name:
+  en: Mr. 12
+  ja: Mr. 12
+  romaji: Misutā Tuerubu
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 155
+aliases:
+- en: Mr. 12
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

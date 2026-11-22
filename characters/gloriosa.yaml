@@ -1,0 +1,40 @@
+slug: gloriosa
+name:
+  en: Gloriosa
+  ja: グロリオーサ
+  romaji: Guroriōsa
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 514
+  episode: 408
+aliases:
+- en: Elder Nyon
+  ja: ニョン婆
+  romaji: Nyon Bā
+- en: 'Funimation: Granny Nyon'
+occupations:
+- name: Empress of Amazon Lily
+  status: former
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: kuja-pirates
+  status: former
+- type: crew
+  slug: rocks-pirates
+  status: former
+origin:
+  location: calm-belt
+residences:
+- type: location
+  slug: hachinosu
+  status: former
+- type: location
+  slug: amazon-lily
+  status: current
+birthday:
+  month: 2
+  day: 4

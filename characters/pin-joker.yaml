@@ -1,0 +1,21 @@
+slug: pin-joker
+name:
+  en: Pin Joker
+  ja: ピンジョーカー
+  romaji: Pin Jōkā
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: trump-pirates
+  status: current
+bounties:
+- amount: 9900000
+  status: current
+  canon: movie

@@ -1,0 +1,19 @@
+slug: trio-the-grip
+name:
+  en: Trio the Grip
+  ja: トリオ・ザ・グリップ
+  romaji: Torio za Gurippu
+canon: anime_only
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  episode: 759
+occupations:
+- name: Gifters
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

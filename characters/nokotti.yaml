@@ -1,0 +1,21 @@
+slug: nokotti
+name:
+  en: Nokotti
+  ja: ノコッティ
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 936
+  episode: 932
+occupations:
+- name: Waiter
+  status: current
+- name: Prisoner Mine Guard
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

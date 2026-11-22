@@ -1,0 +1,18 @@
+slug: will
+name:
+  en: Will
+  ja: ウィル
+  romaji: Wiru
+canon: other
+gender: male
+species:
+- human
+status: alive
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

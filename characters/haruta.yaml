@@ -1,0 +1,27 @@
+slug: haruta
+name:
+  en: Haruta
+  ja: ハルタ
+  romaji: Haruta
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 553
+  episode: 461
+occupations:
+- name: 12th Division Commander
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: South Blue
+birthday:
+  month: 2
+  day: 4

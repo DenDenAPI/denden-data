@@ -1,0 +1,16 @@
+slug: mont-blanc-family
+name:
+  en: Mont Blanc Family
+  ja: モンブラン家
+  romaji: Monburan-ke
+canon: manga
+status: active
+first_appearance:
+  chapter: 227
+  episode: 148
+leaders: []
+affiliations:
+- type: location
+  slug: lvneel-kingdom
+  status: former
+residences: []

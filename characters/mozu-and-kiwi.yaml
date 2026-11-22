@@ -1,0 +1,48 @@
+slug: mozu-and-kiwi
+name:
+  en: Mozu and Kiwi
+  ja: モズ&キウイ
+  romaji: Mozu & Kiui
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 329
+  episode: 233
+epithets:
+- en: Square Sisters
+  ja: スクエアシスターズ
+  romaji: Sukuea Shisutāzu
+occupations:
+- name: Bartenders
+  status: current
+- name: Bounty Hunters
+  status: former
+affiliations:
+- type: organization
+  slug: franky-family
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 1
+  day: 7
+blood_type: F
+ages:
+- years: 19
+  period: debut
+- years: 21
+  period: post_timeskip
+- years: 20
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 187
+  period: other

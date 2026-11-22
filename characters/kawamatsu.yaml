@@ -1,0 +1,62 @@
+slug: kawamatsu
+name:
+  en: Kawamatsu
+  ja: 河松
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 910
+epithets:
+- en: Kawamatsu the Kappa
+  ja: 河童の河松
+  romaji: Kappa no Kawamatsu
+- en: Yokozuna Kawamatsu
+  ja: 横綱河松
+  romaji: Yokozuna Kawamatsu
+- en: ','
+aliases:
+- en: Gyukimaru
+  ja: 牛鬼丸
+  romaji: Gyūkimaru
+occupations:
+- name: Daimyo
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+- name: Samurai
+  status: current
+- name: Sumo Wrestler
+  status: current
+- name: Highway Robber
+  status: former
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 6
+  day: 14
+blood_type: F
+ages:
+- years: 41
+  period: other
+heights:
+- cm: 271
+  period: other

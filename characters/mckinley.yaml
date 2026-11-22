@@ -1,0 +1,20 @@
+slug: mckinley
+name:
+  en: McKinley
+  ja: マッキンリー
+  romaji: Makkinrī
+canon: manga
+gender: male
+species:
+- skypiean
+status: alive
+first_appearance:
+  chapter: 241
+  episode: 155
+occupations:
+- name: Law enforcement official
+  status: current
+affiliations:
+- type: organization
+  slug: god-guardians
+  status: current

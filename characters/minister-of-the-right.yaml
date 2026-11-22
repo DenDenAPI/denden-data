@@ -1,0 +1,32 @@
+slug: minister-of-the-right
+name:
+  en: Minister of the Right
+  ja: 右大臣
+  romaji: Udaijin
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 612
+  episode: 531
+occupations:
+- name: Minister of Ryugu Kingdom
+  status: current
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 4
+  day: 5
+blood_type: XF
+ages:
+- years: 55
+  period: other
+heights:
+- cm: 313
+  period: other

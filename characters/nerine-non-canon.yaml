@@ -1,0 +1,21 @@
+slug: nerine-non-canon
+name:
+  en: Nerine (Non-Canon)
+  ja: ネリネ
+  romaji: Nerine
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Soldier
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: former
+residences:
+- type: location
+  slug: dressrosa
+  status: current

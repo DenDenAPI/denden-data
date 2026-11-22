@@ -1,0 +1,36 @@
+slug: mashikaku
+name:
+  en: Mashikaku
+  ja: マシカク
+  romaji: Mashikaku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 98
+  episode: 48
+occupations:
+- name: Marine Chief Petty Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: loguetown
+  status: current
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: loguetown
+  status: current
+birthday:
+  month: 12
+  day: 26
+bounties:
+- amount: 100000
+  status: current
+  minimum: true

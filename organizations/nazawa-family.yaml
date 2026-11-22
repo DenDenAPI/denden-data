@@ -1,0 +1,13 @@
+slug: nazawa-family
+name:
+  en: Nazawa Family
+  ja: ナザワ家
+  romaji: Nazawa-ka
+canon: other
+status: active
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: nazawaka-city
+  status: current

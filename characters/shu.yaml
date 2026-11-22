@@ -1,0 +1,24 @@
+slug: shu
+name:
+  en: Shu
+  ja: シュウ
+  romaji: Shū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 426
+  episode: 309
+occupations:
+- name: Marine Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 1
+  minimum: true
+  equivalent: 100000000

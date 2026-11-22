@@ -1,0 +1,54 @@
+slug: capone-bege
+name:
+  en: Capone Bege
+  ja: カポネ・ベッジ
+  romaji: Kapone Bejji
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 498
+  episode: 392
+epithets:
+- en: Gang
+  ja: ギャング
+  romaji: Gyangu
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Mafia don
+  status: former
+- name: Combatant
+  status: former
+affiliations:
+- type: crew
+  slug: fire-tank-pirates
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: former
+origin:
+  region: West Blue
+birthday:
+  month: 1
+  day: 17
+blood_type: S
+ages:
+- years: 40
+  period: debut
+- years: 42
+  period: post_timeskip
+heights:
+- cm: 166
+  period: debut
+bounties:
+- amount: 138000000
+  status: former
+  revealed_chapter: 498
+- amount: 300000000
+  status: former
+  revealed_chapter: 812
+- amount: 350000000
+  status: current

@@ -1,0 +1,48 @@
+slug: t-bone
+name:
+  en: T Bone
+  ja: Tボーン
+  romaji: Tī Bōn
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 365
+  episode: 255
+epithets:
+- en: Ship Cutter
+  ja: 船斬り
+  romaji: Funekiri
+occupations:
+- name: Marine Vice Admiral
+  status: current
+- name: Marine Rear Admiral
+  status: current
+- name: Marine Captain
+  status: current
+- name: Knight
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 9
+  day: 10
+blood_type: X
+ages:
+- years: 51
+  period: debut
+- years: 53
+  period: post_timeskip
+heights:
+- cm: 200
+  period: other
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

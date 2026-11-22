@@ -1,0 +1,15 @@
+slug: vinsmoke-family
+name:
+  en: Vinsmoke Family
+  ja: ヴィンスモーク家
+  romaji: Vinsumōku-ke
+canon: manga
+first_appearance:
+  chapter: 43
+  episode: 20
+leaders: []
+affiliations:
+- type: location
+  slug: germa-kingdom
+  status: current
+residences: []

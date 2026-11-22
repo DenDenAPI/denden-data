@@ -1,0 +1,24 @@
+slug: gang-beges-oh-my-family
+order: 67
+name:
+  en: '"Gang" Bege''s Oh My Family'
+  ja: '"ギャング"ベッジのオーマイファミリー'
+  romaji: '"Gyangu" Bejji no Ō Mai Famirī'
+kind: cover_story
+canon: manga
+sagas:
+- wano-country-saga
+chapters:
+  count: 37
+  ranges:
+  - start: 948
+    end: 994
+volumes:
+  count: 5
+  ranges:
+  - start: 94
+    end: 98
+years:
+  manga:
+    start: 2019
+    end: 2020

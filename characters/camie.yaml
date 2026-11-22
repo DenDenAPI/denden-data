@@ -1,0 +1,35 @@
+slug: camie
+name:
+  en: Camie
+  ja: ケイミー
+  romaji: Keimī
+canon: manga
+gender: female
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 195
+  episode: 385
+occupations:
+- name: Fashion designing apprentice
+  status: current
+- name: Takoyaki seller
+  status: current
+- name: Waitress at Mermaid Cafe
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+birthday:
+  month: 11
+  day: 3
+blood_type: X
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 197
+  period: other

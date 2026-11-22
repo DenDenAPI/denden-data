@@ -1,0 +1,30 @@
+slug: carne
+name:
+  en: Carne
+  ja: カルネ
+  romaji: Karune
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 45
+  episode: 21
+occupations:
+- name: Charcutier
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 2
+  day: 9
+blood_type: S
+ages:
+- years: 32
+  period: debut
+- years: 34
+  period: post_timeskip
+heights:
+- cm: 171
+  period: other

@@ -1,0 +1,22 @@
+slug: mr-7-previous
+name:
+  en: Mr. 7 (Previous)
+  ja: Mr. 7
+  romaji: Misutā Sebun
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 190
+  episode: 116
+aliases:
+- en: Mr. 7
+occupations:
+- name: Frontier Agent
+  status: current
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: current

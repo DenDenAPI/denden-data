@@ -1,0 +1,24 @@
+slug: regis
+name:
+  en: Regis
+  ja: ヘジス
+  romaji: Hejisu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Marine
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+residences:
+- type: location
+  slug: hand-island
+  status: current
+heights:
+- cm: 261
+  period: other

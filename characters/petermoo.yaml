@@ -1,0 +1,22 @@
+slug: petermoo
+name:
+  en: Petermoo
+  ja: ピータームー
+  romaji: Pītāmū
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+  episode: 959
+occupations:
+- name: Pirate
+  status: current
+- name: Gunner
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

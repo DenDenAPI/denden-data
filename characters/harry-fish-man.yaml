@@ -1,0 +1,28 @@
+slug: harry-fish-man
+name:
+  en: Harry (Fish-Man)
+  ja: ハリー
+  romaji: Harī
+canon: other
+gender: male
+species:
+- fish_man
+status: alive
+epithets:
+- en: Harry of a Thousand Needles
+  ja: 千本針のハリー
+  romaji: Senbon Hari no Harī
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: drayke-pirates
+  status: current
+bounties:
+- amount: 5500000
+  status: former
+- amount: 7500000
+  status: former
+- amount: 8000000
+  status: current

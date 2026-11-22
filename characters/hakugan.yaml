@@ -1,0 +1,25 @@
+slug: hakugan
+name:
+  en: Hakugan
+  ja: ハクガン
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 810
+  episode: 757
+occupations:
+- name: Helmsman
+  status: current
+affiliations:
+- type: crew
+  slug: heart-pirates
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+origin:
+  location: welbems-island
+  region: North Blue

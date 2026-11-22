@@ -1,0 +1,55 @@
+slug: kurozumi-kanjuro
+name:
+  en: Kurozumi Kanjuro
+  ja: 黒炭カン十郎
+  romaji: Kurozumi Kanjūrō
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 700
+  episode: 629
+epithets:
+- en: Evening Shower
+  ja: 夕立ち
+  romaji: Yūdachi
+- en: Ghost of Kibi
+  ja: 希美の妖怪
+  romaji: Kibi no Yōkai
+occupations:
+- name: Theatre Performer
+  status: former
+- name: Spy of the Kurozumi Family
+  status: current
+- name: Samurai
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+affiliations:
+- type: organization
+  slug: kurozumi-family
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former
+origin:
+  location: wano-country
+  region: Grand Line
+birthday:
+  month: 7
+  day: 21
+blood_type: X
+heights:
+- cm: 347
+  period: other

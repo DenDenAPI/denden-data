@@ -1,0 +1,19 @@
+slug: minchey
+name:
+  en: Minchey
+  ja: ミンチー
+  romaji: Minchī
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 136
+occupations:
+- name: Marine Chief Petty Officer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current

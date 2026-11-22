@@ -1,0 +1,35 @@
+slug: charlotte-mobile
+name:
+  en: Charlotte Mobile
+  ja: シャーロット・モービル
+  romaji: Shārotto Mōbiru
+canon: anime_only
+gender: male
+species:
+- hybrid
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 832
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Tasting
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: futoru-island
+  status: current
+birthday:
+  month: 11
+  day: 17
+ages:
+- years: 25
+  period: other

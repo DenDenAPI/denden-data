@@ -1,0 +1,14 @@
+slug: sphinx-location
+name:
+  en: Sphinx
+  ja: スフィンクス
+  romaji: Sufinkusu
+canon: manga
+first_appearance:
+  chapter: 909
+  episode: 890
+parent: new-world
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former

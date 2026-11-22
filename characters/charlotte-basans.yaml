@@ -1,0 +1,26 @@
+slug: charlotte-basans
+name:
+  en: Charlotte Basans
+  ja: シャーロット・バサンズ
+  romaji: Shārotto Basanzu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 862
+  episode: 832
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 34
+  period: other

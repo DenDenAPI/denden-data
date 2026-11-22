@@ -1,0 +1,23 @@
+slug: satchels-maffey
+name:
+  en: Satchels Maffey
+  ja: サッチェルズ・マッフィー宮
+  romaji: Satcheruzu Maffī Gū
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1160
+affiliations:
+- type: organization
+  slug: knights-of-god
+  status: current
+- type: organization
+  slug: world-noble
+  status: current
+residences:
+- type: location
+  slug: mary-geoise
+  status: current

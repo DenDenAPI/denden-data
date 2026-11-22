@@ -1,0 +1,42 @@
+slug: crocus
+name:
+  en: Crocus
+  ja: クロッカス
+  romaji: Kurokkasu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 102
+  episode: 62
+occupations:
+- name: Doctor
+  status: current
+- name: Lighthouse Keeper
+  status: current
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: reverse-mountain
+  status: current
+birthday:
+  month: 6
+  day: 4
+blood_type: XF
+ages:
+- years: 71
+  period: debut
+- years: 73
+  period: post_timeskip
+heights:
+- cm: 203
+  period: other

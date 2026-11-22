@@ -1,0 +1,18 @@
+slug: soran
+name:
+  en: Soran
+  ja: ソラン
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 420
+occupations:
+- name: Slave
+  status: former
+residences:
+- type: location
+  slug: tequila-wolf
+  status: former

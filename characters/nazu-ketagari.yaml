@@ -1,0 +1,21 @@
+slug: nazu-ketagari
+name:
+  en: Nazu Ketagari
+  ja: ナヅ・ケタガーリ
+  romaji: Nazu Ketagāri
+canon: manga
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

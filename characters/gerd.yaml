@@ -1,0 +1,48 @@
+slug: gerd
+name:
+  en: Gerd
+  ja: ゲルズ
+  romaji: Geruzu
+canon: manga
+gender: female
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 866
+  episode: 836
+occupations:
+- name: Pirate
+  status: current
+- name: Doctor
+  status: current
+- name: Mercenary
+  status: former
+affiliations:
+- type: crew
+  slug: new-giant-warrior-pirates
+  status: current
+- type: organization
+  slug: buggys-delivery
+  status: former
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: elbaph
+  status: current
+birthday:
+  month: 2
+  day: 25
+blood_type: S
+ages:
+- years: 12
+  period: debut
+- years: 75
+  period: post_timeskip
+heights:
+- cm: 1700
+  period: other

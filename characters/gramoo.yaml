@@ -1,0 +1,21 @@
+slug: gramoo
+name:
+  en: Gramoo
+  ja: グラムー
+  romaji: Guramū
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Butler
+  status: current
+affiliations:
+- type: organization
+  slug: omoino-family
+  status: current
+residences:
+- type: location
+  slug: dressrosa
+  status: current

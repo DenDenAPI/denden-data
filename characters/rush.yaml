@@ -1,0 +1,19 @@
+slug: rush
+name:
+  en: Rush
+  ja: ラッシュ
+  romaji: Rasshu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 558
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

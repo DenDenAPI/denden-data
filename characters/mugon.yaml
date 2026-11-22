@@ -1,0 +1,21 @@
+slug: mugon
+name:
+  en: Mugon
+  ja: ムゴン
+  romaji: Mugon
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Mugon the Two Sword Style Swordsman
+  ja: 二刀流の剣士ムゴン
+  romaji: Nitōryū no Kenshi Mugon
+occupations:
+- name: Swordsman
+  status: current
+affiliations:
+- type: organization
+  slug: buggys-delivery
+  status: current

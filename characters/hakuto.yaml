@@ -1,0 +1,25 @@
+slug: hakuto
+name:
+  en: Hakuto
+  ja: ハクト
+  romaji: Hakuto
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Hakuto the Gale
+  ja: 疾風のハクト
+  romaji: Hayate no Hakuto
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+residences:
+- type: location
+  slug: tomoshibi-island
+  status: current

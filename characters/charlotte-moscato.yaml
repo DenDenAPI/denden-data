@@ -1,0 +1,35 @@
+slug: charlotte-moscato
+name:
+  en: Charlotte Moscato
+  ja: シャーロット・モスカート
+  romaji: Shārotto Mosukāto
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+  episode: 788
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Gelato
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+residences:
+- type: location
+  slug: ice-island
+  status: current
+birthday:
+  month: 12
+  day: 16
+ages:
+- years: 40
+  period: other

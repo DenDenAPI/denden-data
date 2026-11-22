@@ -1,0 +1,27 @@
+slug: gambo
+name:
+  en: Gambo
+  ja: ギャンボ
+  romaji: Gyanbo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 905
+  episode: 883
+occupations:
+- name: South Army Deputy Commander
+  status: current
+affiliations:
+- type: organization
+  slug: revolutionary-army
+  status: current
+residences:
+- type: location
+  slug: baltigo
+  status: former
+- type: location
+  slug: momoiro-island
+  status: current

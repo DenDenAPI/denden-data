@@ -1,0 +1,10 @@
+slug: alexandra
+name:
+  en: Alexandra
+  ja: アレクサンドラ号
+  romaji: Arekusandora-gō
+canon: movie
+affiliations:
+- type: organization
+  slug: marines
+  status: current

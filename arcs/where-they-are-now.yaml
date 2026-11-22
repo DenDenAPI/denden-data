@@ -1,0 +1,29 @@
+slug: where-they-are-now
+order: 33
+name:
+  en: Where They Are Now
+  ja: あの人は今
+  romaji: Ano Hito wa Ima
+kind: cover_story
+canon: manga
+sagas:
+- water-7-saga
+- thriller-bark-saga
+chapters:
+  count: 7
+  ranges:
+  - start: 424
+    end: 427
+  - start: 486
+    end: 490
+volumes:
+  count: 2
+  ranges:
+  - start: 44
+    end: 44
+  - start: 50
+    end: 50
+years:
+  manga:
+    start: 2006
+    end: 2008

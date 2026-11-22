@@ -1,0 +1,27 @@
+slug: fugar
+name:
+  en: Fugar
+  ja: フガー
+  romaji: Fugā
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1079
+  episode: 1112
+epithets:
+- en: '"Memorial Blade" Fugar'
+  ja: 慰霊刃のフガー
+  romaji: Ireba no Fugā
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: social-club
+  status: current
+- type: crew
+  slug: red-hair-pirates
+  status: current

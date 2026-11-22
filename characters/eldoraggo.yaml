@@ -1,0 +1,21 @@
+slug: eldoraggo
+name:
+  en: Eldoraggo
+  ja: エルドラゴ
+  romaji: Erudorago
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: eldoraggo-pirates
+  status: current
+bounties:
+- amount: 10000000
+  status: current
+  canon: movie

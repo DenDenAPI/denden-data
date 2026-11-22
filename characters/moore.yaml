@@ -1,0 +1,19 @@
+slug: moore
+name:
+  en: Moore
+  ja: ムーア
+  romaji: Mūa
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 136
+occupations:
+- name: Marine Captain
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

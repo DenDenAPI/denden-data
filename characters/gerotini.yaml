@@ -1,0 +1,27 @@
+slug: gerotini
+name:
+  en: Gerotini
+  ja: ゲロティニー
+  romaji: Gerotinī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1079
+  episode: 1112
+epithets:
+- en: '"Ball Fingers" Gerotini'
+  ja: 玉指ゲロティニー
+  romaji: Tamayubi Gerotinī
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: puddle-pirates
+  status: current
+- type: crew
+  slug: red-hair-pirates
+  status: current

@@ -1,0 +1,21 @@
+slug: shuzo
+name:
+  en: Shuzo
+  ja: シューゾ
+  romaji: Shūzo
+canon: anime_only
+gender: male
+species:
+- longarm
+status: alive
+first_appearance:
+  episode: 575
+occupations:
+- name: Neo Marines Commander
+  status: current
+- name: Commodore
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: former

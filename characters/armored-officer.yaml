@@ -1,0 +1,19 @@
+slug: armored-officer
+name:
+  en: Armored Officer
+  ja: 鎧の幹部
+  romaji: Yoroi no Kanbu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 847
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

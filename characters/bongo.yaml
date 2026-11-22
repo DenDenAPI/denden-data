@@ -1,0 +1,22 @@
+slug: bongo
+name:
+  en: Bongo
+  ja: 凡ゴウ
+  romaji: Bongō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 928
+  episode: 921
+occupations:
+- name: Lumber Dealer
+  status: former
+- name: Graverobber
+  status: former
+residences:
+- type: location
+  slug: wano-country
+  status: current

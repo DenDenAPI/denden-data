@@ -1,0 +1,27 @@
+slug: jero
+name:
+  en: Jero
+  ja: ジェロ
+  romaji: Jero
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 676
+  episode: 602
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+residences:
+- type: location
+  slug: g-5
+  status: current

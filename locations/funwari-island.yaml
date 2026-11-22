@@ -1,0 +1,14 @@
+slug: funwari-island
+name:
+  en: Funwari Island
+  ja: ふんわり島
+  romaji: Funwari-tō
+canon: manga
+first_appearance:
+  chapter: 899
+  episode: 871
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

@@ -1,0 +1,19 @@
+slug: niseusopp
+name:
+  en: Niseusopp
+  ja: ニセウソップ
+  romaji: Niseusoppu
+canon: other
+gender: male
+species:
+- fish_man
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Impersonator
+  status: current
+affiliations:
+- type: crew
+  slug: nisenise-pirates
+  status: current

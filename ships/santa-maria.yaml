@@ -1,0 +1,13 @@
+slug: santa-maria
+name:
+  en: Santa Maria
+  ja: サンタマリア号
+  romaji: Santa Maria-gō
+canon: manga
+first_appearance:
+  chapter: 800
+  episode: 745
+affiliations:
+- type: crew
+  slug: yonta-maria-grand-fleet
+  status: current

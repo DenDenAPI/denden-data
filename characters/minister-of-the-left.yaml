@@ -1,0 +1,32 @@
+slug: minister-of-the-left
+name:
+  en: Minister of the Left
+  ja: 左大臣
+  romaji: Sadaijin
+canon: manga
+gender: male
+species:
+- merfolk
+status: alive
+first_appearance:
+  chapter: 612
+  episode: 531
+occupations:
+- name: Minister of Ryugu Kingdom
+  status: current
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 7
+  day: 2
+blood_type: X
+ages:
+- years: 62
+  period: other
+heights:
+- cm: 435
+  period: other

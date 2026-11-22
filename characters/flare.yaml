@@ -1,0 +1,17 @@
+slug: flare
+name:
+  en: Flare
+  ja: フレア
+  romaji: Furea
+canon: other
+gender: female
+species:
+- human
+status: deceased
+occupations:
+- name: Waitress
+  status: current
+affiliations:
+- type: location
+  slug: g-rard
+  status: current

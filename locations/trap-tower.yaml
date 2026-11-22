@@ -1,0 +1,11 @@
+slug: trap-tower
+name:
+  en: Trap Tower
+  ja: トラップタワー
+  romaji: Torappu Tawā
+canon: other
+region: Paradise
+affiliations:
+- type: organization
+  slug: marines
+  status: current

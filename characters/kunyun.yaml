@@ -1,0 +1,18 @@
+slug: kunyun
+name:
+  en: Kunyun
+  ja: 九忍
+canon: manga
+gender: female
+status: alive
+first_appearance:
+  chapter: 1020
+  episode: 1042
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+residences:
+- type: location
+  slug: onigashima
+  status: current

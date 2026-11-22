@@ -1,0 +1,21 @@
+slug: yakuza
+name:
+  en: Yakuza
+  ja: ヤクザ
+  romaji: Yakuza
+canon: manga
+first_appearance:
+  chapter: 919
+  episode: 909
+leaders:
+- character: nekomamushi
+  status: current
+- character: denjiro
+  status: current
+- character: hyougoro
+  status: current
+affiliations: []
+residences:
+- type: location
+  slug: wano-country
+  status: current

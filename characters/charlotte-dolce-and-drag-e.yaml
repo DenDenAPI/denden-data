@@ -1,0 +1,26 @@
+slug: charlotte-dolce-and-drag-e
+name:
+  en: Charlotte Dolce and Dragée
+  ja: シャーロット・ドルチェシャーロット・ドラジェ
+  romaji: Shārotto DorucheShārotto Doraje
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 845
+  episode: 809
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+birthday:
+  month: 2
+  day: 21
+ages:
+- years: 9
+  period: other

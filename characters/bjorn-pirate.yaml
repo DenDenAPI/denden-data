@@ -1,0 +1,24 @@
+slug: bjorn-pirate
+name:
+  en: Bjorn (Pirate)
+  ja: ビョルン
+  romaji: Byorun
+canon: manga
+gender: male
+species:
+- giant
+status: alive
+first_appearance:
+  chapter: 1118
+  episode: 1151
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: giant-warrior-pirates
+  status: current
+residences:
+- type: location
+  slug: elbaph
+  status: current

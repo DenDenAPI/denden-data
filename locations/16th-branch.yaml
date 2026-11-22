@@ -1,0 +1,14 @@
+slug: 16th-branch
+name:
+  en: 16th Branch
+  ja: 海軍第16支部
+  romaji: Kaigun Dai-Jūroku Shibu
+canon: manga
+first_appearance:
+  chapter: 94
+  episode: 43
+region: East Blue
+affiliations:
+- type: organization
+  slug: marines
+  status: current

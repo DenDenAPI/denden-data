@@ -1,0 +1,61 @@
+slug: koby
+name:
+  en: Koby
+  ja: コビー
+  romaji: Kobī
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 2
+  episode: 1
+epithets:
+- en: Hero
+  ja: 英雄
+  romaji: Eiyū
+occupations:
+- name: Marine Captain
+  status: current
+- name: Master Chief Petty Officer
+  status: current
+- name: Chore Boy
+  status: current
+- name: Pirate Ship Caretaker
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: 153rd-branch
+  status: former
+- type: crew
+  slug: alvida-pirates
+  status: former
+origin:
+  location: satsuruzo-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: shells-town
+  status: former
+- type: location
+  slug: goat-island
+  status: former
+birthday:
+  month: 5
+  day: 13
+blood_type: F
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 167
+  period: other
+marine_rating:
+  stars: 5
+  equivalent: 500000000

@@ -1,0 +1,20 @@
+slug: norinosuke
+name:
+  en: Norinosuke
+  ja: ノリの助
+  romaji: Norinosuke
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 961
+  episode: 961
+occupations:
+- name: Shaman
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

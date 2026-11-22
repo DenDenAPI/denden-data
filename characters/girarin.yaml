@@ -1,0 +1,19 @@
+slug: girarin
+name:
+  en: Girarin
+  ja: ギラーリン
+  romaji: Girārin
+canon: anime_only
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  episode: 213
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

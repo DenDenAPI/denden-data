@@ -1,0 +1,26 @@
+slug: charlotte-montb
+name:
+  en: Charlotte Montb
+  ja: シャーロット・モンブ
+  romaji: Shārotto Monbu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 897
+  episode: 873
+occupations:
+- name: Pirate Officer
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+ages:
+- years: 28
+  period: other

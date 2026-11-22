@@ -1,0 +1,21 @@
+slug: mountain-god
+name:
+  en: Mountain God
+  ja: 山の神
+  romaji: Yama no Kami
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 960
+  episode: 960
+occupations:
+- name: Retainer
+  status: current
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

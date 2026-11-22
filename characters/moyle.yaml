@@ -1,0 +1,26 @@
+slug: moyle
+name:
+  en: Moyle
+  ja: モイル
+  romaji: Moiru
+canon: manga
+gender: male
+species:
+- skypiean
+status: unknown
+first_appearance:
+  chapter: 272
+  episode: 178
+occupations:
+- name: Member of the Divine Squad
+  status: current
+- name: Slave
+  status: current
+affiliations:
+- type: organization
+  slug: divine-squad
+  status: current
+residences:
+- type: location
+  slug: skypiea
+  status: former

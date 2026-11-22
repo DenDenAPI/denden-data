@@ -1,0 +1,12 @@
+slug: peachbeard-pirates
+name:
+  en: Peachbeard Pirates
+  ja: 桃ひげ海賊団
+  romaji: Momohige Kaizokudan
+canon: manga
+first_appearance:
+  chapter: 904
+  episode: 880
+captains:
+- character: peachbeard
+  status: current

@@ -1,0 +1,39 @@
+slug: baskerville
+name:
+  en: Baskerville
+  ja: バスカビル
+  romaji: Basukabiru
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 379
+  episode: 267
+epithets:
+- en: Three-Headed Baskerville
+  ja: 3つ首のバスカビル
+  romaji: Mitsu-Kubi no Basukabiru
+occupations:
+- name: Chief Justices of Enies Lobby
+  status: current
+affiliations:
+- type: organization
+  slug: world-government
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 3
+  day: 30
+ages:
+- years: 48
+  period: other
+- years: 53
+  period: other
+- years: 42
+  period: other
+heights:
+- cm: 512
+  period: other

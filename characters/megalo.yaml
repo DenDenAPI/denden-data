@@ -1,0 +1,23 @@
+slug: megalo
+name:
+  en: Megalo
+  ja: メガロ
+  romaji: Megaro
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 605
+  episode: 525
+occupations:
+- name: Shirahoshi's pet
+  status: current
+affiliations:
+- type: location
+  slug: ryugu-kingdom
+  status: current
+birthday:
+  month: 4
+  day: 8

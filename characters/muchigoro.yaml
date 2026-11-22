@@ -1,0 +1,19 @@
+slug: muchigoro
+name:
+  en: Muchigoro
+  ja: ムチゴロウ
+  romaji: Muchigoro
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Participant in Goldfish Catching Game
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current

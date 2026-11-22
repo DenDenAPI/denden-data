@@ -1,0 +1,30 @@
+slug: sabaody-archipelago-arc
+order: 39
+name:
+  en: Sabaody Archipelago Arc
+kind: story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 24
+  ranges:
+  - start: 490
+    end: 513
+volumes:
+  count: 4
+  ranges:
+  - start: 50
+    end: 53
+episodes:
+  count: 21
+  ranges:
+  - start: 385
+    end: 405
+years:
+  manga:
+    start: 2008
+    end: 2008
+  anime:
+    start: 2009
+    end: 2009

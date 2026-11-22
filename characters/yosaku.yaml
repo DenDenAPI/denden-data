@@ -1,0 +1,32 @@
+slug: yosaku
+name:
+  en: Yosaku
+  ja: ヨサク
+  romaji: Yosaku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 42
+  episode: 20
+occupations:
+- name: Bounty Hunter
+  status: former
+- name: Fisherman
+  status: current
+origin:
+  region: East Blue
+birthday:
+  month: 11
+  day: 10
+blood_type: F
+ages:
+- years: 24
+  period: debut
+- years: 26
+  period: post_timeskip
+heights:
+- cm: 185
+  period: other

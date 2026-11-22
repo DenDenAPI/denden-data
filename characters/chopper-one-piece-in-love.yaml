@@ -1,0 +1,19 @@
+slug: chopper-one-piece-in-love
+name:
+  en: Chopper
+  ja: チョッパー
+  romaji: Choppā
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Zoo animal
+  status: former
+- name: Pet
+  status: current
+affiliations:
+- type: location
+  slug: uwazumi-high-school
+  status: current

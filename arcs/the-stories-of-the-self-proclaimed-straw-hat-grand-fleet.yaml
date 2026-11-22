@@ -1,0 +1,34 @@
+slug: the-stories-of-the-self-proclaimed-straw-hat-grand-fleet
+order: 61
+name:
+  en: The Stories of the Self-Proclaimed Straw Hat Grand Fleet
+  ja: 押し掛け麦わら大船団物語
+  romaji: Oshikake Mugiwara Dai-sendan Monogatari
+kind: cover_story
+canon: manga
+sagas:
+- whole-cake-island-saga
+chapters:
+  count: 46
+  ranges:
+  - start: 864
+    end: 919
+volumes:
+  count: 6
+  ranges:
+  - start: 86
+    end: 91
+episodes:
+  count: 2
+  ranges:
+  - start: 885
+    end: 885
+  - start: 1081
+    end: 1081
+years:
+  manga:
+    start: 2017
+    end: 2018
+  anime:
+    start: 2019
+    end: 2019

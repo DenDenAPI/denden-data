@@ -1,0 +1,14 @@
+slug: jaki
+name:
+  en: Jaki
+  ja: 四鬼
+canon: manga
+gender: male
+status: alive
+first_appearance:
+  chapter: 954
+  episode: 955
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

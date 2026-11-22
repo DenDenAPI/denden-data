@@ -1,0 +1,25 @@
+slug: raoul
+name:
+  en: Raoul
+  ja: ラウル
+  romaji: Rauru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 48
+occupations:
+- name: Bar Owner
+  status: current
+- name: Bartender
+  status: current
+affiliations:
+- type: location
+  slug: loguetown
+  status: current
+residences:
+- type: location
+  slug: loguetown
+  status: current

@@ -1,0 +1,17 @@
+slug: two-base
+name:
+  en: Two Base
+  ja: ツーベース
+  romaji: Tsūbēsu
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

@@ -1,0 +1,13 @@
+slug: hitokui
+name:
+  en: Hitokui
+  ja: 人食い
+  romaji: Hitokui
+canon: anime_only
+status: deceased
+first_appearance:
+  episode: 45
+bounties:
+- amount: 1500000
+  status: former
+  canon: movie

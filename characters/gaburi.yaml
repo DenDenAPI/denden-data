@@ -1,0 +1,16 @@
+slug: gaburi
+name:
+  en: Gaburi
+  ja: ガブリ
+canon: other
+gender: male
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Guardian
+  status: former
+affiliations:
+- type: crew
+  slug: straw-hat-pirates
+  status: former

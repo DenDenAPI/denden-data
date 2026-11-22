@@ -1,0 +1,17 @@
+slug: raniya
+name:
+  en: Raniya
+  ja: ラニーヤ
+  romaji: Ranīya
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Traveler
+  status: current
+residences:
+- type: location
+  slug: alubarna
+  status: current

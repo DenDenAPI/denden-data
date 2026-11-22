@@ -1,0 +1,44 @@
+slug: senor-pink
+name:
+  en: Senor Pink
+  ja: セニョール・ピンク
+  romaji: Senyōru Pinku
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 702
+  episode: 632
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Assassin
+  status: current
+affiliations:
+- type: crew
+  slug: donquixote-pirates
+  status: current
+origin:
+  region: North Blue
+residences:
+- type: location
+  slug: spider-miles
+  status: former
+- type: location
+  slug: dressrosa
+  status: former
+birthday:
+  month: 6
+  day: 12
+blood_type: X
+ages:
+- years: 46
+  period: other
+heights:
+- cm: 244
+  period: other
+bounties:
+- amount: 58000000
+  status: former

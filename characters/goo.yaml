@@ -1,0 +1,18 @@
+slug: goo
+name:
+  en: Goo
+  ja: グー
+  romaji: Gū
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 483
+  episode: 375
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

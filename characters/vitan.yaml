@@ -1,0 +1,21 @@
+slug: vitan
+name:
+  en: Vitan
+  ja: ヴィタン
+canon: manga
+gender: male
+species:
+- cyborg
+- human
+status: alive
+first_appearance:
+  chapter: 553
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

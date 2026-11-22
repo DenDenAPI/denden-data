@@ -1,0 +1,18 @@
+slug: emma-non-canon
+name:
+  en: Emma (Non-Canon)
+  ja: エマ
+  romaji: Ema
+canon: other
+gender: female
+species:
+- human
+status: alive
+epithets:
+- en: Passionate Emma
+  ja: 情熱的なエマ
+  romaji: Jōnetsu-teki na Ema
+residences:
+- type: location
+  slug: jail-island
+  status: current

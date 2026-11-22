@@ -1,0 +1,29 @@
+slug: yorki
+name:
+  en: Yorki
+  ja: ヨーキ
+  romaji: Yōki
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 103
+  episode: 63
+epithets:
+- en: '"Calico" Yorki'
+  ja: キャラコのヨーキ
+  romaji: Kyarako no Yōki
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: rumbar-pirates
+  status: current
+birthday:
+  month: 4
+  day: 9

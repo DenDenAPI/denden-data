@@ -1,0 +1,74 @@
+slug: nekomamushi
+name:
+  en: Nekomamushi
+  ja: ネコマムシ
+canon: manga
+gender: male
+species:
+- cyborg
+- mink
+status: alive
+first_appearance:
+  chapter: 809
+  episode: 756
+epithets:
+- en: Master Nekomamushi
+  ja: ネコマムシの旦那
+  romaji: Nekomamushi no Dan'na
+- en: Ruler of Night
+  ja: 夜の王
+  romaji: Yoru no Ō
+occupations:
+- name: Yakuza Boss
+  status: current
+- name: Ruler of Mokomo Dukedom
+  status: former
+- name: Guardian of the Whale Forest
+  status: former
+- name: Retainer
+  status: current
+- name: Samurai
+  status: current
+- name: Pirate Apprentice
+  status: former
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+- type: organization
+  slug: guardians
+  status: current
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former
+- type: organization
+  slug: nine-red-scabbards
+  status: current
+- type: crew
+  slug: roger-pirates
+  status: former
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: zou
+  status: former
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 11
+  day: 22
+blood_type: S
+ages:
+- years: 40
+  period: other
+heights:
+- cm: 522
+  period: other

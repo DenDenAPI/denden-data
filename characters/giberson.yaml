@@ -1,0 +1,23 @@
+slug: giberson
+name:
+  en: Giberson
+  ja: ギバーソン
+  romaji: Gibāson
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 860
+  episode: 828
+epithets:
+- en: The Concealer
+  ja: 隠匿師
+  romaji: Intoku-shi
+occupations:
+- name: Emperor of the Underworld
+  status: current
+birthday:
+  month: 8
+  day: 14

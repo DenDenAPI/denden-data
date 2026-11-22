@@ -1,0 +1,43 @@
+slug: helmeppo
+name:
+  en: Helmeppo
+  ja: ヘルメッポ
+  romaji: Herumeppo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 3
+  episode: 2
+occupations:
+- name: Lieutenant Commander
+  status: current
+- name: Chief Petty Officer
+  status: current
+- name: Chore Boy
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: former
+residences:
+- type: location
+  slug: shells-town
+  status: former
+birthday:
+  month: 7
+  day: 16
+blood_type: S
+ages:
+- years: 20
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 179
+  period: other
+marine_rating:
+  stars: 1
+  equivalent: 100000000

@@ -1,0 +1,14 @@
+slug: hien
+name:
+  en: Hien
+  ja: ヒエン
+  romaji: Hien
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: water-7
+  status: current

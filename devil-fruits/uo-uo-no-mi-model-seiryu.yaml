@@ -1,0 +1,17 @@
+slug: uo-uo-no-mi-model-seiryu
+name:
+  en: 'Fish-Fish Fruit, Model: Azure Dragon'
+  romaji: 'Uo Uo no Mi, Model: Seiryu'
+  ja: ウオウオの実 モデル "青龍"
+type: zoan
+sub_type: mythical
+meaning: Fish, Azure Dragon
+canon: manga
+first_appearance:
+  chapter: 921
+  episode: 912
+users:
+- character: kaidou
+  status: current
+- character: kouzuki-momonosuke
+  status: current

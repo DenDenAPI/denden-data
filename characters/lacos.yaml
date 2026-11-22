@@ -1,0 +1,17 @@
+slug: lacos
+name:
+  en: Lacos
+  ja: ラコス
+  romaji: Rakosu
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Warrior leader
+  status: current
+affiliations:
+- type: location
+  slug: asuka-island
+  status: current

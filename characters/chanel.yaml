@@ -1,0 +1,12 @@
+slug: chanel
+name:
+  en: Chanel
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current

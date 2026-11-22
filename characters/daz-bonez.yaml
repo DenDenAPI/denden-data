@@ -1,0 +1,54 @@
+slug: daz-bonez
+name:
+  en: Daz Bonez
+  ja: ダズ・ボーネス
+  romaji: Dazu Bōnesu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 160
+  episode: 103
+epithets:
+- en: The Killer
+  ja: 殺し屋
+  romaji: Koroshiya
+aliases:
+- en: Mr. 1
+  ja: Mr. 1
+  romaji: Misutā Wan
+occupations:
+- name: Pirate
+  status: current
+- name: Assassin
+  status: current
+- name: Officer Agent
+  status: former
+- name: Bounty Hunter
+  status: former
+affiliations:
+- type: organization
+  slug: cross-guild
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: West Blue
+birthday:
+  month: 1
+  day: 1
+blood_type: F
+ages:
+- years: 29
+  period: debut
+- years: 31
+  period: post_timeskip
+heights:
+- cm: 212
+  period: other
+bounties:
+- amount: 75000000
+  status: current

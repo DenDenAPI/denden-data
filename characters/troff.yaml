@@ -1,0 +1,19 @@
+slug: troff
+name:
+  en: Troff
+  ja: トロフ
+  romaji: Torofu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 326
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: phoenix-pirates
+  status: current

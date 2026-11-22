@@ -1,0 +1,39 @@
+slug: kuromarimo
+name:
+  en: Kuromarimo
+  ja: クロマーリモ
+  romaji: Kuromārimo
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 131
+  episode: 79
+occupations:
+- name: Evil Magistrate
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: bliking-pirates
+  status: former
+- type: location
+  slug: sakura-kingdom
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 1
+  day: 26
+blood_type: F
+ages:
+- years: 28
+  period: debut
+- years: 30
+  period: post_timeskip
+heights:
+- cm: 186
+  period: other

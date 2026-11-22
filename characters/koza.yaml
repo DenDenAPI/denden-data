@@ -1,0 +1,48 @@
+slug: koza
+name:
+  en: Koza
+  ja: コーザ
+  romaji: Kōza
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 163
+  episode: 93
+occupations:
+- name: Environmental Minister
+  status: current
+- name: Rebel Army leader
+  status: former
+- name: Sand-Sand Clan leader
+  status: former
+affiliations:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+- type: organization
+  slug: sand-sand-clan
+  status: former
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: yuba
+  status: current
+- type: location
+  slug: katorea
+  status: former
+birthday:
+  month: 5
+  day: 26
+blood_type: X
+ages:
+- years: 20
+  period: debut
+- years: 22
+  period: post_timeskip
+heights:
+- cm: 177
+  period: other

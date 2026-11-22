@@ -1,0 +1,19 @@
+slug: sukune
+name:
+  en: Sukune
+  ja: すくね
+  romaji: Sukune
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1151
+occupations:
+- name: Sumo Wrestler
+  status: current
+residences:
+- type: location
+  slug: wano-country
+  status: current

@@ -1,0 +1,20 @@
+slug: snakeman-gifter
+name:
+  en: Snakeman
+  ja: スネークマン
+  romaji: Sunēkuman
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 916
+  episode: 904
+occupations:
+- name: Gifter
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current

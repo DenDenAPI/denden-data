@@ -1,0 +1,17 @@
+slug: graydle
+name:
+  en: Graydle
+  ja: グレイドル
+  romaji: Gureidoru
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Vice Admiral
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

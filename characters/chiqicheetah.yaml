@@ -1,0 +1,17 @@
+slug: chiqicheetah
+name:
+  en: Chiqicheetah
+  ja: チキチータ
+  romaji: Chikichīta
+canon: anime_only
+gender: male
+status: alive
+first_appearance:
+  episode: 213
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: foxy-pirates
+  status: current

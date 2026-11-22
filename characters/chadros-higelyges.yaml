@@ -1,0 +1,45 @@
+slug: chadros-higelyges
+name:
+  en: Chadros Higelyges
+  ja: チャドロス・ヒゲリゲス
+  romaji: Chadorosu Higerigesu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 581
+  episode: 490
+epithets:
+- en: Brownbeard
+  ja: 茶ひげ
+  romaji: Chahige
+- en: Boss
+occupations:
+- name: Leader of the Centaur Patrol Unit
+  status: former
+- name: Pirate Captain
+  status: former
+affiliations:
+- type: crew
+  slug: brownbeard-pirates
+  status: former
+origin:
+  region: Grand Line
+birthday:
+  month: 2
+  day: 3
+blood_type: S
+ages:
+- years: 43
+  period: debut
+- years: 45
+  period: post_timeskip
+heights:
+- cm: 691
+  period: other
+bounties:
+- amount: 80060000
+  status: former
+  revealed_chapter: 661

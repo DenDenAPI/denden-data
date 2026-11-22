@@ -1,0 +1,18 @@
+slug: apis
+name:
+  en: Apis
+  ja: アピス
+  romaji: Apisu
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 54
+affiliations:
+- type: location
+  slug: warship-island
+  status: current
+origin:
+  region: East Blue

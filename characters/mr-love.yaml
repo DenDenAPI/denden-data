@@ -1,0 +1,17 @@
+slug: mr-love
+name:
+  en: Mr. Love
+  ja: Mr.ラブ
+  romaji: Misutā Rabu
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 206
+  episode: 125
+affiliations:
+- type: organization
+  slug: baroque-works
+  status: former

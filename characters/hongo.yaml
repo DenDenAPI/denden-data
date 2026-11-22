@@ -1,0 +1,24 @@
+slug: hongo
+name:
+  en: Hongo
+  ja: ホンゴウ
+  romaji: Hongō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 489
+occupations:
+- name: Pirate
+  status: current
+- name: Senior Officer
+  status: current
+- name: Doctor
+  status: current
+affiliations:
+- type: crew
+  slug: red-hair-pirates
+  status: current

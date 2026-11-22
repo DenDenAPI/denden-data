@@ -1,0 +1,13 @@
+slug: ikidaore-family
+name:
+  en: Ikidaore Family
+  ja: 行き倒れ一族
+  romaji: Ikidaore Ichizoku
+canon: other
+status: active
+leaders: []
+affiliations: []
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

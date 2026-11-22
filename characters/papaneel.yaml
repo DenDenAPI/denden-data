@@ -1,0 +1,23 @@
+slug: papaneel
+name:
+  en: Papaneel
+  ja: パパニール
+  romaji: Papanīru
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 621
+  episode: 540
+occupations:
+- name: Robber
+  status: former
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: ryugu-kingdom
+  status: current

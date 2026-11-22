@@ -1,0 +1,25 @@
+slug: kobato
+name:
+  en: Kobato
+  ja: コバト
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  episode: 198
+occupations:
+- name: Doctor
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-8
+  status: current
+residences:
+- type: location
+  slug: navarone-island
+  status: current

@@ -1,0 +1,24 @@
+slug: donquixote-homing
+name:
+  en: Donquixote Homing
+  ja: ドンキホーテ・ホーミング
+  romaji: Donkihōte Hōmingu
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 760
+  episode: 699
+occupations:
+- name: World Noble
+  status: former
+affiliations:
+- type: organization
+  slug: world-government
+  status: former
+residences:
+- type: location
+  slug: mary-geoise
+  status: former

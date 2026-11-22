@@ -1,0 +1,50 @@
+slug: marianne
+name:
+  en: Marianne
+  ja: マリアンヌ
+  romaji: Mariannu
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 117
+  episode: 70
+epithets:
+- en: Flag-Bearer of Freedom
+  ja: 自由の旗手マリアンヌ
+  romaji: Jiyū no Kishu Mariannu
+aliases:
+- en: Miss Goldenweek
+  ja: ミス・ゴールデンウィーク
+  romaji: Misu Gōruden Wīku
+occupations:
+- name: Cafe Employee
+  status: current
+- name: Officer Agent
+  status: former
+affiliations:
+- type: location
+  slug: spiders-cafe
+  status: current
+- type: organization
+  slug: baroque-works
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 4
+  day: 29
+blood_type: XF
+ages:
+- years: 16
+  period: debut
+- years: 18
+  period: post_timeskip
+heights:
+- cm: 145
+  period: other
+bounties:
+- amount: 29000000
+  status: current

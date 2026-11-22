@@ -1,0 +1,18 @@
+slug: shiro
+name:
+  en: Shiro
+  ja: シロウ
+  romaji: Shirō
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: '"Shy" Shiro'
+  ja: 照れ屋のシロウ
+  romaji: Tere-ya no Shirō
+residences:
+- type: location
+  slug: jail-island
+  status: current

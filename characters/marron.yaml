@@ -1,0 +1,17 @@
+slug: marron
+name:
+  en: Marron
+  ja: マロン
+  romaji: Maron
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current

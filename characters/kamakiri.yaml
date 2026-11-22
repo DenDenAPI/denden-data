@@ -1,0 +1,37 @@
+slug: kamakiri
+name:
+  en: Kamakiri
+  ja: カマキリ
+  romaji: Kamakiri
+canon: manga
+gender: male
+species:
+- shandia
+status: alive
+first_appearance:
+  chapter: 249
+  episode: 163
+occupations:
+- name: Shandia Warrior
+  status: current
+- name: God's Guard
+  status: current
+affiliations:
+- type: organization
+  slug: gods-guards
+  status: current
+origin:
+  location: skypiea
+  region: Sky Island
+birthday:
+  month: 7
+  day: 10
+blood_type: F
+ages:
+- years: 22
+  period: debut
+- years: 24
+  period: post_timeskip
+heights:
+- cm: 214
+  period: other

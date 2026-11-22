@@ -1,0 +1,21 @@
+slug: ginger
+name:
+  en: Ginger
+  ja: ジンジャー
+  romaji: Jinjā
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 895
+occupations:
+- name: Officer
+  status: current
+- name: Bounty Hunter
+  status: current
+affiliations:
+- type: organization
+  slug: cidre-guild
+  status: current

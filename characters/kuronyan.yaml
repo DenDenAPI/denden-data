@@ -1,0 +1,15 @@
+slug: kuronyan
+name:
+  en: Kuronyan
+  ja: くろにゃん
+canon: other
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

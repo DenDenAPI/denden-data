@@ -1,0 +1,29 @@
+slug: niphtal
+name:
+  en: Niphtal
+  ja: ニフタル
+  romaji: Nifutaru
+canon: other
+gender: male
+species:
+- human
+status: deceased
+epithets:
+- en: Dreaming Niphtal
+  ja: 夢見のニフタル
+  romaji: Yumemi no Nifutaru
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Archaeologist
+  status: current
+- name: Scientist
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current
+bounties:
+- amount: 30000000
+  status: current
+  canon: other

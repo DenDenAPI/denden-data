@@ -1,0 +1,17 @@
+slug: stefan
+name:
+  en: Stefan
+  ja: ステファン
+  romaji: Sutefan
+canon: other
+gender: male
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

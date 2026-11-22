@@ -1,0 +1,23 @@
+slug: don-axe
+name:
+  en: Don Axe
+  ja: ドン・アックス
+  romaji: Don Akkusu
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Don Axe of the Cape
+  ja: 岬のドン・アックス
+  romaji: Misaki no Don Akkusu
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+residences:
+- type: location
+  slug: jail-island
+  status: current

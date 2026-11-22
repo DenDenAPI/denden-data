@@ -1,0 +1,19 @@
+slug: immortal
+name:
+  en: Immortal
+  ja: イモータル
+  romaji: Imōtaru
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Pirate Ship
+  ja: 海賊船
+  romaji: Kaizoku-sen
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

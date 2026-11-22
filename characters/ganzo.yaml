@@ -1,0 +1,13 @@
+slug: ganzo
+name:
+  en: Ganzo
+  ja: 岩蔵
+  romaji: Ganzō
+canon: movie
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Chef
+  status: current

@@ -1,0 +1,26 @@
+slug: chicken
+name:
+  en: Chicken
+  ja: チキン
+  romaji: Chikin
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 1
+  episode: 505
+occupations:
+- name: Fishmonger
+  status: current
+origin:
+  location: goa-kingdom
+  region: East Blue
+residences:
+- type: location
+  slug: foosha-village
+  status: current
+birthday:
+  month: 2
+  day: 8

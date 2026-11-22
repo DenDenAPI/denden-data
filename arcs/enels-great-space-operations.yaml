@@ -1,0 +1,24 @@
+slug: enels-great-space-operations
+order: 34
+name:
+  en: Enel's Great Space Operations
+  ja: エネルのスペース大作戦
+  romaji: Eneru no Supēsu Daisakusen
+kind: cover_story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 38
+  ranges:
+  - start: 428
+    end: 474
+volumes:
+  count: 6
+  ranges:
+  - start: 44
+    end: 49
+years:
+  manga:
+    start: 2006
+    end: 2007

@@ -1,0 +1,28 @@
+slug: michael-and-hoichael
+name:
+  en: Michael and Hoichael
+  ja: マイケルホイケル
+  romaji: MaikeruHoikeru
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 432
+  episode: 313
+occupations:
+- name: Elementary school students
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current
+birthday:
+  month: 7
+  day: 18
+ages:
+- years: 12
+  period: debut
+- years: 14
+  period: post_timeskip

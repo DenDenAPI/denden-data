@@ -1,0 +1,19 @@
+slug: inuarashi-musketeer-squad
+name:
+  en: Inuarashi Musketeer Squad
+  ja: 犬嵐銃士隊
+  romaji: Inuarashi Jūshi-tai
+canon: manga
+first_appearance:
+  chapter: 804
+  episode: 753
+leaders:
+- character: inuarashi
+  status: former
+- character: shishilian
+  status: current
+affiliations:
+- type: location
+  slug: mokomo-dukedom
+  status: current
+residences: []

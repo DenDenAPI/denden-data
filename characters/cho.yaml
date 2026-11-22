@@ -1,0 +1,28 @@
+slug: cho
+name:
+  en: Cho
+  ja: お蝶
+  romaji: O-Chō
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 952
+  episode: 946
+epithets:
+- en: Moonflower O-Cho
+  ja: 夕顔のお蝶
+  romaji: Yūgao no O-Chō
+occupations:
+- name: Yakuza Boss
+  status: current
+- name: Prisoner
+  status: former
+- name: Samurai
+  status: current
+affiliations:
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: former

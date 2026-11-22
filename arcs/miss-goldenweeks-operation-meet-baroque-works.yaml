@@ -1,0 +1,24 @@
+slug: miss-goldenweeks-operation-meet-baroque-works
+order: 32
+name:
+  en: 'Miss Goldenweek''s "Operation: Meet Baroque Works"'
+  ja: ミスG·Wの作戦名"ミーツバロック"
+  romaji: Misu Gōruden Wīku no Sakusenmei "Mītsu Barokku"
+kind: cover_story
+canon: manga
+sagas:
+- water-7-saga
+chapters:
+  count: 42
+  ranges:
+  - start: 359
+    end: 413
+volumes:
+  count: 6
+  ranges:
+  - start: 38
+    end: 43
+years:
+  manga:
+    start: 2005
+    end: 2006

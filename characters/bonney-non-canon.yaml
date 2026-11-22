@@ -1,0 +1,17 @@
+slug: bonney-non-canon
+name:
+  en: Bonney
+  ja: ボニー
+  romaji: Bonī
+canon: anime_only
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: former
+affiliations:
+- type: crew
+  slug: bayan-pirates
+  status: former

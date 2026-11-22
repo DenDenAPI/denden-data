@@ -1,0 +1,27 @@
+slug: bakezo
+name:
+  en: Bakezo
+  ja: バケゾー
+  romaji: Bakezō
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 668
+  episode: 594
+occupations:
+- name: Marine Officer
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-5
+  status: current
+residences:
+- type: location
+  slug: g-5
+  status: current

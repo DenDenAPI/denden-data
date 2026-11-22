@@ -1,0 +1,12 @@
+slug: gross
+name:
+  en: Gross
+  ja: グロース
+  romaji: Gurōsu
+canon: other
+species:
+- animal
+status: alive
+occupations:
+- name: Pet
+  status: current

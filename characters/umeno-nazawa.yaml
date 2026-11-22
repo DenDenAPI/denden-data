@@ -1,0 +1,23 @@
+slug: umeno-nazawa
+name:
+  en: Umeno Nazawa
+  ja: ウメノ゠ナザワ
+  romaji: Umeno Nazawa
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: man
+  status: current
+- name: Vigilante Corps member
+  status: former
+affiliations:
+- type: organization
+  slug: nazawa-family
+  status: current
+residences:
+- type: location
+  slug: nazawaka-city
+  status: current

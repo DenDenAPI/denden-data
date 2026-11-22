@@ -1,0 +1,21 @@
+slug: franky-family
+name:
+  en: Franky Family
+  ja: フランキー一家
+  romaji: Furankī Ikka
+canon: manga
+status: unknown
+first_appearance:
+  chapter: 324
+  episode: 230
+leaders:
+- character: franky
+  status: former
+affiliations:
+- type: location
+  slug: water-7
+  status: current
+residences:
+- type: location
+  slug: franky-house
+  status: current

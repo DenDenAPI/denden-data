@@ -1,0 +1,20 @@
+slug: ganryu-roger-pirates
+name:
+  en: Ganryu (Roger Pirates)
+  ja: 眼竜
+  romaji: Ganryū
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 966
+  episode: 968
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

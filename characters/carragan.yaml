@@ -1,0 +1,15 @@
+slug: carragan
+name:
+  en: Carragan
+  ja: キャラガン
+  romaji: Kyaragan
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

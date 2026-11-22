@@ -1,0 +1,15 @@
+slug: kimmel
+name:
+  en: Kimmel
+  ja: キンメル
+  romaji: Kinmeru
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

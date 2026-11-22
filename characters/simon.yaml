@@ -1,0 +1,25 @@
+slug: simon
+name:
+  en: Simon
+  ja: サイモン
+  romaji: Saimon
+canon: other
+gender: male
+species:
+- human
+status: deceased
+epithets:
+- en: Simon the Divine
+  ja: 神懸りのサイモン
+  romaji: Kamigakari no Saimon
+occupations:
+- name: Pirate Captain/Admiral
+  status: current
+affiliations:
+- type: crew
+  slug: simon-pirates
+  status: current
+residences:
+- type: location
+  slug: nanatsu-islands
+  status: current

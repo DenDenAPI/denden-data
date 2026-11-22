@@ -1,0 +1,17 @@
+slug: fata
+name:
+  en: Fata
+  ja: ファタ
+  romaji: Fata
+canon: other
+gender: male
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current
+ages:
+- years: 8
+  period: other

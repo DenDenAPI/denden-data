@@ -1,0 +1,25 @@
+slug: ochoku
+name:
+  en: Ochoku
+  ja: 王直
+  romaji: Ōchoku
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1155
+occupations:
+- name: Pirate Guru
+  status: current
+- name: Admiral of Pirate Island
+  status: former
+affiliations:
+- type: crew
+  slug: rocks-pirates
+  status: former
+residences:
+- type: location
+  slug: hachinosu
+  status: former

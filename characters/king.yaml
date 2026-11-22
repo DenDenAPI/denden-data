@@ -1,0 +1,43 @@
+slug: king
+name:
+  en: King
+  ja: キング
+  romaji: Kingu
+canon: manga
+gender: male
+species:
+- lunarian
+status: alive
+first_appearance:
+  chapter: 920
+  episode: 910
+epithets:
+- en: King the Conflagration
+  ja: 火災のキング
+  romaji: Kasai no Kingu
+occupations:
+- name: All-Star
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 12
+  day: 1
+blood_type: S
+ages:
+- years: 47
+  period: other
+heights:
+- cm: 613
+  period: other
+bounties:
+- amount: 1390000000
+  status: current

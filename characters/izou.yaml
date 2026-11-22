@@ -1,0 +1,52 @@
+slug: izou
+name:
+  en: Izou
+  ja: イゾウ
+  romaji: Izō
+canon: manga
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 553
+  episode: 461
+occupations:
+- name: 16th Division Commander
+  status: former
+- name: Samurai
+  status: current
+- name: Retainer of the Kouzuki Family
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: former
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: organization
+  slug: ninja-pirate-mink-samurai-alliance
+  status: current
+origin:
+  location: wano-country
+  region: Grand Line
+residences:
+- type: location
+  slug: wano-country
+  status: current
+birthday:
+  month: 10
+  day: 13
+blood_type: X
+ages:
+- years: 43
+  period: debut
+- years: 45
+  period: post_timeskip
+heights:
+- cm: 192
+  period: other
+bounties:
+- amount: 510000000
+  status: former

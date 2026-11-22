@@ -1,0 +1,16 @@
+slug: tanaka
+name:
+  en: Tanaka
+  ja: タナカさん
+  romaji: Tanaka-san
+canon: movie
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 829
+  episode: 747
+occupations:
+- name: Security Guard
+  status: current

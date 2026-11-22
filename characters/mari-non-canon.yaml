@@ -1,0 +1,14 @@
+slug: mari-non-canon
+name:
+  en: Mari (Non-Canon)
+  ja: マリ
+  romaji: Mari
+canon: other
+gender: female
+species:
+- human
+status: alive
+residences:
+- type: location
+  slug: arabasta-kingdom
+  status: current

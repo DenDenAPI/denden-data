@@ -1,0 +1,21 @@
+slug: ryu
+name:
+  en: Ryu
+  ja: リュウ爺
+  romaji: Ryū-ji
+canon: anime_only
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  episode: 55
+origin:
+  region: East Blue
+residences:
+- type: location
+  slug: warship-island
+  status: current
+ages:
+- years: 1
+  period: other

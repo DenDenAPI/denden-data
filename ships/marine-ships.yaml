@@ -1,0 +1,13 @@
+slug: marine-ships
+name:
+  en: Marine Ships
+  ja: 海軍船
+  romaji: Kaigun-sen
+canon: manga
+first_appearance:
+  chapter: 43
+  episode: 1
+affiliations:
+- type: organization
+  slug: marines
+  status: current

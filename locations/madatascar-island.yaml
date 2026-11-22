@@ -1,0 +1,11 @@
+slug: madatascar-island
+name:
+  en: Madatascar Island
+  ja: マダタスカル島
+  romaji: Madatasukaru Shima
+canon: other
+parent: new-world
+affiliations:
+- type: organization
+  slug: dx-marines
+  status: former

@@ -1,0 +1,30 @@
+slug: water-7-saga
+order: 4
+name:
+  en: Water 7 Saga
+chapters:
+  count: 139
+  ranges:
+  - start: 303
+    end: 441
+volumes:
+  count: 15
+  ranges:
+  - start: 32
+    end: 46
+episodes:
+  count: 116
+  ranges:
+  - start: 207
+    end: 290
+  - start: 293
+    end: 302
+  - start: 304
+    end: 325
+years:
+  manga:
+    start: 2003
+    end: 2007
+  anime:
+    start: 2004
+    end: 2007

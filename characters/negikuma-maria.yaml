@@ -1,0 +1,31 @@
+slug: negikuma-maria
+name:
+  en: Negikuma Maria
+  ja: ネギ熊まりあ
+  romaji: Negikuma Maria
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 133
+  episode: 80
+occupations:
+- name: Housewife
+  status: current
+origin:
+  location: drum-island
+  region: Grand Line
+residences:
+- type: location
+  slug: bighorn
+  status: current
+birthday:
+  month: 11
+  day: 14
+ages:
+- years: 43
+  period: debut
+- years: 45
+  period: post_timeskip

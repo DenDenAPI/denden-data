@@ -1,0 +1,17 @@
+slug: mochi
+name:
+  en: Mochi
+  ja: モチ
+  romaji: Mochi
+canon: manga
+gender: male
+species:
+- skypiean
+status: alive
+first_appearance:
+  chapter: 274
+  episode: 180
+affiliations:
+- type: location
+  slug: skypiea
+  status: current

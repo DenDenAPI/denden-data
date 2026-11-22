@@ -1,0 +1,19 @@
+slug: one-man
+name:
+  en: One-Man
+  ja: ワンマン
+  romaji: Wanman
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: amber-pirates
+  status: current

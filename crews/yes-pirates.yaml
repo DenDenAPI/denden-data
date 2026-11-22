@@ -1,0 +1,13 @@
+slug: yes-pirates
+name:
+  en: Yes Pirates
+  ja: イエス海賊団
+  romaji: Iesu Kaizokudan
+canon: manga
+status: disbanded
+first_appearance:
+  chapter: 96
+  episode: 48
+captains:
+- character: billy
+  status: current

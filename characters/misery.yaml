@@ -1,0 +1,25 @@
+slug: misery
+name:
+  en: Misery
+  ja: 三千里
+  romaji: Mizarī
+canon: manga
+gender: female
+species:
+- homie
+status: unknown
+first_appearance:
+  chapter: 1039
+  episode: 1066
+occupations:
+- name: Living Weapon
+  status: current
+- name: Servant
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: onigashima
+  region: Grand Line

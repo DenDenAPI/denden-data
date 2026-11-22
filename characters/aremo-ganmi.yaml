@@ -1,0 +1,17 @@
+slug: aremo-ganmi
+name:
+  en: Aremo Ganmi
+  ja: アレモ・ガンミー
+  romaji: Aremo Ganmī
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 707
+  episode: 636
+affiliations:
+- type: location
+  slug: corrida-colosseum
+  status: current

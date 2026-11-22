@@ -1,0 +1,34 @@
+slug: shioyaki
+name:
+  en: Shioyaki
+  ja: シオヤキ
+canon: manga
+gender: male
+species:
+- fish_man
+status: alive
+first_appearance:
+  chapter: 75
+  episode: 33
+occupations:
+- name: Pirate
+  status: current
+- name: Head of Banquets
+  status: current
+affiliations:
+- type: crew
+  slug: arlong-pirates
+  status: current
+origin:
+  location: ryugu-kingdom
+  region: Grand Line
+residences:
+- type: location
+  slug: fish-man-district
+  status: former
+- type: location
+  slug: arlong-park
+  status: former
+birthday:
+  month: 3
+  day: 27

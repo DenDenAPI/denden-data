@@ -1,0 +1,26 @@
+slug: b-rst
+name:
+  en: Bürst
+  ja: ビュルスト
+  romaji: Byurusuto
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Doctor Bürst
+  ja: ビュルスト博士
+  romaji: Byurusuto Hakase
+occupations:
+- name: Scientist
+  status: current
+- name: Prisoner of the Great Prison
+  status: current
+affiliations:
+- type: organization
+  slug: b-rst-lab
+  status: current
+- type: location
+  slug: impel-down
+  status: current

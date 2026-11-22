@@ -1,0 +1,23 @@
+slug: antonio
+name:
+  en: Antonio
+  ja: アントニオ
+  romaji: Antonio
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 497
+  episode: 391
+occupations:
+- name: Store owner
+  status: current
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+birthday:
+  month: 1
+  day: 21

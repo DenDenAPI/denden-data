@@ -1,0 +1,19 @@
+slug: camus
+name:
+  en: Camus
+  ja: カミュ
+  romaji: Kamyu
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 99
+occupations:
+- name: Conman
+  status: former
+residences:
+- type: location
+  slug: ido
+  status: current

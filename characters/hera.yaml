@@ -1,0 +1,34 @@
+slug: hera
+name:
+  en: Hera
+  ja: ヘラ
+canon: manga
+gender: female
+species:
+- homie
+status: unknown
+first_appearance:
+  chapter: 1011
+  episode: 1028
+epithets:
+- en: Hera the Thundercloud
+  ja: 雷雲のヘラ
+  romaji: Raiun no Hera
+occupations:
+- name: Living Weapon
+  status: current
+- name: Servant
+  status: current
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  location: onigashima
+  region: Grand Line
+birthday:
+  month: 3
+  day: 17
+heights:
+- cm: 212
+  period: other

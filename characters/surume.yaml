@@ -1,0 +1,31 @@
+slug: surume
+name:
+  en: Surume
+  ja: スルメ
+  romaji: Surume
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 604
+  episode: 524
+occupations:
+- name: Pet
+  status: current
+- name: Slave
+  status: former
+affiliations:
+- type: crew
+  slug: new-fish-man-pirates
+  status: former
+origin:
+  region: North Blue
+birthday:
+  month: 6
+  day: 9
+blood_type: S
+ages:
+- years: 120
+  period: other

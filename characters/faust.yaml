@@ -1,0 +1,26 @@
+slug: faust
+name:
+  en: Faust
+  ja: ファウスト
+  romaji: Fausuto
+canon: manga
+species:
+- mink
+status: alive
+first_appearance:
+  chapter: 508
+  episode: 490
+occupations:
+- name: Pirate
+  status: current
+- name: Magician
+  status: current
+affiliations:
+- type: crew
+  slug: hawkins-pirates
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 12
+  day: 13

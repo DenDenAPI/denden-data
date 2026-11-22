@@ -1,0 +1,19 @@
+slug: doringo
+name:
+  en: Doringo
+  ja: ドリンゴ
+  romaji: Doringo
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 0
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: roger-pirates
+  status: current

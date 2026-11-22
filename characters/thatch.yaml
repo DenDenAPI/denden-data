@@ -1,0 +1,27 @@
+slug: thatch
+name:
+  en: Thatch
+  ja: サッチ
+  romaji: Satchi
+canon: anime_only
+gender: male
+species:
+- human
+status: deceased
+first_appearance:
+  chapter: 440
+  episode: 325
+occupations:
+- name: 4th Division Commander
+  status: current
+- name: Cook
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current
+origin:
+  region: North Blue
+birthday:
+  month: 3
+  day: 24

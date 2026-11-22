@@ -1,0 +1,14 @@
+slug: recycle-wan
+name:
+  en: Recycle-Wan
+  ja: リサイクルワン
+  romaji: Risaikuruwan
+canon: manga
+status: alive
+first_appearance:
+  chapter: 1063
+  episode: 1092
+residences:
+- type: location
+  slug: egghead
+  status: current

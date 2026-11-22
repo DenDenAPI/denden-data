@@ -1,0 +1,25 @@
+slug: marin
+name:
+  en: Marin
+  ja: マリン
+  romaji: Marin
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 500
+  episode: 394
+occupations:
+- name: Slave
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: sabaody-archipelago
+  status: current
+birthday:
+  month: 10
+  day: 17

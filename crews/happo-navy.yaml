@@ -1,0 +1,14 @@
+slug: happo-navy
+name:
+  en: Happo Navy
+  ja: 八宝水軍
+  romaji: Happō Suigun
+canon: manga
+first_appearance:
+  chapter: 704
+  episode: 633
+captains:
+- character: sai
+  status: current
+- character: chinjao
+  status: former

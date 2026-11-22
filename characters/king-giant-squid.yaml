@@ -1,0 +1,20 @@
+slug: king-giant-squid
+name:
+  en: King (Giant Squid)
+  ja: キング
+  romaji: Kingu
+canon: other
+gender: male
+species:
+- animal
+status: deceased
+first_appearance:
+  chapter: 14
+epithets:
+- en: Big Giant Squid King
+  ja: 大ダイオウイカキング
+  romaji: Dai daiouikakingu
+residences:
+- type: location
+  slug: natsuyasumi-island
+  status: current

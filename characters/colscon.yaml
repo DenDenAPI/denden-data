@@ -1,0 +1,21 @@
+slug: colscon
+name:
+  en: Colscon
+  ja: コルスコン
+  romaji: Korusukon
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 574
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current
+affiliations:
+- type: crew
+  slug: whitebeard-pirates
+  status: current

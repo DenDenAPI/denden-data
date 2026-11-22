@@ -1,0 +1,20 @@
+slug: bobomba
+name:
+  en: Bobomba
+  ja: ボボンバ
+  romaji: Bobonba
+canon: manga
+gender: male
+species:
+- dwarf
+status: alive
+first_appearance:
+  chapter: 711
+  episode: 641
+affiliations:
+- type: location
+  slug: tontatta-kingdom
+  status: current
+- type: crew
+  slug: straw-hat-grand-fleet
+  status: current

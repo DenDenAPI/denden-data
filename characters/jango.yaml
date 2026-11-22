@@ -1,0 +1,59 @@
+slug: jango
+name:
+  en: Jango
+  ja: ジャンゴ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 25
+  episode: 9
+epithets:
+- en: '"One-Two" Jango'
+  ja: 1・2のジャンゴ
+  romaji: Ichi Ni no Jango
+- en: Jango the Turncoat
+  ja: 寝返りのジャンゴ
+  romaji: Negaeri no Jango
+occupations:
+- name: Marine Lieutenant Commander
+  status: current
+- name: Marine Seaman Recruit
+  status: current
+- name: Pirate
+  status: former
+- name: Captain
+  status: former
+- name: First Mate
+  status: former
+- name: Dancer
+  status: former
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: crew
+  slug: black-cat-pirates
+  status: former
+origin:
+  region: East Blue
+birthday:
+  month: 12
+  day: 28
+blood_type: S
+ages:
+- years: 27
+  period: debut
+- years: 29
+  period: post_timeskip
+heights:
+- cm: 207
+  period: other
+bounties:
+- amount: 9000000
+  status: former
+- amount: 1000000
+  status: current
+  minimum: true

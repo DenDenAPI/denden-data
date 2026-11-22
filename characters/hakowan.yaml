@@ -1,0 +1,20 @@
+slug: hakowan
+name:
+  en: Hakowan
+  ja: ハコワン
+  romaji: Hakowan
+canon: manga
+gender: male
+species:
+- animal
+status: alive
+first_appearance:
+  chapter: 245
+  episode: 778
+occupations:
+- name: Pet
+  status: current
+affiliations:
+- type: location
+  slug: evil-black-drum-kingdom
+  status: current

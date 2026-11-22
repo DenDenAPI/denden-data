@@ -1,0 +1,27 @@
+slug: domino
+name:
+  en: Domino
+  ja: ドミノ
+  romaji: Domino
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 526
+  episode: 422
+occupations:
+- name: Head Jailer
+  status: current
+- name: Vice Head Jailer
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: current
+origin:
+  region: Grand Line
+birthday:
+  month: 10
+  day: 30

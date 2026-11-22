@@ -1,0 +1,20 @@
+slug: spector
+name:
+  en: Spector
+  ja: スペクトル
+  romaji: Supekutoru
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 223
+  episode: 146
+occupations:
+- name: Hotel owner
+  status: current
+residences:
+- type: location
+  slug: mock-town
+  status: current

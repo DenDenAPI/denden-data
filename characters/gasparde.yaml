@@ -1,0 +1,29 @@
+slug: gasparde
+name:
+  en: Gasparde
+  ja: ガスパーデ
+  romaji: Gasupāde
+canon: movie
+gender: male
+species:
+- human
+status: unknown
+epithets:
+- en: General Gasparde
+  ja: 将軍ガスパーデ
+  romaji: Shōgun Gasupāde
+occupations:
+- name: Pirate Captain
+  status: current
+- name: Marine officer
+  status: former
+affiliations:
+- type: crew
+  slug: gasparde-pirates
+  status: current
+- type: organization
+  slug: marines
+  status: former
+bounties:
+- amount: 95000000
+  status: current

@@ -1,0 +1,18 @@
+slug: grizzly
+name:
+  en: Grizzly
+  ja: グリズリー
+  romaji: Gurizurī
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: Grizzly the Immortal
+  ja: 不死身のグリズリー
+  romaji: Fujimi no Gurizurī
+residences:
+- type: location
+  slug: jail-island
+  status: current

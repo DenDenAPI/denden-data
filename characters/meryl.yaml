@@ -1,0 +1,15 @@
+slug: meryl
+name:
+  en: Meryl
+  ja: メリル
+  romaji: Meriru
+canon: other
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Pirate
+  status: current
+- name: Captain
+  status: current

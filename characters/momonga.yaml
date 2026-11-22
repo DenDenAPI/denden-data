@@ -1,0 +1,46 @@
+slug: momonga
+name:
+  en: Momonga
+  ja: モモンガ
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 420
+  episode: 302
+occupations:
+- name: Vice Admiral
+  status: current
+- name: Base Commander of G-1
+  status: current
+affiliations:
+- type: organization
+  slug: marines
+  status: current
+- type: location
+  slug: g-1
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: g-1
+  status: current
+birthday:
+  month: 6
+  day: 6
+blood_type: F
+ages:
+- years: 46
+  period: debut
+- years: 48
+  period: post_timeskip
+heights:
+- cm: 251
+  period: other
+marine_rating:
+  stars: 5
+  minimum: true
+  equivalent: 500000000

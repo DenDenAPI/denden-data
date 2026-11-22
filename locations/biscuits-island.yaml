@@ -1,0 +1,14 @@
+slug: biscuits-island
+name:
+  en: Biscuits Island
+  ja: ビスケット島
+  romaji: Bisuketto-tō
+canon: manga
+first_appearance:
+  chapter: 828
+  episode: 787
+parent: totto-land
+affiliations:
+- type: crew
+  slug: big-mom-pirates
+  status: current

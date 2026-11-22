@@ -1,0 +1,32 @@
+slug: impel-down-arc
+order: 41
+name:
+  en: Impel Down Arc
+kind: story
+canon: manga
+sagas:
+- summit-war-saga
+chapters:
+  count: 25
+  ranges:
+  - start: 525
+    end: 549
+volumes:
+  count: 3
+  ranges:
+  - start: 54
+    end: 56
+episodes:
+  count: 27
+  ranges:
+  - start: 422
+    end: 425
+  - start: 430
+    end: 452
+years:
+  manga:
+    start: 2008
+    end: 2009
+  anime:
+    start: 2009
+    end: 2010

@@ -1,0 +1,23 @@
+slug: robson
+name:
+  en: Robson
+  ja: ロブソン
+  romaji: Robuson
+canon: manga
+gender: male
+species:
+- animal
+status: unknown
+first_appearance:
+  chapter: 135
+  episode: 81
+occupations:
+- name: Wapol's Pet
+  status: current
+affiliations:
+- type: location
+  slug: sakura-kingdom
+  status: former
+- type: crew
+  slug: bliking-pirates
+  status: former

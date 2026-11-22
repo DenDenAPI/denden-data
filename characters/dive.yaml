@@ -1,0 +1,20 @@
+slug: dive
+name:
+  en: Dive
+  ja: ダイブ
+  romaji: Daibu
+canon: manga
+gender: female
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1024
+  episode: 1080
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

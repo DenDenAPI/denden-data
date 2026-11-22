@@ -1,0 +1,17 @@
+slug: ven-vendler
+name:
+  en: Ven Vendler
+  ja: ヴェン・ヴェンドラー
+  romaji: Ven Vendorā
+canon: other
+gender: male
+species:
+- human
+status: alive
+occupations:
+- name: Prince
+  status: former
+affiliations:
+- type: organization
+  slug: black-kingdom
+  status: current

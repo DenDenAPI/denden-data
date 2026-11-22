@@ -1,0 +1,24 @@
+slug: bounty-pirate
+name:
+  en: Bounty
+  ja: バウンティー
+  romaji: Bauntī
+canon: other
+gender: male
+species:
+- human
+status: alive
+epithets:
+- en: God of Jealousy
+  ja: 嫉妬神
+  romaji: Shitto Kami
+occupations:
+- name: Pirate Captain
+  status: current
+affiliations:
+- type: crew
+  slug: bounties-pirates
+  status: current
+bounties:
+- amount: 1000000000
+  status: current

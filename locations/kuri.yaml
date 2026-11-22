@@ -1,0 +1,17 @@
+slug: kuri
+name:
+  en: Kuri
+  ja: 九里
+  romaji: Kuri
+canon: manga
+first_appearance:
+  chapter: 910
+  episode: 892
+parent: wano-country
+affiliations:
+- type: organization
+  slug: kouzuki-family
+  status: current
+- type: crew
+  slug: beasts-pirates
+  status: former

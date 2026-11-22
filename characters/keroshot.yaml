@@ -1,0 +1,19 @@
+slug: keroshot
+name:
+  en: Keroshot
+  ja: ケロショット
+  romaji: Keroshotto
+canon: movie
+gender: male
+species:
+- human
+status: deceased
+occupations:
+- name: Speedboat gunner
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: red-arrows-pirates
+  status: current

@@ -1,0 +1,14 @@
+slug: onigashima
+name:
+  en: Onigashima
+  ja: 鬼ヶ島
+  romaji: Onigashima
+canon: manga
+first_appearance:
+  chapter: 793
+  episode: 736
+parent: wano-country
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: former

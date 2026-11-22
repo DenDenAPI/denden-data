@@ -1,0 +1,49 @@
+slug: kuzan
+name:
+  en: Kuzan
+  ja: クザン
+canon: manga
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 303
+  episode: 225
+aliases:
+- en: Aokiji
+  ja: 青キジ
+  romaji: Aokiji
+occupations:
+- name: Titanic Captain
+  status: current
+- name: Admiral
+  status: former
+- name: Vice Admiral
+  status: former
+affiliations:
+- type: crew
+  slug: blackbeard-pirates
+  status: current
+- type: organization
+  slug: marines
+  status: current
+origin:
+  location: vespa-kingdom
+  region: South Blue
+residences:
+- type: location
+  slug: hachinosu
+  status: current
+birthday:
+  month: 9
+  day: 21
+blood_type: F
+ages:
+- years: 47
+  period: debut
+- years: 49
+  period: post_timeskip
+heights:
+- cm: 298
+  period: other

@@ -1,0 +1,13 @@
+slug: zs-ambition-arc
+order: 50
+name:
+  en: Z's Ambition Arc
+kind: filler
+canon: anime_only
+sagas:
+- dressrosa-saga
+episodes:
+  count: 4
+  ranges:
+  - start: 575
+    end: 578

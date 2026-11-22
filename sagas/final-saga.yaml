@@ -1,0 +1,26 @@
+slug: final-saga
+order: 11
+name:
+  en: Final Saga
+chapters:
+  count: null
+  ranges:
+  - start: 1058
+    end: null
+volumes:
+  count: null
+  ranges:
+  - start: 105
+    end: null
+episodes:
+  count: null
+  ranges:
+  - start: 1086
+    end: null
+years:
+  manga:
+    start: 2022
+    end: null
+  anime:
+    start: 2023
+    end: null

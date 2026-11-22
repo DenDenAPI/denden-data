@@ -1,0 +1,21 @@
+slug: ever
+name:
+  en: Ever
+  ja: エバー
+  romaji: Ebā
+canon: movie
+gender: female
+species:
+- human
+status: alive
+occupations:
+- name: Waitress
+  status: current
+affiliations:
+- type: crew
+  slug: golden-lion-pirates
+  status: current
+residences:
+- type: location
+  slug: merveille
+  status: former

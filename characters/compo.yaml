@@ -1,0 +1,20 @@
+slug: compo
+name:
+  en: Compo
+  ja: コンポ
+  romaji: Konpo
+canon: manga
+gender: male
+species:
+- human
+status: unknown
+first_appearance:
+  chapter: 1040
+  episode: 1066
+occupations:
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: kid-pirates
+  status: current

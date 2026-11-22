@@ -1,0 +1,18 @@
+slug: banban
+name:
+  en: Banban
+  ja: バンバン
+canon: anime_only
+gender: male
+species:
+- human
+status: alive
+first_appearance:
+  episode: 319
+occupations:
+- name: Chef
+  status: current
+residences:
+- type: location
+  slug: water-7
+  status: current

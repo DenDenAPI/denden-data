@@ -1,0 +1,14 @@
+slug: g-1
+name:
+  en: G-1
+  ja: 海軍G・L第1支部
+  romaji: Kaigun Gurando Rain Dai-Ichi Shibu
+canon: manga
+first_appearance:
+  chapter: 598
+  episode: 517
+parent: new-world
+affiliations:
+- type: organization
+  slug: marines
+  status: current

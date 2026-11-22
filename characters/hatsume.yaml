@@ -1,0 +1,24 @@
+slug: hatsume
+name:
+  en: Hatsume
+  ja: 初芽
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 951
+  episode: 951
+occupations:
+- name: Samurai
+  status: current
+- name: Pirate
+  status: current
+affiliations:
+- type: crew
+  slug: beasts-pirates
+  status: current
+- type: organization
+  slug: mimawarigumi
+  status: former

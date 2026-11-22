@@ -1,0 +1,14 @@
+slug: saori
+name:
+  en: Saori
+  ja: サオリ
+  romaji: Saori
+canon: other
+status: alive
+occupations:
+- name: Prisoner of the Great Prison
+  status: former
+affiliations:
+- type: location
+  slug: impel-down
+  status: former

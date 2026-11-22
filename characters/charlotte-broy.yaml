@@ -1,0 +1,37 @@
+slug: charlotte-broy
+name:
+  en: Charlotte Broyé
+  ja: シャーロット・ブロワイエ
+  romaji: Shārotto Burowaie
+canon: manga
+gender: female
+species:
+- human
+status: alive
+first_appearance:
+  chapter: 864
+  episode: 832
+occupations:
+- name: Pirate Officer
+  status: current
+- name: Minister of Meringue
+  status: current
+affiliations:
+- type: organization
+  slug: charlotte-family
+  status: current
+- type: crew
+  slug: big-mom-pirates
+  status: current
+origin:
+  region: Grand Line
+residences:
+- type: location
+  slug: milenge-island
+  status: current
+birthday:
+  month: 3
+  day: 6
+ages:
+- years: 43
+  period: other
