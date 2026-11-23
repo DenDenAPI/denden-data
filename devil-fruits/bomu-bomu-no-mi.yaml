@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: gem
   status: current
+  revealed_chapter: 111
 - character: ganzui
   status: former

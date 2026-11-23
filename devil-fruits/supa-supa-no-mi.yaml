@@ -12,6 +12,7 @@ first_appearance:
 users:
 - character: daz-bonez
   status: current
+  revealed_chapter: 194
 - character: s-hawk
   status: current
   revealed_chapter: 1076

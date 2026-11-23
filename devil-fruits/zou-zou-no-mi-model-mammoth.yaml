@@ -13,3 +13,4 @@ first_appearance:
 users:
 - character: jack
   status: current
+  revealed_chapter: 808

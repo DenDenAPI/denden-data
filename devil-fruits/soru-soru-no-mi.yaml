@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: charlotte-linlin
   status: current
+  revealed_chapter: 868
 - character: carmel
   status: former
+  revealed_chapter: 868
