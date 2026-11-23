@@ -12,3 +12,4 @@ first_appearance:
 users:
 - character: smoker
   status: current
+  revealed_chapter: 100

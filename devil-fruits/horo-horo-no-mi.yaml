@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: perona
   status: current
+  revealed_chapter: 461
 - character: gill-bastar
   status: former

@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: bartolomeo
   status: current
+  revealed_chapter: 709
 - character: kurozumi-semimaru
   status: former
