@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: loki
   status: current
+  revealed_chapter: 1175
 - character: warrior-god
   status: former

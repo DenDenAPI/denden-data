@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: bentham
   status: current
+  revealed_chapter: 156
 - character: kurozumi-higurashi
   status: former
+  revealed_chapter: 969

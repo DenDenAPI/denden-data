@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: eustass-kid
   status: current
+  revealed_chapter: 1031
 - character: john
   status: former

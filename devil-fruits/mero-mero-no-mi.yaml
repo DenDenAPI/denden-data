@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: boa-hancock
   status: current
+  revealed_chapter: 516
 - character: s-snake
   status: current
+  revealed_chapter: 1070

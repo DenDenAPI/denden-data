@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: shiryu
   status: current
+  revealed_chapter: 925
 - character: absalom
   status: former
+  revealed_chapter: 464

@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: marshall-d-teach
   status: current
+  revealed_chapter: 577
 - character: edward-newgate
   status: former
+  revealed_chapter: 552

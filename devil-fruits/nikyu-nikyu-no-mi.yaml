@@ -12,5 +12,6 @@ first_appearance:
 users:
 - character: bartholomew-kuma
   status: current
+  revealed_chapter: 484
 - character: s-bear
   status: current

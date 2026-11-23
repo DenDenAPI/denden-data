@@ -12,5 +12,7 @@ first_appearance:
 users:
 - character: sabo
   status: current
+  revealed_chapter: 744
 - character: portgas-d-ace
   status: former
+  revealed_chapter: 159
