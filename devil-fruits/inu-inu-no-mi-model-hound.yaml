@@ -6,6 +6,9 @@ name:
 type: zoan
 meaning: Dog, Hound
 canon: manga
+first_appearance:
+  chapter: 1117
 users:
 - character: hound
   status: current
+  revealed_chapter: 1117

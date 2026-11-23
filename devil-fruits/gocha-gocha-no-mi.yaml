@@ -7,8 +7,9 @@ type: paramecia
 meaning: Mix
 canon: manga
 first_appearance:
-  chapter: 900
+  chapter: 886
   episode: 875
 users:
 - character: charlotte-newshi
   status: current
+  revealed_chapter: 886
