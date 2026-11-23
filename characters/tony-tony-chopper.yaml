@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 134
 first_appearance:
   chapter: 134
   episode: 81
@@ -13,38 +14,52 @@ epithets:
 - en: Cotton Candy Lover
   ja: わたあめ大好き
   romaji: Wataame Daisuki
+  revealed_chapter: 435
 aliases:
 - en: Chopa-emon
   ja: チョッパえもん
   romaji: Choppaemon
+  revealed_chapter: 705
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 152
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 152
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: crew
   slug: foxy-pirates
   status: former
+  revealed_chapter: 309
+  kind: member
+  temporary: true
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   location: drum-island
   region: Grand Line
+  revealed_chapter: 140
 residences:
 - type: location
   slug: sakura-kingdom
   status: former
+  revealed_chapter: 440
 - type: location
   slug: torino-kingdom
   status: former
+  revealed_chapter: 524
 birthday:
   month: 12
   day: 24
@@ -58,6 +73,12 @@ heights:
 - cm: 90
   period: other
 bounties:
+- amount: 50
+  status: former
+  revealed_chapter: 435
+- amount: 100
+  status: former
+  revealed_chapter: 801
 - amount: 1000
   status: current
   revealed_chapter: 1058

@@ -9,6 +9,7 @@ species:
 - cyborg
 - human
 status: alive
+status_revealed_chapter: 329
 first_appearance:
   chapter: 329
   episode: 233
@@ -16,49 +17,65 @@ epithets:
 - en: '"Iron Man" Franky'
   ja: '"鉄人"フランキー'
   romaji: Tetsujin Furankī
+  revealed_chapter: 801
 - en: '"Cyborg" Franky'
   ja: '"鉄人"フランキー'
   romaji: Saibōgu Furankī
+  revealed_chapter: 435
 aliases:
 - en: Fra-nosuke
   ja: フラの介
   romaji: Furanosuke
+  revealed_chapter: 909
 occupations:
 - name: Shipwright
   status: current
+  revealed_chapter: 353
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Dismantler
   status: current
+  revealed_chapter: 335
 - name: Underworld boss
   status: former
+  revealed_chapter: 335
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 335
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 437
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: organization
   slug: franky-family
   status: former
+  revealed_chapter: 329
 - type: organization
   slug: toms-workers
   status: former
+  revealed_chapter: 353
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   region: South Blue
 residences:
 - type: location
   slug: water-7
   status: former
+  revealed_chapter: 329
 - type: location
   slug: karakuri-island
   status: former
+  revealed_chapter: 598
 birthday:
   month: 3
   day: 9
@@ -66,6 +83,7 @@ blood_type: XF
 ages:
 - years: 34
   period: debut
+  revealed_chapter: 353
 - years: 36
   period: post_timeskip
 heights:

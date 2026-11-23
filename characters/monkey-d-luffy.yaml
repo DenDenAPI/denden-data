@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 1
@@ -15,64 +16,87 @@ epithets:
 - en: Straw Hat Luffy
   ja: 麦わらのルフィ
   romaji: Mugiwara no Rufi
+  revealed_chapter: 2
 aliases:
 - en: Lucy
   ja: ルーシー
   romaji: Rūshī
+  revealed_chapter: 703
 - en: Luffy-tarou
   ja: ルフィ太郎
   romaji: Rufitarō
+  revealed_chapter: 914
 - en: Luffy-no-Umi
   ja: ルフィの海
   romaji: Rufinoumi
+  revealed_chapter: 916
 - en: Joy Boy
   ja: ジョイボーイ
   romaji: Joi Bōi
+  revealed_chapter: 1043
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 5
 - name: Emperor
   status: current
+  revealed_chapter: 1053
 - name: Senior Captain of the Grand Fleet
   status: current
+  revealed_chapter: 1058
 - name: Prisoner
   status: former
+  revealed_chapter: 536
 - name: Chore Boy
   status: former
-- name: Bandit
-  status: former
+  revealed_chapter: 44
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 5
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: organization
   slug: four-emperors
   status: current
+  revealed_chapter: 1053
+  kind: rank
 - type: organization
   slug: dadan-family
   status: former
+  revealed_chapter: 582
+  kind: guardianship
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 536
+  kind: captivity
+  temporary: true
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   location: foosha-village
   region: East Blue
+  revealed_chapter: 96
 residences:
 - type: location
   slug: mt-colubo
   status: former
+  revealed_chapter: 582
 - type: location
   slug: rusukaina
   status: former
+  revealed_chapter: 597
 - type: location
   slug: foosha-village
   status: former
+  revealed_chapter: 96
 birthday:
   month: 5
   day: 5

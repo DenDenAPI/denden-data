@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 23
 first_appearance:
   chapter: 23
   episode: 8
@@ -15,50 +16,67 @@ epithets:
 - en: King of Snipers
   ja: 狙撃の王様
   romaji: Sogeki no Ō-sama
+  revealed_chapter: 367
 - en: God
   ja: ゴッド
   romaji: Goddo
+  revealed_chapter: 744
 aliases:
 - en: Sogeking
   ja: そげキング
   romaji: Sogekingu
+  revealed_chapter: 367
 - en: Usoland
   ja: ウソランド
   romaji: Usorando
+  revealed_chapter: 713
 - en: Uso-hachi
   ja: ウソ八
   romaji: Usohachi
+  revealed_chapter: 909
 - en: Hana Arashi
+  revealed_chapter: 410
 occupations:
 - name: Sniper
   status: current
+  revealed_chapter: 42
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Toad Oil Salesman
   status: current
+  revealed_chapter: 909
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 41
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: crew
   slug: usopp-pirates
   status: former
+  revealed_chapter: 23
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   location: gecko-islands
   region: East Blue
+  revealed_chapter: 23
 residences:
 - type: location
   slug: syrup-village
   status: former
+  revealed_chapter: 23
 - type: location
   slug: boin-archipelago
   status: former
+  revealed_chapter: 524
 birthday:
   month: 4
   day: 1

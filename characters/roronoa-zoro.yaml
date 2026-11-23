@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 3
 first_appearance:
   chapter: 3
   episode: 1
@@ -15,46 +16,63 @@ epithets:
 - en: Pirate Hunter Zoro
   ja: 海賊狩りのゾロ
   romaji: Kaizoku Gari no Zoro
+  revealed_chapter: 3
 aliases:
 - en: Zoro-juurou
   ja: ゾロ十郎
   romaji: Zorojūrō
+  revealed_chapter: 909
 occupations:
-- name: Master Swordsman
+- name: Swordsman
   status: current
+  revealed_chapter: 6
 - name: Pirate
   status: current
+  revealed_chapter: 5
 - name: Crew Combatant
   status: current
+  revealed_chapter: 6
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 3
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 5
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: organization
   slug: shimotsuki-family
   status: current
+  revealed_chapter: 1065
+  kind: family
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   region: East Blue
+  revealed_chapter: 5
 residences:
 - type: location
   slug: shimotsuki-village
   status: former
+  revealed_chapter: 440
 - type: location
   slug: nazawaka-city
   status: former
+  canon: other
 - type: location
   slug: kuraigana-island
   status: former
+  revealed_chapter: 524
 birthday:
   month: 11
   day: 11

@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 43
 first_appearance:
   chapter: 43
   episode: 20
@@ -13,52 +14,72 @@ epithets:
 - en: Black Leg
   ja: 黒足
   romaji: Kuro Ashi
+  revealed_chapter: 435
 aliases:
 - en: Mr. Prince
   ja: Mr. プリンス
   romaji: Misutā Purinsu
+  revealed_chapter: 174
 - en: San-gorou
   ja: サン五郎
   romaji: Sangorō
+  revealed_chapter: 724
 - en: Osoba-mask
   ja: おそばマスク
   romaji: O-Soba Masuku
+  revealed_chapter: 931
 occupations:
 - name: Cook
   status: current
+  revealed_chapter: 43
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Sous Chef
   status: former
+  revealed_chapter: 43
 - name: Prince
   status: former
+  revealed_chapter: 833
 - name: Cart Vendor
   status: current
+  revealed_chapter: 926
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 68
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: organization
   slug: vinsmoke-family
   status: former
+  revealed_chapter: 812
+  kind: family
 - type: location
   slug: germa-kingdom
   status: former
+  revealed_chapter: 833
+  kind: family
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   region: North Blue
+  revealed_chapter: 227
 residences:
 - type: location
   slug: momoiro-island
   status: former
+  revealed_chapter: 523
 - type: location
   slug: germa-kingdom
   status: former
+  revealed_chapter: 840
 birthday:
   month: 3
   day: 2
