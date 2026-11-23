@@ -12,5 +12,6 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1114
 origin:
   location: great-kingdom
