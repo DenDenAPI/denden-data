@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 528
 first_appearance:
   chapter: 528
   episode: 430
@@ -15,53 +16,76 @@ epithets:
 - en: '"Knight of the Sea" Jinbe'
   ja: 海侠のジンベエ
   romaji: Kaikyō no Jinbē
+  revealed_chapter: 528
 - en: Boss Jinbe
   ja: ジンベエ親分
   romaji: Jinbē Oyabun
+  revealed_chapter: 621
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 528
 - name: Helmsman
   status: current
+  revealed_chapter: 976
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Captain
   status: former
+  revealed_chapter: 624
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 528
 - name: Soldier
   status: former
+  revealed_chapter: 621
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 528
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 976
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 976
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 620
 - type: crew
   slug: big-mom-pirates
   status: former
+  revealed_chapter: 652
+  kind: alliance
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 621
+  kind: service
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 528
+  kind: captivity
+  temporary: true
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 977
+  kind: alliance
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 630
 residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 621
 birthday:
   month: 4
   day: 2

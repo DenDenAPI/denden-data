@@ -21,5 +21,6 @@ first_appearance:
 users:
 - character: monkey-d-luffy
   status: current
+  revealed_chapter: 1
 - character: joy-boy
   status: former

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 114
 first_appearance:
   chapter: 114
   episode: 67
@@ -15,62 +16,83 @@ epithets:
 - en: Devil Child
   ja: 悪魔の子
   romaji: Akuma no Ko
+  revealed_chapter: 435
 - en: Light of the Revolution
   ja: 革命の灯
   romaji: Kakumei no Tomoshibi
+  revealed_chapter: 593
 aliases:
 - en: Miss All Sunday
   ja: ミス・オールサンデー
   romaji: Misu Ōrusandē
+  revealed_chapter: 114
 - en: O-Robi
   ja: おロビ
   romaji: Orobi
+  revealed_chapter: 909
 occupations:
 - name: Archaeologist
   status: current
+  revealed_chapter: 218
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Assassin
   status: former
+  revealed_chapter: 218
 - name: Baroque Works Vice President
   status: former
+  revealed_chapter: 114
 - name: Rain Dinners manager
   status: former
-- name: Revolutionary
-  status: former
+  revealed_chapter: 169
 - name: Slave
   status: former
+  revealed_chapter: 546
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 218
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 114
 - type: crew
   slug: foxy-pirates
   status: current
+  canon: anime_only
 - type: organization
   slug: revolutionary-army
   status: former
+  revealed_chapter: 596
+  kind: collaboration
+  temporary: true
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   region: West Blue
+  revealed_chapter: 391
 residences:
 - type: location
   slug: ohara
   status: former
+  revealed_chapter: 391
 - type: location
   slug: arabasta-kingdom
   status: former
+  revealed_chapter: 169
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 598
 birthday:
   month: 2
   day: 6
@@ -78,6 +100,7 @@ blood_type: S
 ages:
 - years: 28
   period: debut
+  revealed_chapter: 218
 - years: 30
   period: post_timeskip
 heights:

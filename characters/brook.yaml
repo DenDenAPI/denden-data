@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 442
 first_appearance:
   chapter: 442
   episode: 337
@@ -15,63 +16,86 @@ epithets:
 - en: Humming Brook
   ja: 鼻唄のブルック
   romaji: Hanauta no Burukku
+  revealed_chapter: 489
 - en: Soul King
   ja: ソウルキング
   romaji: Souru Kingu
+  revealed_chapter: 598
 aliases:
 - en: Demon King Satan-sama
   ja: 悪魔王サタン様
   romaji: Akuma-ō Satan-sama
+  revealed_chapter: 592
 - en: Hone-kichi
   ja: ホネ吉
   romaji: Honekichi
+  revealed_chapter: 705
 - en: The Starving Skeleton
   ja: がしゃどくろ
   romaji: Gashadokuro
+  revealed_chapter: 933
 occupations:
 - name: Musician
   status: current
+  revealed_chapter: 487
 - name: Swordsman
   status: current
+  revealed_chapter: 454
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Pirate Captain
   status: former
+  revealed_chapter: 487
 - name: Battle Convoy leader
   status: former
+  revealed_chapter: 489
 - name: Raider Squad leader
   status: former
+  revealed_chapter: 1183
 - name: World-Famous Rock Star
   status: former
+  revealed_chapter: 598
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 489
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: crew
   slug: rumbar-pirates
   status: former
+  revealed_chapter: 487
 - type: organization
   slug: royal-guard
   status: former
+  revealed_chapter: 489
+  kind: service
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   location: esperia-kingdom
   region: West Blue
+  revealed_chapter: 1184
 residences:
 - type: location
   slug: florian-triangle
   status: former
+  revealed_chapter: 443
 - type: location
   slug: namakura-island
   status: former
+  revealed_chapter: 524
 - type: location
   slug: esperia-kingdom
   status: former
+  revealed_chapter: 1183
 birthday:
   month: 4
   day: 3
@@ -79,8 +103,10 @@ blood_type: X
 ages:
 - years: 38
   period: other
+  revealed_chapter: 487
 - years: 88
   period: debut
+  revealed_chapter: 487
 - years: 90
   period: post_timeskip
 heights:

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 8
 first_appearance:
   chapter: 8
   episode: 1
@@ -15,34 +16,45 @@ epithets:
 - en: Cat Burglar
   ja: 泥棒猫
   romaji: Dorobō Neko
+  revealed_chapter: 435
 aliases:
 - en: Namizo
   ja: ナミゾウ
   romaji: Namizō
+  revealed_chapter: 454
 - en: O-Nami
   ja: おナミ
   romaji: Onami
+  revealed_chapter: 705
 occupations:
 - name: Navigator
   status: current
+  revealed_chapter: 95
 - name: Senior Officer
   status: current
+  revealed_chapter: 1058
 - name: Thief
   status: current
+  revealed_chapter: 8
 - name: Pirate Officer
   status: former
+  revealed_chapter: 71
 - name: Kunoichi
   status: current
+  revealed_chapter: 921
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 95
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: crew
   slug: arlong-pirates
   status: former
+  revealed_chapter: 69
 - type: crew
   slug: ganzack-pirates
   status: former
@@ -54,9 +66,12 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
+  kind: alliance
 origin:
   location: conomi-islands
   region: East Blue
+  revealed_chapter: 77
 residences:
 - type: location
   slug: oykot-kingdom
@@ -64,9 +79,11 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: former
+  revealed_chapter: 70
 - type: location
   slug: weatheria
   status: former
+  revealed_chapter: 523
 birthday:
   month: 7
   day: 3
