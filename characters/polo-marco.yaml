@@ -16,16 +16,17 @@ epithets:
 - en: Marco the Phoenix
   ja: 不死鳥マルコ
   romaji: Fushichō Maruko
-  revealed_chapter: 552
+  revealed_chapter: 569
 occupations:
 - name: Doctor
   status: current
   revealed_chapter: 909
 - name: 1st Division Commander
   status: former
-  revealed_chapter: 552
+  revealed_chapter: 434
 - name: Apprentice
   status: former
+  revealed_chapter: 963
 affiliations:
 - type: crew
   slug: whitebeard-pirates

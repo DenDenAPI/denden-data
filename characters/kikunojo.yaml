@@ -16,6 +16,7 @@ epithets:
 - en: Kikunojo of the Lingering Snow
   ja: 残雪の菊之丞
   romaji: Zansetsu no Kikunojō
+  revealed_chapter: 948
 aliases:
 - en: O-Kiku
   ja: お菊
@@ -24,23 +25,24 @@ aliases:
 occupations:
 - name: Daimyo of Ringo
   status: current
+  revealed_chapter: 1153
 - name: Samurai
   status: current
   revealed_chapter: 913
 - name: Retainer of the Kouzuki Family
   status: current
-  revealed_chapter: 920
+  revealed_chapter: 948
 - name: Tea House Poster Girl
   status: current
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
-  revealed_chapter: 920
+  revealed_chapter: 948
 - type: organization
   slug: nine-red-scabbards
   status: current
-  revealed_chapter: 920
+  revealed_chapter: 948
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

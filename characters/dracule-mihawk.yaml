@@ -20,14 +20,15 @@ epithets:
 - en: Strongest Swordsman in the World
   ja: 世界最強の剣士
   romaji: Sekai Saikyō no Kenshi
-  revealed_chapter: 49
+  revealed_chapter: 50
 - en: Marine Hunter
   ja: 海兵狩り
   romaji: Kaihei-gari
+  revealed_chapter: 1058
 occupations:
 - name: Pirate
   status: current
-  revealed_chapter: 49
+  revealed_chapter: 50
 - name: Cross Guild Officer
   status: current
   revealed_chapter: 1056
@@ -43,7 +44,7 @@ residences:
 - type: location
   slug: kuraigana-island
   status: former
-  revealed_chapter: 597
+  revealed_chapter: 592
 - type: location
   slug: karai-bari-island
   status: current

@@ -17,21 +17,21 @@ epithets:
 - en: Queen the Plague
   ja: 疫災のクイーン
   romaji: Ekisai no Kuīn
-  revealed_chapter: 935
+  revealed_chapter: 925
 occupations:
 - name: All-Star
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 - name: Scientist
   status: current
-  revealed_chapter: 1007
+  revealed_chapter: 1017
 - name: De Facto Ruler of Udon
   status: former
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 - type: organization
   slug: mads
   status: former
@@ -42,7 +42,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 birthday:
   month: 7
   day: 13

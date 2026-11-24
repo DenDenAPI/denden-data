@@ -14,14 +14,15 @@ epithets:
 - en: Accursed Prince
   ja: 呪いの王子
   romaji: Noroi no Ōji
-  revealed_chapter: 1131
+  revealed_chapter: 1130
 - en: Shame of Elbaph
   ja: エルバフの恥
   romaji: Erubafu no Haji
-  revealed_chapter: 1131
+  revealed_chapter: 1130
 - en: Sun God
   ja: 太陽の神
   romaji: Taiyō no Kami
+  revealed_chapter: 1130
 occupations:
 - name: Prince
   status: current

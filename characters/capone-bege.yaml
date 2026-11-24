@@ -23,6 +23,7 @@ occupations:
   revealed_chapter: 498
 - name: Mafia don
   status: former
+  revealed_chapter: 857
 - name: Combatant
   status: former
 affiliations:
@@ -33,9 +34,10 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: former
-  revealed_chapter: 812
+  revealed_chapter: 807
 origin:
   region: West Blue
+  revealed_chapter: 857
 birthday:
   month: 1
   day: 17
@@ -57,3 +59,4 @@ bounties:
   revealed_chapter: 812
 - amount: 350000000
   status: current
+  revealed_chapter: 966

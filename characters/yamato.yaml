@@ -15,7 +15,7 @@ epithets:
 - en: Oni Princess
   ja: 鬼姫
   romaji: Onihime
-  revealed_chapter: 984
+  revealed_chapter: 1024
 aliases:
 - en: Kouzuki Oden
   ja: 光月おでん
@@ -28,12 +28,12 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
-  revealed_chapter: 984
+  revealed_chapter: 979
 residences:
 - type: location
   slug: wano-country
   status: current
-  revealed_chapter: 984
+  revealed_chapter: 979
 birthday:
   month: 11
   day: 3

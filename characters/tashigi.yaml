@@ -14,11 +14,12 @@ first_appearance:
 occupations:
 - name: Captain
   status: current
-  revealed_chapter: 664
+  revealed_chapter: 652
 - name: Ensign
   status: former
 - name: Master Chief Petty Officer
   status: former
+  revealed_chapter: 97
 affiliations:
 - type: organization
   slug: marines

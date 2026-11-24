@@ -16,11 +16,11 @@ aliases:
 - en: Fujitora
   ja: 藤虎
   romaji: Fujitora
-  revealed_chapter: 703
+  revealed_chapter: 705
 occupations:
 - name: Admiral
   status: current
-  revealed_chapter: 703
+  revealed_chapter: 705
 - name: Guard Captain
   status: former
 - name: Bodyguard
@@ -29,7 +29,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
-  revealed_chapter: 703
+  revealed_chapter: 705
 origin:
   location: aoi-kingdom
   region: Grand Line

@@ -16,23 +16,23 @@ epithets:
 - en: King the Conflagration
   ja: 火災のキング
   romaji: Kasai no Kingu
-  revealed_chapter: 935
+  revealed_chapter: 925
 occupations:
 - name: All-Star
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: wano-country
   status: current
-  revealed_chapter: 935
+  revealed_chapter: 925
 birthday:
   month: 12
   day: 1

@@ -17,7 +17,7 @@ occupations:
   status: current
 - name: Scientist
   status: current
-  revealed_chapter: 1086
+  revealed_chapter: 1094
 affiliations:
 - type: organization
   slug: five-elders
@@ -26,7 +26,7 @@ affiliations:
 - type: organization
   slug: world-noble
   status: current
-  revealed_chapter: 1086
+  revealed_chapter: 1094
 residences:
 - type: location
   slug: mary-geoise

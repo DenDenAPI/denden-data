@@ -16,26 +16,25 @@ epithets:
 - en: Dark King
   ja: 冥王
   romaji: Meiō
-  revealed_chapter: 506
+  revealed_chapter: 501
 - en: Right Hand of the Pirate King
   ja: 海賊王の右腕
   romaji: Kaizoku-Ō no Migiude
-  revealed_chapter: 506
 occupations:
 - name: Coating Mechanic
   status: current
   revealed_chapter: 498
 - name: First Mate
   status: former
-  revealed_chapter: 506
+  revealed_chapter: 500
 - name: Pirate
   status: former
-  revealed_chapter: 506
+  revealed_chapter: 500
 affiliations:
 - type: crew
   slug: roger-pirates
   status: former
-  revealed_chapter: 506
+  revealed_chapter: 500
 residences:
 - type: location
   slug: sabaody-archipelago

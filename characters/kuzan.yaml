@@ -19,18 +19,18 @@ aliases:
 occupations:
 - name: Titanic Captain
   status: current
-  revealed_chapter: 925
+  revealed_chapter: 1081
 - name: Admiral
   status: former
   revealed_chapter: 303
 - name: Vice Admiral
   status: former
-  revealed_chapter: 397
+  revealed_chapter: 396
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
-  revealed_chapter: 925
+  revealed_chapter: 793
 - type: organization
   slug: marines
   status: current
