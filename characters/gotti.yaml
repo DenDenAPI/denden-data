@@ -8,6 +8,7 @@ species:
 - cyborg
 - human
 status: alive
+status_revealed_chapter: 825
 first_appearance:
   chapter: 825
   episode: 783
@@ -22,6 +23,7 @@ affiliations:
 - type: crew
   slug: fire-tank-pirates
   status: current
+  revealed_chapter: 993
 origin:
   region: West Blue
 birthday:

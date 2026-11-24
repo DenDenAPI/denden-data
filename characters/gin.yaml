@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 44
 first_appearance:
   chapter: 44
   episode: 21
@@ -18,12 +19,14 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 46
 - name: Combat Commander
   status: current
 affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
+  revealed_chapter: 67
 origin:
   region: East Blue
 birthday:

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 134
 first_appearance:
   chapter: 134
   episode: 80
@@ -15,6 +16,7 @@ epithets:
 - en: Witch
   ja: 魔女
   romaji: Majo
+  revealed_chapter: 134
 - en: Master of Doctors
   ja: マスターオブ医者
   romaji: Masutā Obu Isha
@@ -31,15 +33,18 @@ affiliations:
 - type: location
   slug: sakura-kingdom
   status: current
+  revealed_chapter: 903
 - type: organization
   slug: isshi-100
   status: current
+  revealed_chapter: 637
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: drum-island
   status: current
+  revealed_chapter: 143
 birthday:
   month: 9
   day: 8

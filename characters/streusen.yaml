@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 858
 first_appearance:
   chapter: 858
   episode: 827
@@ -20,19 +21,23 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 868
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 868
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1096
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: hachinosu
   status: former
+  revealed_chapter: 1160
 - type: location
   slug: whole-cake-island
   status: current

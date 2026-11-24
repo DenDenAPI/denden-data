@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 606
 first_appearance:
   chapter: 606
   episode: 525
@@ -18,10 +19,12 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 649
 affiliations:
 - type: crew
   slug: sun-pirates
   status: current
+  revealed_chapter: 899
 - type: crew
   slug: flying-pirates
   status: former

@@ -8,6 +8,7 @@ gender: female
 species:
 - giant
 status: deceased
+status_revealed_chapter: 1168
 first_appearance:
   chapter: 1153
 occupations:
@@ -18,10 +19,12 @@ occupations:
 origin:
   location: samuwanai-island
   region: South Blue
+  revealed_chapter: 1153
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1153
 - type: location
   slug: bunt-kingdom
   status: former

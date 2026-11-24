@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 43
 first_appearance:
   chapter: 43
   episode: 20
@@ -25,10 +26,12 @@ occupations:
   status: current
 - name: Marine Lieutenant
   status: current
+  revealed_chapter: 43
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 149
 origin:
   region: North Blue
 birthday:

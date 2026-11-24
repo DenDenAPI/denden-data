@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 538
 first_appearance:
   chapter: 538
   episode: 440
@@ -20,21 +21,25 @@ occupations:
   status: current
 - name: Head Jailer
   status: former
+  revealed_chapter: 538
 - name: Prisoner of the Great Prison
   status: former
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 549
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 538
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1080
 birthday:
   month: 6
   day: 11

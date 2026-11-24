@@ -8,6 +8,7 @@ gender: female
 species:
 - merfolk
 status: deceased
+status_revealed_chapter: 621
 first_appearance:
   chapter: 621
   episode: 539
@@ -22,9 +23,11 @@ affiliations:
 - type: organization
   slug: neptune-family
   status: current
+  revealed_chapter: 907
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 621
 origin:
   region: Grand Line
 birthday:

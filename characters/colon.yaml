@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 1076
 first_appearance:
   chapter: 1076
   episode: 1109
@@ -15,6 +16,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1132
 ages:
 - years: 20
   period: other

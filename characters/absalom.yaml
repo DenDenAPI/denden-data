@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 925
 first_appearance:
   chapter: 444
   episode: 339
@@ -24,8 +25,10 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 463
 - name: Soldier Zombies
   status: current
+  revealed_chapter: 458
 - name: General Zombies Commander
   status: former
 affiliations:

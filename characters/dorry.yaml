@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 116
 first_appearance:
   chapter: 116
   episode: 71
@@ -22,15 +23,19 @@ affiliations:
 - type: crew
   slug: giant-warrior-pirates
   status: current
+  revealed_chapter: 866
 origin:
   region: Grand Line
+  revealed_chapter: 116
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 865
 - type: location
   slug: little-garden
   status: former
+  revealed_chapter: 1126
 birthday:
   month: 10
   day: 2

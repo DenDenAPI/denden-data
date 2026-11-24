@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 325
 first_appearance:
   chapter: 325
   episode: 230
@@ -16,10 +17,12 @@ occupations:
   status: current
 - name: Bartender
   status: current
+  revealed_chapter: 345
 affiliations:
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 345
 origin:
   region: North Blue
 birthday:

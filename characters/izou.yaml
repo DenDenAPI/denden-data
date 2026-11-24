@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 968
 first_appearance:
   chapter: 553
   episode: 461
@@ -16,12 +17,14 @@ occupations:
   status: former
 - name: Samurai
   status: current
+  revealed_chapter: 984
 - name: Retainer of the Kouzuki Family
   status: current
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 943
 - type: organization
   slug: kouzuki-family
   status: current

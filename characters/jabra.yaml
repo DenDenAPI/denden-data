@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 375
 first_appearance:
   chapter: 375
   episode: 264
@@ -18,6 +19,7 @@ affiliations:
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 414
 origin:
   region: North Blue
 residences:

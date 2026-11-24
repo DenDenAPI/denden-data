@@ -7,12 +7,14 @@ canon: manga
 species:
 - human
 status: alive
+status_revealed_chapter: 536
 first_appearance:
   chapter: 536
   episode: 438
 occupations:
 - name: Revolutionary
   status: current
+  revealed_chapter: 539
 - name: Prisoner of the Great Prison
   status: former
 affiliations:
@@ -22,12 +24,15 @@ affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 539
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 539
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 539
 origin:
   region: South Blue
 residences:

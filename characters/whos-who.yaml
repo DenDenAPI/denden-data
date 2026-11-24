@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 977
 first_appearance:
   chapter: 977
   episode: 954
@@ -20,8 +21,10 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 979
 - name: Captain
   status: former
+  revealed_chapter: 1018
 - name: Prisoner
   status: former
 - name: Cipher Pol Agent
@@ -30,18 +33,21 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 981
 - type: crew
   slug: whos-who-pirates
   status: former
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 1017
 origin:
   region: North Blue
 residences:
 - type: location
   slug: udon
   status: current
+  revealed_chapter: 981
 - type: location
   slug: onigashima
   status: former

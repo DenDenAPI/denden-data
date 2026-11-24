@@ -14,10 +14,12 @@ epithets:
 - en: Iron Giant
   ja: 鉄の巨人
   romaji: Tetsu no Kyojin
+  revealed_chapter: 1119
 residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1122
 ages:
 - years: 900
   period: other

@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 929
 first_appearance:
   chapter: 929
   episode: 923
 occupations:
 - name: Shinuchi
   status: former
+  revealed_chapter: 1004
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 929
 origin:
   region: Grand Line
 residences:

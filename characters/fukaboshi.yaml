@@ -8,6 +8,7 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 609
 first_appearance:
   chapter: 609
   episode: 528
@@ -24,6 +25,7 @@ residences:
 - type: location
   slug: ryugu-palace
   status: current
+  revealed_chapter: 612
 birthday:
   month: 2
   day: 4

@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 25
 first_appearance:
   chapter: 25
   episode: 9
@@ -24,19 +25,25 @@ occupations:
   status: current
 - name: Pirate
   status: former
+  revealed_chapter: 26
 - name: Captain
   status: former
+  revealed_chapter: 26
 - name: First Mate
   status: former
+  revealed_chapter: 26
 - name: Dancer
   status: former
+  revealed_chapter: 146
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 145
 - type: crew
   slug: black-cat-pirates
   status: former
+  revealed_chapter: 26
 origin:
   region: East Blue
 birthday:
@@ -54,6 +61,7 @@ heights:
 bounties:
 - amount: 9000000
   status: former
+  revealed_chapter: 136
 - amount: 1000000
   status: current
   minimum: true

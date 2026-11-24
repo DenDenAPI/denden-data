@@ -7,12 +7,14 @@ gender: male
 species:
 - mink
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 581
 - name: Navigator
   status: current
 - name: Guardians' helper
@@ -21,6 +23,7 @@ affiliations:
 - type: crew
   slug: heart-pirates
   status: current
+  revealed_chapter: 1021
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -30,6 +33,7 @@ residences:
 - type: location
   slug: zou
   status: former
+  revealed_chapter: 805
 - type: location
   slug: swallow-island
   status: former

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 286
 first_appearance:
   chapter: 286
   episode: 187
@@ -18,20 +19,25 @@ epithets:
 occupations:
 - name: Explorer
   status: current
+  revealed_chapter: 287
 - name: Botanist
   status: current
+  revealed_chapter: 288
 - name: Admiral
   status: current
+  revealed_chapter: 286
 affiliations:
 - type: location
   slug: lvneel-kingdom
   status: current
+  revealed_chapter: 292
 - type: organization
   slug: mont-blanc-family
   status: current
 origin:
   location: lvneel-kingdom
   region: North Blue
+  revealed_chapter: 289
 birthday:
   month: 10
   day: 9

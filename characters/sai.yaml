@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -14,6 +15,7 @@ epithets:
 - en: Don Sai
   ja: 首領・サイ
   romaji: Don Sai
+  revealed_chapter: 876
 occupations:
 - name: Captain of the Third Ship of the Straw Hat Grand Fleet
   status: current
@@ -25,12 +27,15 @@ affiliations:
 - type: crew
   slug: happo-navy
   status: current
+  revealed_chapter: 715
 - type: organization
   slug: chinjao-family
   status: current
+  revealed_chapter: 720
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 1085
 origin:
   location: kano-country
   region: West Blue
@@ -38,6 +43,7 @@ residences:
 - type: location
   slug: kano-country
   status: current
+  revealed_chapter: 823
 birthday:
   month: 8
   day: 13

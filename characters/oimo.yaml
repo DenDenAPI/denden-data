@@ -7,33 +7,40 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 377
 first_appearance:
   chapter: 377
   episode: 265
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 384
 - name: Gate Guardian
   status: former
 affiliations:
 - type: organization
   slug: world-government
   status: former
+  revealed_chapter: 384
 - type: crew
   slug: giant-warrior-pirates
   status: current
+  revealed_chapter: 1107
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 865
 - type: location
   slug: enies-lobby
   status: former
+  revealed_chapter: 378
 - type: location
   slug: water-7
   status: former
+  revealed_chapter: 439
 birthday:
   month: 1
   day: 6

@@ -7,6 +7,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 611
 first_appearance:
   chapter: 611
   episode: 530
@@ -14,15 +15,18 @@ epithets:
 - en: Noble of the Fish-Man District
   ja: 魚人街の貴族
   romaji: Gyojin-gai no Kizoku
+  revealed_chapter: 630
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 645
 - name: Pirate Officer
   status: current
 affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 639
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -30,6 +34,7 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 630
 birthday:
   month: 11
   day: 11

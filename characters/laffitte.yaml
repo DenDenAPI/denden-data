@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 234
 first_appearance:
   chapter: 234
   episode: 151
@@ -26,8 +27,10 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 234
 origin:
   region: West Blue
+  revealed_chapter: 234
 residences:
 - type: location
   slug: hachinosu

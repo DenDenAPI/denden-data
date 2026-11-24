@@ -15,6 +15,7 @@ aliases:
 - en: Nazoms
   ja: ナゾムズ
   romaji: Nazomuzu
+  revealed_chapter: 896
 occupations:
 - name: Combatant
   status: current
@@ -26,6 +27,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 651
 - type: crew
   slug: nox-pirates
   status: former
@@ -33,6 +35,7 @@ residences:
 - type: location
   slug: zou
   status: former
+  revealed_chapter: 811
 birthday:
   month: 4
   day: 11

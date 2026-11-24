@@ -8,18 +8,21 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 227
 first_appearance:
   chapter: 227
   episode: 148
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 231
 - name: Captain
   status: former
 affiliations:
 - type: crew
   slug: saruyama-alliance
   status: current
+  revealed_chapter: 228
 - type: organization
   slug: mont-blanc-family
   status: current
@@ -29,6 +32,7 @@ residences:
 - type: location
   slug: jaya
   status: former
+  revealed_chapter: 253
 birthday:
   month: 9
   day: 11

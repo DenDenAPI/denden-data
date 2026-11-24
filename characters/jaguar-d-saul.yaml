@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 392
 first_appearance:
   chapter: 392
   episode: 275
@@ -16,19 +17,23 @@ occupations:
   status: current
 - name: Vice Admiral
   status: former
+  revealed_chapter: 396
 affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1134
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 396
 origin:
   region: South Blue
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1133
 birthday:
   month: 3
   day: 6

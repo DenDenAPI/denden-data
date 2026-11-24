@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 926
 first_appearance:
   chapter: 926
   episode: 919
@@ -22,14 +23,18 @@ aliases:
 occupations:
 - name: Prisoner
   status: former
+  revealed_chapter: 934
 - name: Yakuza Boss
   status: former
+  revealed_chapter: 934
 - name: Samurai
   status: current
+  revealed_chapter: 935
 affiliations:
 - type: organization
   slug: hyougoro-family
   status: former
+  revealed_chapter: 960
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -40,12 +45,15 @@ residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 935
 - type: location
   slug: udon
   status: current
+  revealed_chapter: 940
 - type: location
   slug: wano-country
   status: former
+  revealed_chapter: 939
 birthday:
   month: 2
   day: 14

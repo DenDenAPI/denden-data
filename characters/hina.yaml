@@ -7,6 +7,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 171
 first_appearance:
   chapter: 171
   episode: 127
@@ -17,12 +18,15 @@ epithets:
 occupations:
 - name: Rear Admiral
   status: current
+  revealed_chapter: 823
 - name: Captain
   status: former
+  revealed_chapter: 172
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 215
 origin:
   region: West Blue
 birthday:

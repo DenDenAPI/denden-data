@@ -8,21 +8,25 @@ gender: female
 species:
 - hybrid
 status: alive
+status_revealed_chapter: 846
 first_appearance:
   chapter: 846
   episode: 812
 occupations:
 - name: Sweet Commander
   status: current
+  revealed_chapter: 846
 - name: Minister of Juice
   status: current
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 861
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 888
 origin:
   location: totto-land
   region: Grand Line

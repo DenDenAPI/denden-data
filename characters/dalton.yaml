@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 132
 first_appearance:
   chapter: 132
   episode: 79
@@ -22,12 +23,14 @@ affiliations:
 - type: location
   slug: sakura-kingdom
   status: current
+  revealed_chapter: 243
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: bighorn
   status: current
+  revealed_chapter: 133
 - type: location
   slug: drum-castle
   status: former

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 4
@@ -18,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 41
 - name: Senior Officer
   status: current
 - name: Sniper
@@ -26,6 +28,7 @@ affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 25
 origin:
   location: gecko-islands
   region: East Blue

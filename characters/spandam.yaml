@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 355
 first_appearance:
   chapter: 355
   episode: 249
@@ -22,9 +23,11 @@ affiliations:
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 358
 - type: organization
   slug: cp5
   status: former
+  revealed_chapter: 358
 origin:
   region: Grand Line
 birthday:

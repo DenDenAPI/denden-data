@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 682
 first_appearance:
   chapter: 682
   episode: 608
@@ -18,6 +19,7 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 763
 origin:
   region: North Blue
 residences:
@@ -27,6 +29,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 753
 birthday:
   month: 10
   day: 7

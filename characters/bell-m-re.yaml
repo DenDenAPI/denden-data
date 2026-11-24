@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 79
 first_appearance:
   chapter: 77
   episode: 32
@@ -20,6 +21,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 696
 origin:
   location: conomi-islands
   region: East Blue

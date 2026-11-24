@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 666
 first_appearance:
   chapter: 657
   episode: 581
@@ -22,12 +23,14 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 728
 origin:
   region: North Blue
 residences:
 - type: location
   slug: punk-hazard
   status: former
+  revealed_chapter: 675
 - type: location
   slug: dressrosa
   status: former

@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -13,6 +14,7 @@ aliases:
 - en: Shakky
   ja: シャッキー
   romaji: Shakkī
+  revealed_chapter: 1157
 occupations:
 - name: Bartender
   status: current
@@ -20,22 +22,28 @@ occupations:
   status: former
 - name: First Mate
   status: former
+  revealed_chapter: 1156
 - name: Empress of Amazon Lily
   status: former
+  revealed_chapter: 1059
 affiliations:
 - type: location
   slug: shakkys-rip-off-bar
   status: current
+  revealed_chapter: 506
 - type: crew
   slug: kuja-pirates
   status: former
+  revealed_chapter: 1059
 residences:
 - type: location
   slug: sabaody-archipelago
   status: current
+  revealed_chapter: 498
 - type: location
   slug: hachinosu
   status: former
+  revealed_chapter: 1096
 birthday:
   month: 5
   day: 8

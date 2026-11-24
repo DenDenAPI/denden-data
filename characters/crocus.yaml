@@ -8,26 +8,32 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 102
 first_appearance:
   chapter: 102
   episode: 62
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 104
 - name: Lighthouse Keeper
   status: current
+  revealed_chapter: 487
 - name: Pirate
   status: former
+  revealed_chapter: 103
 affiliations:
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 506
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: reverse-mountain
   status: current
+  revealed_chapter: 487
 birthday:
   month: 6
   day: 4

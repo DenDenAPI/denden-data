@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 898
 first_appearance:
   chapter: 898
   episode: 836
@@ -15,29 +16,36 @@ aliases:
 - en: Sun God
   ja: 太陽神
   romaji: Taiyō-shin
+  revealed_chapter: 1129
 occupations:
 - name: Navigator
   status: current
+  revealed_chapter: 898
 - name: Pirate
   status: current
+  revealed_chapter: 1060
 - name: Mercenary
   status: former
 affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 1129
 - type: location
   slug: land-of-gods
   status: current
+  revealed_chapter: 1128
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 898
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1137
 birthday:
   month: 2
   day: 19

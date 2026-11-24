@@ -8,18 +8,22 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 525
 first_appearance:
   chapter: 525
   episode: 422
 occupations:
 - name: Chief Warden
   status: current
+  revealed_chapter: 526
 - name: Vice Warden
   status: former
+  revealed_chapter: 542
 affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 526
 origin:
   region: South Blue
 birthday:

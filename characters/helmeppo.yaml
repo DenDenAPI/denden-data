@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 3
 first_appearance:
   chapter: 3
   episode: 2
 occupations:
 - name: Lieutenant Commander
   status: current
+  revealed_chapter: 903
 - name: Chief Petty Officer
   status: current
 - name: Chore Boy
@@ -22,10 +24,12 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 4
 residences:
 - type: location
   slug: shells-town
   status: former
+  revealed_chapter: 118
 birthday:
   month: 7
   day: 16

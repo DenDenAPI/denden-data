@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 835
 first_appearance:
   chapter: 835
   episode: 796
@@ -18,9 +19,11 @@ epithets:
 - en: Biscuit Knight
   ja: ビスケットの騎士
   romaji: Bisuketto no Kishi
+  revealed_chapter: 837
 occupations:
 - name: Sweet Commander
   status: current
+  revealed_chapter: 842
 - name: Minister of Biscuit
   status: current
 affiliations:
@@ -30,6 +33,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 837
 origin:
   region: Grand Line
 residences:

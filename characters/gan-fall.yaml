@@ -8,6 +8,7 @@ gender: male
 species:
 - skypiean
 status: alive
+status_revealed_chapter: 237
 first_appearance:
   chapter: 237
   episode: 153
@@ -15,15 +16,19 @@ epithets:
 - en: Knight of the Sky
   ja: 空の騎士
   romaji: Sora no Kishi
+  revealed_chapter: 244
 occupations:
 - name: God of Skypiea
   status: current
+  revealed_chapter: 244
 - name: Mercenary
   status: former
+  revealed_chapter: 257
 affiliations:
 - type: location
   slug: skypiea
   status: current
+  revealed_chapter: 244
 origin:
   region: Grand Line
 birthday:

@@ -19,6 +19,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 875
 - type: crew
   slug: rocks-pirates
   status: former
@@ -28,6 +29,7 @@ residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 879
 birthday:
   month: 7
   day: 19

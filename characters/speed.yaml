@@ -8,16 +8,19 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 917
 first_appearance:
   chapter: 917
   episode: 904
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 917
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 917
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

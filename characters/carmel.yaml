@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 864
 first_appearance:
   chapter: 861
   episode: 831
@@ -15,19 +16,23 @@ epithets:
 - en: Holy Mother
   ja: 聖母
   romaji: Seibo
+  revealed_chapter: 866
 aliases:
 - en: Mother Carmel
   ja: マザー・カルメル
   romaji: Mazā Karumeru
+  revealed_chapter: 867
 - en: Sister Carmel
   ja: シスター・カルメル
   romaji: Shisutā Karumeru
 - en: Mountain Witch
   ja: 山姥
   romaji: Yamanba
+  revealed_chapter: 867
 occupations:
 - name: Child Trafficker
   status: current
+  revealed_chapter: 867
 - name: Caretaker of Sheep's House
   status: current
 origin:
@@ -36,9 +41,11 @@ residences:
 - type: location
   slug: elbaph
   status: former
+  revealed_chapter: 867
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 868
 birthday:
   month: 12
   day: 21

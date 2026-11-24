@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 2
 first_appearance:
   chapter: 2
   episode: 1
@@ -15,11 +16,14 @@ epithets:
 - en: Iron Mace
   ja: 金棒
   romaji: Kanabō
+  revealed_chapter: 98
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 2
 - name: Captain
   status: former
+  revealed_chapter: 233
 affiliations:
 - type: organization
   slug: cross-guild
@@ -27,12 +31,14 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 100
 - type: organization
   slug: buggys-delivery
   status: former
 - type: crew
   slug: buggy-and-alvida-alliance
   status: former
+  revealed_chapter: 97
 - type: crew
   slug: alvida-pirates
   status: former
@@ -45,6 +51,7 @@ residences:
 - type: location
   slug: goat-island
   status: former
+  revealed_chapter: 579
 birthday:
   month: 3
   day: 14

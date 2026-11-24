@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 42
 first_appearance:
   chapter: 42
   episode: 19
 occupations:
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 42
 - name: Fisherman
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 82
 birthday:
   month: 11
   day: 12

@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 23
 first_appearance:
   chapter: 23
   episode: 9
 occupations:
 - name: Medical student
   status: current
+  revealed_chapter: 623
 origin:
   location: gecko-islands
   region: East Blue
@@ -21,6 +23,7 @@ residences:
 - type: location
   slug: syrup-village
   status: current
+  revealed_chapter: 440
 birthday:
   month: 8
   day: 24

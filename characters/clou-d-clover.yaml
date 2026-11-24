@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1066
 first_appearance:
   chapter: 391
   episode: 275
 occupations:
 - name: Professor
   status: current
+  revealed_chapter: 391
 - name: archaeologist of the Tree of Knowledge
   status: current
 - name: Explorer
@@ -21,6 +23,7 @@ occupations:
 origin:
   location: ohara
   region: West Blue
+  revealed_chapter: 393
 birthday:
   month: 4
   day: 8

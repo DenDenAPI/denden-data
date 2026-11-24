@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 861
 first_appearance:
   chapter: 861
   episode: 827
@@ -16,13 +17,16 @@ occupations:
   status: current
 - name: Minister of Browned Food
   status: current
+  revealed_chapter: 864
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 884
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 897
 origin:
   region: Grand Line
 residences:

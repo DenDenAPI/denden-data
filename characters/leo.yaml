@@ -8,6 +8,7 @@ gender: male
 species:
 - dwarf
 status: alive
+status_revealed_chapter: 710
 first_appearance:
   chapter: 710
   episode: 640
@@ -15,6 +16,7 @@ epithets:
 - en: Warrior
   ja: 戦士
   romaji: Senshi
+  revealed_chapter: 711
 occupations:
 - name: Captain of the Fifth Ship of the Straw Hat Grand Fleet
   status: current
@@ -24,9 +26,11 @@ affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 711
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 1085
 origin:
   location: green-bit
   region: Grand Line

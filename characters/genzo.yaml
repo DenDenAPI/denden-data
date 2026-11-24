@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 71
 first_appearance:
   chapter: 71
   episode: 32
@@ -18,6 +19,7 @@ affiliations:
 - type: location
   slug: cocoyasi-village
   status: current
+  revealed_chapter: 72
 origin:
   location: conomi-islands
   region: East Blue
@@ -25,6 +27,7 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: current
+  revealed_chapter: 72
 birthday:
   month: 6
   day: 17

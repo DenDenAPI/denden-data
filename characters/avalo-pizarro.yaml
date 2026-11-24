@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 575
 first_appearance:
   chapter: 575
   episode: 484
@@ -26,6 +27,7 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 1088
 - type: location
   slug: impel-down
   status: former
@@ -35,6 +37,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1080
 birthday:
   month: 9
   day: 30

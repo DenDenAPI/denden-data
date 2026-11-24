@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
@@ -31,6 +32,7 @@ residences:
 - type: location
   slug: arlong-park
   status: former
+  revealed_chapter: 83
 birthday:
   month: 10
   day: 25

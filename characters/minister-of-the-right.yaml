@@ -8,6 +8,7 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 612
 first_appearance:
   chapter: 612
   episode: 531

@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 927
 first_appearance:
   chapter: 927
   episode: 920
 occupations:
 - name: Kamuro
   status: current
+  revealed_chapter: 927
 affiliations:
 - type: organization
   slug: shimotsuki-family
@@ -25,6 +27,7 @@ residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 1016
 birthday:
   month: 10
   day: 5

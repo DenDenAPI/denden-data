@@ -8,24 +8,30 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 620
 first_appearance:
   chapter: 620
   episode: 540
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 901
 - name: Doctor
   status: current
+  revealed_chapter: 623
 - name: First Mate
   status: current
 - name: Soldier
   status: former
+  revealed_chapter: 623
 - name: Slave
   status: former
+  revealed_chapter: 623
 affiliations:
 - type: crew
   slug: sun-pirates
   status: current
+  revealed_chapter: 830
 - type: location
   slug: ryugu-kingdom
   status: former

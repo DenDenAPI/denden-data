@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 700
 first_appearance:
   chapter: 700
   episode: 629
@@ -18,10 +19,12 @@ occupations:
   status: current
 - name: Sugar's Bodyguard
   status: current
+  revealed_chapter: 731
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 767
 origin:
   region: North Blue
 residences:
@@ -34,6 +37,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 700
 birthday:
   month: 3
   day: 18

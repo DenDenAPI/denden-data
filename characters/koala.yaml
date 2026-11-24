@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 622
 first_appearance:
   chapter: 622
   episode: 541
@@ -18,26 +19,33 @@ occupations:
   status: current
 - name: Slave
   status: former
+  revealed_chapter: 622
 affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 731
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 622
 residences:
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 1021
 - type: location
   slug: foolshout-island
   status: former
+  revealed_chapter: 623
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 623
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 1058
 birthday:
   month: 10
   day: 25

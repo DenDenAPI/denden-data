@@ -14,14 +14,18 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 505
 - name: Captain
   status: former
+  revealed_chapter: 505
 - name: Slave
   status: former
+  revealed_chapter: 505
 affiliations:
 - type: crew
   slug: heart-pirates
   status: current
+  revealed_chapter: 505
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current

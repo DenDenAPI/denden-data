@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 977
 first_appearance:
   chapter: 977
   episode: 954
@@ -18,12 +19,14 @@ epithets:
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 1004
 - name: Pirate Captain
   status: former
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 990
 - type: crew
   slug: sasaki-pirates
   status: former
