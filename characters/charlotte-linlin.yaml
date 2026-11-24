@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: unknown
+status_revealed_chapter: 1040
 first_appearance:
   chapter: 651
   episode: 571
@@ -15,45 +16,58 @@ epithets:
 - en: Big Mom
   ja: ビッグ・マム
   romaji: Biggu Mamu
+  revealed_chapter: 651
 - en: Evil Spirit
   ja: 悪神
   romaji: Akujin
+  revealed_chapter: 866
 aliases:
 - en: O-Lin
   ja: おリン
   romaji: Orin
+  revealed_chapter: 933
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 651
 - name: Emperor
   status: former
+  revealed_chapter: 651
 - name: Queen of Totto Land
   status: current
+  revealed_chapter: 829
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 651
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 957
 - type: organization
   slug: four-emperors
   status: former
+  revealed_chapter: 651
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 812
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 651
 - type: location
   slug: elbaph
   status: former
+  revealed_chapter: 866
 - type: location
   slug: hachinosu
   status: former
+  revealed_chapter: 1156
 birthday:
   month: 2
   day: 15

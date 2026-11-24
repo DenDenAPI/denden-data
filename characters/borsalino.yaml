@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 504
 first_appearance:
   chapter: 504
   episode: 398
@@ -15,15 +16,19 @@ aliases:
 - en: Kizaru
   ja: 黄猿
   romaji: Kizaru
+  revealed_chapter: 504
 occupations:
 - name: Admiral
   status: current
+  revealed_chapter: 504
 - name: Vice Admiral
   status: former
+  revealed_chapter: 622
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 504
 origin:
   region: North Blue
 birthday:

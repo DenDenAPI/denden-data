@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 223
 first_appearance:
   chapter: 223
   episode: 146
@@ -15,27 +16,35 @@ epithets:
 - en: Blackbeard
   ja: 黒ひげ
   romaji: Kurohige
+  revealed_chapter: 234
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 223
 - name: Admiral
   status: current
+  revealed_chapter: 803
 - name: Emperor
   status: current
+  revealed_chapter: 650
 - name: Apprentice
   status: former
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 474
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 234
 - type: organization
   slug: four-emperors
   status: current
+  revealed_chapter: 650
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 440
 origin:
   location: shade-port
   region: Grand Line
@@ -43,9 +52,11 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 925
 - type: location
   slug: god-valley
   status: former
+  revealed_chapter: 1159
 - type: location
   slug: shade-port
   status: former

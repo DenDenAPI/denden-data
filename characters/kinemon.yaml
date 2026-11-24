@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 656
 first_appearance:
   chapter: 656
   episode: 580
@@ -15,34 +16,44 @@ epithets:
 - en: Foxfire Kin'emon
   ja: 狐火の錦えもん
   romaji: Kitsune-bi no Kin'emon
+  revealed_chapter: 672
 occupations:
 - name: Samurai
   status: current
+  revealed_chapter: 657
 - name: Great Elder of the Shogunate
   status: current
 - name: Retainer of the Kouzuki Family
   status: current
+  revealed_chapter: 816
 - name: Leader of the Nine Red Scabbards
   status: current
+  revealed_chapter: 932
 - name: Thief
   status: former
+  revealed_chapter: 960
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 816
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 932
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 657
 residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 960
 birthday:
   month: 1
   day: 29

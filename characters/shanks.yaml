@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 4
@@ -15,38 +16,50 @@ epithets:
 - en: Red-Haired Shanks
   ja: 赤髪のシャンクス
   romaji: Akagami no Shankusu
+  revealed_chapter: 1
 occupations:
 - name: Chief
   status: current
+  revealed_chapter: 1
 - name: Emperor
   status: current
+  revealed_chapter: 432
 - name: Apprentice
   status: former
+  revealed_chapter: 434
 - name: Devoted Blade of God
   status: former
+  revealed_chapter: 1167
 affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 96
 - type: organization
   slug: four-emperors
   status: current
+  revealed_chapter: 432
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 434
 - type: organization
   slug: knights-of-god
   status: former
+  revealed_chapter: 1167
 - type: organization
   slug: world-noble
   status: former
+  revealed_chapter: 1138
 origin:
   location: god-valley
   region: West Blue
+  revealed_chapter: 1158
 residences:
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 1138
 birthday:
   month: 3
   day: 9

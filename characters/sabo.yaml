@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 731
 first_appearance:
   chapter: 583
   episode: 494
@@ -14,46 +15,58 @@ epithets:
 - en: Flame Emperor
   ja: 炎帝
   romaji: Entei
+  revealed_chapter: 1054
 aliases:
 - en: Lucy
   ja: ルｰシｰ
   romaji: Rūshī
+  revealed_chapter: 744
 occupations:
 - name: Chief of Staff of the Revolutionary Army
   status: current
+  revealed_chapter: 744
 - name: Noble
   status: former
+  revealed_chapter: 585
 - name: Pirate
   status: former
+  revealed_chapter: 588
 - name: Thief
   status: former
-- name: Bandit
-  status: former
+  revealed_chapter: 583
 affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 744
 - type: organization
   slug: dadan-family
   status: former
+  revealed_chapter: 584
 - type: location
   slug: goa-kingdom
   status: former
+  revealed_chapter: 585
 origin:
   region: East Blue
+  revealed_chapter: 585
 residences:
 - type: location
   slug: mt-colubo
   status: former
+  revealed_chapter: 584
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 794
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 904
 - type: location
   slug: goa-kingdom
   status: former
+  revealed_chapter: 585
 birthday:
   month: 3
   day: 20

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -15,25 +16,28 @@ epithets:
 - en: Big Eater
   ja: 大喰らい
   romaji: Ō-Gurai
+  revealed_chapter: 498
 aliases:
 - en: Conney
   ja: コニー
   romaji: Konī
+  revealed_chapter: 908
 occupations:
 - name: Pirate Captain
   status: current
-- name: Princess
-  status: former
+  revealed_chapter: 498
 affiliations:
 - type: crew
   slug: bonney-pirates
   status: current
+  revealed_chapter: 498
 origin:
   location: mary-geoise
 residences:
 - type: location
   slug: egghead
   status: former
+  revealed_chapter: 1062
 birthday:
   month: 9
   day: 1

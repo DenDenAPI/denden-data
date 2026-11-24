@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 658
 first_appearance:
   chapter: 658
   episode: 581
@@ -15,35 +16,44 @@ epithets:
 - en: Master
   ja: M
   romaji: Masutā
+  revealed_chapter: 658
 aliases:
 - en: Cedar
   ja: シーダー
   romaji: Shīdā
+  revealed_chapter: 812
 - en: '''Gangster'' Gastino'
   ja: “ギャングスター”ガスティーノ
   romaji: Gyangusutā Gasutīno
+  revealed_chapter: 858
 occupations:
 - name: Scientist
   status: current
+  revealed_chapter: 663
 affiliations:
 - type: organization
   slug: neo-mads
   status: current
+  revealed_chapter: 1078
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 713
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 663
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1068
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: punk-hazard
   status: former
+  revealed_chapter: 664
 birthday:
   month: 4
   day: 9

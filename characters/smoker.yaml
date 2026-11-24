@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 97
 first_appearance:
   chapter: 97
   episode: 48
@@ -15,38 +16,47 @@ epithets:
 - en: Smoker the White Hunter
   ja: 白猟のスモーカー
   romaji: Hakuryō no Sumōkā
-- en: White Chase Smoker
-- en: Smoke Hunter
+  revealed_chapter: 98
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 655
 - name: Base Commander of G-5
   status: current
+  revealed_chapter: 664
 - name: Commander of G-5 Unit 01
   status: current
+  revealed_chapter: 655
 - name: Commodore
   status: former
+  revealed_chapter: 439
 - name: Captain
   status: former
+  revealed_chapter: 97
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 97
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 - type: location
   slug: loguetown
   status: former
+  revealed_chapter: 98
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 - type: location
   slug: loguetown
   status: former
+  revealed_chapter: 98
 birthday:
   month: 3
   day: 14

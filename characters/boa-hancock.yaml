@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 516
 first_appearance:
   chapter: 516
   episode: 409
@@ -13,31 +14,41 @@ epithets:
 - en: Snake Princess
   ja: 蛇姫
   romaji: Hebihime
+  revealed_chapter: 516
 - en: Pirate Empress
   ja: 海賊女帝
   romaji: Kaizoku Jotei
+  revealed_chapter: 516
 occupations:
 - name: Captain of the Kuja Pirates
   status: current
+  revealed_chapter: 516
 - name: Empress of Amazon Lily
   status: current
+  revealed_chapter: 516
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 516
 - name: Slave
   status: former
+  revealed_chapter: 521
 affiliations:
 - type: crew
   slug: kuja-pirates
   status: current
+  revealed_chapter: 516
 origin:
   location: calm-belt
+  revealed_chapter: 516
 residences:
 - type: location
   slug: amazon-lily
   status: current
+  revealed_chapter: 516
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 521
 birthday:
   month: 9
   day: 2
