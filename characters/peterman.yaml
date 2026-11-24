@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 499
 first_appearance:
   chapter: 499
   episode: 393
 occupations:
 - name: Slave trader
   status: current
+  revealed_chapter: 499
 affiliations:
 - type: organization
   slug: hound-pets
   status: current
+  revealed_chapter: 506
 birthday:
   month: 1
   day: 4

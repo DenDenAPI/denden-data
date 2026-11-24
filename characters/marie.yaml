@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 499
 first_appearance:
   chapter: 499
   episode: 393
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Nurse
   status: former
+  revealed_chapter: 499
 origin:
   region: Grand Line
 residences:

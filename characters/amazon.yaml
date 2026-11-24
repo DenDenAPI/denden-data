@@ -8,6 +8,7 @@ gender: female
 species:
 - skypiean
 status: alive
+status_revealed_chapter: 238
 first_appearance:
   chapter: 238
   episode: 153
@@ -16,10 +17,12 @@ occupations:
   status: former
 - name: Ticket Saleswoman
   status: current
+  revealed_chapter: 645
 affiliations:
 - type: location
   slug: wagomuland
   status: current
+  revealed_chapter: 645
 origin:
   location: skypiea
   region: Grand Line
@@ -27,6 +30,7 @@ residences:
 - type: location
   slug: skypiea
   status: current
+  revealed_chapter: 645
 birthday:
   month: 8
   day: 4

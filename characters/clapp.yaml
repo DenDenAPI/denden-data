@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: deceased
+status_revealed_chapter: 1095
 first_appearance:
   chapter: 1095
   episode: 1129
@@ -17,10 +18,12 @@ occupations:
 origin:
   location: sorbet-kingdom
   region: South Blue
+  revealed_chapter: 1095
 residences:
 - type: location
   slug: sorbet-kingdom
   status: current
+  revealed_chapter: 1095
 - type: location
   slug: mary-geoise
   status: former

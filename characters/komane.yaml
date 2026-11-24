@@ -13,7 +13,9 @@ first_appearance:
 occupations:
 - name: Princess
   status: former
+  revealed_chapter: 903
 affiliations:
 - type: location
   slug: lulusia-kingdom
   status: current
+  revealed_chapter: 903

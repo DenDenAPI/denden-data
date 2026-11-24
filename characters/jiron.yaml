@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1082
 first_appearance:
   chapter: 1082
   episode: 1116
@@ -18,3 +19,4 @@ affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 1082
