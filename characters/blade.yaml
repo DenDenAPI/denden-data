@@ -6,12 +6,14 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 1142
 first_appearance:
   chapter: 1142
   episode: 1172
 occupations:
 - name: Math Teacher
   status: current
+  revealed_chapter: 1142
 affiliations:
 - type: location
   slug: walrus-school

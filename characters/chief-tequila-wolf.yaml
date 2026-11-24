@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 524
 first_appearance:
   chapter: 524
   episode: 420
@@ -18,7 +19,9 @@ affiliations:
 - type: location
   slug: tequila-wolf
   status: current
+  revealed_chapter: 524
 residences:
 - type: location
   slug: tequila-wolf
   status: current
+  revealed_chapter: 524

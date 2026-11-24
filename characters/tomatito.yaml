@@ -6,12 +6,15 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 956
 first_appearance:
   chapter: 956
 occupations:
 - name: Musician
   status: current
+  revealed_chapter: 956
 residences:
 - type: location
   slug: dressrosa
   status: current
+  revealed_chapter: 956

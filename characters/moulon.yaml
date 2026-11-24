@@ -12,6 +12,7 @@ epithets:
 - en: Don Moulon
   ja: 首領・ムーロン
   romaji: Don Mūron
+  revealed_chapter: 1183
 occupations:
 - name: Boss of the Moulon Family
   status: current
@@ -19,3 +20,4 @@ affiliations:
 - type: organization
   slug: moulon-family
   status: current
+  revealed_chapter: 1183

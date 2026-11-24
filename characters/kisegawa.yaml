@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 929
 first_appearance:
   chapter: 929
   episode: 922
 occupations:
 - name: Geisha
   status: current
+  revealed_chapter: 929
 residences:
 - type: location
   slug: wano-country

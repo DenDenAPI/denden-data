@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 1061
 first_appearance:
   chapter: 1061
   episode: 1090
@@ -16,10 +17,12 @@ affiliations:
 origin:
   location: egghead
   region: Grand Line
+  revealed_chapter: 1134
 residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1134
 birthday:
   month: 3
   day: 22

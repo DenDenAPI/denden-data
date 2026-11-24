@@ -5,6 +5,7 @@ name:
   romaji: Ejison
 canon: manga
 status: alive
+status_revealed_chapter: 1065
 first_appearance:
   chapter: 1065
   episode: 1095
@@ -12,6 +13,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 1114
 origin:
   location: egghead
   region: Grand Line
@@ -19,6 +21,7 @@ residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1114
 birthday:
   month: 3
   day: 22

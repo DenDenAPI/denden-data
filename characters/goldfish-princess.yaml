@@ -8,6 +8,7 @@ gender: female
 species:
 - animal
 status: alive
+status_revealed_chapter: 189
 first_appearance:
   chapter: 189
 occupations:
@@ -17,3 +18,4 @@ affiliations:
 - type: location
   slug: goldfish-empire
   status: current
+  revealed_chapter: 189
