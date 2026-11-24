@@ -6,12 +6,15 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 662
 first_appearance:
   chapter: 662
 occupations:
 - name: Jailer Beast
   status: current
+  revealed_chapter: 662
 affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 662

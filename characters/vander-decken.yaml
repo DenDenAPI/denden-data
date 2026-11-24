@@ -6,9 +6,11 @@ name:
 canon: manga
 gender: male
 status: deceased
+status_revealed_chapter: 610
 first_appearance:
   chapter: 606
   episode: 525
 occupations:
 - name: Captain
   status: current
+  revealed_chapter: 606

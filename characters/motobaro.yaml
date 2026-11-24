@@ -8,12 +8,14 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 494
 first_appearance:
   chapter: 494
   episode: 388
 occupations:
 - name: Duval's pet
   status: current
+  revealed_chapter: 495
 affiliations:
 - type: organization
   slug: rosy-life-riders

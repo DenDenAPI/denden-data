@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 151
 first_appearance:
   chapter: 151
 occupations:
@@ -17,3 +18,4 @@ affiliations:
 - type: crew
   slug: tulip-pirates
   status: current
+  revealed_chapter: 151

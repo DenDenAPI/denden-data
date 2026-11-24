@@ -11,6 +11,7 @@ first_appearance:
 occupations:
 - name: Explorer
   status: current
+  revealed_chapter: 1132
 origin:
   region: Grand Line
 birthday:

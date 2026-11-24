@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 316
 first_appearance:
   chapter: 316
 occupations:
@@ -17,13 +18,16 @@ affiliations:
 - type: location
   slug: ukkari-hot-spring-island
   status: current
+  revealed_chapter: 344
 residences:
 - type: location
   slug: arabasta-kingdom
   status: former
+  revealed_chapter: 341
 - type: location
   slug: ukkari-hot-spring-island
   status: current
+  revealed_chapter: 344
 birthday:
   month: 11
   day: 26

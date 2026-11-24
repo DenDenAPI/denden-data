@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 828
@@ -22,6 +23,7 @@ affiliations:
 - type: organization
   slug: umit-shipping
   status: current
+  revealed_chapter: 1126
 birthday:
   month: 9
   day: 23

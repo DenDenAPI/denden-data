@@ -6,11 +6,13 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 433
 first_appearance:
   chapter: 433
 occupations:
 - name: First Lieutenant
   status: current
+  revealed_chapter: 436
 birthday:
   month: 3
   day: 21

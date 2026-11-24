@@ -7,9 +7,11 @@ canon: manga
 species:
 - animal
 status: alive
+status_revealed_chapter: 1034
 first_appearance:
   chapter: 1034
   episode: 1061
 occupations:
 - name: Pet
   status: current
+  revealed_chapter: 1034

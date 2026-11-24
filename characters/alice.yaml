@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 487
 first_appearance:
   chapter: 487
   episode: 381
 occupations:
 - name: Secretary
   status: current
+  revealed_chapter: 1109
 affiliations:
 - type: organization
   slug: galley-la-company

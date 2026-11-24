@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 880
 first_appearance:
   chapter: 880
   episode: 852
 occupations:
 - name: Head Chef
   status: current
+  revealed_chapter: 880
 affiliations:
 - type: organization
   slug: wci-31

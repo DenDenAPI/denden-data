@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 517
 first_appearance:
   chapter: 517
   episode: 409
