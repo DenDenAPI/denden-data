@@ -109,6 +109,363 @@ character_statuses:
   unknown: Desconocido
 crew_statuses:
   disbanded: Disuelta
+crews:
+  A O Pirates: Piratas A O
+  Acumate Pirates: Piratas de Acumate
+  Alvida Pirates: Piratas de Alvida
+  Amber Pirates: Piratas de Ámbar
+  Amigo Pirates: Piratas Amigo
+  Ancient Pirates: Piratas Antiguos
+  Arlong Pirates: Piratas de Arlong
+  BIG Pirates: Piratas BIG
+  Banzai Pirates: Piratas Banzai
+  Barbar Pirates: Piratas Barbar
+  Barrels Pirates: Piratas de Barrels
+  Barto Club: Club de Barto
+  Bayan Pirates: Piratas de Bayan
+  Beardless Pirates: Piratas Barbilampiños
+  Beasts Pirates: Piratas Bestia
+  Beautiful Pirates: Piratas Bellos
+  Bellamy Pirates: Piratas de Bellamy
+  Big Helmet Pirates: Piratas del Gran Yelmo
+  Big Mom Pirates: Piratas de Big Mom
+  Black Cat Pirates: Piratas del Gato Negro
+  Blackbeard Pirates: Piratas de Barbanegra
+  Bliking Pirates: Piratas del Bliking
+  Bluejam Pirates: Piratas de Bluejam
+  Bonney Pirates: Piratas de Bonney
+  Bounties Pirates: Piratas Bounties
+  Bounty Pirates: Piratas Bounty
+  Bourgeois Pirates: Piratas Burgueses
+  Breed Pirates: Piratas de Breed
+  Brownbeard Pirates: Piratas de Barbaparda
+  Buggy Pirates: Piratas de Buggy
+  Buggy and Alvida Alliance: Alianza de Buggy y Alvida
+  Bull's Eye Hit Pirates: Piratas Diana
+  Camel Pirates: Piratas de Camel
+  Candy Pirates: Piratas Caramelo
+  Caribou Pirates: Piratas de Caribou
+  Cook Pirates: Piratas Cocineros
+  Dance Pirates: Piratas del Baile
+  Dondoko Pirates: Piratas Dondoko
+  Donquixote Pirates: Piratas Donquixote
+  Dr. Gero Sky Pirates: Piratas del Cielo del Dr. Gero
+  Drake Pirates: Piratas de Drake
+  Drayke Pirates: Piratas de Drayke
+  Eldoraggo Pirates: Piratas de Eldoraggo
+  Endurance Curry Pirates: Piratas del Curry Aguante
+  Eraser Pirates: Piratas de Eraser
+  Fake Straw Hat Crew: Falsa tripulación del Sombrero de Paja
+  Fallen Monk Pirates: Piratas del Monje Caído
+  Fanged Toad Pirates: Piratas del Sapo Colmilludo
+  Festival Pirates: Piratas Festival
+  Fire Tank Pirates: Piratas Fire Tank
+  Fischer's Pirates: Piratas de Fischer
+  Flying Pirates: Piratas Voladores
+  Foxy Pirates: Piratas de Foxy
+  Gally Pirates: Piratas de Gally
+  Ganzack Pirates: Piratas de Ganzack
+  Gasparde Pirates: Piratas de Gasparde
+  Gecko Pirates: Piratas de Gecko
+  Germ Pirates: Piratas Germen
+  Giant Warrior Pirates: Piratas Guerreros Gigantes
+  Golden Lion Pirates: Piratas del León Dorado
+  Gyro Pirates: Piratas de Gyro
+  Hailey Pirates: Piratas de Hailey
+  Handai Pirates: Piratas de Handai
+  Happo Navy: Armada Happo
+  Hawkins Pirates: Piratas de Hawkins
+  Heart Pirates: Piratas del Corazón
+  Hokahoka Pirates: Piratas Hokahoka
+  Hunger Pirates: Piratas Hambrientos
+  Ideo Pirates: Piratas de Ideo
+  Insect Pirates: Piratas Insecto
+  Jellyfish Pirates: Piratas Medusa
+  Kalik Pirates: Piratas de Kalik
+  Kid Pirates: Piratas de Kid
+  Krieg Pirates: Piratas de Krieg
+  Kuja Pirates: Piratas Kuja
+  Little Pirates: Piratas Pequeños
+  Long Long Pirates: Piratas Long Long
+  Lytton Food Thieves: Ladrones de Comida de Lytton
+  Macro Pirates: Piratas de Macro
+  Mad Dog Pirates: Piratas Perro Rabioso
+  Maelstrom Spider Pirates: Piratas Araña Remolino
+  Makiguso Pirates: Piratas Makiguso
+  Masira Pirates: Piratas de Masira
+  Mussel Pirates: Piratas Mejillón
+  Mustache Pirates: Piratas Bigote
+  Nagels Pirates: Piratas de Nagels
+  Naguri Pirates: Piratas Naguri
+  Naniwa Pirates: Piratas Naniwa
+  New Donquixote Family: Nueva Familia Donquixote
+  New Fish-Man Pirates: Nuevos Piratas Gyojin
+  New Giant Warrior Pirates: Nuevos Piratas Guerreros Gigantes
+  Night Butterfly Pirates: Piratas Mariposa Nocturna
+  Niho Navy: Armada Niho
+  Nisenise Pirates: Piratas Nisenise
+  Nox Pirates: Piratas Nox
+  On Air Pirates: Piratas On Air
+  Opera Pirates: Piratas Ópera
+  Otearai Pirates: Piratas Otearai
+  Peachbeard Pirates: Piratas de Barbamelocotón
+  Phoenix Pirates: Piratas Fénix
+  Polo Pirates: Piratas de Polo
+  Puddle Pirates: Piratas Charco
+  Pumpkin Pirates: Piratas Calabaza
+  Red Arrows Pirates: Piratas Flechas Rojas
+  Red Hair Pirates: Piratas del Pelirrojo
+  Rocks Pirates: Piratas de Rocks
+  Roger Pirates: Piratas de Roger
+  Rolling Pirates: Piratas Rolling
+  Roshio Pirates: Piratas de Roshio
+  Rumbar Pirates: Piratas de Rumbar
+  Saruyama Alliance: Alianza Saruyama
+  Sasaki Pirates: Piratas de Sasaki
+  Schneider Pirates: Piratas de Schneider
+  Sea Animal Pirates: Piratas Bestia Marina
+  Set Sail Pirates: Piratas Zarpemos
+  Shoujou Pirates: Piratas de Shoujou
+  Silver Pirate Alliance: Alianza Pirata Plateada
+  Simon Pirates: Piratas de Simon
+  Social Club: Club Social
+  Space Pirates: Piratas Espaciales
+  Spade Pirates: Piratas de Picas
+  Spicy Spice Pirates: Piratas Especia Picante
+  Straw Hat Grand Fleet: Gran Flota del Sombrero de Paja
+  Straw Hat Pirates: Piratas del Sombrero de Paja
+  Sun Pirates: Piratas del Sol
+  Sweet Pirates: Piratas Dulces
+  Takotopus Pirates: Piratas Takotopus
+  Tearoom Pirates: Piratas del Salón de Té
+  Thriller Bark Pirates: Piratas de Thriller Bark
+  Tired Pirates: Piratas Cansados
+  Tomcat Pirates: Piratas Gato Macho
+  Tongari Pirates: Piratas Tongari
+  Tontatta Pirates: Piratas Tontatta
+  Treasure Pirates: Piratas del Tesoro
+  Trump Pirates: Piratas Trump
+  Tulip Pirates: Piratas Tulipán
+  Tutor Pirates: Piratas Sabelotodo
+  Usopp Pirates: Piratas de Usopp
+  Wetton Pirates: Piratas de Wetton
+  Whitebeard Pirates: Piratas de Barbablanca
+  Who's-Who Pirates: Piratas de Who's-Who
+  World Pirates: Piratas World
+  Yes Pirates: Piratas Yes
+  Yonta Maria Grand Fleet: Gran Flota Yonta Maria
+  Zenny Pirates: Piratas de Zenny
+devil_fruits:
+  Age-Age Fruit: Fruta Toshi Toshi
+  Ame Ame Fruit: Fruta Ame Ame
+  Arms-Arms Fruit: Fruta Buki Buki
+  Arrow-Arrow Fruit: Fruta Aro Aro
+  Art-Art Fruit: Fruta Ato Ato
+  Bana Bana no Mi: Fruta Bana Bana
+  Barrel-Barrel Fruit: Fruta Tsutsu Tsutsu
+  Barrier-Barrier Fruit: Fruta Bari Bari
+  Basu Basu no Mi: Fruta Basu Basu
+  Bat-Bat Fruit: Fruta Batto Batto
+  'Bat-Bat Fruit, Model: Vampire': Fruta Batto Batto, modelo Vampiro
+  Berry-Berry Fruit: Fruta Beri Beri
+  Bijo-Bijo Fruit: Fruta Bijo Bijo
+  Bind-Bind Fruit: Fruta Ori Ori
+  'Bird-Bird Fruit, Model: Albatross': Fruta Tori Tori, modelo Albatros
+  Bis-Bis Fruit: Fruta Bisu Bisu
+  Bomb-Bomb Fruit: Fruta Bomu Bomu
+  Book-Book Fruit: Fruta Buku Buku
+  Brain-Brain Fruit: Fruta Nomi Nomi
+  Brush-Brush Fruit: Fruta Fude Fude
+  Bubble-Bubble Fruit: Fruta Awa Awa
+  'Bug-Bug Fruit, Model: Hornet': Fruta Mushi Mushi, modelo Suzumebachi
+  'Bug-Bug Fruit, Model: Rhinoceros beetle': Fruta Mushi Mushi, modelo Kabutomushi
+  Butter-Butter Fruit: Fruta Bata Bata
+  Calm-Calm Fruit: Fruta Nagi Nagi
+  Castle-Castle Fruit: Fruta Shiro Shiro
+  Cat-Cat Fruit Leopard Model: Fruta Neko Neko, modelo Leopardo
+  Cat-Cat Fruit, Saber-Toothed Tiger Model: Fruta Neko Neko, modelo Tigre Dientes de Sable
+  Chain-Chain Fruit: Fruta Jara Jara
+  Chop-Chop Fruit: Fruta Bara Bara
+  Chuni Chuni no Mi: Fruta Chuni Chuni
+  Clank-Clank Fruit: Fruta Gasha Gasha
+  Clear-Clear Fruit: Fruta Suke Suke
+  Clone-Clone Fruit: Fruta Mane Mane
+  Color-Color Fruit: Fruta Iro Iro
+  Cook-Cook Fruit: Fruta Kuku Kuku
+  Cream-Cream Fruit: Fruta Kuri Kuri
+  Cube-Cube Fruit: Fruta Kyubu Kyubu
+  Dark-Dark Fruit: Fruta Yami Yami
+  Deri Deri no Mi: Fruta Deri Deri
+  Dice-Dice Fruit: Fruta Supa Supa
+  Dog-Dog Fruit, Model Tanuki: Fruta Inu Inu, modelo Tanuki
+  'Dog-Dog Fruit, Model: Hound': Fruta Inu Inu, modelo Sabueso
+  'Dog-Dog Fruit, Model: Jackal': Fruta Inu Inu, modelo Chacal
+  'Dog-Dog Fruit, Model: Nine Tailed Fox': Fruta Inu Inu, modelo Kyubi no Kitsune
+  'Dog-Dog Fruit, Model: Okuchi-no-Makami': Fruta Inu Inu, modelo Okuchi no Makami
+  Door-Door Fruit: Fruta Doa Doa
+  Dragon-Dragon Fruit, Allosaurus Model: Fruta Ryu Ryu, modelo Alosaurio
+  'Dragon-Dragon Fruit, Model: Brachiosaurus': Fruta Ryu Ryu, modelo Braquiosaurio
+  'Dragon-Dragon Fruit, Model: Kirin': Fruta Ryu Ryu, modelo Kirin
+  'Dragon-Dragon Fruit, Model: Nidhoggr': Fruta Ryu Ryu, modelo Nidhöggr
+  'Dragon-Dragon Fruit, Model: Spinosaurus': Fruta Ryu Ryu, modelo Espinosaurio
+  Dragon-Dragon Fruit, Pachycephalosaurus Model: Fruta Ryu Ryu, modelo Paquicefalosaurio
+  Dragon-Dragon Fruit, Pteranodon Model: Fruta Ryu Ryu, modelo Pteranodon
+  Dragon-Dragon Fruit, Triceratops Model: Fruta Ryu Ryu, modelo Triceratops
+  Egg-Egg Fruit: Fruta Tama Tama
+  Eleph-Eleph Fruit: Fruta Zou Zou
+  Eleph-Eleph Fruit Ancient Zoan Model Mammoth: Fruta Zou Zou, modelo Mamut
+  'Fish-Fish Fruit, Model: Azure Dragon': Fruta Uo Uo, modelo Seiryu
+  Flame-Flame Fruit: Fruta Mera Mera
+  Float-Float Fruit: Fruta Fuwa Fuwa
+  Garb-Garb Jutsu: Fruta Fuku Fuku
+  Gas-Gas Fruit: Fruta Gasu Gasu
+  Gemu Gemu no Mi: Fruta Gemu Gemu
+  Glare-Glare Fruit: Fruta Giro Giro
+  Glint-Glint Fruit: Fruta Pika Pika
+  Glorp-Glorp Fruit: Fruta Gunyo Gunyo
+  Glug-Glug Fruit: Fruta Gabu Gabu
+  Goe Goe Fruit: Fruta Goe Goe
+  Gol-Gol Fruit: Fruta Goru Goru
+  Grab-Grab Fruit: Fruta Kote Kote
+  Gum-Gum Fruit: Fruta Gomu Gomu
+  Hana-Hana Fruit: Fruta Hana Hana
+  Hard-Hard Fruit: Fruta Kachi Kachi
+  Heal-Heal Fruit: Fruta Chiyu Chiyu
+  Heat-Heat Fruit: Fruta Netsu Netsu
+  Hobby-Hobby Fruit: Fruta Hobi Hobi
+  Hollow-Hollow Fruit: Fruta Horo Horo
+  Homi Homi no Mi: Fruta Homi Homi
+  Hore Hore no Mi: Fruta Hore Hore
+  Horm-Horm Fruit: Fruta Horu Horu
+  Horse-Horse Fruit: Fruta Uma Uma
+  Horse-Horse Fruit, Model Pegasus: Fruta Uma Uma, modelo Pegaso
+  Hot-Hot Fruit: Fruta Atsu Atsu
+  Huge-Huge Fruit: Fruta Deka Deka
+  Human-Human Fruit: Fruta Hito Hito
+  Human-Human Fruit Model Onyudo: Fruta Hito Hito, modelo Onyudo
+  'Human-Human Fruit, Model: Buddha': Fruta Hito Hito, modelo Daibutsu
+  'Human-Human Fruit, Model: Nika': Fruta Hito Hito, modelo Nika
+  Ice-Ice Fruit: Fruta Hie Hie
+  Iku Iku no Mi: Fruta Iku Iku
+  'Inu Inu no Mi, Model: Bake-danuki': Fruta Inu Inu, modelo Bake-danuki
+  Isle-Isle Fruit: Fruta Shima Shima
+  Jacket-Jacket Fruit: Fruta Jake Jake
+  Kilo-Kilo Fruit: Fruta Kiro Kiro
+  Kone Kone no Mi: Fruta Kone Kone
+  Kopi Kopi no Mi: Fruta Kopi Kopi
+  Kyara Kyara no Mi: Fruta Kyara Kyara
+  Lick-Lick Fruit: Fruta Pero Pero
+  Liquid Fruit: Fruta Toro Toro
+  Love-Love Fruit: Fruta Mero Mero
+  Luck-Luck Fruit: Fruta Raki Raki
+  Mabo Mabo no Mi: Fruta Mabo Mabo
+  Mag-Mag Fruit: Fruta Magu Magu
+  Magnet-Magnet Fruit: Fruta Jiki Jiki
+  Maji Maji no Mi: Fruta Maji Maji
+  Mari Mari no Mi: Fruta Mari Mari
+  Mark-Mark Fruit: Fruta Mato Mato
+  Melt-Melt Fruit: Fruta Dero Dero
+  Memo-Memo Fruit: Fruta Memo Memo
+  Meta Meta no Mi: Fruta Meta Meta
+  Millet-Millet Fruit: Fruta Kibi Kibi
+  Mini-Mini Fruit: Fruta Mini Mini
+  Mirror-Mirror Fruit: Fruta Mira Mira
+  Mochi-Mochi Fruit: Fruta Mochi Mochi
+  Mole-Mole Fruit: Fruta Mogu Mogu
+  Mono Mono no Mi: Fruta Mono Mono
+  More-More Fruit: Fruta Moa Moa
+  Mosa Mosa no Mi: Fruta Mosa Mosa
+  Munch-Munch Fruit: Fruta Baku Baku
+  Mutt-Mutt Fruit Wolf Model (VIZ), Dog-Dog Fruit Model Wolf: Fruta Inu Inu, modelo Lobo
+  Mutt-Mutt Fruit, Dachshund Type: Fruta Inu Inu, modelo Dachshund
+  Nemu Nemu no Mi: Fruta Nemu Nemu
+  Nepa Nepa no Mi: Fruta Nepa Nepa
+  Net-Net Fruit: Fruta Ami Ami
+  Nibi Nibi no Mi: Fruta Nibi Nibi
+  Nito Nito no Mi: Fruta Nito Nito
+  Nori Nori no Mi (Non-Canon): Fruta Nori Nori (no canónica)
+  Op-Op Fruit: Fruta Ope Ope
+  Ott-Ott Fruit: Fruta Rako Rako
+  Ox-Ox Fruit: Fruta Ushi Ushi, modelo Bisonte
+  'Ox-Ox Fruit, Model: Giraffe': Fruta Ushi Ushi, modelo Jirafa
+  Pasa Pasa no Mi: Fruta Pasa Pasa
+  Paw-Paw Fruit: Fruta Nikyu Nikyu
+  Peke Peke no Mi: Fruta Peke Peke
+  Pet-Pet Fruit: Fruta Peto Peto
+  Pile-Pile Fruit: Fruta Gocha Gocha
+  Pocha Pocha no Mi: Fruta Pocha Pocha
+  Pocket-Pocket Fruit: Fruta Poke Poke
+  Pop-Pop Fruit: Fruta Pamu Pamu
+  Press-Press Fruit: Fruta Zushi Zushi
+  Puff-Puff Fruit: Fruta Hoya Hoya
+  Pump-Pump Fruit: Fruta Kobu Kobu
+  Push-Push Fruit: Fruta Oshi Oshi
+  Return-Return Fruit: Fruta Modo Modo
+  Reverse-Reverse Fruit: Fruta Riba Riba
+  Revive-Revive Fruit: Fruta Yomi Yomi
+  Ride-Ride Fruit: Fruta Nori Nori
+  Ripe-Ripe Enticement Jutsu: Fruta Juku Juku
+  Ripple-Ripple Fruit (VIZ Media, Funimation subs, Funimation dub (main series)): Fruta Hira Hira
+  Roll-Roll Fruit: Fruta Koro Koro
+  Rumble-Rumble Fruit: Fruta Goro Goro
+  Rust-Rust Fruit: Fruta Sabi Sabi
+  'Sala-Sala Fruit, Model: Axolotl': Fruta Sara Sara, modelo Ajolote
+  Sand-Sand Fruit: Fruta Suna Suna
+  Scrolling Jutsu: Fruta Maki Maki
+  Shadow-Shadow Fruit: Fruta Kage Kage
+  Shroom-Shroom Fruit: Fruta Noko Noko
+  Shuku Shuku no Mi: Fruta Shuku Shuku
+  Sick-Sick Fruit: Fruta Shiku Shiku
+  Sickle-Sickle Fruit: Fruta Kama Kama
+  Sing-Sing Fruit: Fruta Uta Uta
+  Slip-Slip Fruit: Fruta Sube Sube
+  Slow-Slow Fruit: Fruta Noro Noro
+  Smelt-Smelt Fruit: Fruta Gutsu Gutsu
+  Smoke-Smoke Fruit: Fruta Moku Moku
+  Snake-Snake Fruit Anaconda Model: Fruta Hebi Hebi, modelo Anaconda
+  Snake-Snake Fruit King Cobra Model: Fruta Hebi Hebi, modelo Cobra Real
+  'Snake-Snake Fruit, Model: Yamata-no-Orochi': Fruta Hebi Hebi, modelo Yamata no Orochi
+  Snip-Snip Fruit: Fruta Choki Choki
+  Snow-Snow Fruit: Fruta Yuki Yuki
+  Soot-Soot Fruit: Fruta Susu Susu
+  Soul-Soul Fruit: Fruta Soru Soru
+  Spider-Spider Fruit, Rosamygale Grauvogeli Model: Fruta Kumo Kumo, modelo Rosamygale Grauvogeli
+  Spike-Spike Fruit: Fruta Toge Toge
+  Spin-Spin Fruit: Fruta Guru Guru
+  Spring-Spring Fruit: Fruta Bane Bane
+  'Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr': Fruta Risu Risu, modelo Ratatoskr
+  Stick-Stick Fruit (VIZ, Funimation: Fruta Beta Beta
+  Stitch-Stitch Power: Fruta Nui Nui
+  Stone-Stone Fruit: Fruta Ishi Ishi
+  Straw-Straw Fruit: Fruta Wara Wara
+  String-String Fruit: Fruta Ito Ito
+  Strong-Strong Fruit: Fruta Riki Riki
+  Swamp-Swamp Fruit: Fruta Numa Numa
+  Swim-Swim Fruit: Fruta Sui Sui
+  The Devil's Fruit: Fruta del Diablo
+  Thorn-Thorn Fruit: Fruta Iba Iba
+  Through-Through Fruit: Fruta Nuke Nuke
+  Time-Time Ability: Fruta Toki Toki
+  Ton-Ton Fruit: Fruta Ton Ton
+  Tone-Tone Fruit: Fruta Oto Oto
+  Tori Tori Fruit Model Eagle: Fruta Tori Tori, modelo Águila
+  'Tori Tori no Mi, Model: Nue': Fruta Tori Tori, modelo Nue
+  Tremor-Tremor Fruit or Quake-Quake Fruit: Fruta Gura Gura
+  Turtle-Turtle Fruit: Fruta Kame Kame
+  Tweet-Tweet Fruit: Fruta Tori Tori, modelo Halcón
+  Tweet-Tweet Fruit, Phoenix Model: Fruta Tori Tori, modelo Fénix
+  Twinkle-Twinkle Fruit: Fruta Kira Kira
+  Ute Ute no Mi: Fruta Ute Ute
+  Venom-Venom Fruit: Fruta Doku Doku
+  Warp-Warp Fruit: Fruta Wapu Wapu
+  Wash-Wash Fruit: Fruta Woshu Woshu
+  Wax-Wax Fruit: Fruta Doru Doru
+  Wheel-Wheel Fruit: Fruta Shari Shari
+  Whip-Whip Fruit: Fruta Muchi Muchi
+  Whisper-Whisper Fruit: Fruta Hiso Hiso
+  Woods-Woods Fruit: Fruta Mori Mori
+  Wring-Wring Fruit: Fruta Shibo Shibo
+  Zuma Zuma no Mi: Fruta Zuma Zuma
 episode_kinds:
   regular: Normal
   special: Especial
@@ -807,6 +1164,285 @@ fruit_types:
 genders:
   female: Femenino
   male: Masculino
+locations:
+  100% Island: Isla 100%
+  153rd Branch: Base 153
+  16th Branch: Base 16
+  2000 Year Island: Isla de los 2000 Años
+  77th Branch: Base 77
+  80th Branch: Base 80
+  8th Branch: Base 8
+  Abyss Zone: Zona del Abismo
+  Aoi Kingdom: Reino de Aoi
+  Applenine Island: Isla Applenine
+  Arabasta Kingdom: Reino de Arabasta
+  Asuka Island: Isla Asuka
+  Atarashi Island: Isla Atarashi
+  Aurust Castle: Castillo de Aurust
+  Ballon Terminal: Terminal Ballon
+  Ballywood Kingdom: Reino de Ballywood
+  Banana Peninsula: Península Banana
+  Banaro Island: Isla Banaro
+  Biscuits Island: Isla Galleta
+  Black Island: Isla Negra
+  Blacksmith Village: Aldea de los Herreros
+  Blue Planet: Planeta Azul
+  Blue Sea: Mar Azul
+  Boin Archipelago: Archipiélago Boin
+  Bourgeois Kingdom: Reino de Bourgeois
+  Briss Kingdom: Reino de Briss
+  Broc Coli Island: Isla Broc Coli
+  Bunt Kingdom: Reino de Bunt
+  Cacao Island: Isla Cacao
+  Cactus Island: Isla Cactus
+  Cactus Saloon: Salón Cactus
+  Candy Factory: Fábrica de Golosinas
+  Candy Island: Isla Caramelo
+  Carbador Island: Isla Carbador
+  Cave Island: Isla Cueva
+  Cave Zone: Zona de Cuevas
+  Cheese Island: Isla Queso
+  Clockwork Island: Isla Mecánica
+  Cocoyasi Village: Aldea Cocoyasi
+  Conomi Islands: Islas Conomi
+  Corrida Colosseum: Coliseo Corrida
+  Crescent Island: Isla Creciente
+  Cutlery Island: Isla Cubertería
+  Dawn Island: Isla Dawn
+  Delta Island: Isla Delta
+  Devil's Tower: Torre del Diablo
+  Digital Art Island: Isla del Arte Digital
+  Dimension Zone: Zona Dimensional
+  Dock 1: Dique 1
+  Dock Island: Isla Dique
+  Doerena Kingdom: Reino de Doerena
+  Door Hoverka Colosseum: Coliseo Door Hoverka
+  Drum Castle: Castillo de Drum
+  Drum Island: Isla de Drum
+  Drum Rockies: Montañas Rocosas de Drum
+  Eight Nine Island: Isla Eight Nine
+  Eigis Kingdom: Reino de Eigis
+  Emerald City: Ciudad Esmeralda
+  Enkai Island: Isla Enkai
+  Esperia Kingdom: Reino de Esperia
+  Euro Peninsula: Península Euro
+  Evil Black Drum Kingdom: Reino Malvado del Tambor Negro
+  Farce Island: Isla Farce
+  Firs Island: Isla Firs
+  Fish-Man District: Distrito Gyojin
+  Fish-Man Island: Isla Gyojin
+  Fisherman Island: Isla de los Pescadores
+  Flavor Island: Isla Sabor
+  Flower Capital: Capital de las Flores
+  Flower Hill: Colina de las Flores
+  Foolshout Island: Isla Foolshout
+  Foosha Village: Aldea Foosha
+  Forest Island: Isla Bosque
+  Franky House: Casa de Franky
+  Fron Island: Isla Fron
+  Fruits Island: Isla de las Frutas
+  Funwari Island: Isla Funwari
+  Futoru Island: Isla Futoru
+  Gacha Gacha Island: Isla Gacha Gacha
+  Gartel Island: Isla Gartel
+  Gates of Justice: Puertas de la Justicia
+  Gecko Islands: Islas Gecko
+  Germa Kingdom: Reino de Germa
+  Goa Kingdom: Reino de Goa
+  Goat Island: Isla Cabra
+  Goat Island (Non-Canon): Isla Cabra (no canónica)
+  Gold Island: Isla Dorada
+  Goldfish Empire: Imperio de los Peces de Colores
+  Gonarock Island: Isla Gonarock
+  Gorge Island: Isla Desfiladero
+  Gosa Village: Pueblo Gosa
+  Gourmet Island: Isla Gourmet
+  Great Ground: Gran Explanada
+  Great Kingdom: Gran Reino
+  Gyoncorde Plaza: Plaza Gyoncorde
+  Hand Island: Isla Mano
+  Headband Catfish Village: Aldea del Siluro con Bandana
+  Human Auctioning House: Casa de Subastas de Humanos
+  Hungry-La Island: Isla Hungry-La
+  Hyoutan Island: Isla Hyoutan
+  Ice Island: Isla de Hielo
+  Iceberg Island: Isla Iceberg
+  Ilisia Kingdom: Reino de Ilisia
+  Island of Rare Animals: Isla de los Animales Raros
+  Iyasare Island: Isla Iyasare
+  Jail Island: Isla Prisión
+  Jam Island: Isla Mermelada
+  Jelly Island: Isla Gelatina
+  Jewel Ice Sheet: Capa de Hielo Joya
+  Judo Island: Isla del Judo
+  Jungle Zone: Zona de Jungla
+  Kano Country: País de Kano
+  Karai Bari Island: Isla Karai Bari
+  Karakuri Island: Isla Karakuri
+  Karate Island: Isla del Kárate
+  Kenzan Island: Isla Kenzan
+  Kibo Island: Isla Kibo
+  Kimi Island: Isla Kimi
+  Kinko Island: Isla Kinko
+  Kinoko Island: Isla Kinoko
+  Kinoko Islands: Islas Kinoko
+  Komugi Island: Isla Komugi
+  Kuen Village: Aldea Kuen
+  Kumate Island: Isla Kumate
+  Kuraigana Island: Isla Kuraigana
+  Kutsukku Island: Isla Kutsukku
+  Kyuka Island: Isla Kyuka
+  Land of Gods: Tierra de los Dioses
+  Land of Ice: Tierra de Hielo
+  Liqueur Island: Isla Licor
+  Lodestar Island: Isla Lodestar
+  Lost Island: Isla Perdida
+  Loving Island: Isla Amorosa
+  Lulusia Kingdom: Reino de Lulusia
+  Lvneel Kingdom: Reino de Lvneel
+  Madatascar Island: Isla Madatascar
+  Majiatsuka Kingdom: Reino de Majiatsuka
+  Mamana Island: Isla Mamana
+  Margarine Island: Isla Margarina
+  Marine GS General Hospital: Hospital General GS de la Marina
+  Maze Island: Isla Laberinto
+  Mecha Island: Isla Mecha
+  Mermaid Cove: Cala de las Sirenas
+  Midori Island: Isla Midori
+  Midway Forest: Bosque Intermedio
+  Milenge Island: Isla Milenge
+  Minion Island: Isla Minion
+  Miraba Elementary School: Escuela Primaria Miraba
+  Mirror Ball Island: Isla Bola de Espejos
+  Mogaro Kingdom: Reino de Mogaro
+  Mokomo Dukedom: Ducado de Mokomo
+  Moku Moku Branch: Base Moku Moku
+  Momoiro Island: Isla Momoiro
+  Moon: Luna
+  Mountain Zone: Zona Montañosa
+  Mt. Colubo: Monte Colubo
+  Mt. Kintoki: Monte Kintoki
+  Mt. Mauri: Monte Mauri
+  Mystoria Island: Isla Mystoria
+  Nagagutsu Kingdom: Reino de Nagagutsu
+  Namakura Island: Isla Namakura
+  Namonaki Village: Aldea Namonaki
+  Nanatsu Islands: Islas Nanatsu
+  Nanimonai Island: Isla Nanimonai
+  Natsuyasumi Island: Isla Natsuyasumi
+  Navarone Island: Isla Navarone
+  Nazawaka City: Ciudad de Nazawaka
+  New Marineford: Nuevo Marineford
+  New World: Nuevo Mundo
+  Noko Island: Isla Noko
+  Nuts Island: Isla Nuez
+  O-Kan Island: Isla O-Kan
+  Ocean's Navel: Ombligo del Océano
+  Omatsuri Island: Isla Omatsuri
+  Orange Town: Pueblo Naranja
+  Organ Islands: Islas Organ
+  Owl Library: Biblioteca del Búho
+  Oykot Kingdom: Reino de Oykot
+  Package Island: Isla Paquete
+  Pangaea Castle: Castillo de Pangaea
+  Papanapple Island: Isla Papanapple
+  Paradise Farm: Granja Paraíso
+  Paradise Island: Isla Paraíso
+  Pasta Lake: Lago de la Pasta
+  Peak Ode Island: Isla Peak Ode
+  Pepe Kingdom: Reino de Pepe
+  Pescatore Island: Isla Pescatore
+  Piepie Island: Isla Piepie
+  Pineapple Island: Isla Piña
+  Pinwhale Village: Aldea Pinwhale
+  Plain Zone: Zona de Llanuras
+  Porco Kingdom: Reino de Porco
+  Poripori Island: Isla Poripori
+  Port Chibaralta Island: Isla Port Chibaralta
+  Potato Island: Isla Patata
+  Prisoner Mine: Mina de Prisioneros
+  Prodence Kingdom: Reino de Prodence
+  Promise Land: Tierra Prometida
+  Raijin Island: Isla Raijin
+  Rainbow Island: Isla Arcoíris
+  Rainbow Mist: Niebla Arcoíris
+  Rainbow Tower: Torre Arcoíris
+  Risky Red Island: Isla Risky Red
+  Rokumitsu Island: Isla Rokumitsu
+  Rommel Kingdom: Reino de Rommel
+  Roshwan Kingdom: Reino de Roshwan
+  Royal Sun Island: Isla del Sol Real
+  Rubeck Island: Isla Rubeck
+  Ruins Zone: Zona de Ruinas
+  Ryugu Kingdom: Reino de Ryugu
+  Ryugu Palace: Palacio Ryugu
+  SMILE Factory: Fábrica de SMILE
+  Sabaody Archipelago: Archipiélago Sabaody
+  Sabaody Park: Parque Sabaody
+  Sakura Kingdom: Reino de Sakura
+  Samba Island: Isla Samba
+  Samua Island: Isla Samua
+  Samuwanai Island: Isla Samuwanai
+  Sandora Desert: Desierto de Sandora
+  Sandora River: Río Sandora
+  Sanshoku Island: Isla Sanshoku
+  Sapoten Graveyard: Cementerio Sapoten
+  Satsuruzo Kingdom: Reino de Satsuruzo
+  Scrap Island: Isla Chatarra
+  Sea Forest: Bosque Marino
+  Seaside Zone: Zona Costera
+  Secon Island: Isla Secon
+  Shakky's Rip-off Bar: Bar Timo de Shakky
+  Sheep's House: Casa de la Oveja
+  Shellfish Island: Isla Marisco
+  Shift Station: Estación Shift
+  Shimotsuki Village: Aldea Shimotsuki
+  Shishano Kingdom: Reino de Shishano
+  Silver Arrow Island: Isla Flecha de Plata
+  Silver Mine: Mina de Plata
+  Skull Dome: Cúpula Calavera
+  Soil Island: Isla Tierra
+  Soja Island: Isla Soja
+  Sorbet Kingdom: Reino de Sorbet
+  Standing Kingdom: Reino de Standing
+  Sun World: Mundo del Sol
+  Swallow Island: Isla Golondrina
+  Sword Obsessed Branch: Base Obsesionada con las Espadas
+  Syrup Village: Aldea Syrup
+  Tabetsukusare Island: Isla Tabetsukusare
+  Tajine Kingdom: Reino de Tajine
+  Tanega Island: Isla Tanega
+  Tarai Current: Corriente Tarai
+  Taya Kingdom: Reino de Taya
+  Third Research Institute: Tercer Instituto de Investigación
+  Tomb of the Kings: Tumba de los Reyes
+  Tomoshibi Island: Isla Tomoshibi
+  Tongari Island: Isla Tongari
+  Tontatta Kingdom: Reino de Tontatta
+  Tony-Tony Island: Isla Tony-Tony
+  Topping Island: Isla Topping
+  Torino Kingdom: Reino de Torino
+  Tou-Chuka Island: Isla Tou-Chuka
+  Trap Tower: Torre Trampa
+  Trump Castle: Castillo Trump
+  Tsui Village: Aldea Tsui
+  Twin Cape: Cabo Gemelo
+  Ukkari Hot-Spring Island: Isla de Aguas Termales Ukkari
+  Unique Island: Isla Única
+  Uwazumi High School: Instituto Uwazumi
+  Vespa Kingdom: Reino de Vespa
+  Vodka Kingdom: Reino de Vodka
+  Walrus School: Escuela de la Morsa
+  Wano Country: País de Wano
+  Warship Island: Isla Buque de Guerra
+  Welbems Island: Isla Welbems
+  Whole Cake Chateau: Castillo Whole Cake
+  Whole Cake Island: Isla Whole Cake
+  Winner Island: Isla Ganadora
+  Yakigashi Island: Isla Yakigashi
+  Yano Country: País de Yano
+  Yuba Oasis: Oasis de Yuba
+  Yukiryu Island: Isla Yukiryu
 occupations:
   '"Lovely" secretary of Tom':
   - Secretario "encantador" de Tom
@@ -2461,6 +3097,89 @@ organization_statuses:
   destroyed: Destruida
   disbanded: Disuelta
   unknown: Desconocido
+organizations:
+  Accino Family: Familia Accino
+  Age Age Super Marines: Súper Marina Age Age
+  Albatross Delivery: Correo Albatros
+  Amatsuki Family: Familia Amatsuki
+  Bavette Family: Familia Bavette
+  Bounty Hunter: Cazarrecompensas
+  Buggy's Delivery: Reparto de Buggy
+  Bürst Lab: Laboratorio Bürst
+  Cefran Zaibatsu: Zaibatsu Cefran
+  Charlotte Family: Familia Charlotte
+  Chinjao Family: Familia Chinjao
+  Cidre Guild: Gremio Cidre
+  DX Marines: Marina DX
+  Dadan Family: Familia Dadan
+  Davy Family: Clan Davy
+  Divine Squad: Escuadrón Divino
+  Dynamo Team: Equipo Dinamo
+  Figarland Family: Familia Figarland
+  First Twenty: Los Primeros Veinte
+  Five Elders: Cinco Ancianos
+  Five Families of the West: Cinco Familias del Oeste
+  Four Emperors: Cuatro Emperadores
+  Franky Family: Familia Franky
+  Freedom Fighters: Luchadores por la Libertad
+  Fugetsu Family: Familia Fugetsu
+  Galley-La Company: Compañía Galley-La
+  Giant Nine: Nueve Gigantes
+  Giant Squad: Escuadrón de Gigantes
+  God Guardians: Guardianes de Dios
+  God's Guards: Guardia de Dios
+  Gorgon Sisters: Hermanas Gorgonas
+  Guardians: Guardianes
+  Guilty Jury: Jurado Culpable
+  Hitaki Family: Familia Hitaki
+  Hot Wind Marines: Marina del Viento Cálido
+  Hyougoro Family: Familia Hyogoro
+  Ikidaore Family: Familia Ikidaore
+  International Philanthropy Federation: Federación Filantrópica Internacional
+  Inuarashi Musketeer Squad: Escuadrón de Mosqueteros de Inuarashi
+  Knights of God: Caballeros de Dios
+  Kouzuki Family: Familia Kozuki
+  Kurokoma Family: Familia Kurokoma
+  Kurozumi Family: Familia Kurozumi
+  Kyoshiro Family: Familia Kyoshiro
+  Laotour Bandits: Bandidos de Laotour
+  Manmayer Family: Familia Manmayer
+  Marines: Marina
+  Mont Blanc Family: Familia Mont Blanc
+  Moulon Family: Familia Moulon
+  Mt. Atama Thieves: Ladrones del Monte Atama
+  Nazawa Family: Familia Nazawa
+  Neptune Family: Familia Neptune
+  Nerona Family: Familia Nerona
+  Nine Red Scabbards: Nueve Vainas Rojas
+  Ninja-Pirate-Mink-Samurai Alliance: Alianza Ninja-Pirata-Mink-Samurái
+  Omoino Family: Familia Omoino
+  Orenami Fanclub: Club de fans de Orenami
+  Organ Dealing Assassination Group: Grupo de Asesinos Traficantes de Órganos
+  Pilabuggy Villain Alliance: Alianza de Villanos Pilabuggy
+  Prison Escape Team: Equipo de Fuga
+  Revolutionary Army: Ejército Revolucionario
+  Riku Family: Familia Riku
+  Rimoshifu Family: Familia Rimoshifu
+  Rosward Family: Familia Rosward
+  Royal Guard: Guardia Real
+  Ruluka Government: Gobierno de Ruluka
+  Sand-Sand Clan: Banda Arena Arena
+  Satchels Family: Familia Satchels
+  Shepherd Family: Familia Shepherd
+  Shimotsuki Family: Familia Shimotsuki
+  Small Bird Delivery: Correo Pajarito
+  Super Spot-Billed Duck Troops: Tropa de Súper Patos Carolinos
+  Three Great Powers: Tres Grandes Poderes
+  Thriller Bark Victim's Association: Asociación de Víctimas de Thriller Bark
+  Umit Shipping: Naviera Umit
+  Uzuki Family: Familia Uzuki
+  Vinsmoke Family: Familia Vinsmoke
+  Watchdog Unit of the Law: Unidad Guardiana de la Ley
+  World Economy News Paper: Periódico de Economía Mundial
+  World Government: Gobierno Mundial
+  World Noble: Noble Mundial
+  Zona Family: Familia Zona
 periods:
   debut: Debut
   other: Otro
@@ -2506,6 +3225,22 @@ sagas:
 ship_statuses:
   destroyed: Destruido
   unknown: Desconocido
+ships:
+  Dial Boat: Barco de dials
+  Drum Castle Ropeway: Teleférico del Castillo de Drum
+  Fish-Man Karate Dojo: Dojo de Kárate Gyojin
+  Flying Dutchman: Holandés Errante
+  Flying Gas Balloon: Globo de gas volador
+  Iron Pirate "General Franky": Pirata de Hierro «General Franky»
+  Island Ship: Barco-isla
+  Jet Board: Tabla a reacción
+  Judicial Ship: Barco Judicial
+  Kuri-Chopa Sea Train Coaster: Montaña rusa del Tren Marino Kuri-Chopa
+  Marine Ships: Barcos de la Marina
+  Sand Sled: Trineo de arena
+  Ship: Barco
+  Sleeping White Horse of the Forest: Caballo Blanco Durmiente del Bosque
+  Totto Land Grand Fleet: Gran Flota de Totto Land
 species:
   animal: Animal
   birkan:
