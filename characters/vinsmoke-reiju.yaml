@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 826
 first_appearance:
   chapter: 826
   episode: 784
@@ -13,20 +14,25 @@ epithets:
 - en: Poison Pink
   ja: ポイズンピンク
   romaji: Poizun Pinku
+  revealed_chapter: 826
 occupations:
 - name: Princess
   status: current
+  revealed_chapter: 832
 - name: Mercenary
   status: current
 affiliations:
 - type: organization
   slug: vinsmoke-family
   status: current
+  revealed_chapter: 826
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 832
 origin:
   region: North Blue
+  revealed_chapter: 832
 birthday:
   month: 11
   day: 30

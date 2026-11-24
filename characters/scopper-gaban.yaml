@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1139
 first_appearance:
   chapter: 19
 epithets:
@@ -21,19 +22,23 @@ aliases:
 - en: Ya-san
   ja: ヤーさん
   romaji: Yā-san
+  revealed_chapter: 1139
 occupations:
 - name: Pirate
   status: former
+  revealed_chapter: 1139
 - name: Navigator
   status: current
 affiliations:
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 1139
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1139
 ages:
 - years: 80
   period: other

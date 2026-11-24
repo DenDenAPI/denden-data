@@ -15,20 +15,25 @@ epithets:
 - en: Bartolomeo the Cannibal
   ja: 人食いのバルトロメオ
   romaji: Hitokui no Barutoromeo
+  revealed_chapter: 706
 occupations:
 - name: Captain of the Second Ship of the Straw Hat Grand Fleet
   status: current
+  revealed_chapter: 800
 - name: Pirate Captain
   status: current
+  revealed_chapter: 706
 - name: Mafia Leader
   status: former
 affiliations:
 - type: crew
   slug: barto-club
   status: current
+  revealed_chapter: 706
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 origin:
   region: East Blue
 birthday:

@@ -8,6 +8,7 @@ gender: male
 species:
 - birkan
 status: alive
+status_revealed_chapter: 254
 first_appearance:
   chapter: 254
   episode: 167
@@ -15,19 +16,24 @@ epithets:
 - en: God Enel
   ja: 神・エネル
   romaji: Goddo Eneru
+  revealed_chapter: 254
 occupations:
 - name: God of Skypiea
   status: former
+  revealed_chapter: 254
 origin:
   location: birka
   region: Sky Island
+  revealed_chapter: 285
 residences:
 - type: location
   slug: moon
   status: current
+  revealed_chapter: 300
 - type: location
   slug: birka
   status: former
+  revealed_chapter: 285
 birthday:
   month: 5
   day: 6

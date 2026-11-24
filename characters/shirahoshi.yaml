@@ -8,6 +8,7 @@ gender: female
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 612
 first_appearance:
   chapter: 612
   episode: 531
@@ -15,26 +16,32 @@ epithets:
 - en: Mermaid Princess
   ja: 人魚姫
   romaji: Ningyo Hime
+  revealed_chapter: 612
 aliases:
 - en: Poseidon
   ja: ポセイドン
   romaji: Poseidon
+  revealed_chapter: 649
 occupations:
 - name: Princess of the Ryugu Kingdom
   status: current
+  revealed_chapter: 612
 affiliations:
 - type: organization
   slug: neptune-family
   status: current
+  revealed_chapter: 612
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 612
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: ryugu-palace
   status: current
+  revealed_chapter: 612
 birthday:
   month: 4
   day: 4

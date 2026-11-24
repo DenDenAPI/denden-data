@@ -7,6 +7,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
@@ -14,18 +15,23 @@ epithets:
 - en: Six Sword Style Hachi
   ja: 六刀流のハチ
   romaji: Rokutōryū no Hachi
+  revealed_chapter: 84
 occupations:
 - name: Takoyaki seller
   status: current
+  revealed_chapter: 200
 - name: Pirate Officer
   status: former
+  revealed_chapter: 83
 affiliations:
 - type: crew
   slug: arlong-pirates
   status: former
+  revealed_chapter: 83
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 620
 residences:
 - type: location
   slug: fish-man-district
@@ -33,6 +39,7 @@ residences:
 - type: location
   slug: arlong-park
   status: former
+  revealed_chapter: 83
 birthday:
   month: 8
   day: 8

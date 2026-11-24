@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 633
@@ -21,23 +22,29 @@ epithets:
 occupations:
 - name: Lady-in-waiting
   status: current
+  revealed_chapter: 823
 - name: Gladiator
   status: former
+  revealed_chapter: 704
 - name: Princess Of Dressrosa
   status: former
+  revealed_chapter: 795
 affiliations:
 - type: location
   slug: dressrosa
   status: current
+  revealed_chapter: 742
 - type: location
   slug: corrida-colosseum
   status: current
+  revealed_chapter: 704
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: dressrosa
   status: current
+  revealed_chapter: 704
 birthday:
   month: 8
   day: 4

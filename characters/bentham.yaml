@@ -7,6 +7,7 @@ canon: manga
 species:
 - human
 status: alive
+status_revealed_chapter: 129
 first_appearance:
   chapter: 129
   episode: 78
@@ -18,20 +19,25 @@ aliases:
 - en: Mr. 2 Bon Kurei
   ja: Mr. 2・ボン・クレー
   romaji: Misutā Tsū Bon Kurē
+  revealed_chapter: 155
 occupations:
 - name: Queen of Newkama Land
   status: current
 - name: Officer Agent
   status: former
+  revealed_chapter: 155
 - name: Prisoner of the Great Prison
   status: current
+  revealed_chapter: 532
 affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 532
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 155
 origin:
   region: East Blue
 birthday:
