@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 576
 first_appearance:
   chapter: 159
   episode: 95
@@ -15,29 +16,37 @@ epithets:
 - en: Whitebeard
   ja: 白ひげ
   romaji: Shirohige
+  revealed_chapter: 159
 - en: The Strongest Man in the World
   ja: 世界最強の男
   romaji: Sekai Saikyō no Otoko
+  revealed_chapter: 434
 - en: The Man Closest to One Piece
   ja: ひとつなぎの大秘宝に最も近い男
   romaji: Wan Pīsu ni Mottomo Chikai Otoko
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 434
 - name: Emperor
   status: current
+  revealed_chapter: 434
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 434
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 957
 - type: organization
   slug: four-emperors
   status: current
+  revealed_chapter: 434
 origin:
   region: Grand Line
+  revealed_chapter: 557
 residences:
 - type: location
   slug: hachinosu

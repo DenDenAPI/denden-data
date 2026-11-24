@@ -9,6 +9,7 @@ species:
 - cyborg
 - human
 status: deceased
+status_revealed_chapter: 1113
 first_appearance:
   chapter: 684
   episode: 610
@@ -16,33 +17,42 @@ epithets:
 - en: The Man With the Best Brain in the World
   ja: 世界一の頭脳を持つ男
   romaji: Sekaiichi no Zunō o Motsu Otoko
+  revealed_chapter: 1061
 aliases:
 - en: Stella
   ja: 本体
   romaji: Sutera
+  revealed_chapter: 1065
 occupations:
 - name: Scientist
   status: current
+  revealed_chapter: 684
 affiliations:
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1068
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 684
 origin:
   location: karakuri-island
   region: Grand Line
+  revealed_chapter: 684
 residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1061
 - type: location
   slug: punk-hazard
   status: former
+  revealed_chapter: 684
 - type: location
   slug: karakuri-island
   status: former
+  revealed_chapter: 684
 birthday:
   month: 8
   day: 9

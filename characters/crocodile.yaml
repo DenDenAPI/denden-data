@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 126
 first_appearance:
   chapter: 126
   episode: 76
@@ -15,6 +16,7 @@ epithets:
 - en: Sir Crocodile
   ja: サー・クロコダイル
   romaji: Sā Kurokodairu
+  revealed_chapter: 155
 - en: Desert King
   ja: 砂漠の王
   romaji: Sabaku no Ō
@@ -22,36 +24,47 @@ aliases:
 - en: Mr. 0
   ja: ミスター・ゼロ
   romaji: Misutā Zero
+  revealed_chapter: 155
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 155
 - name: Cross Guild Officer
   status: current
+  revealed_chapter: 1058
 - name: Baroque Works President
   status: former
+  revealed_chapter: 155
 - name: Proprietor of Rain Dinners
   status: former
+  revealed_chapter: 168
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 525
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 155
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 525
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: rainbase
   status: current
+  revealed_chapter: 168
 - type: location
   slug: arabasta-kingdom
   status: former
+  revealed_chapter: 155
 birthday:
   month: 9
   day: 5

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 9
 first_appearance:
   chapter: 9
   episode: 4
@@ -15,55 +16,71 @@ epithets:
 - en: Buggy the Clown
   ja: 道化のバギー
   romaji: Dōke no Bagī
+  revealed_chapter: 9
 - en: Buggy the Star Clown
   ja: 千両道化のバギー
   romaji: Senryō Dōke no Bagī
+  revealed_chapter: 1058
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 9
 - name: Emperor
   status: current
+  revealed_chapter: 1053
 - name: Figurehead President of Cross Guild
   status: current
+  revealed_chapter: 1058
 - name: Chairman of Buggy's Delivery
   status: former
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 594
 - name: Apprentice
   status: former
+  revealed_chapter: 19
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 525
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: four-emperors
   status: current
+  revealed_chapter: 1053
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 9
 - type: organization
   slug: buggys-delivery
   status: former
 - type: crew
   slug: buggy-and-alvida-alliance
   status: former
+  revealed_chapter: 100
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 500
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 525
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 1058
 - type: location
   slug: orange-town
   status: former
+  revealed_chapter: 9
 birthday:
   month: 8
   day: 8

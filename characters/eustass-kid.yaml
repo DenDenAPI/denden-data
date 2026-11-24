@@ -9,6 +9,7 @@ species:
 - cyborg
 - human
 status: unknown
+status_revealed_chapter: 1079
 first_appearance:
   chapter: 498
   episode: 392
@@ -16,13 +17,16 @@ epithets:
 - en: Captain
   ja: キャプテン
   romaji: Kyaputen
+  revealed_chapter: 498
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 498
 affiliations:
 - type: crew
   slug: kid-pirates
   status: current
+  revealed_chapter: 498
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current

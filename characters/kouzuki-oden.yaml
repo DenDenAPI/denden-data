@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 920
 first_appearance:
   chapter: 920
   episode: 910
@@ -15,32 +16,42 @@ epithets:
 - en: Idiot Lord
   ja: バカ殿
   romaji: Bakatono
+  revealed_chapter: 960
 occupations:
 - name: Samurai
   status: current
+  revealed_chapter: 960
 - name: Daimyo
   status: current
+  revealed_chapter: 962
 - name: Pirate
   status: former
+  revealed_chapter: 966
 - name: 2nd Division Commander
   status: former
+  revealed_chapter: 964
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 920
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 966
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 964
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 920
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 920
 birthday:
   month: 2
   day: 22

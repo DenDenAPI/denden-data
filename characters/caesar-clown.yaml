@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 658
 first_appearance:
   chapter: 658
   episode: 581
@@ -15,6 +16,7 @@ epithets:
 - en: Master
   ja: M
   romaji: Masutā
+  revealed_chapter: 658
 aliases:
 - en: Cedar
   ja: シーダー
@@ -25,25 +27,31 @@ aliases:
 occupations:
 - name: Scientist
   status: current
+  revealed_chapter: 664
 affiliations:
 - type: organization
   slug: neo-mads
   status: current
+  revealed_chapter: 1078
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 697
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 667
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1068
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: punk-hazard
   status: former
+  revealed_chapter: 664
 birthday:
   month: 4
   day: 9

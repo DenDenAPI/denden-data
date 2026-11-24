@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -15,35 +16,46 @@ epithets:
 - en: Surgeon of Death
   ja: 死の外科医
   romaji: Shi no Gekai
+  revealed_chapter: 498
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 498
 - name: Doctor
   status: current
+  revealed_chapter: 579
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 663
 affiliations:
 - type: crew
   slug: heart-pirates
   status: current
+  revealed_chapter: 498
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 761
 origin:
   region: North Blue
+  revealed_chapter: 762
 residences:
 - type: location
   slug: flevance
   status: former
+  revealed_chapter: 762
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: swallow-island
   status: former
+  revealed_chapter: 767
 birthday:
   month: 10
   day: 6

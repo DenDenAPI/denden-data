@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 574
 first_appearance:
   chapter: 154
   episode: 91
@@ -15,42 +16,56 @@ epithets:
 - en: '"Fire Fist" Ace'
   ja: 火拳のエース
   romaji: Hiken no Ēsu
+  revealed_chapter: 159
 occupations:
 - name: 2nd Division Commander
   status: current
+  revealed_chapter: 159
 - name: Pirate
   status: current
+  revealed_chapter: 154
 - name: Captain
   status: former
+  revealed_chapter: 552
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 525
 - name: Thief
   status: former
+  revealed_chapter: 585
 - name: Bandit
   status: former
+  revealed_chapter: 585
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 159
 - type: crew
   slug: spade-pirates
   status: former
+  revealed_chapter: 552
 - type: organization
   slug: dadan-family
   status: former
+  revealed_chapter: 584
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 525
 origin:
   location: baterilla
   region: South Blue
+  revealed_chapter: 550
 residences:
 - type: location
   slug: baterilla
   status: former
+  revealed_chapter: 550
 - type: location
   slug: mt-colubo
   status: former
+  revealed_chapter: 584
 birthday:
   month: 1
   day: 1

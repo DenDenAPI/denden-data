@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 92
 first_appearance:
   chapter: 92
   episode: 68
@@ -15,18 +16,23 @@ epithets:
 - en: Garp the Fist
   ja: ゲンコツのガープ
   romaji: Genkotsu no Gāpu
+  revealed_chapter: 432
 - en: Hero of the Marines
   ja: 海軍の英雄
   romaji: Kaigun no Eiyū
+  revealed_chapter: 1080
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 92
 - name: Instructor
   status: current
+  revealed_chapter: 1080
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 92
 origin:
   location: goa-kingdom
   region: East Blue
@@ -34,6 +40,7 @@ residences:
 - type: location
   slug: foosha-village
   status: former
+  revealed_chapter: 432
 birthday:
   month: 5
   day: 2

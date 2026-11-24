@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: unknown
+status_revealed_chapter: 1053
 first_appearance:
   chapter: 795
   episode: 736
@@ -15,40 +16,51 @@ epithets:
 - en: Kaidou of the Beasts
   ja: 百獣のカイドウ
   romaji: Hyakujū no Kaidō
+  revealed_chapter: 795
 - en: The Strongest Creature
   ja: 最強の生物
   romaji: Saikyō no Seibutsu
+  revealed_chapter: 795
 - en: Wise King
   ja: 明王
   romaji: Myōō
 occupations:
 - name: Governor-General
   status: current
+  revealed_chapter: 795
 - name: Emperor
   status: former
+  revealed_chapter: 795
 - name: Soldier
   status: former
+  revealed_chapter: 1049
 - name: Apprentice
   status: former
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 795
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 957
 - type: organization
   slug: four-emperors
   status: former
+  revealed_chapter: 795
 origin:
   region: Grand Line
+  revealed_chapter: 1049
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 818
 - type: location
   slug: vodka-kingdom
   status: former
+  revealed_chapter: 1049
 - type: location
   slug: hachinosu
   status: former

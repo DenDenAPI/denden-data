@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 233
 first_appearance:
   chapter: 233
   episode: 151
@@ -19,48 +20,64 @@ aliases:
 - en: Joker
   ja: ジョーカー
   romaji: Jōkā
+  revealed_chapter: 697
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 234
 - name: Prisoner of the Great Prison
   status: current
+  revealed_chapter: 801
 - name: Underworld Broker
   status: current
+  revealed_chapter: 697
 - name: King of Dressrosa
   status: former
+  revealed_chapter: 700
 - name: World Noble
   status: former
+  revealed_chapter: 722
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 234
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 801
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 234
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 700
 origin:
   location: mary-geoise
+  revealed_chapter: 762
 residences:
 - type: location
   slug: downs
   status: former
+  revealed_chapter: 782
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 762
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 700
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 801
 birthday:
   month: 10
   day: 23
