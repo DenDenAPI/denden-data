@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 600
 first_appearance:
   chapter: 600
   episode: 519
@@ -24,6 +25,7 @@ affiliations:
 - type: crew
   slug: fake-straw-hat-crew
   status: former
+  revealed_chapter: 600
 birthday:
   month: 11
   day: 9

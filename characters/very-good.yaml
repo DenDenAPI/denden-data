@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 426
 first_appearance:
   chapter: 426
   episode: 309
@@ -18,6 +19,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 521
 birthday:
   month: 9
   day: 10

@@ -7,23 +7,28 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 673
 first_appearance:
   chapter: 673
   episode: 599
 occupations:
 - name: Commodore
   status: current
+  revealed_chapter: 673
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 673
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 residences:
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 heights:
 - cm: 220
   period: other

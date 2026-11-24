@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 931
 first_appearance:
   chapter: 931
   episode: 925
 occupations:
 - name: Ninja
   status: current
+  revealed_chapter: 933
 - name: Pirate
   status: current
 affiliations:

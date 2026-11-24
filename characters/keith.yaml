@@ -8,6 +8,7 @@ gender: male
 species:
 - mink
 status: alive
+status_revealed_chapter: 809
 first_appearance:
   chapter: 809
   episode: 759

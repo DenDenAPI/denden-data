@@ -7,6 +7,7 @@ canon: manga
 species:
 - mink
 status: alive
+status_revealed_chapter: 508
 first_appearance:
   chapter: 508
   episode: 490

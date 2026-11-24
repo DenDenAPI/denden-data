@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 41
 first_appearance:
   chapter: 41
   episode: 4
@@ -22,3 +23,4 @@ affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 837

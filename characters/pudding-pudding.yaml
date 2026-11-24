@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 75
 first_appearance:
   chapter: 75
   episode: 34
 occupations:
 - name: Marine Commodore
   status: current
+  revealed_chapter: 75
 affiliations:
 - type: organization
   slug: marines

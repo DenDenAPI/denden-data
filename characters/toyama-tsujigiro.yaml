@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Magistrate
   status: current
+  revealed_chapter: 909
 residences:
 - type: location
   slug: wano-country

@@ -7,6 +7,7 @@ canon: manga
 species:
 - sea_king
 status: alive
+status_revealed_chapter: 101
 first_appearance:
   chapter: 101
   episode: 55

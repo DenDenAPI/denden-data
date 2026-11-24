@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 862
 first_appearance:
   chapter: 862
   episode: 831
@@ -21,6 +22,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 882
 origin:
   region: Grand Line
 residences:

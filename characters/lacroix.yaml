@@ -8,12 +8,14 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 550
 first_appearance:
   chapter: 550
   episode: 459
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 555
 affiliations:
 - type: organization
   slug: marines
@@ -21,6 +23,7 @@ affiliations:
 - type: organization
   slug: giant-squad
   status: current
+  revealed_chapter: 555
 birthday:
   month: 6
   day: 8

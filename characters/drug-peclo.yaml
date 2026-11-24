@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 828
@@ -15,9 +16,11 @@ epithets:
 - en: Major Undertaker
   ja: 大手葬儀屋
   romaji: Ōte Sōgi-ya
+  revealed_chapter: 860
 occupations:
 - name: Undertaker
   status: current
+  revealed_chapter: 860
 - name: Emperor of the Underworld
   status: current
 birthday:
