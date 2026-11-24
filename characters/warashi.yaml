@@ -8,6 +8,7 @@ gender: male
 species:
 - shandia
 status: alive
+status_revealed_chapter: 269
 first_appearance:
   chapter: 269
   episode: 176

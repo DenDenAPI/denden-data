@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 621
 first_appearance:
   chapter: 621
   episode: 540

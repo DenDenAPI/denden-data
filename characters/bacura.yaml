@@ -8,14 +8,17 @@ gender: female
 species:
 - animal
 status: alive
+status_revealed_chapter: 516
 first_appearance:
   chapter: 516
   episode: 410
 occupations:
 - name: Pet
   status: current
+  revealed_chapter: 518
 - name: Executioner
   status: current
+  revealed_chapter: 518
 affiliations:
 - type: crew
   slug: kuja-pirates

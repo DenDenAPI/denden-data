@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: King
   status: former
+  revealed_chapter: 142
 affiliations:
 - type: location
   slug: ilisia-kingdom

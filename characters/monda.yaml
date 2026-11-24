@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 306
 first_appearance:
   chapter: 306
   episode: 209
@@ -18,6 +19,7 @@ affiliations:
 - type: crew
   slug: foxy-pirates
   status: former
+  revealed_chapter: 306
 birthday:
   month: 4
   day: 3

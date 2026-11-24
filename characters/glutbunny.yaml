@@ -7,6 +7,7 @@ canon: manga
 species:
 - animal
 status: deceased
+status_revealed_chapter: 1129
 first_appearance:
   chapter: 1129
   episode: 1159
@@ -14,6 +15,7 @@ aliases:
 - en: Ear God
   ja: 耳神
   romaji: Mimigami
+  revealed_chapter: 1129
 residences:
 - type: location
   slug: land-of-gods

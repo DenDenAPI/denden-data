@@ -8,12 +8,14 @@ gender: female
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 649
 first_appearance:
   chapter: 649
   episode: 569
 occupations:
 - name: Singer
   status: current
+  revealed_chapter: 649
 affiliations:
 - type: location
   slug: fish-man-island

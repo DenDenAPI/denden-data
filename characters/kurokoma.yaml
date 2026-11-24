@@ -13,11 +13,14 @@ first_appearance:
 occupations:
 - name: Yakuza
   status: current
+  revealed_chapter: 960
 affiliations:
 - type: organization
   slug: kurokoma-family
   status: current
+  revealed_chapter: 960
 residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 960

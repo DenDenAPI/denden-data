@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 536
 first_appearance:
   chapter: 536
   episode: 437

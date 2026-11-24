@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 915
 first_appearance:
   chapter: 915
   episode: 901
 occupations:
 - name: Gifter
   status: current
+  revealed_chapter: 915
 affiliations:
 - type: crew
   slug: beasts-pirates

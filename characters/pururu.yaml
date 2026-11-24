@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1079
 first_appearance:
   chapter: 1079
   episode: 1112
@@ -22,6 +23,8 @@ affiliations:
 - type: crew
   slug: bourgeois-pirates
   status: current
+  revealed_chapter: 1079
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 1079

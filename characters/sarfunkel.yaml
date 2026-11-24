@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 620
 first_appearance:
   chapter: 620
   episode: 1151
@@ -15,3 +16,4 @@ residences:
 - type: location
   slug: island-of-rare-animals
   status: current
+  revealed_chapter: 620

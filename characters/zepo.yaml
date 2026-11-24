@@ -8,6 +8,7 @@ gender: male
 species:
 - mink
 status: deceased
+status_revealed_chapter: 850
 first_appearance:
   chapter: 850
   episode: 816
@@ -20,3 +21,4 @@ affiliations:
 - type: crew
   slug: nox-pirates
   status: current
+  revealed_chapter: 850

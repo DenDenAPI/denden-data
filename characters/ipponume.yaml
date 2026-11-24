@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 97
 first_appearance:
   chapter: 97
   episode: 49
@@ -18,12 +19,14 @@ affiliations:
 - type: location
   slug: loguetown
   status: current
+  revealed_chapter: 630
 origin:
   region: East Blue
 residences:
 - type: location
   slug: loguetown
   status: current
+  revealed_chapter: 630
 birthday:
   month: 12
   day: 1

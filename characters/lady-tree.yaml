@@ -8,6 +8,7 @@ gender: female
 species:
 - homie
 status: alive
+status_revealed_chapter: 873
 first_appearance:
   chapter: 873
   episode: 844

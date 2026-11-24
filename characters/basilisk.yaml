@@ -7,6 +7,7 @@ canon: manga
 species:
 - animal
 status: alive
+status_revealed_chapter: 528
 first_appearance:
   chapter: 528
   episode: 425
@@ -20,5 +21,6 @@ affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 528
 origin:
   region: West Blue
