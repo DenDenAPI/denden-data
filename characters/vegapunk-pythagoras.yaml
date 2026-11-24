@@ -5,6 +5,7 @@ name:
   romaji: Pitagorasu
 canon: manga
 status: alive
+status_revealed_chapter: 1065
 first_appearance:
   chapter: 1065
   episode: 1095
@@ -19,6 +20,7 @@ residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1068
 birthday:
   month: 3
   day: 22

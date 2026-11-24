@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 1142
 first_appearance:
   chapter: 1142
   episode: 1172
@@ -18,7 +19,9 @@ affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1148
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1142

@@ -8,6 +8,7 @@ gender: female
 species:
 - skypiean
 status: alive
+status_revealed_chapter: 300
 first_appearance:
   chapter: 300
   episode: 193

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1065
 first_appearance:
   chapter: 1065
   episode: 1095
@@ -16,23 +17,29 @@ occupations:
   status: current
 - name: World Noble
   status: current
+  revealed_chapter: 1078
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 1123
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1089
 origin:
   location: egghead
   region: Grand Line
+  revealed_chapter: 1089
 residences:
 - type: location
   slug: egghead
   status: former
+  revealed_chapter: 1089
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 1078
 birthday:
   month: 3
   day: 22
