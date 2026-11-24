@@ -10,7 +10,5 @@ status: unknown
 first_appearance:
   chapter: 204
 occupations:
-- name: Holder of the Takoyaki recipe
-  status: current
-- name: sauce
+- name: Holder of the Takoyaki recipe and sauce
   status: current
