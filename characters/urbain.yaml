@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 964
 first_appearance:
   chapter: 964
   episode: 964

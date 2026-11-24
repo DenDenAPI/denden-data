@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 179
 first_appearance:
   chapter: 179
 occupations:

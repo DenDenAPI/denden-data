@@ -13,6 +13,7 @@ epithets:
 - en: Horse of Fortune
   ja: 幸運の馬
   romaji: Kōun no Uma
+  revealed_chapter: 1153
 residences:
 - type: location
   slug: aurust-castle

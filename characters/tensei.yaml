@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1054
 first_appearance:
   chapter: 1054
   episode: 1081
@@ -15,6 +16,7 @@ aliases:
 - en: Kurouma
   ja: 黒馬
   romaji: Kurouma
+  revealed_chapter: 1054
 occupations:
 - name: Director of the Marine Bureau of Investigation
   status: current

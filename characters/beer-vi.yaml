@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 823
 first_appearance:
   chapter: 823
   episode: 777
@@ -18,3 +19,4 @@ residences:
 - type: location
   slug: roshwan-kingdom
   status: current
+  revealed_chapter: 905

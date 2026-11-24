@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 4
 first_appearance:
   chapter: 4
   episode: 2
@@ -20,6 +21,7 @@ residences:
 - type: location
   slug: shells-town
   status: current
+  revealed_chapter: 118
 birthday:
   month: 11
   day: 15

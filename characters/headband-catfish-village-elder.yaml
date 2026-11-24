@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 214
 first_appearance:
   chapter: 214
 occupations:
@@ -19,3 +20,4 @@ residences:
 - type: location
   slug: headband-catfish-village
   status: current
+  revealed_chapter: 214

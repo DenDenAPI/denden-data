@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1073
 first_appearance:
   chapter: 1073
   episode: 1105
 occupations:
 - name: Marine Captain
   status: current
+  revealed_chapter: 1073
 affiliations:
 - type: organization
   slug: marines

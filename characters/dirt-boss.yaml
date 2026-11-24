@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 326
 first_appearance:
   chapter: 326
 occupations:

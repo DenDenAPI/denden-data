@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 927
 first_appearance:
   chapter: 927
   episode: 919
@@ -15,6 +16,7 @@ affiliations:
 - type: organization
   slug: kyoshiro-family
   status: current
+  revealed_chapter: 927
 residences:
 - type: location
   slug: wano-country

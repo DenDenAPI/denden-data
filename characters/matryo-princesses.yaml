@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 905
 first_appearance:
   chapter: 905
   episode: 882
@@ -18,3 +19,4 @@ residences:
 - type: location
   slug: roshwan-kingdom
   status: current
+  revealed_chapter: 905
