@@ -9,7 +9,7 @@ species:
 - human
 status: deceased
 occupations:
-- name: man
+- name: Village headman
   status: current
 affiliations:
 - type: organization

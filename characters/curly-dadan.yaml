@@ -14,11 +14,7 @@ first_appearance:
 occupations:
 - name: Mountain Bandit Boss
   status: current
-- name: Caretaker of Monkey D. Luffy
-  status: current
-- name: Portgas D. Ace
-  status: current
-- name: Sabo
+- name: Caretaker of Monkey D. Luffy, Portgas D. Ace and Sabo
   status: former
 affiliations:
 - type: organization

@@ -9,7 +9,7 @@ species:
 - human
 status: alive
 occupations:
-- name: man
+- name: Village headman
   status: current
 - name: Vigilante Corps member
   status: former
