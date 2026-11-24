@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 832
 first_appearance:
   chapter: 832
   episode: 793
@@ -18,25 +19,32 @@ epithets:
 occupations:
 - name: King of the Germa Kingdom
   status: current
+  revealed_chapter: 832
 - name: Supreme Commander of Germa 66
   status: current
+  revealed_chapter: 832
 - name: Scientist
   status: current
+  revealed_chapter: 840
 - name: Mercenary
   status: current
 affiliations:
 - type: organization
   slug: vinsmoke-family
   status: current
+  revealed_chapter: 832
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 832
 - type: organization
   slug: neo-mads
   status: current
+  revealed_chapter: 1078
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1068
 origin:
   region: North Blue
 birthday:

@@ -8,21 +8,25 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 825
 occupations:
 - name: Sweet Commander
   status: current
+  revealed_chapter: 860
 - name: Minister of Flour
   status: current
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 860
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 860
 origin:
   region: Grand Line
 residences:

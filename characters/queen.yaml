@@ -9,6 +9,7 @@ species:
 - cyborg
 - human
 status: alive
+status_revealed_chapter: 920
 first_appearance:
   chapter: 920
   episode: 910
@@ -16,26 +17,32 @@ epithets:
 - en: Queen the Plague
   ja: 疫災のクイーン
   romaji: Ekisai no Kuīn
+  revealed_chapter: 935
 occupations:
 - name: All-Star
   status: current
+  revealed_chapter: 935
 - name: Scientist
   status: current
+  revealed_chapter: 1007
 - name: De Facto Ruler of Udon
   status: former
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 935
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1068
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 935
 birthday:
   month: 7
   day: 13

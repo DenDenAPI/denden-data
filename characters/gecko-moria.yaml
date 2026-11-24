@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 449
 first_appearance:
   chapter: 449
   episode: 343
@@ -18,12 +19,15 @@ aliases:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 449
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 449
 affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 449
 - type: crew
   slug: gecko-pirates
   status: former

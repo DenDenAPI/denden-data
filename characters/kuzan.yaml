@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 303
 first_appearance:
   chapter: 303
   episode: 225
@@ -14,20 +15,26 @@ aliases:
 - en: Aokiji
   ja: 青キジ
   romaji: Aokiji
+  revealed_chapter: 303
 occupations:
 - name: Titanic Captain
   status: current
+  revealed_chapter: 925
 - name: Admiral
   status: former
+  revealed_chapter: 303
 - name: Vice Admiral
   status: former
+  revealed_chapter: 397
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 925
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 303
 origin:
   location: vespa-kingdom
   region: South Blue
@@ -35,6 +42,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 925
 birthday:
   month: 9
   day: 21

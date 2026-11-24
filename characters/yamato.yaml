@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 971
 first_appearance:
   chapter: 971
   episode: 972
@@ -14,10 +15,12 @@ epithets:
 - en: Oni Princess
   ja: 鬼姫
   romaji: Onihime
+  revealed_chapter: 984
 aliases:
 - en: Kouzuki Oden
   ja: 光月おでん
   romaji: Kōzuki Oden
+  revealed_chapter: 984
 affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
@@ -25,10 +28,12 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 984
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 984
 birthday:
   month: 11
   day: 3

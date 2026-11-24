@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 1130
 first_appearance:
   chapter: 1130
   episode: 1160
@@ -13,22 +14,27 @@ epithets:
 - en: Accursed Prince
   ja: 呪いの王子
   romaji: Noroi no Ōji
+  revealed_chapter: 1131
 - en: Shame of Elbaph
   ja: エルバフの恥
   romaji: Erubafu no Haji
+  revealed_chapter: 1131
 - en: Sun God
   ja: 太陽の神
   romaji: Taiyō no Kami
 occupations:
 - name: Prince
   status: current
+  revealed_chapter: 1130
 affiliations:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1130
 origin:
   location: elbaph
   region: Grand Line
+  revealed_chapter: 1130
 ages:
 - years: 63
   period: other

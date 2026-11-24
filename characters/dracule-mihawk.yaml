@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 49
 first_appearance:
   chapter: 49
   episode: 23
@@ -15,30 +16,38 @@ epithets:
 - en: Hawk Eyes Mihawk
   ja: 鷹の目のミホーク
   romaji: Taka no Me no Mihōku
+  revealed_chapter: 49
 - en: Strongest Swordsman in the World
   ja: 世界最強の剣士
   romaji: Sekai Saikyō no Kenshi
+  revealed_chapter: 49
 - en: Marine Hunter
   ja: 海兵狩り
   romaji: Kaihei-gari
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 49
 - name: Cross Guild Officer
   status: current
+  revealed_chapter: 1056
 - name: Warlord of the Sea
   status: former
+  revealed_chapter: 69
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1056
 residences:
 - type: location
   slug: kuraigana-island
   status: former
+  revealed_chapter: 597
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 1058
 birthday:
   month: 3
   day: 9
