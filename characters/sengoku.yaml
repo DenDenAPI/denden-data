@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 234
 first_appearance:
   chapter: 234
   episode: 151
@@ -14,14 +15,17 @@ epithets:
 - en: Sengoku the Buddha
   ja: 仏のセンゴク
   romaji: Hotoke no Sengoku
+  revealed_chapter: 571
 - en: The Resourceful General
   ja: 智将
   romaji: Chishō
 occupations:
 - name: Inspector General
   status: current
+  revealed_chapter: 957
 - name: Fleet Admiral
   status: former
+  revealed_chapter: 234
 - name: Admiral
   status: former
 - name: Vice Admiral
@@ -30,6 +34,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 234
 origin:
   region: South Blue
 birthday:

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1125
 first_appearance:
   chapter: 233
   episode: 151
@@ -16,14 +17,18 @@ occupations:
   status: current
 - name: Scientist
   status: current
+  revealed_chapter: 1094
 affiliations:
 - type: organization
   slug: five-elders
   status: current
+  revealed_chapter: 233
 - type: organization
   slug: world-noble
   status: current
+  revealed_chapter: 1094
 residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 233

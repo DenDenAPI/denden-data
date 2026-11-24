@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 608
 first_appearance:
   chapter: 608
   episode: 527
@@ -16,18 +17,22 @@ occupations:
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 609
 - name: Soldier
   status: former
+  revealed_chapter: 616
 affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 609
 - type: crew
   slug: flying-pirates
   status: former
 - type: location
   slug: ryugu-kingdom
   status: former
+  revealed_chapter: 616
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -35,6 +40,7 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 609
 birthday:
   month: 4
   day: 14

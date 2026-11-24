@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -15,22 +16,28 @@ epithets:
 - en: Gang
   ja: ギャング
   romaji: Gyangu
+  revealed_chapter: 498
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 498
 - name: Mafia don
   status: former
+  revealed_chapter: 857
 - name: Combatant
   status: former
 affiliations:
 - type: crew
   slug: fire-tank-pirates
   status: current
+  revealed_chapter: 498
 - type: crew
   slug: big-mom-pirates
   status: former
+  revealed_chapter: 807
 origin:
   region: West Blue
+  revealed_chapter: 857
 birthday:
   month: 1
   day: 17
@@ -52,3 +59,4 @@ bounties:
   revealed_chapter: 812
 - amount: 350000000
   status: current
+  revealed_chapter: 966

@@ -6,23 +6,28 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 906
 first_appearance:
   chapter: 906
   episode: 885
 occupations:
 - name: King of the World
   status: current
+  revealed_chapter: 1179
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 908
 - type: organization
   slug: first-twenty
   status: current
+  revealed_chapter: 1086
 residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 906
 ages:
 - years: 800
   period: other

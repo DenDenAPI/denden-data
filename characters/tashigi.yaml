@@ -7,35 +7,43 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 96
 first_appearance:
   chapter: 96
   episode: 48
 occupations:
 - name: Captain
   status: current
+  revealed_chapter: 652
 - name: Ensign
   status: former
 - name: Master Chief Petty Officer
   status: former
+  revealed_chapter: 97
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 97
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 - type: location
   slug: loguetown
   status: former
+  revealed_chapter: 97
 origin:
   region: East Blue
 residences:
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 - type: location
   slug: loguetown
   status: former
+  revealed_chapter: 97
 birthday:
   month: 10
   day: 6

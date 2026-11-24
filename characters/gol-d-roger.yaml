@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 1
@@ -15,20 +16,25 @@ epithets:
 - en: Pirate King
   ja: 海賊王
   romaji: Kaizoku-Ō
+  revealed_chapter: 1
 aliases:
 - en: Gold Roger
   ja: ゴールド・ロジャー
   romaji: Gōrudo Rojā
+  revealed_chapter: 1
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1
 affiliations:
 - type: crew
   slug: roger-pirates
   status: current
+  revealed_chapter: 434
 origin:
   location: loguetown
   region: East Blue
+  revealed_chapter: 96
 birthday:
   month: 12
   day: 31
