@@ -24,6 +24,7 @@ aliases:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 593
 - name: Officer Agent
   status: former
   revealed_chapter: 117
@@ -38,12 +39,15 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 593
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 803
 - type: crew
   slug: buggy-and-alvida-alliance
   status: former
+  revealed_chapter: 593
 - type: organization
   slug: baroque-works
   status: former
