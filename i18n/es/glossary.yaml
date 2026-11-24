@@ -271,6 +271,9 @@ devil_fruits:
   Bijo-Bijo Fruit: Fruta Bijo Bijo
   Bind-Bind Fruit: Fruta Ori Ori
   'Bird-Bird Fruit, Model: Albatross': Fruta Tori Tori, modelo Albatros
+  'Bird-Bird Fruit, Model: Eagle': Fruta Tori Tori, modelo Águila
+  'Bird-Bird Fruit, Model: Falcon': Fruta Tori Tori, modelo Halcón
+  'Bird-Bird Fruit, Model: Phoenix': Fruta Tori Tori, modelo Fénix
   Bis-Bis Fruit: Fruta Bisu Bisu
   Bomb-Bomb Fruit: Fruta Bomu Bomu
   Book-Book Fruit: Fruta Buku Buku
@@ -282,8 +285,8 @@ devil_fruits:
   Butter-Butter Fruit: Fruta Bata Bata
   Calm-Calm Fruit: Fruta Nagi Nagi
   Castle-Castle Fruit: Fruta Shiro Shiro
-  Cat-Cat Fruit Leopard Model: Fruta Neko Neko, modelo Leopardo
-  Cat-Cat Fruit, Saber-Toothed Tiger Model: Fruta Neko Neko, modelo Tigre Dientes de Sable
+  'Cat-Cat Fruit, Model: Leopard': Fruta Neko Neko, modelo Leopardo
+  'Cat-Cat Fruit, Model: Saber-Toothed Tiger': Fruta Neko Neko, modelo Tigre Dientes de Sable
   Chain-Chain Fruit: Fruta Jara Jara
   Chop-Chop Fruit: Fruta Bara Bara
   Chuni Chuni no Mi: Fruta Chuni Chuni
@@ -297,23 +300,24 @@ devil_fruits:
   Dark-Dark Fruit: Fruta Yami Yami
   Deri Deri no Mi: Fruta Deri Deri
   Dice-Dice Fruit: Fruta Supa Supa
-  Dog-Dog Fruit, Model Tanuki: Fruta Inu Inu, modelo Tanuki
   'Dog-Dog Fruit, Model: Hound': Fruta Inu Inu, modelo Sabueso
   'Dog-Dog Fruit, Model: Jackal': Fruta Inu Inu, modelo Chacal
   'Dog-Dog Fruit, Model: Nine Tailed Fox': Fruta Inu Inu, modelo Kyubi no Kitsune
   'Dog-Dog Fruit, Model: Okuchi-no-Makami': Fruta Inu Inu, modelo Okuchi no Makami
+  'Dog-Dog Fruit, Model: Tanuki': Fruta Inu Inu, modelo Tanuki
+  'Dog-Dog Fruit, Model: Wolf': Fruta Inu Inu, modelo Lobo
   Door-Door Fruit: Fruta Doa Doa
-  Dragon-Dragon Fruit, Allosaurus Model: Fruta Ryu Ryu, modelo Alosaurio
+  'Dragon-Dragon Fruit, Model: Allosaurus': Fruta Ryu Ryu, modelo Alosaurio
   'Dragon-Dragon Fruit, Model: Brachiosaurus': Fruta Ryu Ryu, modelo Braquiosaurio
   'Dragon-Dragon Fruit, Model: Kirin': Fruta Ryu Ryu, modelo Kirin
   'Dragon-Dragon Fruit, Model: Nidhoggr': Fruta Ryu Ryu, modelo Nidhöggr
+  'Dragon-Dragon Fruit, Model: Pachycephalosaurus': Fruta Ryu Ryu, modelo Paquicefalosaurio
+  'Dragon-Dragon Fruit, Model: Pteranodon': Fruta Ryu Ryu, modelo Pteranodon
   'Dragon-Dragon Fruit, Model: Spinosaurus': Fruta Ryu Ryu, modelo Espinosaurio
-  Dragon-Dragon Fruit, Pachycephalosaurus Model: Fruta Ryu Ryu, modelo Paquicefalosaurio
-  Dragon-Dragon Fruit, Pteranodon Model: Fruta Ryu Ryu, modelo Pteranodon
-  Dragon-Dragon Fruit, Triceratops Model: Fruta Ryu Ryu, modelo Triceratops
+  'Dragon-Dragon Fruit, Model: Triceratops': Fruta Ryu Ryu, modelo Triceratops
   Egg-Egg Fruit: Fruta Tama Tama
   Eleph-Eleph Fruit: Fruta Zou Zou
-  Eleph-Eleph Fruit Ancient Zoan Model Mammoth: Fruta Zou Zou, modelo Mamut
+  'Eleph-Eleph Fruit, Model: Mammoth': Fruta Zou Zou, modelo Mamut
   'Fish-Fish Fruit, Model: Azure Dragon': Fruta Uo Uo, modelo Seiryu
   Flame-Flame Fruit: Fruta Mera Mera
   Float-Float Fruit: Fruta Fuwa Fuwa
@@ -338,13 +342,13 @@ devil_fruits:
   Hore Hore no Mi: Fruta Hore Hore
   Horm-Horm Fruit: Fruta Horu Horu
   Horse-Horse Fruit: Fruta Uma Uma
-  Horse-Horse Fruit, Model Pegasus: Fruta Uma Uma, modelo Pegaso
+  'Horse-Horse Fruit, Model: Pegasus': Fruta Uma Uma, modelo Pegaso
   Hot-Hot Fruit: Fruta Atsu Atsu
   Huge-Huge Fruit: Fruta Deka Deka
   Human-Human Fruit: Fruta Hito Hito
-  Human-Human Fruit Model Onyudo: Fruta Hito Hito, modelo Onyudo
   'Human-Human Fruit, Model: Buddha': Fruta Hito Hito, modelo Daibutsu
   'Human-Human Fruit, Model: Nika': Fruta Hito Hito, modelo Nika
+  'Human-Human Fruit, Model: Onyudo': Fruta Hito Hito, modelo Onyudo
   Ice-Ice Fruit: Fruta Hie Hie
   Iku Iku no Mi: Fruta Iku Iku
   'Inu Inu no Mi, Model: Bake-danuki': Fruta Inu Inu, modelo Bake-danuki
@@ -376,8 +380,7 @@ devil_fruits:
   More-More Fruit: Fruta Moa Moa
   Mosa Mosa no Mi: Fruta Mosa Mosa
   Munch-Munch Fruit: Fruta Baku Baku
-  Mutt-Mutt Fruit Wolf Model (VIZ), Dog-Dog Fruit Model Wolf: Fruta Inu Inu, modelo Lobo
-  Mutt-Mutt Fruit, Dachshund Type: Fruta Inu Inu, modelo Dachshund
+  'Mutt-Mutt Fruit, Model: Dachshund': Fruta Inu Inu, modelo Dachshund
   Nemu Nemu no Mi: Fruta Nemu Nemu
   Nepa Nepa no Mi: Fruta Nepa Nepa
   Net-Net Fruit: Fruta Ami Ami
@@ -405,7 +408,7 @@ devil_fruits:
   Revive-Revive Fruit: Fruta Yomi Yomi
   Ride-Ride Fruit: Fruta Nori Nori
   Ripe-Ripe Enticement Jutsu: Fruta Juku Juku
-  Ripple-Ripple Fruit (VIZ Media, Funimation subs, Funimation dub (main series)): Fruta Hira Hira
+  Ripple-Ripple Fruit: Fruta Hira Hira
   Roll-Roll Fruit: Fruta Koro Koro
   Rumble-Rumble Fruit: Fruta Goro Goro
   Rust-Rust Fruit: Fruta Sabi Sabi
@@ -422,19 +425,19 @@ devil_fruits:
   Slow-Slow Fruit: Fruta Noro Noro
   Smelt-Smelt Fruit: Fruta Gutsu Gutsu
   Smoke-Smoke Fruit: Fruta Moku Moku
-  Snake-Snake Fruit Anaconda Model: Fruta Hebi Hebi, modelo Anaconda
-  Snake-Snake Fruit King Cobra Model: Fruta Hebi Hebi, modelo Cobra Real
+  'Snake-Snake Fruit, Model: Anaconda': Fruta Hebi Hebi, modelo Anaconda
+  'Snake-Snake Fruit, Model: King Cobra': Fruta Hebi Hebi, modelo Cobra Real
   'Snake-Snake Fruit, Model: Yamata-no-Orochi': Fruta Hebi Hebi, modelo Yamata no Orochi
   Snip-Snip Fruit: Fruta Choki Choki
   Snow-Snow Fruit: Fruta Yuki Yuki
   Soot-Soot Fruit: Fruta Susu Susu
   Soul-Soul Fruit: Fruta Soru Soru
-  Spider-Spider Fruit, Rosamygale Grauvogeli Model: Fruta Kumo Kumo, modelo Rosamygale Grauvogeli
+  'Spider-Spider Fruit, Model: Rosamygale Grauvogeli': Fruta Kumo Kumo, modelo Rosamygale Grauvogeli
   Spike-Spike Fruit: Fruta Toge Toge
   Spin-Spin Fruit: Fruta Guru Guru
   Spring-Spring Fruit: Fruta Bane Bane
   'Squirrel-Squirrel Fruit, Model: Ice Squirrel Ratatoskr': Fruta Risu Risu, modelo Ratatoskr
-  Stick-Stick Fruit (VIZ, Funimation: Fruta Beta Beta
+  Stick-Stick Fruit: Fruta Beta Beta
   Stitch-Stitch Power: Fruta Nui Nui
   Stone-Stone Fruit: Fruta Ishi Ishi
   Straw-Straw Fruit: Fruta Wara Wara
@@ -448,12 +451,9 @@ devil_fruits:
   Time-Time Ability: Fruta Toki Toki
   Ton-Ton Fruit: Fruta Ton Ton
   Tone-Tone Fruit: Fruta Oto Oto
-  Tori Tori Fruit Model Eagle: Fruta Tori Tori, modelo Águila
   'Tori Tori no Mi, Model: Nue': Fruta Tori Tori, modelo Nue
-  Tremor-Tremor Fruit or Quake-Quake Fruit: Fruta Gura Gura
+  Tremor-Tremor Fruit: Fruta Gura Gura
   Turtle-Turtle Fruit: Fruta Kame Kame
-  Tweet-Tweet Fruit: Fruta Tori Tori, modelo Halcón
-  Tweet-Tweet Fruit, Phoenix Model: Fruta Tori Tori, modelo Fénix
   Twinkle-Twinkle Fruit: Fruta Kira Kira
   Ute Ute no Mi: Fruta Ute Ute
   Venom-Venom Fruit: Fruta Doku Doku
