@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 14
 first_appearance:
   chapter: 14
   episode: 8
@@ -18,6 +19,7 @@ affiliations:
 - type: location
   slug: orange-town
   status: current
+  revealed_chapter: 619
 origin:
   location: orange-town
   region: East Blue
@@ -25,6 +27,7 @@ residences:
 - type: location
   slug: orange-town
   status: current
+  revealed_chapter: 619
 birthday:
   month: 5
   day: 11

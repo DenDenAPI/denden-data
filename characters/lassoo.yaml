@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 160
 first_appearance:
   chapter: 160
   episode: 103
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Pet
   status: current
+  revealed_chapter: 186
 affiliations:
 - type: location
   slug: spiders-cafe
@@ -23,6 +25,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 185
 birthday:
   month: 1
   day: 4

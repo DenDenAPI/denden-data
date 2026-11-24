@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1159
 first_appearance:
   chapter: 1155
 epithets:
@@ -17,8 +18,10 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1155
 - name: Gangster
   status: current
+  revealed_chapter: 1155
 affiliations:
 - type: crew
   slug: rocks-pirates
@@ -29,3 +32,4 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1159

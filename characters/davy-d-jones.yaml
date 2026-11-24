@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: deceased
+status_revealed_chapter: 1163
 first_appearance:
   chapter: 306
   episode: 208
@@ -16,3 +17,4 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 306

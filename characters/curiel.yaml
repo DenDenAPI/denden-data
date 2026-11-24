@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 552
 first_appearance:
   chapter: 552
   episode: 461
 occupations:
 - name: 10th Division Commander
   status: current
+  revealed_chapter: 562
 - name: Pirate
   status: current
 - name: Sniper

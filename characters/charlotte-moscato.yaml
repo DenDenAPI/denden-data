@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 829
 first_appearance:
   chapter: 829
   episode: 788
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Minister of Gelato
   status: current
+  revealed_chapter: 829
 affiliations:
 - type: organization
   slug: charlotte-family

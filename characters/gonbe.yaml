@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 322
 first_appearance:
   chapter: 322
   episode: 229
@@ -18,6 +19,7 @@ residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 338
 birthday:
   month: 2
   day: 8

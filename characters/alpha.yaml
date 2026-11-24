@@ -8,18 +8,22 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1100
 first_appearance:
   chapter: 1100
   episode: 1134
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 1100
 - name: Nurse
   status: current
+  revealed_chapter: 1100
 affiliations:
 - type: organization
   slug: cp8
   status: current
+  revealed_chapter: 1100
 ages:
 - years: 27
   period: other

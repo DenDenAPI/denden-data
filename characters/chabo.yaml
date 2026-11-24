@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
@@ -21,6 +22,7 @@ residences:
 - type: location
   slug: gosa-village
   status: former
+  revealed_chapter: 70
 - type: location
   slug: cocoyasi-village
   status: current

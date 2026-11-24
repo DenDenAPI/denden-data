@@ -16,10 +16,12 @@ occupations:
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 584
 affiliations:
 - type: crew
   slug: bluejam-pirates
   status: current
+  revealed_chapter: 584
 origin:
   location: goa-kingdom
   region: East Blue

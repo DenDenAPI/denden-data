@@ -7,19 +7,23 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1061
 first_appearance:
   chapter: 1061
   episode: 1090
 occupations:
 - name: Commander
   status: current
+  revealed_chapter: 1061
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1087
 - type: organization
   slug: sword
   status: current
+  revealed_chapter: 1061
 origin:
   region: North Blue
 birthday:

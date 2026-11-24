@@ -5,6 +5,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 981
 first_appearance:
   chapter: 981
   episode: 987
@@ -12,6 +13,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 981
 origin:
   location: punk-hazard
   region: Grand Line

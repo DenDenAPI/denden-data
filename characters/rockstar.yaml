@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 234
 first_appearance:
   chapter: 234
   episode: 151
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 234
 affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 234
 birthday:
   month: 6
   day: 9

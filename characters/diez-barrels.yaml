@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 767
 first_appearance:
   chapter: 765
   episode: 704
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 765
 - name: Captain
   status: current
 - name: Marine Officer
@@ -22,6 +24,7 @@ affiliations:
 - type: crew
   slug: barrels-pirates
   status: current
+  revealed_chapter: 767
 - type: organization
   slug: marines
   status: former
@@ -29,3 +32,4 @@ residences:
 - type: location
   slug: minion-island
   status: current
+  revealed_chapter: 766

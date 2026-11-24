@@ -20,9 +20,11 @@ affiliations:
 - type: crew
   slug: a-o-pirates
   status: current
+  revealed_chapter: 802
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 802
 birthday:
   month: 1
   day: 15

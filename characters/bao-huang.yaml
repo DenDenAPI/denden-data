@@ -8,17 +8,21 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 979
 first_appearance:
   chapter: 979
   episode: 985
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 979
 - name: Mary
   status: current
+  revealed_chapter: 1016
 - name: Scheduler
   status: current
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 1014

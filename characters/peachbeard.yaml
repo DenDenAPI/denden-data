@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 904
 first_appearance:
   chapter: 904
   episode: 880
@@ -16,15 +17,18 @@ occupations:
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 904
 - name: Blackbeard's subordinate
   status: current
 affiliations:
 - type: crew
   slug: peachbeard-pirates
   status: current
+  revealed_chapter: 904
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 904
 birthday:
   month: 3
   day: 27

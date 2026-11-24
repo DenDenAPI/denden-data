@@ -12,6 +12,7 @@ first_appearance:
 occupations:
 - name: General Zombie
   status: current
+  revealed_chapter: 452
 - name: Commander of the Spider Mice
   status: current
 affiliations:

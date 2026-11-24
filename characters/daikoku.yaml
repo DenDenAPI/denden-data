@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 931
 first_appearance:
   chapter: 931
   episode: 925
@@ -22,6 +23,7 @@ affiliations:
 - type: organization
   slug: orochi-oniwabanshu
   status: current
+  revealed_chapter: 933
 - type: organization
   slug: kurozumi-family
   status: current

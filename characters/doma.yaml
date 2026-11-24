@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 551
 first_appearance:
   chapter: 551
   episode: 460
@@ -15,15 +16,18 @@ epithets:
 - en: Bohemian Knight
   ja: 遊騎士
   romaji: Yū Kishi
+  revealed_chapter: 551
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 551
 - name: Captain
   status: current
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 552
 birthday:
   month: 2
   day: 1

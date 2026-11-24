@@ -8,6 +8,7 @@ gender: female
 species:
 - hybrid
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 830
@@ -18,9 +19,11 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 892
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 892
 origin:
   location: totto-land
   region: Grand Line

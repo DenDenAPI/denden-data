@@ -7,6 +7,7 @@ canon: manga
 species:
 - animal
 status: alive
+status_revealed_chapter: 516
 first_appearance:
   chapter: 516
   episode: 409
@@ -15,6 +16,7 @@ occupations:
   status: current
 - name: Pet
   status: current
+  revealed_chapter: 575
 affiliations:
 - type: crew
   slug: kuja-pirates

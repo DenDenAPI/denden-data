@@ -8,6 +8,7 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 616
 first_appearance:
   chapter: 616
   episode: 534
@@ -25,6 +26,7 @@ residences:
 - type: location
   slug: sea-forest
   status: current
+  revealed_chapter: 619
 birthday:
   month: 10
   day: 10

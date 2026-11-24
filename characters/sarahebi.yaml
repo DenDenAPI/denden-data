@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 919
 first_appearance:
   chapter: 919
   episode: 909
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Teacher
   status: former
+  revealed_chapter: 1052
 affiliations:
 - type: crew
   slug: beasts-pirates

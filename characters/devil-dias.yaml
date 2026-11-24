@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 497
 - name: Captain
   status: former
 - name: Slave
@@ -28,3 +29,4 @@ birthday:
 bounties:
 - amount: 60000000
   status: former
+  revealed_chapter: 497
