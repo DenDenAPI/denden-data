@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Master of the Seducing Woods
   status: current
+  revealed_chapter: 836
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 846
 - type: organization
   slug: charlotte-family
   status: current

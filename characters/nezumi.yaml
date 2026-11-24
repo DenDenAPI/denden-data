@@ -8,27 +8,32 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
 occupations:
 - name: Marine Captain
   status: current
+  revealed_chapter: 69
 - name: Marine Commander
   status: former
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 76
 - type: location
   slug: 16th-branch
   status: current
+  revealed_chapter: 94
 origin:
   region: East Blue
 residences:
 - type: location
   slug: 16th-branch
   status: current
+  revealed_chapter: 94
 birthday:
   month: 12
   day: 12

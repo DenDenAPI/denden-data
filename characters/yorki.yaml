@@ -15,11 +15,14 @@ epithets:
 - en: '"Calico" Yorki'
   ja: キャラコのヨーキ
   romaji: Kyarako no Yōki
+  revealed_chapter: 487
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 487
 - name: Captain
   status: current
+  revealed_chapter: 486
 affiliations:
 - type: crew
   slug: rumbar-pirates

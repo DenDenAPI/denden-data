@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 553
 first_appearance:
   chapter: 553
   episode: 462
@@ -18,10 +19,12 @@ epithets:
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 717
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 734
 origin:
   region: Grand Line
 birthday:

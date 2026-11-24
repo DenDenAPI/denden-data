@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 396
 first_appearance:
   chapter: 392
   episode: 275
 occupations:
 - name: Archaeologist
   status: current
+  revealed_chapter: 392
 origin:
   location: ohara
   region: West Blue

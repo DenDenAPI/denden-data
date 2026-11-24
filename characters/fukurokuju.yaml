@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Ninja
   status: current
+  revealed_chapter: 932
 - name: Captain of the Orochi Oniwabanshu
   status: former
 affiliations:
@@ -25,6 +26,7 @@ affiliations:
 - type: organization
   slug: orochi-oniwabanshu
   status: former
+  revealed_chapter: 932
 - type: organization
   slug: kouzuki-family
   status: former
@@ -35,6 +37,7 @@ residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 951
 - type: location
   slug: wano-country
   status: current

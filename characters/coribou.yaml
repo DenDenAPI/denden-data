@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 600
 first_appearance:
   chapter: 600
   episode: 519
@@ -18,12 +19,14 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 600
 - name: Captain
   status: current
 affiliations:
 - type: crew
   slug: caribou-pirates
   status: current
+  revealed_chapter: 605
 - type: crew
   slug: fake-straw-hat-crew
   status: former

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 1098
 first_appearance:
   chapter: 1095
   episode: 1129
@@ -16,13 +17,16 @@ occupations:
   status: current
 - name: Slave
   status: former
+  revealed_chapter: 1095
 affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 1097
 - type: organization
   slug: freedom-fighters
   status: former
+  revealed_chapter: 1097
 origin:
   location: porco-kingdom
   region: Grand Line
@@ -30,6 +34,7 @@ residences:
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 1098
 birthday:
   month: 10
   day: 21

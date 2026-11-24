@@ -8,12 +8,14 @@ gender: female
 species:
 - giant
 status: alive
+status_revealed_chapter: 1134
 first_appearance:
   chapter: 1134
   episode: 1164
 occupations:
 - name: Student
   status: current
+  revealed_chapter: 1174
 - name: Class President
   status: current
 affiliations:
@@ -24,6 +26,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1148
 ages:
 - years: 27
   period: other

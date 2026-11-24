@@ -15,6 +15,7 @@ epithets:
 - en: The Missionary
   ja: 宣教師
   romaji: Senkyōshi
+  revealed_chapter: 705
 occupations:
 - name: Staff Officer
   status: current
@@ -22,6 +23,7 @@ affiliations:
 - type: crew
   slug: barto-club
   status: current
+  revealed_chapter: 705
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

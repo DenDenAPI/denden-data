@@ -8,12 +8,14 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 899
 first_appearance:
   chapter: 899
   episode: 836
 occupations:
 - name: Cook
   status: current
+  revealed_chapter: 899
 - name: Pirate
   status: current
 - name: Mercenary
@@ -22,9 +24,11 @@ affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
   status: current
+  revealed_chapter: 899
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 899
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
@@ -34,6 +38,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 899
 birthday:
   month: 5
   day: 11

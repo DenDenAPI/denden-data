@@ -13,13 +13,16 @@ first_appearance:
 occupations:
 - name: Pirate Guru
   status: current
+  revealed_chapter: 1155
 - name: Admiral of Pirate Island
   status: former
 affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1155
 residences:
 - type: location
   slug: hachinosu
   status: former
+  revealed_chapter: 1160

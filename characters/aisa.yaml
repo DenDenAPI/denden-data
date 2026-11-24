@@ -8,6 +8,7 @@ gender: female
 species:
 - shandia
 status: alive
+status_revealed_chapter: 249
 first_appearance:
   chapter: 249
   episode: 161
@@ -15,9 +16,11 @@ affiliations:
 - type: location
   slug: wagomuland
   status: current
+  revealed_chapter: 646
 origin:
   location: skypiea
   region: Sky Island
+  revealed_chapter: 277
 birthday:
   month: 1
   day: 3

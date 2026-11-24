@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 551
 first_appearance:
   chapter: 551
   episode: 460
@@ -15,6 +16,7 @@ epithets:
 - en: Maelstrom Spider
   ja: 大渦蜘蛛
   romaji: Ō Uzu Gumo
+  revealed_chapter: 562
 occupations:
 - name: Pirate Captain
   status: current
@@ -25,6 +27,7 @@ affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 562
 origin:
   region: Grand Line
 birthday:

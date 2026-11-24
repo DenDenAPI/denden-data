@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: deceased
+status_revealed_chapter: 1153
 first_appearance:
   chapter: 1153
 occupations:
@@ -17,6 +18,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1167
 - type: location
   slug: sun-world
   status: former

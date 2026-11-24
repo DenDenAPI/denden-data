@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -20,6 +21,7 @@ affiliations:
 - type: crew
   slug: happo-navy
   status: current
+  revealed_chapter: 715
 - type: organization
   slug: chinjao-family
   status: current
@@ -30,6 +32,7 @@ residences:
 - type: location
   slug: kano-country
   status: current
+  revealed_chapter: 823
 birthday:
   month: 8
   day: 20

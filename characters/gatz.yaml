@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 702
 first_appearance:
   chapter: 702
   episode: 631
 occupations:
 - name: Announcer
   status: current
+  revealed_chapter: 709
 affiliations:
 - type: location
   slug: corrida-colosseum
   status: current
+  revealed_chapter: 744
 birthday:
   month: 8
   day: 26

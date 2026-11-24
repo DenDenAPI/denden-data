@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 891
 first_appearance:
   chapter: 891
   episode: 865
@@ -24,6 +25,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 891
 - type: crew
   slug: big-mom-pirates
   status: current

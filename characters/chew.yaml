@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
@@ -16,10 +17,12 @@ occupations:
   status: current
 - name: Sniper
   status: current
+  revealed_chapter: 87
 affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 83
 - type: crew
   slug: sun-pirates
   status: former
@@ -33,6 +36,7 @@ residences:
 - type: location
   slug: arlong-park
   status: former
+  revealed_chapter: 81
 birthday:
   month: 5
   day: 23

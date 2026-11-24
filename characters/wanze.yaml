@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 367
 first_appearance:
   chapter: 367
   episode: 257
@@ -20,6 +21,7 @@ occupations:
   status: current
 - name: Chef
   status: current
+  revealed_chapter: 372
 affiliations:
 - type: organization
   slug: cipher-pol

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 226
 first_appearance:
   chapter: 226
   episode: 147
@@ -20,16 +21,19 @@ occupations:
   status: current
 - name: Big Boss
   status: current
+  revealed_chapter: 226
 affiliations:
 - type: crew
   slug: saruyama-alliance
   status: current
+  revealed_chapter: 231
 origin:
   region: South Blue
 residences:
 - type: location
   slug: jaya
   status: current
+  revealed_chapter: 303
 birthday:
   month: 5
   day: 8

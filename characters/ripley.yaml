@@ -8,22 +8,27 @@ gender: female
 species:
 - giant
 status: alive
+status_revealed_chapter: 1134
 first_appearance:
   chapter: 1134
   episode: 1164
 occupations:
 - name: Warrior
   status: current
+  revealed_chapter: 1134
 - name: Biology Teacher
   status: current
+  revealed_chapter: 1134
 affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1135
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1134
 ages:
 - years: 80
   period: other

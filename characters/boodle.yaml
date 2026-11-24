@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 12
 first_appearance:
   chapter: 12
   episode: 6
 occupations:
 - name: Mayor
   status: current
+  revealed_chapter: 12
 origin:
   location: organ-islands
   region: East Blue
@@ -21,6 +23,7 @@ residences:
 - type: location
   slug: orange-town
   status: current
+  revealed_chapter: 21
 birthday:
   month: 1
   day: 16

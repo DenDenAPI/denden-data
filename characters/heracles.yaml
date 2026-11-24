@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 524
 first_appearance:
   chapter: 524
   episode: 420
@@ -24,6 +25,7 @@ residences:
 - type: location
   slug: boin-archipelago
   status: current
+  revealed_chapter: 524
 birthday:
   month: 5
   day: 10

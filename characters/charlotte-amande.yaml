@@ -8,6 +8,7 @@ gender: female
 species:
 - hybrid
 status: alive
+status_revealed_chapter: 827
 first_appearance:
   chapter: 827
   episode: 786
@@ -20,13 +21,16 @@ occupations:
   status: current
 - name: Minister of Nuts
   status: current
+  revealed_chapter: 877
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 885
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 846
 residences:
 - type: location
   slug: nuts-island

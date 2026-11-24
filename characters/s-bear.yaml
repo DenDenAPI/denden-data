@@ -8,6 +8,7 @@ gender: male
 species:
 - lunarian
 status: alive
+status_revealed_chapter: 1062
 first_appearance:
   chapter: 1062
   episode: 1092

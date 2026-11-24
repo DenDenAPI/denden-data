@@ -8,6 +8,7 @@ gender: male
 species:
 - sea_king
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 4

@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 4
 occupations:
 - name: Mayor
   status: current
+  revealed_chapter: 1
 affiliations:
 - type: location
   slug: foosha-village
   status: current
+  revealed_chapter: 614
 origin:
   location: goa-kingdom
   region: East Blue
@@ -25,6 +28,7 @@ residences:
 - type: location
   slug: foosha-village
   status: current
+  revealed_chapter: 614
 birthday:
   month: 2
   day: 28

@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 915
 first_appearance:
   chapter: 915
   episode: 901
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 915
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 915
 origin:
   location: wano-country
   region: Grand Line
@@ -25,9 +28,11 @@ residences:
 - type: location
   slug: kuri
   status: current
+  revealed_chapter: 917
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 916
 birthday:
   month: 8
   day: 21

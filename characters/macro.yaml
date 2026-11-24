@@ -8,23 +8,29 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 197
 first_appearance:
   chapter: 197
   episode: 386
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 197
 - name: Captain
   status: current
+  revealed_chapter: 620
 - name: Slave trader
   status: current
+  revealed_chapter: 621
 affiliations:
 - type: crew
   slug: macro-pirates
   status: current
+  revealed_chapter: 210
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 624
 origin:
   location: ryugu-kingdom
   region: Grand Line
