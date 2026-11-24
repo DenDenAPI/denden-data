@@ -6,6 +6,7 @@ canon: manga
 species:
 - animal
 status: alive
+status_revealed_chapter: 910
 first_appearance:
   chapter: 910
   episode: 892

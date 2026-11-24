@@ -8,12 +8,14 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 9
 first_appearance:
   chapter: 9
   episode: 6
 occupations:
 - name: Pet
   status: current
+  revealed_chapter: 12
 - name: Pirate Captain
   status: former
 affiliations:
@@ -29,6 +31,7 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 58
 residences:
 - type: location
   slug: karai-bari-island

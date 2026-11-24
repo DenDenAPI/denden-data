@@ -18,6 +18,7 @@ epithets:
 occupations:
 - name: First Mate
   status: former
+  revealed_chapter: 223
 affiliations:
 - type: crew
   slug: bellamy-pirates

@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 604
 first_appearance:
   chapter: 604
   episode: 524
@@ -20,6 +21,7 @@ affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: former
+  revealed_chapter: 631
 origin:
   region: North Blue
 birthday:

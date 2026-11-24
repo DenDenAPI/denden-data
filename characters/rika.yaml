@@ -8,22 +8,26 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 3
 first_appearance:
   chapter: 3
   episode: 2
 occupations:
 - name: Waitress
   status: current
+  revealed_chapter: 616
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 118
 origin:
   region: East Blue
 residences:
 - type: location
   slug: shells-town
   status: current
+  revealed_chapter: 118
 birthday:
   month: 6
   day: 18

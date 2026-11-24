@@ -7,12 +7,14 @@ canon: manga
 species:
 - animal
 status: deceased
+status_revealed_chapter: 676
 first_appearance:
   chapter: 668
   episode: 594
 occupations:
 - name: Pet
   status: current
+  revealed_chapter: 673
 - name: Bio-Chemical weapon of mass destruction
   status: current
 birthday:

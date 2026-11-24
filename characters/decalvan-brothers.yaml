@@ -8,14 +8,17 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 551
 first_appearance:
   chapter: 551
   episode: 460
 occupations:
 - name: Pirates
   status: current
+  revealed_chapter: 551
 - name: Captains
   status: current
+  revealed_chapter: 551
 affiliations:
 - type: crew
   slug: whitebeard-pirates

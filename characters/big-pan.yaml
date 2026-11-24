@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 309
 first_appearance:
   chapter: 309
   episode: 210
@@ -22,9 +23,11 @@ affiliations:
 - type: crew
   slug: foxy-pirates
   status: former
+  revealed_chapter: 312
 - type: crew
   slug: foxy-pirates
   status: current
+  revealed_chapter: 312
 birthday:
   month: 5
   day: 25

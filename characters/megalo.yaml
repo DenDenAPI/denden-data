@@ -8,12 +8,14 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 605
 first_appearance:
   chapter: 605
   episode: 525
 occupations:
 - name: Shirahoshi's pet
   status: current
+  revealed_chapter: 612
 affiliations:
 - type: location
   slug: ryugu-kingdom

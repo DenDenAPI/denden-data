@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 219
 first_appearance:
   chapter: 219
   episode: 144
@@ -18,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 304
 - name: Boss
   status: current
 affiliations:
@@ -30,6 +32,7 @@ residences:
 - type: location
   slug: jaya
   status: current
+  revealed_chapter: 222
 birthday:
   month: 3
   day: 4
@@ -45,3 +48,4 @@ heights:
 bounties:
 - amount: 23000000
   status: current
+  revealed_chapter: 219

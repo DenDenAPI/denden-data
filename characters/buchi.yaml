@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 31
 first_appearance:
   chapter: 31
   episode: 13
@@ -15,6 +16,7 @@ epithets:
 - en: Nyaban Brothers
   ja: ニャーバン兄弟
   romaji: Nyāban Burazāzu
+  revealed_chapter: 31
 occupations:
 - name: Pirate Officer
   status: current

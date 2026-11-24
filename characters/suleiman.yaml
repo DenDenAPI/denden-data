@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -18,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 868
 - name: War Criminal
   status: current
 - name: Mercenary
@@ -29,6 +31,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 868
 origin:
   region: South Blue
 birthday:

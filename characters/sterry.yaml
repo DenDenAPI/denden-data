@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 586
 first_appearance:
   chapter: 586
   episode: 500
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Noble
   status: former
+  revealed_chapter: 905
 origin:
   location: dawn-island
   region: East Blue
@@ -23,6 +25,7 @@ residences:
 - type: location
   slug: goa-kingdom
   status: current
+  revealed_chapter: 823
 birthday:
   month: 3
   day: 12

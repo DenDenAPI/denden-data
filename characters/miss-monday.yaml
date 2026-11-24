@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 107
 first_appearance:
   chapter: 107
   episode: 64
@@ -22,6 +23,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 111
 origin:
   region: Grand Line
 birthday:

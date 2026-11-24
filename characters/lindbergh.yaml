@@ -8,6 +8,7 @@ gender: male
 species:
 - mink
 status: alive
+status_revealed_chapter: 904
 first_appearance:
   chapter: 904
   episode: 880
@@ -18,6 +19,7 @@ affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 1082
 residences:
 - type: location
   slug: baltigo
@@ -25,6 +27,7 @@ residences:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 1082
 birthday:
   month: 5
   day: 21

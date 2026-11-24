@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 705
 first_appearance:
   chapter: 705
   episode: 634
@@ -19,13 +20,16 @@ aliases:
 - en: Capman
   ja: キャップマン
   romaji: Kyappuman
+  revealed_chapter: 705
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 705
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 717
 birthday:
   month: 5
   day: 7

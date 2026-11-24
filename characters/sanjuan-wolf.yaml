@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 575
 first_appearance:
   chapter: 575
   episode: 484
@@ -15,6 +16,7 @@ epithets:
 - en: Colossal Battleship
   ja: 巨大戦艦
   romaji: Kyodai Senkan
+  revealed_chapter: 575
 occupations:
 - name: Titanic Captain
   status: current
@@ -24,6 +26,7 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 1087
 - type: location
   slug: impel-down
   status: former
@@ -33,6 +36,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1087
 birthday:
   month: 3
   day: 2

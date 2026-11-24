@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 324
 first_appearance:
   chapter: 324
   episode: 230
@@ -20,9 +21,11 @@ affiliations:
 - type: organization
   slug: galley-la-company
   status: current
+  revealed_chapter: 391
 - type: organization
   slug: franky-family
   status: former
+  revealed_chapter: 330
 origin:
   region: Grand Line
 residences:

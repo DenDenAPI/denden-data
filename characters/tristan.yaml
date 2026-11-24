@@ -8,6 +8,7 @@ gender: female
 species:
 - mink
 status: alive
+status_revealed_chapter: 795
 first_appearance:
   chapter: 795
   episode: 739
@@ -25,3 +26,4 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 810

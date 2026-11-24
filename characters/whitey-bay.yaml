@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 556
 first_appearance:
   chapter: 556
   episode: 462
@@ -15,6 +16,7 @@ epithets:
 - en: Ice Witch
   ja: 氷の魔女
   romaji: Kōri no Majo
+  revealed_chapter: 556
 occupations:
 - name: Pirate
   status: current
@@ -24,6 +26,7 @@ affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 556
 birthday:
   month: 10
   day: 31

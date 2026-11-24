@@ -8,12 +8,14 @@ gender: male
 species:
 - birkan
 status: alive
+status_revealed_chapter: 523
 first_appearance:
   chapter: 523
   episode: 418
 occupations:
 - name: Scientist
   status: current
+  revealed_chapter: 602
 origin:
   location: birka
   region: Sky Island
@@ -21,6 +23,7 @@ residences:
 - type: location
   slug: weatheria
   status: current
+  revealed_chapter: 592
 birthday:
   month: 10
   day: 14

@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 611
 first_appearance:
   chapter: 611
   episode: 530
@@ -20,6 +21,7 @@ affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 640
 origin:
   location: ryugu-kingdom
   region: Grand Line

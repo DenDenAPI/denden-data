@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 531
 first_appearance:
   chapter: 531
   episode: 432
@@ -15,6 +16,7 @@ affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 531
 origin:
   region: Grand Line
 birthday:

@@ -8,6 +8,7 @@ gender: female
 species:
 - giant
 status: alive
+status_revealed_chapter: 1131
 first_appearance:
   chapter: 1131
   episode: 1161
@@ -16,13 +17,17 @@ occupations:
   status: current
 - name: Librarian
   status: current
+  revealed_chapter: 1134
 - name: Saul's Assistant
   status: current
+  revealed_chapter: 1134
 affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1140
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1134

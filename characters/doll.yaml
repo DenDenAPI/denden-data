@@ -8,23 +8,28 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1061
 first_appearance:
   chapter: 1061
   episode: 1090
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 1061
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1117
 - type: location
   slug: g-14
   status: current
+  revealed_chapter: 1061
 residences:
 - type: location
   slug: g-14
   status: current
+  revealed_chapter: 1061
 marine_rating:
   stars: 5
   minimum: true

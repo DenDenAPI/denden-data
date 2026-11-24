@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 593
 first_appearance:
   chapter: 593
   episode: 510
@@ -17,6 +18,7 @@ affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 1082
 origin:
   region: North Blue
 residences:
@@ -26,6 +28,7 @@ residences:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 1082
 birthday:
   month: 9
   day: 18

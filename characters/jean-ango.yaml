@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 639
@@ -18,8 +19,10 @@ epithets:
 occupations:
 - name: Bounty Hunter
   status: current
+  revealed_chapter: 715
 - name: Sniper
   status: current
+  revealed_chapter: 715
 birthday:
   month: 8
   day: 14

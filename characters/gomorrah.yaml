@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 366
 first_appearance:
   chapter: 366
   episode: 256
@@ -18,6 +19,7 @@ affiliations:
 - type: organization
   slug: franky-family
   status: current
+  revealed_chapter: 383
 residences:
 - type: location
   slug: water-7

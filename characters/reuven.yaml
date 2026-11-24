@@ -8,11 +8,13 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1183
 first_appearance:
   chapter: 1183
 occupations:
 - name: King of Esperia
   status: current
+  revealed_chapter: 1185
 affiliations:
 - type: location
   slug: esperia-kingdom

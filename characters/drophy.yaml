@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 160
 first_appearance:
   chapter: 160
   episode: 103
@@ -28,9 +29,11 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
+  revealed_chapter: 160
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 399
 origin:
   region: Grand Line
 birthday:

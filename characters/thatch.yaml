@@ -8,18 +8,21 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 440
 first_appearance:
   chapter: 440
   episode: 325
 occupations:
 - name: 4th Division Commander
   status: current
+  revealed_chapter: 440
 - name: Cook
   status: current
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 440
 origin:
   region: North Blue
 birthday:

@@ -8,6 +8,7 @@ gender: female
 species:
 - lunarian
 status: alive
+status_revealed_chapter: 1059
 first_appearance:
   chapter: 1059
   episode: 1087
@@ -18,6 +19,7 @@ residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1069
 blood_type: S
 ages:
 - years: 2

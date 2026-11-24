@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 553
 first_appearance:
   chapter: 553
   episode: 461
@@ -15,15 +16,19 @@ epithets:
 - en: Water Buffalo
   ja: 水牛
   romaji: Suigyū
+  revealed_chapter: 556
 occupations:
 - name: 13th Division Commander
   status: current
+  revealed_chapter: 556
 - name: Pirate
   status: current
+  revealed_chapter: 556
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 556
 origin:
   region: West Blue
 birthday:

@@ -22,10 +22,12 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 651
 residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 857
 bounties:
 - amount: 105500000
   status: current

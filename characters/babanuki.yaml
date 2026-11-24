@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 934
 first_appearance:
   chapter: 934
   episode: 930
@@ -19,6 +20,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 948
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

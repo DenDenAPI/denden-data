@@ -8,18 +8,22 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 96
 first_appearance:
   chapter: 96
   episode: 45
 occupations:
 - name: Commodore
   status: current
+  revealed_chapter: 700
 - name: Lieutenant Commander
   status: former
+  revealed_chapter: 96
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 957
 origin:
   region: Grand Line
 birthday:

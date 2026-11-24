@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: deceased
+status_revealed_chapter: 352
 first_appearance:
   chapter: 352
   episode: 248
@@ -18,6 +19,7 @@ affiliations:
 - type: organization
   slug: toms-workers
   status: current
+  revealed_chapter: 353
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -25,9 +27,11 @@ residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 353
 - type: location
   slug: fish-man-island
   status: former
+  revealed_chapter: 616
 birthday:
   month: 3
   day: 16

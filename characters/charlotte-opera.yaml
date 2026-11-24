@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Minister of Whipped Cream
   status: current
+  revealed_chapter: 843
 affiliations:
 - type: organization
   slug: charlotte-family

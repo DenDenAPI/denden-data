@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 829
 first_appearance:
   chapter: 829
   episode: 789
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Minister of Butter
   status: current
+  revealed_chapter: 843
 affiliations:
 - type: organization
   slug: charlotte-family

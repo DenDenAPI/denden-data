@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 54
 first_appearance:
   chapter: 54
   episode: 25
@@ -22,6 +23,7 @@ affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
+  revealed_chapter: 59
 origin:
   region: East Blue
 birthday:
