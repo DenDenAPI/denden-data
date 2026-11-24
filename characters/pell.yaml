@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 155
 first_appearance:
   chapter: 155
   episode: 91
@@ -22,6 +23,7 @@ affiliations:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 1116
 origin:
   region: Grand Line
 birthday:

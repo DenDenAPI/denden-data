@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 195
 first_appearance:
   chapter: 195
   episode: 385
@@ -18,6 +19,7 @@ occupations:
   status: current
 - name: Pet
   status: current
+  revealed_chapter: 491
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -25,6 +27,7 @@ residences:
 - type: location
   slug: gyoverly-hills
   status: current
+  revealed_chapter: 611
 birthday:
   month: 9
   day: 21

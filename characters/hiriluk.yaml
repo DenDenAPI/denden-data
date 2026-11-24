@@ -8,14 +8,17 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 144
 first_appearance:
   chapter: 141
   episode: 85
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 141
 - name: Thief
   status: former
+  revealed_chapter: 143
 origin:
   location: sakura-kingdom
   region: Grand Line
@@ -23,6 +26,7 @@ residences:
 - type: location
   slug: drum-island
   status: current
+  revealed_chapter: 142
 birthday:
   month: 1
   day: 12

@@ -8,12 +8,14 @@ gender: male
 species:
 - longleg
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 636
 occupations:
 - name: Martial Artist
   status: current
+  revealed_chapter: 707
 - name: Pirate
   status: current
 affiliations:

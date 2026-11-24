@@ -7,6 +7,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 234
 first_appearance:
   chapter: 234
   episode: 151
@@ -14,13 +15,16 @@ epithets:
 - en: Great Staff Officer
   ja: 大参謀
   romaji: Dai-Sanbō
+  revealed_chapter: 1080
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 234
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 796
 origin:
   region: North Blue
 birthday:

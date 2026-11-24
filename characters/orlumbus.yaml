@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -26,20 +27,25 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 905
 - name: Admiral
   status: current
+  revealed_chapter: 749
 - name: Adventurer
   status: former
+  revealed_chapter: 904
 affiliations:
 - type: crew
   slug: yonta-maria-grand-fleet
   status: current
+  revealed_chapter: 799
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
 - type: location
   slug: standing-kingdom
   status: current
+  revealed_chapter: 904
 origin:
   region: Grand Line
 birthday:

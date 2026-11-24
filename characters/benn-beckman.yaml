@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1
 first_appearance:
   chapter: 1
   episode: 4
@@ -16,10 +17,12 @@ occupations:
   status: current
 - name: First Mate
   status: current
+  revealed_chapter: 1
 affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 957
 origin:
   region: North Blue
 birthday:

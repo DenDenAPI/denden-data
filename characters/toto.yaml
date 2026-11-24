@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 163
 first_appearance:
   chapter: 163
   episode: 100
@@ -17,6 +18,7 @@ residences:
 - type: location
   slug: yuba
   status: current
+  revealed_chapter: 165
 birthday:
   month: 6
   day: 17

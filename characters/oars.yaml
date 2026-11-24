@@ -9,6 +9,7 @@ species:
 - giant
 - zombie
 status: deceased
+status_revealed_chapter: 477
 first_appearance:
   chapter: 456
   episode: 350
@@ -16,12 +17,14 @@ epithets:
 - en: Devil
   ja: 魔人
   romaji: Majin
+  revealed_chapter: 475
 - en: Continent-Puller
   ja: 国引き
   romaji: Kunihiki
 occupations:
 - name: Special Zombie
   status: current
+  revealed_chapter: 469
 - name: Leader of clan of evil giants
   status: former
 affiliations:

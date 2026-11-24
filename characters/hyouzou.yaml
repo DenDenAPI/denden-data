@@ -8,24 +8,29 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 607
 first_appearance:
   chapter: 607
   episode: 527
 occupations:
 - name: Mercenary
   status: current
+  revealed_chapter: 615
 - name: Pirate
   status: current
 - name: Assassin
   status: current
+  revealed_chapter: 610
 - name: Pirate Officer
   status: current
 - name: Swordsman
   status: current
+  revealed_chapter: 629
 affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 615
 origin:
   location: ryugu-kingdom
   region: Grand Line

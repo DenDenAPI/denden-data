@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 102
 first_appearance:
   chapter: 102
   episode: 62
@@ -15,6 +16,7 @@ affiliations:
 - type: crew
   slug: rumbar-pirates
   status: former
+  revealed_chapter: 488
 origin:
   region: West Blue
 residences:

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 9
 first_appearance:
   chapter: 9
   episode: 7
@@ -22,8 +23,10 @@ occupations:
   status: current
 - name: Acrobat
   status: current
+  revealed_chapter: 16
 - name: Swordsman
   status: current
+  revealed_chapter: 16
 affiliations:
 - type: organization
   slug: cross-guild
@@ -37,6 +40,7 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 15
 origin:
   region: East Blue
 residences:

@@ -18,6 +18,7 @@ epithets:
 occupations:
 - name: Spy
   status: current
+  revealed_chapter: 1073
 - name: Cipher Pol Agent
   status: former
 - name: Empress of the Underworld
@@ -26,6 +27,7 @@ affiliations:
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1072
 birthday:
   month: 4
   day: 24

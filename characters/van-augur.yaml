@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 222
 first_appearance:
   chapter: 222
   episode: 146
@@ -24,6 +25,7 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 1064
 origin:
   region: East Blue
 residences:

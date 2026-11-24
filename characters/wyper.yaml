@@ -8,6 +8,7 @@ gender: male
 species:
 - shandia
 status: alive
+status_revealed_chapter: 237
 first_appearance:
   chapter: 237
   episode: 153
@@ -15,15 +16,18 @@ epithets:
 - en: Berserker
   ja: 戦鬼
   romaji: Senki
+  revealed_chapter: 256
 occupations:
 - name: Shandia Warrior
   status: current
+  revealed_chapter: 249
 - name: God's Guard
   status: current
 affiliations:
 - type: organization
   slug: gods-guards
   status: current
+  revealed_chapter: 648
 origin:
   location: skypiea
   region: Sky Island

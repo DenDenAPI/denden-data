@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 329
 first_appearance:
   chapter: 329
   episode: 233
@@ -18,18 +19,21 @@ epithets:
 occupations:
 - name: Bartenders
   status: current
+  revealed_chapter: 654
 - name: Bounty Hunters
   status: former
 affiliations:
 - type: organization
   slug: franky-family
   status: former
+  revealed_chapter: 390
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 342
 birthday:
   month: 1
   day: 7

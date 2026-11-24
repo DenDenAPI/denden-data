@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -15,13 +16,16 @@ epithets:
 - en: The Fighting King
   ja: 戦う王
   romaji: Tatakau Ō
+  revealed_chapter: 707
 occupations:
 - name: King
   status: current
+  revealed_chapter: 707
 affiliations:
 - type: location
   slug: prodence-kingdom
   status: current
+  revealed_chapter: 823
 origin:
   region: Grand Line
 birthday:

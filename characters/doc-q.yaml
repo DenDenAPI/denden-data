@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 223
 first_appearance:
   chapter: 223
   episode: 146
@@ -20,10 +21,12 @@ occupations:
   status: current
 - name: Doctor
   status: current
+  revealed_chapter: 1063
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 1063
 origin:
   region: North Blue
 residences:

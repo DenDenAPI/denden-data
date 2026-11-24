@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 500
 first_appearance:
   chapter: 500
   episode: 394
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Shipwright
   status: current
+  revealed_chapter: 897
 - name: Mercenary
   status: former
 - name: Slave
@@ -24,18 +26,21 @@ affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
   status: current
+  revealed_chapter: 897
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 897
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1131
 birthday:
   month: 5
   day: 27

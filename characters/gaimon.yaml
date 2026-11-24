@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 22
 first_appearance:
   chapter: 22
   episode: 18
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Pirate
   status: former
+  revealed_chapter: 22
 origin:
   region: East Blue
 residences:

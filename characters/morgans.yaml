@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 828
@@ -15,6 +16,7 @@ epithets:
 - en: Big News
   ja: ビッグニュース
   romaji: Biggu Nyūsu
+  revealed_chapter: 860
 occupations:
 - name: World Economy News Paper President
   status: current
@@ -24,6 +26,7 @@ affiliations:
 - type: organization
   slug: world-economy-news-paper
   status: current
+  revealed_chapter: 956
 origin:
   region: Grand Line
 birthday:

@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 70
 first_appearance:
   chapter: 70
   episode: 31
@@ -20,6 +21,7 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: current
+  revealed_chapter: 71
 - type: location
   slug: oykot-kingdom
   status: former

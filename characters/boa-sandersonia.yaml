@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 516
 first_appearance:
   chapter: 516
   episode: 409
@@ -14,6 +15,7 @@ occupations:
   status: current
 - name: Slave
   status: former
+  revealed_chapter: 521
 affiliations:
 - type: crew
   slug: kuja-pirates

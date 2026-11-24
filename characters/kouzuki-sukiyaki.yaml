@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 911
 first_appearance:
   chapter: 911
   episode: 894
@@ -15,25 +16,30 @@ aliases:
 - en: Tenguyama Hitetsu
   ja: 天狗山飛徹
   romaji: Tenguyama Hitetsu
+  revealed_chapter: 1053
 occupations:
 - name: Swordsmith
   status: current
 - name: Shogun
   status: former
+  revealed_chapter: 920
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 942
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 912
 residences:
 - type: location
   slug: wano-country
   status: former
+  revealed_chapter: 912
 birthday:
   month: 5
   day: 19

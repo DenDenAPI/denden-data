@@ -8,6 +8,7 @@ gender: female
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 610
 first_appearance:
   chapter: 610
   episode: 529
@@ -20,6 +21,7 @@ occupations:
   status: current
 - name: Fortune teller
   status: former
+  revealed_chapter: 610
 origin:
   location: ryugu-kingdom
   region: Grand Line

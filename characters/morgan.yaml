@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 4
 first_appearance:
   chapter: 4
   episode: 2
@@ -18,6 +19,7 @@ epithets:
 occupations:
 - name: Marine Captain
   status: former
+  revealed_chapter: 4
 - name: Marine Lieutenant Commander
   status: former
 - name: Marine Chief Petty Officer
@@ -26,6 +28,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 4
 residences:
 - type: location
   slug: shells-town

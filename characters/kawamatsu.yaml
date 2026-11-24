@@ -7,6 +7,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 920
 first_appearance:
   chapter: 920
   episode: 910
@@ -21,13 +22,16 @@ aliases:
 - en: Gyukimaru
   ja: 牛鬼丸
   romaji: Gyūkimaru
+  revealed_chapter: 952
 occupations:
 - name: Daimyo
   status: current
+  revealed_chapter: 953
 - name: Retainer of the Kouzuki Family
   status: current
 - name: Samurai
   status: current
+  revealed_chapter: 954
 - name: Sumo Wrestler
   status: current
 - name: Highway Robber
@@ -36,9 +40,11 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 948
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 955
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -49,6 +55,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 963
 birthday:
   month: 6
   day: 14

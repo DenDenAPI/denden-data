@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -13,6 +14,7 @@ epithets:
 - en: Mad Monk
   ja: 怪僧
   romaji: Kaisō
+  revealed_chapter: 498
 occupations:
 - name: Pirate Captain
   status: current
@@ -20,8 +22,10 @@ affiliations:
 - type: crew
   slug: fallen-monk-pirates
   status: current
+  revealed_chapter: 498
 origin:
   region: Sky Island
+  revealed_chapter: 793
 residences:
 - type: location
   slug: ballon-terminal

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 812
 first_appearance:
   chapter: 812
   episode: 763
@@ -20,12 +21,14 @@ occupations:
   status: current
 - name: Advisor
   status: current
+  revealed_chapter: 813
 - name: Mafia gangster
   status: former
 affiliations:
 - type: crew
   slug: fire-tank-pirates
   status: current
+  revealed_chapter: 813
 origin:
   region: West Blue
 birthday:

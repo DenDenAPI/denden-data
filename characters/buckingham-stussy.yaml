@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 802
 first_appearance:
   chapter: 802
   episode: 752
@@ -18,15 +19,18 @@ aliases:
 occupations:
 - name: Pirate
   status: former
+  revealed_chapter: 1096
 - name: Scientist
   status: former
 affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1072
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1072
 origin:
   region: Grand Line
 residences:

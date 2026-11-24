@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 682
 first_appearance:
   chapter: 682
   episode: 608
@@ -24,6 +25,7 @@ affiliations:
 - type: crew
   slug: happo-navy
   status: current
+  revealed_chapter: 881
 - type: organization
   slug: chinjao-family
   status: current
@@ -33,6 +35,7 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 762
 origin:
   region: North Blue
 residences:
@@ -45,6 +48,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 695
 - type: location
   slug: kano-country
   status: current

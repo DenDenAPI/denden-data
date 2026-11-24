@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1086
 first_appearance:
   chapter: 625
   episode: 545
 occupations:
 - name: World Noble
   status: current
+  revealed_chapter: 625
 affiliations:
 - type: organization
   slug: world-government
@@ -22,6 +24,7 @@ residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 1086
 birthday:
   month: 12
   day: 13

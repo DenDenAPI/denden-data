@@ -7,27 +7,32 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 420
 first_appearance:
   chapter: 420
   episode: 302
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 427
 - name: Base Commander of G-1
   status: current
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 516
 - type: location
   slug: g-1
   status: current
+  revealed_chapter: 598
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: g-1
   status: current
+  revealed_chapter: 598
 birthday:
   month: 6
   day: 6

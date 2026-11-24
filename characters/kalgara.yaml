@@ -8,6 +8,7 @@ gender: male
 species:
 - shandia
 status: deceased
+status_revealed_chapter: 288
 first_appearance:
   chapter: 286
   episode: 187
@@ -21,9 +22,11 @@ epithets:
 occupations:
 - name: Warrior
   status: current
+  revealed_chapter: 286
 origin:
   location: jaya
   region: Grand Line
+  revealed_chapter: 289
 birthday:
   month: 10
   day: 4

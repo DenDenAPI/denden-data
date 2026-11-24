@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 905
 first_appearance:
   chapter: 905
   episode: 882
@@ -15,15 +16,18 @@ aliases:
 - en: Ryokugyu
   ja: 緑牛
   romaji: Ryokugyū
+  revealed_chapter: 1053
 occupations:
 - name: Admiral
   status: current
+  revealed_chapter: 905
 - name: Police Officer
   status: former
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1053
 origin:
   location: taya-kingdom
   region: South Blue

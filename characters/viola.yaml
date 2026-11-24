@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 703
 first_appearance:
   chapter: 703
   episode: 632
@@ -15,6 +16,7 @@ aliases:
 - en: Violet
   ja: ヴァイオレット
   romaji: Vaioretto
+  revealed_chapter: 728
 occupations:
 - name: Princess of Dressrosa
   status: current
@@ -22,8 +24,10 @@ occupations:
   status: former
 - name: Assassin
   status: former
+  revealed_chapter: 712
 - name: Dancer
   status: current
+  revealed_chapter: 703
 affiliations:
 - type: organization
   slug: riku-family
@@ -31,6 +35,7 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 728
 origin:
   region: Grand Line
 birthday:

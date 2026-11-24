@@ -9,12 +9,14 @@ species:
 - human
 - zombie
 status: deceased
+status_revealed_chapter: 448
 first_appearance:
   chapter: 446
   episode: 340
 occupations:
 - name: Actress
   status: current
+  revealed_chapter: 448
 - name: Soldier Zombie
   status: current
 affiliations:

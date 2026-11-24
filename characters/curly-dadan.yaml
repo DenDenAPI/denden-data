@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 440
 first_appearance:
   chapter: 440
   episode: 324
@@ -20,6 +21,7 @@ affiliations:
 - type: organization
   slug: dadan-family
   status: current
+  revealed_chapter: 587
 origin:
   region: East Blue
 residences:

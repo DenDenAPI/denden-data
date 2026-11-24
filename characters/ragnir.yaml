@@ -5,6 +5,7 @@ name:
   romaji: Raguniru
 canon: manga
 status: alive
+status_revealed_chapter: 1130
 first_appearance:
   chapter: 1130
   episode: 1160
@@ -17,6 +18,7 @@ affiliations:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1170
 residences:
 - type: location
   slug: aurust-castle
@@ -24,3 +26,4 @@ residences:
 - type: location
   slug: elbaph
   status: former
+  revealed_chapter: 1170

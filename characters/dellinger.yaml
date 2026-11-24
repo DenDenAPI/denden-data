@@ -5,6 +5,7 @@ name:
   romaji: Derinjā
 canon: manga
 status: alive
+status_revealed_chapter: 702
 first_appearance:
   chapter: 702
   episode: 632
@@ -24,6 +25,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 747
 birthday:
   month: 8
   day: 11

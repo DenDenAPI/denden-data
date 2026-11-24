@@ -8,21 +8,25 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 825
 first_appearance:
   chapter: 825
   episode: 783
 occupations:
 - name: Cook
   status: current
+  revealed_chapter: 900
 - name: Minister of Puff
   status: former
 affiliations:
 - type: crew
   slug: fire-tank-pirates
   status: current
+  revealed_chapter: 834
 - type: organization
   slug: charlotte-family
   status: former
+  revealed_chapter: 834
 origin:
   location: totto-land
   region: Grand Line
@@ -30,6 +34,7 @@ residences:
 - type: location
   slug: funwari-island
   status: former
+  revealed_chapter: 899
 birthday:
   month: 1
   day: 27

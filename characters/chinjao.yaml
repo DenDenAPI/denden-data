@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 704
 first_appearance:
   chapter: 704
   episode: 632
@@ -14,6 +15,7 @@ epithets:
 - en: Don Chinjao
   ja: 首領・チンジャオ
   romaji: Don Chinjao
+  revealed_chapter: 708
 - en: Chinjao the Drill
   ja: 錐のチンジャオ
   romaji: Kiri no Chinjao
@@ -22,13 +24,16 @@ occupations:
   status: current
 - name: Pirate
   status: former
+  revealed_chapter: 707
 affiliations:
 - type: organization
   slug: chinjao-family
   status: current
+  revealed_chapter: 704
 - type: crew
   slug: happo-navy
   status: current
+  revealed_chapter: 715
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
@@ -38,6 +43,7 @@ residences:
 - type: location
   slug: kano-country
   status: current
+  revealed_chapter: 823
 birthday:
   month: 12
   day: 12

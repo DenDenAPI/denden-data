@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 491
 first_appearance:
   chapter: 491
   episode: 386
@@ -26,6 +27,7 @@ affiliations:
 - type: organization
   slug: rosy-life-riders
   status: current
+  revealed_chapter: 496
 origin:
   region: Grand Line
 birthday:

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 921
 first_appearance:
   chapter: 920
   episode: 910
@@ -19,15 +20,18 @@ aliases:
 - en: Shutenmaru
   ja: 酒天丸
   romaji: Shutenmaru
+  revealed_chapter: 924
 occupations:
 - name: Bandit
   status: current
+  revealed_chapter: 945
 - name: Retainer of the Kouzuki Family
   status: current
 - name: Yakuza Boss
   status: former
 - name: Samurai
   status: current
+  revealed_chapter: 921
 affiliations:
 - type: organization
   slug: mt-atama-thieves
@@ -35,15 +39,19 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 925
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 973
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 955
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 950
 birthday:
   month: 4
   day: 10

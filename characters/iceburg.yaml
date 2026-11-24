@@ -8,30 +8,37 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 323
 first_appearance:
   chapter: 323
   episode: 230
 occupations:
 - name: President of the Galley-La Company
   status: current
+  revealed_chapter: 325
 - name: Mayor of Water 7
   status: current
+  revealed_chapter: 325
 affiliations:
 - type: organization
   slug: galley-la-company
   status: current
+  revealed_chapter: 325
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 325
 - type: organization
   slug: toms-workers
   status: former
+  revealed_chapter: 353
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 325
 birthday:
   month: 1
   day: 3

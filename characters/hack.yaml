@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 633
@@ -26,6 +27,7 @@ affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 744
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -36,6 +38,7 @@ residences:
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 1021
 - type: location
   slug: momoiro-island
   status: current

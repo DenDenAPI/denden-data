@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 921
 first_appearance:
   chapter: 919
   episode: 893
@@ -15,19 +16,23 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 932
 - type: organization
   slug: amatsuki-family
   status: current
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 964
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 967
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 965
 birthday:
   month: 1
   day: 19

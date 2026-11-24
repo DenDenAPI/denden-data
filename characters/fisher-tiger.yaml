@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: deceased
+status_revealed_chapter: 521
 first_appearance:
   chapter: 521
   episode: 415
@@ -21,21 +22,27 @@ epithets:
 occupations:
 - name: Adventurer
   status: current
+  revealed_chapter: 621
 - name: Pirate
   status: current
+  revealed_chapter: 521
 - name: Captain
   status: current
+  revealed_chapter: 620
 - name: De-facto Leader of Fish-Man District
   status: former
 - name: Slave
   status: former
+  revealed_chapter: 521
 affiliations:
 - type: crew
   slug: sun-pirates
   status: current
+  revealed_chapter: 620
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 621
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -43,9 +50,11 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 621
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 623
 birthday:
   month: 11
   day: 5

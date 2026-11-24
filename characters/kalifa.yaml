@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 323
 first_appearance:
   chapter: 323
   episode: 230
@@ -16,13 +17,16 @@ occupations:
   status: current
 - name: Secretary
   status: former
+  revealed_chapter: 323
 affiliations:
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 345
 - type: organization
   slug: galley-la-company
   status: former
+  revealed_chapter: 327
 origin:
   region: Grand Line
 birthday:

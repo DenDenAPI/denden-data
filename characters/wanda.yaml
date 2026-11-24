@@ -8,21 +8,26 @@ gender: female
 species:
 - mink
 status: alive
+status_revealed_chapter: 804
 first_appearance:
   chapter: 804
   episode: 753
 occupations:
 - name: Musketeer
   status: current
+  revealed_chapter: 809
 - name: Kingsbird
   status: former
+  revealed_chapter: 811
 affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 807
 - type: organization
   slug: inuarashi-musketeer-squad
   status: current
+  revealed_chapter: 1056
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -32,6 +37,7 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 824
 birthday:
   month: 11
   day: 1

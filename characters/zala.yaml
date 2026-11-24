@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 155
 first_appearance:
   chapter: 155
   episode: 103
@@ -19,9 +20,11 @@ aliases:
 - en: Miss Doublefinger
   ja: ミス・ダブルフィンガー
   romaji: Misu Daburufingā
+  revealed_chapter: 406
 - en: Paula
   ja: ポーラ
   romaji: Pōra
+  revealed_chapter: 406
 occupations:
 - name: Spiders Cafe Owner
   status: current
@@ -33,9 +36,11 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
+  revealed_chapter: 406
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 190
 origin:
   region: Grand Line
 birthday:

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 1140
 first_appearance:
   chapter: 1140
   episode: 1170
@@ -15,10 +16,13 @@ affiliations:
 - type: organization
   slug: knights-of-god
   status: current
+  revealed_chapter: 1140
 - type: organization
   slug: world-noble
   status: current
+  revealed_chapter: 1176
 residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 1182

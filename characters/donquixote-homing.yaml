@@ -14,11 +14,14 @@ first_appearance:
 occupations:
 - name: World Noble
   status: former
+  revealed_chapter: 763
 affiliations:
 - type: organization
   slug: world-government
   status: former
+  revealed_chapter: 763
 residences:
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 763

@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 109
 first_appearance:
   chapter: 109
   episode: 65
@@ -27,9 +28,11 @@ affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: former
+  revealed_chapter: 128
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 122
 origin:
   location: arabasta-kingdom
   region: Grand Line

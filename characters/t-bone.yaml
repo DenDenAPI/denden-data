@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1082
 first_appearance:
   chapter: 365
   episode: 255
@@ -28,6 +29,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 368
 origin:
   region: Grand Line
 birthday:

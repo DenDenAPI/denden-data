@@ -8,25 +8,30 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 167
 first_appearance:
   chapter: 142
   episode: 91
 occupations:
 - name: King of Arabasta
   status: current
+  revealed_chapter: 142
 affiliations:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 218
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: alubarna
   status: current
+  revealed_chapter: 163
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 218
 birthday:
   month: 2
   day: 13

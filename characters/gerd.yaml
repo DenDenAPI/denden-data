@@ -8,6 +8,7 @@ gender: female
 species:
 - giant
 status: alive
+status_revealed_chapter: 866
 first_appearance:
   chapter: 866
   episode: 836
@@ -16,15 +17,18 @@ occupations:
   status: current
 - name: Doctor
   status: current
+  revealed_chapter: 901
 - name: Mercenary
   status: former
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
   status: current
+  revealed_chapter: 901
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 901
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
@@ -34,6 +38,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1132
 birthday:
   month: 2
   day: 25

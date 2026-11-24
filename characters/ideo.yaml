@@ -7,6 +7,7 @@ gender: male
 species:
 - longarm
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 633
@@ -14,6 +15,7 @@ epithets:
 - en: Destruction Cannon
   ja: 破壊砲
   romaji: Hakai Hō
+  revealed_chapter: 715
 occupations:
 - name: Captain of the Fourth Ship of the Straw Hat Grand Fleet
   status: current
@@ -25,6 +27,7 @@ affiliations:
 - type: crew
   slug: ideo-pirates
   status: current
+  revealed_chapter: 888
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

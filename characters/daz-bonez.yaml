@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 160
 first_appearance:
   chapter: 160
   episode: 103
@@ -24,6 +25,7 @@ occupations:
   status: current
 - name: Assassin
   status: current
+  revealed_chapter: 217
 - name: Officer Agent
   status: former
 - name: Bounty Hunter
@@ -35,8 +37,10 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 1076
 origin:
   region: West Blue
+  revealed_chapter: 217
 birthday:
   month: 1
   day: 1

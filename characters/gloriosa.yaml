@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 514
 first_appearance:
   chapter: 514
   episode: 408
@@ -13,7 +14,8 @@ aliases:
 - en: Elder Nyon
   ja: ニョン婆
   romaji: Nyon Bā
-- en: 'Granny Nyon'
+  revealed_chapter: 517
+- en: Granny Nyon
 occupations:
 - name: Empress of Amazon Lily
   status: former
@@ -23,9 +25,11 @@ affiliations:
 - type: crew
   slug: kuja-pirates
   status: former
+  revealed_chapter: 1156
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1096
 origin:
   location: calm-belt
 residences:
@@ -35,6 +39,7 @@ residences:
 - type: location
   slug: amazon-lily
   status: current
+  revealed_chapter: 1059
 birthday:
   month: 2
   day: 4

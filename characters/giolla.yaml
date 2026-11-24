@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 682
 first_appearance:
   chapter: 682
   episode: 608
@@ -27,6 +28,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 714
 birthday:
   month: 1
   day: 25

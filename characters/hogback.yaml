@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 446
 first_appearance:
   chapter: 446
   episode: 340
@@ -15,12 +16,14 @@ epithets:
 - en: Doctor Hogback
   ja: ドクトル・ホグバック
   romaji: Dokutoru Hogubakku
+  revealed_chapter: 447
 - en: Genius Surgeon
   ja: 天才外科医
   romaji: Tensai Gekai
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 446
 affiliations:
 - type: crew
   slug: thriller-bark-pirates

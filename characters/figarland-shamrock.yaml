@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 907
 first_appearance:
   chapter: 907
   episode: 887
@@ -18,16 +19,20 @@ affiliations:
 - type: organization
   slug: knights-of-god
   status: current
+  revealed_chapter: 1137
 - type: organization
   slug: world-noble
   status: current
+  revealed_chapter: 1138
 origin:
   location: god-valley
   region: West Blue
+  revealed_chapter: 1158
 residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 1138
 birthday:
   month: 3
   day: 9

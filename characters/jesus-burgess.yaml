@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 222
 first_appearance:
   chapter: 222
   episode: 146
@@ -15,6 +16,7 @@ epithets:
 - en: Champion
   ja: チャンピオン
   romaji: Chanpion
+  revealed_chapter: 720
 aliases:
 - en: Mr. Store
   ja: Mr.ストア
@@ -28,6 +30,7 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 704
 origin:
   region: Grand Line
 residences:

@@ -8,20 +8,24 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 497
 first_appearance:
   chapter: 497
   episode: 401
 occupations:
 - name: Marine Officer
   status: former
+  revealed_chapter: 601
 - name: Captain of the Science Unit
   status: former
+  revealed_chapter: 511
 - name: Dr. Vegapunk's bodyguard
   status: former
 affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 1091
 origin:
   location: mt-kintoki
   region: Grand Line
@@ -29,6 +33,7 @@ residences:
 - type: location
   slug: egghead
   status: former
+  revealed_chapter: 1069
 birthday:
   month: 3
   day: 10

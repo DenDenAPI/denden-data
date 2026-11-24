@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 636
@@ -19,21 +20,25 @@ aliases:
 - en: Ricky
   ja: リッキー
   romaji: Rikkī
+  revealed_chapter: 726
 occupations:
 - name: King
   status: current
+  revealed_chapter: 721
 - name: Corrida Colosseum Gladiator
   status: former
 affiliations:
 - type: organization
   slug: riku-family
   status: current
+  revealed_chapter: 726
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: dressrosa
   status: current
+  revealed_chapter: 721
 birthday:
   month: 6
   day: 27
