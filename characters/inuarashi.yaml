@@ -7,6 +7,7 @@ gender: male
 species:
 - mink
 status: alive
+status_revealed_chapter: 808
 first_appearance:
   chapter: 808
   episode: 756
@@ -14,53 +15,70 @@ epithets:
 - en: Duke Inuarashi
   ja: イヌアラシ公爵
   romaji: Inuarashi Kōshaku
+  revealed_chapter: 808
 - en: Ruler of Day
   ja: 昼の王
   romaji: Hiru no Ō
+  revealed_chapter: 808
 occupations:
 - name: Daimyo
   status: current
+  revealed_chapter: 1127
 - name: Ruler of the Mokomo Dukedom
   status: former
+  revealed_chapter: 809
 - name: Commander of the Musketeers
   status: current
+  revealed_chapter: 810
 - name: Retainer
   status: current
+  revealed_chapter: 817
 - name: Samurai
   status: current
+  revealed_chapter: 817
 - name: Pirate Apprentice
   status: former
+  revealed_chapter: 820
 affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 809
 - type: organization
   slug: inuarashi-musketeer-squad
   status: current
+  revealed_chapter: 810
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 817
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 977
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 820
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 964
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: zou
   status: former
+  revealed_chapter: 808
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 817
 birthday:
   month: 10
   day: 11

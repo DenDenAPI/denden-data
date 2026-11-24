@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 117
 first_appearance:
   chapter: 117
   episode: 70
@@ -19,17 +20,21 @@ aliases:
 - en: Mr. 3
   ja: Mr. 3
   romaji: Misutā Surī
+  revealed_chapter: 117
 occupations:
 - name: Pirate
   status: current
 - name: Officer Agent
   status: former
+  revealed_chapter: 117
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 532
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: crew
   slug: buggy-pirates
   status: current
@@ -42,12 +47,14 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 117
 origin:
   region: South Blue
 residences:
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 1058
 birthday:
   month: 3
   day: 3

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 222
 first_appearance:
   chapter: 222
   episode: 146
@@ -15,6 +16,7 @@ epithets:
 - en: Bellamy the Hyena
   ja: ハイエナのベラミー
   romaji: Haiena no Beramī
+  revealed_chapter: 222
 - en: Deadly Bullet of Dressrosa
   ja: ドレスローザの凶弾
   romaji: Doresurōza no kyōdan
@@ -26,15 +28,19 @@ occupations:
   status: current
 - name: Pirate
   status: former
+  revealed_chapter: 222
 - name: Pirate Captain
   status: former
+  revealed_chapter: 222
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 303
 - type: crew
   slug: bellamy-pirates
   status: former
+  revealed_chapter: 222
 origin:
   location: notice
   region: North Blue
@@ -42,6 +48,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 707
 - type: location
   slug: notice
   status: former

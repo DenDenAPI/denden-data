@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 69
 first_appearance:
   chapter: 69
   episode: 31
@@ -15,21 +16,27 @@ epithets:
 - en: Arlong the Saw
   ja: ノコギリのアーロン
   romaji: Nokogiri no Āron
+  revealed_chapter: 69
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 69
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 624
 affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 69
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 620
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 624
 origin:
   location: ryugu-kingdom
   region: Grand Line
@@ -37,9 +44,11 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 621
 - type: location
   slug: arlong-park
   status: former
+  revealed_chapter: 69
 birthday:
   month: 5
   day: 3

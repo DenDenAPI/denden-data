@@ -15,22 +15,29 @@ epithets:
 - en: Magician
   ja: 魔術師
   romaji: Majutsushi
+  revealed_chapter: 498
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 498
 - name: Captain
   status: current
+  revealed_chapter: 498
 - name: Shinuchi
   status: current
+  revealed_chapter: 911
 affiliations:
 - type: crew
   slug: hawkins-pirates
   status: current
+  revealed_chapter: 498
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 911
 origin:
   region: North Blue
+  revealed_chapter: 936
 birthday:
   month: 9
   day: 9

@@ -8,6 +8,7 @@ species:
 - cyborg
 - mink
 status: alive
+status_revealed_chapter: 809
 first_appearance:
   chapter: 809
   episode: 756
@@ -15,53 +16,69 @@ epithets:
 - en: Master Nekomamushi
   ja: ネコマムシの旦那
   romaji: Nekomamushi no Dan'na
+  revealed_chapter: 809
 - en: Ruler of Night
   ja: 夜の王
   romaji: Yoru no Ō
+  revealed_chapter: 809
 occupations:
 - name: Yakuza Boss
   status: current
 - name: Ruler of Mokomo Dukedom
   status: former
+  revealed_chapter: 809
 - name: Guardian of the Whale Forest
   status: former
+  revealed_chapter: 809
 - name: Retainer
   status: current
+  revealed_chapter: 817
 - name: Samurai
   status: current
+  revealed_chapter: 817
 - name: Pirate Apprentice
   status: former
+  revealed_chapter: 820
 affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 809
 - type: organization
   slug: guardians
   status: current
+  revealed_chapter: 809
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 817
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 977
 - type: crew
   slug: roger-pirates
   status: former
+  revealed_chapter: 820
 - type: crew
   slug: whitebeard-pirates
   status: former
+  revealed_chapter: 964
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: zou
   status: former
+  revealed_chapter: 809
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 817
 birthday:
   month: 11
   day: 22

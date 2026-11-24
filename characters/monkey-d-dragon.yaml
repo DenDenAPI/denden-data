@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 100
 first_appearance:
   chapter: 100
   episode: 52
@@ -18,34 +19,41 @@ epithets:
 - en: World's Worst Criminal
   ja: 世界最悪の犯罪者
   romaji: Sekai Saiaku no Hanzaisha
+  revealed_chapter: 432
 occupations:
 - name: Supreme Commander of the Revolutionary Army
   status: current
+  revealed_chapter: 432
 - name: Captain of the Freedom Fighters
   status: former
 affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 142
 - type: organization
   slug: freedom-fighters
   status: former
+  revealed_chapter: 1097
 - type: organization
   slug: marines
   status: former
 origin:
   location: goa-kingdom
   region: East Blue
+  revealed_chapter: 586
 residences:
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 593
 - type: location
   slug: dawn-island
   status: former
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 904
 birthday:
   month: 10
   day: 5

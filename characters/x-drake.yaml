@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -15,6 +16,7 @@ epithets:
 - en: Red Flag
   ja: 赤旗
   romaji: Akahata
+  revealed_chapter: 498
 aliases:
 - en: Dory
   ja: ドリィ
@@ -24,22 +26,29 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 498
 - name: Captain
   status: current
+  revealed_chapter: 498
 - name: Shinuchi
   status: former
+  revealed_chapter: 924
 - name: Marine Rear Admiral
   status: former
+  revealed_chapter: 508
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 508
 - type: crew
   slug: drake-pirates
   status: current
+  revealed_chapter: 498
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 912
 - type: crew
   slug: barrels-pirates
   status: former
@@ -48,6 +57,7 @@ affiliations:
   status: former
 origin:
   region: North Blue
+  revealed_chapter: 936
 birthday:
   month: 10
   day: 24

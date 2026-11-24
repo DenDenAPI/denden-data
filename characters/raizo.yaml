@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 817
 first_appearance:
   chapter: 817
   episode: 768
@@ -15,15 +16,20 @@ epithets:
 - en: Raizo of the Mist
   ja: 霧の雷ぞう
   romaji: Kiri no Raizō
+  revealed_chapter: 817
 occupations:
 - name: Daimyo
   status: current
+  revealed_chapter: 1147
 - name: Ninja
   status: current
+  revealed_chapter: 817
 - name: Retainer of the Kouzuki Family
   status: current
+  revealed_chapter: 817
 - name: Samurai
   status: current
+  revealed_chapter: 817
 - name: Member of the Kouzuki Family Oniwabanshu
   status: former
 - name: Bandit
@@ -32,15 +38,19 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 817
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 939
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current
+  revealed_chapter: 819
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 817
 birthday:
   month: 2
   day: 26

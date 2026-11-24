@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 131
 first_appearance:
   chapter: 131
   episode: 79
@@ -15,36 +16,46 @@ epithets:
 - en: '"Tin-Plate" Wapol'
   ja: ブリキのワポル
   romaji: Buriki no Waporu
+  revealed_chapter: 131
 occupations:
 - name: King of the Evil Black Drum Kingdom
   status: current
+  revealed_chapter: 823
 - name: President of Wapol Konzern
   status: current
 - name: King of Drum Kingdom
   status: former
+  revealed_chapter: 133
 - name: Pirate
   status: current
+  revealed_chapter: 131
 - name: Captain
   status: former
+  revealed_chapter: 131
 affiliations:
 - type: location
   slug: evil-black-drum-kingdom
   status: current
+  revealed_chapter: 823
 - type: location
   slug: sakura-kingdom
   status: former
+  revealed_chapter: 142
 - type: crew
   slug: bliking-pirates
   status: former
+  revealed_chapter: 131
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: evil-black-drum-kingdom
   status: current
+  revealed_chapter: 823
 - type: location
   slug: sakura-kingdom
   status: former
+  revealed_chapter: 142
 birthday:
   month: 8
   day: 9
