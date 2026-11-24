@@ -8,8 +8,6 @@ gender: female
 species:
 - human
 status: alive
-first_appearance:
-  chapter: 2
 occupations:
 - name: Beekeeper
   status: current

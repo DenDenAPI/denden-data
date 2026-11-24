@@ -8,8 +8,6 @@ gender: male
 species:
 - human
 status: alive
-first_appearance:
-  chapter: 28
 occupations:
 - name: Bodyguard
   status: current
