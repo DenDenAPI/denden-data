@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 834
 first_appearance:
   chapter: 834
   episode: 795
@@ -16,13 +17,16 @@ occupations:
   status: current
 - name: Minister of Candy
   status: current
+  revealed_chapter: 834
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 834
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 834
 origin:
   region: Grand Line
 residences:

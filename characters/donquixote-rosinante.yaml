@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 761
 first_appearance:
   chapter: 761
   episode: 686
@@ -15,20 +16,25 @@ aliases:
 - en: Corazon
   ja: コラソン
   romaji: Korason
+  revealed_chapter: 761
 occupations:
 - name: Marine Commander
   status: current
+  revealed_chapter: 764
 - name: Pirate Elite Officer
   status: current
 - name: World Noble
   status: former
+  revealed_chapter: 763
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 764
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 761
 - type: organization
   slug: world-government
   status: former
@@ -38,9 +44,11 @@ residences:
 - type: location
   slug: mary-geoise
   status: former
+  revealed_chapter: 763
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 birthday:
   month: 7
   day: 15

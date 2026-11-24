@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 919
 first_appearance:
   chapter: 919
   episode: 909
@@ -19,38 +20,50 @@ aliases:
 - en: Kyoshiro
   ja: 狂死郎
   romaji: Kyōshirō
+  revealed_chapter: 919
 - en: Ushimitsu Kozo
   ja: 丑三つ小僧
   romaji: Ushimitsu Kozō
+  revealed_chapter: 974
 occupations:
 - name: Daimyo
   status: current
+  revealed_chapter: 1120
 - name: Samurai
   status: current
+  revealed_chapter: 973
 - name: Retainer of the Kouzuki Family
   status: former
+  revealed_chapter: 973
 - name: Yakuza Boss
   status: former
+  revealed_chapter: 927
 - name: Money Changer
   status: former
+  revealed_chapter: 919
 - name: Thief
   status: former
+  revealed_chapter: 973
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 973
 - type: organization
   slug: nine-red-scabbards
   status: current
+  revealed_chapter: 973
 - type: organization
   slug: kyoshiro-family
   status: current
+  revealed_chapter: 927
 - type: organization
   slug: kurozumi-family
   status: current
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 975
 origin:
   location: wano-country
   region: Grand Line

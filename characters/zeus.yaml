@@ -8,6 +8,7 @@ gender: male
 species:
 - homie
 status: alive
+status_revealed_chapter: 827
 first_appearance:
   chapter: 827
   episode: 786
@@ -15,18 +16,22 @@ epithets:
 - en: Zeus the Thundercloud
   ja: 雷雲のゼウス
   romaji: Raiun no Zeusu
+  revealed_chapter: 853
 occupations:
 - name: Living Weapon
   status: current
 - name: Servant
   status: former
+  revealed_chapter: 874
 affiliations:
 - type: crew
   slug: straw-hat-pirates
   status: current
+  revealed_chapter: 903
 - type: crew
   slug: big-mom-pirates
   status: former
+  revealed_chapter: 843
 - type: crew
   slug: rocks-pirates
   status: former
@@ -36,6 +41,7 @@ residences:
 - type: location
   slug: totto-land
   status: former
+  revealed_chapter: 843
 birthday:
   month: 6
   day: 26

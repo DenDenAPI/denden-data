@@ -8,6 +8,7 @@ gender: male
 species:
 - longarm
 status: alive
+status_revealed_chapter: 498
 first_appearance:
   chapter: 498
   episode: 392
@@ -15,9 +16,11 @@ epithets:
 - en: Roar of the Sea
   ja: 海鳴り
   romaji: Umi Nari
+  revealed_chapter: 498
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 498
 - name: Musician
   status: current
 - name: Informant
@@ -26,9 +29,11 @@ affiliations:
 - type: crew
   slug: on-air-pirates
   status: current
+  revealed_chapter: 498
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 821
 origin:
   region: Grand Line
 birthday:

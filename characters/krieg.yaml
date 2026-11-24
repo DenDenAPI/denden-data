@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 45
 first_appearance:
   chapter: 45
   episode: 21
@@ -15,9 +16,11 @@ epithets:
 - en: Don Krieg
   ja: 首領・クリーク
   romaji: Don Kurīku
+  revealed_chapter: 45
 - en: Pirate Fleet Admiral
   ja: 海賊艦隊提督
   romaji: Kaizoku Kantai Teitoku
+  revealed_chapter: 47
 - en: Ruler of the East Blue
   ja: 東の海の覇者
   romaji: Īsuto Burū no Hasha
@@ -27,10 +30,12 @@ epithets:
 occupations:
 - name: Pirate Captain/Admiral
   status: current
+  revealed_chapter: 47
 affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
+  revealed_chapter: 45
 origin:
   region: East Blue
 birthday:

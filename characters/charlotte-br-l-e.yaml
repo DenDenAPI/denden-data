@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 832
 first_appearance:
   chapter: 831
   episode: 791
@@ -18,18 +19,22 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 832
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 832
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 832
 - type: location
   slug: mirro-world
   status: current
+  revealed_chapter: 838
 birthday:
   month: 3
   day: 6

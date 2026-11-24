@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 443
 first_appearance:
   chapter: 443
   episode: 338
@@ -15,23 +16,28 @@ epithets:
 - en: Ghost Princess
   ja: ゴーストプリンセス
   romaji: Gōsuto Purinsesu
+  revealed_chapter: 464
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 447
 - name: Wild Zombies
   status: current
+  revealed_chapter: 461
 - name: Surprise Zombies Commander
   status: current
 affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 449
 origin:
   region: West Blue
 residences:
 - type: location
   slug: kuraigana-island
   status: former
+  revealed_chapter: 524
 birthday:
   month: 6
   day: 7
