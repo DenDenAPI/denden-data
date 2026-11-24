@@ -18,6 +18,11 @@ aliases:
   The Starving Skeleton: El Esqueleto Hambriento
   Thunder Soldier of Rage: Soldado del Trueno de la Ira
   Whitebeard Jr.: Barbablanca Jr.
+arc_kinds:
+  cover_story: Historia de portada
+  filler: Relleno
+  special: Especial
+  story: Historia
 arcs:
   '"Gang" Bege''s Oh My Family': Oh My Family de "Gang" Bege
   Ace's Great Blackbeard Search: La gran búsqueda de Barbanegra de Ace
@@ -89,6 +94,24 @@ arcs:
   Whole Cake Island Arc: Arco de Whole Cake Island
   Z's Ambition Arc: Arco de la ambición de Z
   Zou Arc: Arco de Zou
+canons:
+  anime_only: Solo anime
+  manga: Manga
+  movie: Película
+  other: Otro
+character_statuses:
+  alive:
+  - Vivo
+  - Viva
+  deceased:
+  - Fallecido
+  - Fallecida
+  unknown: Desconocido
+crew_statuses:
+  disbanded: Disuelta
+episode_kinds:
+  regular: Normal
+  special: Especial
 epithets:
   '"Ball Fingers" Gerotini': Gerotini "Dedos de Bola"
   '"Blood-Splatterer" Coribou': Coribou "Salpicasangre"
@@ -660,6 +683,7 @@ fruit_meanings:
   Human: Humano
   Human, Big Monk: Humano, gran monje
   Human, Great Buddha: Humano, Gran Buda
+  Human; Nika: Humano; Nika
   Imitation: Imitación
   Insect; Hornet: Insecto; avispón
   Insect; Rhinoceros Beetle: Insecto; escarabajo rinoceronte
@@ -770,6 +794,19 @@ fruit_meanings:
   Wheel: Rueda
   Whip: Látigo
   Whisperingly: En susurros
+fruit_sub_types:
+  ancient: Antigua
+  artificial: Artificial
+  mythical: Mítica
+  special: Especial
+fruit_types:
+  logia: Logia
+  paramecia: Paramecia
+  unknown: Desconocido
+  zoan: Zoan
+genders:
+  female: Femenino
+  male: Masculino
 occupations:
   '"Lovely" secretary of Tom':
   - Secretario "encantador" de Tom
@@ -2419,6 +2456,11 @@ occupations:
   - Guardián de la Ryu Ryu no Mi, modelo Nidhöggr
   - Guardiana de la Ryu Ryu no Mi, modelo Nidhöggr
   pet: Mascota
+organization_statuses:
+  active: Activa
+  destroyed: Destruida
+  disbanded: Disuelta
+  unknown: Desconocido
 periods:
   debut: Debut
   other: Otro
@@ -2437,6 +2479,18 @@ regions:
   South Blue: South Blue
   Underworld (Elbaph): Inframundo (Elbaph)
   West Blue: West Blue
+relation_kinds:
+  alliance: Alianza
+  captivity: Cautiverio
+  collaboration: Colaboración
+  family: Familia
+  guardianship: Tutela
+  member: Miembro
+  rank: Rango
+  service: Servicio
+relation_statuses:
+  current: Actual
+  former: Anterior
 sagas:
   Arabasta Saga: Saga de Arabasta
   Dressrosa Saga: Saga de Dressrosa
@@ -2449,6 +2503,9 @@ sagas:
   Wano Country Saga: Saga del País de Wano
   Water 7 Saga: Saga de Water 7
   Whole Cake Island Saga: Saga de Whole Cake Island
+ship_statuses:
+  destroyed: Destruido
+  unknown: Desconocido
 species:
   animal: Animal
   birkan:
@@ -2482,4 +2539,5 @@ species:
   skypiean:
   - Skypiano
   - Skypiana
+  snakeneck: Cuello de Serpiente
   zombie: Zombi
