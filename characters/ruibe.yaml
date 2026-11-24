@@ -8,8 +8,6 @@ gender: male
 species:
 - human
 status: alive
-first_appearance:
-  chapter: 2
 occupations:
 - name: Cook
   status: current

@@ -8,8 +8,6 @@ gender: male
 species:
 - human
 status: alive
-first_appearance:
-  chapter: 25
 affiliations:
 - type: crew
   slug: fake-straw-hat-crew
