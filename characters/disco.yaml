@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 500
 first_appearance:
   chapter: 500
   episode: 394
@@ -22,12 +23,14 @@ affiliations:
 - type: location
   slug: human-auctioning-house
   status: former
+  revealed_chapter: 504
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: sabaody-archipelago
   status: current
+  revealed_chapter: 659
 birthday:
   month: 6
   day: 12

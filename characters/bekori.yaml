@@ -14,11 +14,14 @@ first_appearance:
 occupations:
 - name: King
   status: former
+  revealed_chapter: 1097
 affiliations:
 - type: location
   slug: sorbet-kingdom
   status: former
+  revealed_chapter: 1097
 residences:
 - type: location
   slug: sorbet-kingdom
   status: current
+  revealed_chapter: 1097

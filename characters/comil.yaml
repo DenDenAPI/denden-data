@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 289
 first_appearance:
   chapter: 289
   episode: 421
@@ -23,10 +24,12 @@ affiliations:
 - type: location
   slug: g-2
   status: current
+  revealed_chapter: 289
 residences:
 - type: location
   slug: g-2
   status: current
+  revealed_chapter: 289
 birthday:
   month: 10
   day: 1

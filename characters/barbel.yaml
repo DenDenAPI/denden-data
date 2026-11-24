@@ -18,6 +18,7 @@ affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1156
 residences:
 - type: location
   slug: hachinosu

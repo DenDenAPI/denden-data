@@ -8,16 +8,19 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 966
 first_appearance:
   chapter: 966
   episode: 1090
 occupations:
 - name: Rear Admiral
   status: current
+  revealed_chapter: 1080
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1087
 origin:
   region: North Blue
 residences:

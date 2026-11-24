@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 1085
 first_appearance:
   chapter: 1084
   episode: 1118
@@ -21,6 +22,7 @@ affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 1084
 origin:
   region: Grand Line
 residences:

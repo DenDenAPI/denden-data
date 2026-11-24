@@ -5,6 +5,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 176
 first_appearance:
   chapter: 176
   episode: 110
@@ -19,3 +20,4 @@ residences:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 342

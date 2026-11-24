@@ -8,6 +8,7 @@ gender: female
 species:
 - hybrid
 status: alive
+status_revealed_chapter: 854
 first_appearance:
   chapter: 854
   episode: 822

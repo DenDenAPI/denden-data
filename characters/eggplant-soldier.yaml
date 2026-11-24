@@ -8,14 +8,17 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 849
 first_appearance:
   chapter: 849
   episode: 802
 occupations:
 - name: Guard
   status: current
+  revealed_chapter: 849
 - name: Soldier
   status: current
+  revealed_chapter: 849
 affiliations:
 - type: crew
   slug: big-mom-pirates

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 23
 first_appearance:
   chapter: 23
   episode: 9
@@ -18,9 +19,11 @@ affiliations:
 - type: crew
   slug: usopp-pirates
   status: former
+  revealed_chapter: 36
 - type: crew
   slug: usopp-pirates
   status: current
+  revealed_chapter: 36
 origin:
   location: gecko-islands
   region: East Blue
@@ -28,6 +31,7 @@ residences:
 - type: location
   slug: syrup-village
   status: current
+  revealed_chapter: 130
 birthday:
   month: 4
   day: 9

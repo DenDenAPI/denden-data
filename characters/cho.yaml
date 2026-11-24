@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 952
 first_appearance:
   chapter: 952
   episode: 946
@@ -20,6 +21,7 @@ occupations:
   status: current
 - name: Prisoner
   status: former
+  revealed_chapter: 959
 - name: Samurai
   status: current
 affiliations:

@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 96
 first_appearance:
   chapter: 96
   episode: 151
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 956
 affiliations:
 - type: organization
   slug: marines

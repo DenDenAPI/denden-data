@@ -5,6 +5,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 162
 first_appearance:
   chapter: 162
   episode: 93
@@ -17,6 +18,7 @@ affiliations:
 - type: organization
   slug: super-spot-billed-duck-troops
   status: current
+  revealed_chapter: 344
 origin:
   location: arabasta-kingdom
   region: Grand Line
@@ -24,6 +26,7 @@ residences:
 - type: location
   slug: alubarna
   status: current
+  revealed_chapter: 180
 - type: location
   slug: rainbase
   status: former

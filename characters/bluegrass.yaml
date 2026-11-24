@@ -8,16 +8,19 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 1089
 first_appearance:
   chapter: 1089
   episode: 1123
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 1094
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1117
 ages:
 - years: 76
   period: other

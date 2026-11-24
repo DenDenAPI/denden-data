@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 721
 first_appearance:
   chapter: 721
   episode: 650
 occupations:
 - name: Princess
   status: former
+  revealed_chapter: 742
 affiliations:
 - type: organization
   slug: riku-family

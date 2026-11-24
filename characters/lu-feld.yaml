@@ -15,6 +15,7 @@ epithets:
 - en: God of Fortune
   ja: 福の神
   romaji: Fuku no Kami
+  revealed_chapter: 860
 occupations:
 - name: Emperor of the Underworld
   status: current
@@ -22,6 +23,7 @@ affiliations:
 - type: organization
   slug: mads
   status: former
+  revealed_chapter: 1069
 birthday:
   month: 12
   day: 29

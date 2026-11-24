@@ -8,12 +8,14 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 839
 first_appearance:
   chapter: 839
   episode: 800
 occupations:
 - name: Head Chef
   status: current
+  revealed_chapter: 839
 affiliations:
 - type: location
   slug: germa-kingdom

@@ -6,12 +6,14 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 1135
 first_appearance:
   chapter: 1135
   episode: 1164
 occupations:
 - name: Student
   status: current
+  revealed_chapter: 1174
 affiliations:
 - type: location
   slug: walrus-school

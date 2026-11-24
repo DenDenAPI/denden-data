@@ -6,16 +6,19 @@ name:
 canon: manga
 gender: female
 status: alive
+status_revealed_chapter: 514
 first_appearance:
   chapter: 514
   episode: 408
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 731
 affiliations:
 - type: crew
   slug: kuja-pirates
   status: current
+  revealed_chapter: 599
 origin:
   location: calm-belt
 residences:

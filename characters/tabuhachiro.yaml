@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 920
 first_appearance:
   chapter: 920
   episode: 911

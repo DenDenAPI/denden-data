@@ -8,6 +8,7 @@ gender: female
 species:
 - animal
 status: alive
+status_revealed_chapter: 105
 first_appearance:
   chapter: 105
   episode: 63

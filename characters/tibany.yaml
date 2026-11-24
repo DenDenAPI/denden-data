@@ -7,6 +7,7 @@ canon: manga
 species:
 - human
 status: alive
+status_revealed_chapter: 543
 first_appearance:
   chapter: 543
   episode: 419

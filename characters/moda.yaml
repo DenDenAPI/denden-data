@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 278
 first_appearance:
   chapter: 278
   episode: 381
@@ -18,13 +19,16 @@ affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
+  revealed_chapter: 1082
 - type: location
   slug: g-2
   status: current
+  revealed_chapter: 298
 residences:
 - type: location
   slug: lulusia-kingdom
   status: former
+  revealed_chapter: 301
 birthday:
   month: 6
   day: 1

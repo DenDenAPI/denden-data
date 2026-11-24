@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 322
 first_appearance:
   chapter: 322
   episode: 228
@@ -15,6 +16,7 @@ affiliations:
 - type: organization
   slug: toms-workers
   status: former
+  revealed_chapter: 353
 residences:
 - type: location
   slug: water-7

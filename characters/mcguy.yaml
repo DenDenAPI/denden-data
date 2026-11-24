@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 551
 first_appearance:
   chapter: 551
   episode: 460
@@ -15,9 +16,11 @@ epithets:
 - en: Thunder Lord
   ja: 雷卿
   romaji: Raikyō
+  revealed_chapter: 551
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 551
 - name: Captain
   status: current
 affiliations:

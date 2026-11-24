@@ -13,14 +13,17 @@ first_appearance:
 occupations:
 - name: Pirate
   status: former
+  revealed_chapter: 1162
 affiliations:
 - type: organization
   slug: davy-family
   status: current
+  revealed_chapter: 1162
 residences:
 - type: location
   slug: god-valley
   status: former
+  revealed_chapter: 1161
 - type: location
   slug: shade-port
   status: former
