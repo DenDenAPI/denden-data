@@ -8,6 +8,7 @@ gender: male
 species:
 - shandia
 status: alive
+status_revealed_chapter: 249
 first_appearance:
   chapter: 249
   episode: 163
@@ -20,6 +21,7 @@ affiliations:
 - type: organization
   slug: gods-guards
   status: current
+  revealed_chapter: 648
 origin:
   location: skypiea
   region: Sky Island

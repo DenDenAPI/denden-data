@@ -7,6 +7,7 @@ canon: manga
 species:
 - homie
 status: alive
+status_revealed_chapter: 827
 first_appearance:
   chapter: 827
   episode: 786
@@ -17,3 +18,4 @@ affiliations:
 - type: location
   slug: cacao-island
   status: current
+  revealed_chapter: 873

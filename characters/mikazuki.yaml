@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 323
 first_appearance:
   chapter: 323
   episode: 230
@@ -18,6 +19,7 @@ affiliations:
 - type: crew
   slug: big-helmet-pirates
   status: current
+  revealed_chapter: 323
 birthday:
   month: 2
   day: 10

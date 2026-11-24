@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 611
 first_appearance:
   chapter: 611
   episode: 530
@@ -18,8 +19,10 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 611
 - name: Captain
   status: current
+  revealed_chapter: 611
 affiliations:
 - type: crew
   slug: gyro-pirates
@@ -27,6 +30,7 @@ affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: former
+  revealed_chapter: 611
 birthday:
   month: 6
   day: 22

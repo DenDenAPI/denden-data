@@ -14,6 +14,7 @@ affiliations:
 - type: organization
   slug: knights-of-god
   status: current
+  revealed_chapter: 1161
 - type: organization
   slug: world-noble
   status: current

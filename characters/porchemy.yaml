@@ -8,16 +8,19 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 584
 first_appearance:
   chapter: 583
   episode: 494
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 584
 affiliations:
 - type: crew
   slug: bluejam-pirates
   status: current
+  revealed_chapter: 583
 origin:
   location: goa-kingdom
   region: East Blue

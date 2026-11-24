@@ -8,6 +8,7 @@ gender: male
 species:
 - dwarf
 status: alive
+status_revealed_chapter: 755
 first_appearance:
   chapter: 755
   episode: 692

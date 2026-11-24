@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 531
 first_appearance:
   chapter: 531
   episode: 432

@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 994
 first_appearance:
   chapter: 994
   episode: 982
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 994
 affiliations:
 - type: crew
   slug: beasts-pirates

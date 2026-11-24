@@ -8,12 +8,14 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 928
 first_appearance:
   chapter: 928
   episode: 921
 occupations:
 - name: Lumber Dealer
   status: former
+  revealed_chapter: 940
 - name: Graverobber
   status: former
 residences:

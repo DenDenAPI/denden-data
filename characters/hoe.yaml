@@ -7,6 +7,7 @@ gender: male
 species:
 - animal
 status: alive
+status_revealed_chapter: 611
 first_appearance:
   chapter: 611
   episode: 530
@@ -19,6 +20,7 @@ affiliations:
 - type: location
   slug: fish-man-island
   status: current
+  revealed_chapter: 638
 residences:
 - type: location
   slug: ryugu-palace

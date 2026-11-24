@@ -7,9 +7,11 @@ gender: male
 species:
 - dwarf
 status: alive
+status_revealed_chapter: 711
 first_appearance:
   chapter: 711
   episode: 641
 occupations:
 - name: King
   status: current
+  revealed_chapter: 728

@@ -7,12 +7,14 @@ canon: manga
 species:
 - homie
 status: alive
+status_revealed_chapter: 899
 first_appearance:
   chapter: 899
   episode: 885
 occupations:
 - name: Goldberg's shield
   status: current
+  revealed_chapter: 1145
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates

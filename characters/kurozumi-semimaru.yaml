@@ -14,6 +14,7 @@ affiliations:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 971
 origin:
   location: wano-country
   region: Grand Line
@@ -21,6 +22,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 971
 birthday:
   month: 8
   day: 23

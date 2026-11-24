@@ -5,6 +5,7 @@ name:
   romaji: Sufinkusu
 canon: manga
 status: alive
+status_revealed_chapter: 529
 first_appearance:
   chapter: 529
   episode: 430
@@ -15,6 +16,7 @@ affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 1073
 - type: location
   slug: impel-down
   status: current

@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 860
 first_appearance:
   chapter: 860
   episode: 828
@@ -15,6 +16,7 @@ epithets:
 - en: The Concealer
   ja: 隠匿師
   romaji: Intoku-shi
+  revealed_chapter: 860
 occupations:
 - name: Emperor of the Underworld
   status: current
