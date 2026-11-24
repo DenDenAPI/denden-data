@@ -8,32 +8,40 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 706
 first_appearance:
   chapter: 706
   episode: 639
 occupations:
 - name: Captain of the Sixth Ship of the Straw Hat Grand Fleet
   status: current
+  revealed_chapter: 800
 - name: Pirate Captain
   status: current
+  revealed_chapter: 896
 - name: Mercenary
   status: former
+  revealed_chapter: 799
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
   status: current
+  revealed_chapter: 896
 - type: organization
   slug: buggys-delivery
   status: current
+  revealed_chapter: 803
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 865
 birthday:
   month: 8
   day: 12

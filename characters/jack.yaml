@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: alive
+status_revealed_chapter: 801
 first_appearance:
   chapter: 801
   episode: 746
@@ -15,23 +16,28 @@ epithets:
 - en: Jack the Drought
   ja: 旱害のジャック
   romaji: Kangai no Jakku
+  revealed_chapter: 808
 occupations:
 - name: All-Star
   status: current
+  revealed_chapter: 925
 - name: Captain of the Mammoth
   status: current
+  revealed_chapter: 808
 - name: De Facto Ruler of Kuri
   status: former
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 808
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 917
 birthday:
   month: 9
   day: 28

@@ -8,6 +8,7 @@ gender: female
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 195
 first_appearance:
   chapter: 195
   episode: 385
@@ -16,6 +17,7 @@ occupations:
   status: current
 - name: Takoyaki seller
   status: current
+  revealed_chapter: 218
 - name: Waitress at Mermaid Cafe
   status: current
 origin:

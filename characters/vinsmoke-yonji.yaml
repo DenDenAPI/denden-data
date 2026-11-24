@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: alive
+status_revealed_chapter: 825
 first_appearance:
   chapter: 825
   episode: 783
@@ -16,15 +17,18 @@ epithets:
 occupations:
 - name: Prince
   status: current
+  revealed_chapter: 839
 - name: Mercenary
   status: current
 affiliations:
 - type: organization
   slug: vinsmoke-family
   status: current
+  revealed_chapter: 826
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 838
 origin:
   region: North Blue
 birthday:

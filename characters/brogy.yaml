@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: alive
+status_revealed_chapter: 115
 first_appearance:
   chapter: 115
   episode: 71
@@ -15,13 +16,16 @@ epithets:
 - en: Brogy the Red Ogre
   ja: 赤鬼のブロギー
   romaji: Aka-Oni no Burogī
+  revealed_chapter: 118
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 118
 affiliations:
 - type: crew
   slug: giant-warrior-pirates
   status: current
+  revealed_chapter: 129
 origin:
   region: Grand Line
 residences:
@@ -31,6 +35,7 @@ residences:
 - type: location
   slug: little-garden
   status: former
+  revealed_chapter: 115
 birthday:
   month: 2
   day: 1

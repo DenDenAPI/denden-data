@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 23
 first_appearance:
   chapter: 23
   episode: 9
@@ -15,25 +16,31 @@ epithets:
 - en: Kuro of a Hundred Plans
   ja: 百計のクロ
   romaji: Hyakkei no Kuro
+  revealed_chapter: 37
 aliases:
 - en: Klahadore
   ja: クラハドール
   romaji: Kurahadōru
+  revealed_chapter: 23
 occupations:
 - name: Pirate Captain
   status: former
+  revealed_chapter: 26
 - name: Butler
   status: former
+  revealed_chapter: 23
 affiliations:
 - type: crew
   slug: black-cat-pirates
   status: current
+  revealed_chapter: 26
 origin:
   region: East Blue
 residences:
 - type: location
   slug: syrup-village
   status: former
+  revealed_chapter: 23
 birthday:
   month: 4
   day: 22

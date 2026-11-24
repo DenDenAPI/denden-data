@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: alive
+status_revealed_chapter: 909
 first_appearance:
   chapter: 909
   episode: 892
@@ -15,13 +16,16 @@ aliases:
 - en: Komurasaki
   ja: 小紫
   romaji: Komurasaki
+  revealed_chapter: 928
 occupations:
 - name: Oiran
   status: current
+  revealed_chapter: 928
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 938
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -31,9 +35,11 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 928
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 928
 birthday:
   month: 12
   day: 23

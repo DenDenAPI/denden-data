@@ -8,6 +8,7 @@ gender: male
 species:
 - merfolk
 status: alive
+status_revealed_chapter: 611
 first_appearance:
   chapter: 611
   episode: 530
@@ -21,15 +22,18 @@ epithets:
 occupations:
 - name: King of the Ryugu Kingdom
   status: current
+  revealed_chapter: 611
 - name: Prince
   status: former
 affiliations:
 - type: organization
   slug: neptune-family
   status: current
+  revealed_chapter: 611
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 611
 origin:
   region: Grand Line
 birthday:

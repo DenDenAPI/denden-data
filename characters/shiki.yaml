@@ -29,6 +29,7 @@ affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1156
 - type: location
   slug: impel-down
   status: former
@@ -38,6 +39,7 @@ residences:
 - type: location
   slug: hachinosu
   status: former
+  revealed_chapter: 1156
 - type: location
   slug: merveille
   status: current

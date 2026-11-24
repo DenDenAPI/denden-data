@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: alive
+status_revealed_chapter: 305
 first_appearance:
   chapter: 305
   episode: 207
@@ -15,13 +16,16 @@ epithets:
 - en: Silver Fox
   ja: 銀ギツネ
   romaji: Gin-gitsune
+  revealed_chapter: 305
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 305
 affiliations:
 - type: crew
   slug: foxy-pirates
   status: current
+  revealed_chapter: 305
 origin:
   region: South Blue
 birthday:
