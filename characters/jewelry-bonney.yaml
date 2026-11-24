@@ -26,8 +26,6 @@ occupations:
 - name: Pirate Captain
   status: current
   revealed_chapter: 498
-- name: Princess
-  status: former
 affiliations:
 - type: crew
   slug: bonney-pirates
@@ -35,12 +33,11 @@ affiliations:
   revealed_chapter: 498
 origin:
   location: mary-geoise
-  revealed_chapter: 1095
 residences:
 - type: location
   slug: egghead
   status: former
-  revealed_chapter: 1067
+  revealed_chapter: 1062
 birthday:
   month: 9
   day: 1

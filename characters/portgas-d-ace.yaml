@@ -20,27 +20,24 @@ epithets:
 occupations:
 - name: 2nd Division Commander
   status: current
-  revealed_chapter: 159
+  revealed_chapter: 157
 - name: Pirate
   status: current
-  revealed_chapter: 154
+  revealed_chapter: 157
 - name: Captain
   status: former
-  revealed_chapter: 552
+  revealed_chapter: 551
 - name: Prisoner of the Great Prison
   status: former
-  revealed_chapter: 525
+  revealed_chapter: 524
 - name: Thief
   status: former
-  revealed_chapter: 585
-- name: Bandit
-  status: former
-  revealed_chapter: 585
+  revealed_chapter: 583
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
-  revealed_chapter: 159
+  revealed_chapter: 157
 - type: crew
   slug: spade-pirates
   status: former
@@ -48,24 +45,22 @@ affiliations:
 - type: organization
   slug: dadan-family
   status: former
-  revealed_chapter: 584
+  revealed_chapter: 582
 - type: location
   slug: impel-down
   status: former
   revealed_chapter: 525
+  kind: captivity
+  temporary: true
 origin:
   location: baterilla
   region: South Blue
   revealed_chapter: 550
 residences:
 - type: location
-  slug: baterilla
-  status: former
-  revealed_chapter: 550
-- type: location
   slug: mt-colubo
   status: former
-  revealed_chapter: 584
+  revealed_chapter: 582
 birthday:
   month: 1
   day: 1
@@ -76,9 +71,5 @@ heights:
 - cm: 103
   period: other
 bounties:
-- amount: 100000000
-  status: former
-  minimum: true
-  canon: other
 - amount: 550000000
   status: former

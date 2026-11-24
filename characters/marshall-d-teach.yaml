@@ -16,16 +16,17 @@ epithets:
 - en: Blackbeard
   ja: 黒ひげ
   romaji: Kurohige
-  revealed_chapter: 440
+  revealed_chapter: 234
 occupations:
 - name: Pirate
   status: current
-  revealed_chapter: 234
+  revealed_chapter: 223
 - name: Admiral
   status: current
+  revealed_chapter: 803
 - name: Emperor
   status: current
-  revealed_chapter: 594
+  revealed_chapter: 650
 - name: Apprentice
   status: former
 - name: Warlord of the Sea
@@ -39,7 +40,7 @@ affiliations:
 - type: organization
   slug: four-emperors
   status: current
-  revealed_chapter: 594
+  revealed_chapter: 650
 - type: crew
   slug: whitebeard-pirates
   status: former
@@ -51,10 +52,11 @@ residences:
 - type: location
   slug: hachinosu
   status: current
-  revealed_chapter: 957
+  revealed_chapter: 925
 - type: location
   slug: god-valley
   status: former
+  revealed_chapter: 1159
 - type: location
   slug: shade-port
   status: former

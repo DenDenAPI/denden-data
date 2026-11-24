@@ -21,13 +21,15 @@ aliases:
 - en: Cedar
   ja: シーダー
   romaji: Shīdā
+  revealed_chapter: 812
 - en: '''Gangster'' Gastino'
   ja: “ギャングスター”ガスティーノ
   romaji: Gyangusutā Gasutīno
+  revealed_chapter: 858
 occupations:
 - name: Scientist
   status: current
-  revealed_chapter: 664
+  revealed_chapter: 663
 affiliations:
 - type: organization
   slug: neo-mads
@@ -36,11 +38,11 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
-  revealed_chapter: 697
+  revealed_chapter: 713
 - type: organization
   slug: marines
   status: former
-  revealed_chapter: 667
+  revealed_chapter: 663
 - type: organization
   slug: mads
   status: former

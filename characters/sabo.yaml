@@ -24,23 +24,21 @@ aliases:
 occupations:
 - name: Chief of Staff of the Revolutionary Army
   status: current
-  revealed_chapter: 794
+  revealed_chapter: 744
 - name: Noble
   status: former
   revealed_chapter: 585
 - name: Pirate
   status: former
+  revealed_chapter: 588
 - name: Thief
   status: former
-  revealed_chapter: 585
-- name: Bandit
-  status: former
-  revealed_chapter: 585
+  revealed_chapter: 583
 affiliations:
 - type: organization
   slug: revolutionary-army
   status: current
-  revealed_chapter: 732
+  revealed_chapter: 744
 - type: organization
   slug: dadan-family
   status: former
@@ -51,6 +49,7 @@ affiliations:
   revealed_chapter: 585
 origin:
   region: East Blue
+  revealed_chapter: 585
 residences:
 - type: location
   slug: mt-colubo
@@ -59,9 +58,11 @@ residences:
 - type: location
   slug: baltigo
   status: former
+  revealed_chapter: 794
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 904
 - type: location
   slug: goa-kingdom
   status: former

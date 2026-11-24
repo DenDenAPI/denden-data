@@ -16,20 +16,20 @@ epithets:
 - en: Idiot Lord
   ja: バカ殿
   romaji: Bakatono
-  revealed_chapter: 960
+  revealed_chapter: 920
 occupations:
 - name: Samurai
   status: current
-  revealed_chapter: 960
+  revealed_chapter: 920
 - name: Daimyo
   status: current
-  revealed_chapter: 962
+  revealed_chapter: 920
 - name: Pirate
   status: former
-  revealed_chapter: 966
+  revealed_chapter: 920
 - name: 2nd Division Commander
   status: former
-  revealed_chapter: 964
+  revealed_chapter: 965
 affiliations:
 - type: organization
   slug: kouzuki-family
@@ -38,7 +38,7 @@ affiliations:
 - type: crew
   slug: roger-pirates
   status: former
-  revealed_chapter: 966
+  revealed_chapter: 920
 - type: crew
   slug: whitebeard-pirates
   status: former

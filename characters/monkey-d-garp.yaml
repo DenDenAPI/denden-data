@@ -20,14 +20,14 @@ epithets:
 - en: Hero of the Marines
   ja: 海軍の英雄
   romaji: Kaigun no Eiyū
-  revealed_chapter: 1080
+  revealed_chapter: 432
 occupations:
 - name: Vice Admiral
   status: current
   revealed_chapter: 92
 - name: Instructor
   status: current
-  revealed_chapter: 1080
+  revealed_chapter: 594
 affiliations:
 - type: organization
   slug: marines

@@ -16,21 +16,22 @@ epithets:
 - en: Heavenly Yaksha
   ja: 天夜叉
   romaji: Ten Yasha
+  revealed_chapter: 700
 aliases:
 - en: Joker
   ja: ジョーカー
   romaji: Jōkā
-  revealed_chapter: 697
+  revealed_chapter: 673
 occupations:
 - name: Pirate Captain
   status: current
-  revealed_chapter: 234
+  revealed_chapter: 692
 - name: Prisoner of the Great Prison
   status: current
   revealed_chapter: 801
 - name: Underworld Broker
   status: current
-  revealed_chapter: 697
+  revealed_chapter: 673
 - name: King of Dressrosa
   status: former
   revealed_chapter: 700
@@ -41,22 +42,22 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
-  revealed_chapter: 234
+  revealed_chapter: 692
 - type: location
   slug: impel-down
   status: current
-  revealed_chapter: 801
+  revealed_chapter: 906
+  kind: captivity
 - type: organization
   slug: world-government
   status: current
-  revealed_chapter: 234
+  revealed_chapter: 761
 - type: location
   slug: dressrosa
   status: former
   revealed_chapter: 700
 origin:
   location: mary-geoise
-  revealed_chapter: 762
 residences:
 - type: location
   slug: downs
@@ -69,15 +70,15 @@ residences:
 - type: location
   slug: mary-geoise
   status: former
-  revealed_chapter: 762
+  revealed_chapter: 763
 - type: location
   slug: dressrosa
   status: former
-  revealed_chapter: 700
+  revealed_chapter: 682
 - type: location
   slug: impel-down
   status: current
-  revealed_chapter: 801
+  revealed_chapter: 906
 birthday:
   month: 10
   day: 23

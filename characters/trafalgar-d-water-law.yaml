@@ -23,10 +23,10 @@ occupations:
   revealed_chapter: 498
 - name: Doctor
   status: current
-  revealed_chapter: 579
+  revealed_chapter: 578
 - name: Warlord of the Sea
   status: former
-  revealed_chapter: 663
+  revealed_chapter: 659
 affiliations:
 - type: crew
   slug: heart-pirates
@@ -39,10 +39,10 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
-  revealed_chapter: 761
+  revealed_chapter: 673
 origin:
   region: North Blue
-  revealed_chapter: 762
+  revealed_chapter: 498
 residences:
 - type: location
   slug: flevance
@@ -55,7 +55,6 @@ residences:
 - type: location
   slug: swallow-island
   status: former
-  revealed_chapter: 767
 birthday:
   month: 10
   day: 6

@@ -16,44 +16,47 @@ epithets:
 - en: Sir Crocodile
   ja: サー・クロコダイル
   romaji: Sā Kurokodairu
-  revealed_chapter: 155
+  revealed_chapter: 127
 - en: Desert King
   ja: 砂漠の王
   romaji: Sabaku no Ō
+  revealed_chapter: 155
 aliases:
 - en: Mr. 0
   ja: ミスター・ゼロ
   romaji: Misutā Zero
-  revealed_chapter: 155
+  revealed_chapter: 126
 occupations:
 - name: Pirate
   status: current
-  revealed_chapter: 155
+  revealed_chapter: 126
 - name: Cross Guild Officer
   status: current
   revealed_chapter: 1058
 - name: Baroque Works President
   status: former
-  revealed_chapter: 155
+  revealed_chapter: 126
 - name: Proprietor of Rain Dinners
   status: former
   revealed_chapter: 168
 - name: Prisoner of the Great Prison
   status: former
-  revealed_chapter: 525
+  revealed_chapter: 413
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
-  revealed_chapter: 1058
+  revealed_chapter: 1056
 - type: organization
   slug: baroque-works
   status: former
-  revealed_chapter: 155
+  revealed_chapter: 126
 - type: location
   slug: impel-down
   status: former
   revealed_chapter: 525
+  kind: captivity
+  temporary: true
 origin:
   region: Grand Line
 residences:

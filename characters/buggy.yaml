@@ -20,7 +20,7 @@ epithets:
 - en: Buggy the Star Clown
   ja: 千両道化のバギー
   romaji: Senryō Dōke no Bagī
-  revealed_chapter: 1058
+  revealed_chapter: 700
 occupations:
 - name: Pirate Captain
   status: current
@@ -33,12 +33,13 @@ occupations:
   revealed_chapter: 1058
 - name: Chairman of Buggy's Delivery
   status: former
+  revealed_chapter: 803
 - name: Warlord of the Sea
   status: former
-  revealed_chapter: 594
+  revealed_chapter: 700
 - name: Apprentice
   status: former
-  revealed_chapter: 19
+  revealed_chapter: 434
 - name: Prisoner of the Great Prison
   status: former
   revealed_chapter: 525
@@ -46,7 +47,7 @@ affiliations:
 - type: organization
   slug: cross-guild
   status: current
-  revealed_chapter: 1058
+  revealed_chapter: 1056
 - type: organization
   slug: four-emperors
   status: current
@@ -58,25 +59,28 @@ affiliations:
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 803
 - type: crew
   slug: buggy-and-alvida-alliance
   status: former
-  revealed_chapter: 100
+  revealed_chapter: 54
 - type: crew
   slug: roger-pirates
   status: former
-  revealed_chapter: 500
+  revealed_chapter: 434
 - type: location
   slug: impel-down
   status: former
   revealed_chapter: 525
+  kind: captivity
+  temporary: true
 origin:
   region: Grand Line
 residences:
 - type: location
   slug: karai-bari-island
   status: current
-  revealed_chapter: 1058
+  revealed_chapter: 803
 - type: location
   slug: orange-town
   status: former

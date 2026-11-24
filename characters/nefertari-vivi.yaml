@@ -17,26 +17,24 @@ aliases:
   ja: ミス・ウェンズデー
   romaji: Misu Wenzudē
   revealed_chapter: 103
-- en: Ms. Wednesday
 occupations:
 - name: Princess of Arabasta
   status: current
-  revealed_chapter: 114
-- name: Pirate
-  status: former
+  revealed_chapter: 110
 - name: Bounty Hunter
   status: former
-  revealed_chapter: 103
+  revealed_chapter: 107
 - name: Frontier Agent
   status: former
-  revealed_chapter: 103
+  revealed_chapter: 107
 - name: Sand-Sand Clan Vice-Leader
   status: former
+  revealed_chapter: 163
 affiliations:
 - type: location
   slug: arabasta-kingdom
   status: current
-  revealed_chapter: 114
+  revealed_chapter: 113
 - type: crew
   slug: straw-hat-pirates
   status: former
@@ -44,13 +42,14 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: current
-  revealed_chapter: 103
+  revealed_chapter: 107
 - type: organization
   slug: sand-sand-clan
   status: former
+  revealed_chapter: 163
 origin:
   region: Grand Line
-  revealed_chapter: 114
+  revealed_chapter: 113
 birthday:
   month: 2
   day: 2
