@@ -47,7 +47,6 @@ residences:
 - type: location
   slug: udon
   status: current
-  revealed_chapter: 981
 - type: location
   slug: onigashima
   status: former
