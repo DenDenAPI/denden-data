@@ -19,6 +19,9 @@ epithets:
   ja: 海賊王の左腕
   romaji: Kaizoku-Ō no Hidariude
 aliases:
+- en: Roger's Crewmate
+  revealed_chapter: 19
+  cover_until: 965
 - en: Ya-san
   ja: ヤーさん
   romaji: Yā-san
@@ -26,14 +29,14 @@ aliases:
 occupations:
 - name: Pirate
   status: former
-  revealed_chapter: 1139
+  revealed_chapter: 966
 - name: Navigator
   status: current
 affiliations:
 - type: crew
   slug: roger-pirates
   status: former
-  revealed_chapter: 1139
+  revealed_chapter: 966
 residences:
 - type: location
   slug: elbaph
