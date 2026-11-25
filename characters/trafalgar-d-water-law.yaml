@@ -17,6 +17,12 @@ epithets:
   ja: 死の外科医
   romaji: Shi no Gekai
   revealed_chapter: 498
+aliases:
+- en: Trafalgar Law
+  ja: トラファルガー・ロー
+  romaji: Torafarugā Rō
+  revealed_chapter: 498
+  cover_until: 762
 occupations:
 - name: Pirate Captain
   status: current

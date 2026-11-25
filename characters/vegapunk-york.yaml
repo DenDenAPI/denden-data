@@ -17,7 +17,6 @@ occupations:
   status: current
 - name: World Noble
   status: current
-  revealed_chapter: 1078
 affiliations:
 - type: organization
   slug: world-government

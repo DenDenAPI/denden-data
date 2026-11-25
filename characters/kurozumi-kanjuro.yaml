@@ -19,6 +19,12 @@ epithets:
 - en: Ghost of Kibi
   ja: 希美の妖怪
   romaji: Kibi no Yōkai
+aliases:
+- en: Kanjuro
+  ja: カン十郎
+  romaji: Kanjūrō
+  revealed_chapter: 700
+  cover_until: 973
 occupations:
 - name: Theatre Performer
   status: former

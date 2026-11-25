@@ -20,6 +20,8 @@ aliases:
 - en: Miss Merry Christmas
   ja: ミス・メリークリスマス
   romaji: Misu Merī Kurisumasu
+  revealed_chapter: 160
+  cover_always: true
 occupations:
 - name: Cafe Waitress
   status: current
@@ -29,7 +31,7 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
-  revealed_chapter: 160
+  revealed_chapter: 411
 - type: organization
   slug: baroque-works
   status: former

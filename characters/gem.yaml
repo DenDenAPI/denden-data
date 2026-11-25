@@ -20,6 +20,8 @@ aliases:
 - en: Mr. 5
   ja: Mr. 5
   romaji: Misutā Faibu
+  revealed_chapter: 110
+  cover_always: true
 occupations:
 - name: Cafe Employee
   status: current

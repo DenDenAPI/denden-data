@@ -12,6 +12,12 @@ status_revealed_chapter: 685
 first_appearance:
   chapter: 684
   episode: 609
+aliases:
+- en: Momonosuke
+  ja: モモの助
+  romaji: Momonosuke
+  revealed_chapter: 684
+  cover_until: 816
 occupations:
 - name: Shogun
   status: current
