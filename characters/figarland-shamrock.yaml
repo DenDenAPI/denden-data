@@ -12,6 +12,10 @@ status_revealed_chapter: 907
 first_appearance:
   chapter: 907
   episode: 887
+aliases:
+- en: Silhouetted Figure
+  revealed_chapter: 907
+  cover_until: 1136
 occupations:
 - name: Commander of Knights of God
   status: current

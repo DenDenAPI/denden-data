@@ -20,11 +20,12 @@ aliases:
 - en: Ricky
   ja: リッキー
   romaji: Rikkī
-  revealed_chapter: 726
+  revealed_chapter: 706
+  cover_until: 725
 occupations:
 - name: King
   status: current
-  revealed_chapter: 721
+  revealed_chapter: 726
 - name: Corrida Colosseum Gladiator
   status: former
 affiliations:

@@ -12,6 +12,12 @@ status_revealed_chapter: 1086
 first_appearance:
   chapter: 625
   episode: 545
+aliases:
+- en: Mjosgard
+  ja: ミョスガルド聖
+  romaji: Myosugarudo Sei
+  revealed_chapter: 625
+  cover_until: 906
 occupations:
 - name: World Noble
   status: current
