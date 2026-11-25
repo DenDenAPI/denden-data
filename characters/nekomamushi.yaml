@@ -38,7 +38,6 @@ occupations:
   revealed_chapter: 817
 - name: Pirate Apprentice
   status: former
-  revealed_chapter: 820
 affiliations:
 - type: location
   slug: mokomo-dukedom

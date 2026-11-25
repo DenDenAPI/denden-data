@@ -19,17 +19,17 @@ aliases:
 - en: Mr. 2 Bon Kurei
   ja: Mr. 2・ボン・クレー
   romaji: Misutā Tsū Bon Kurē
-  revealed_chapter: 155
+  revealed_chapter: 154
   cover_until: 531
 occupations:
 - name: Queen of Newkama Land
   status: current
 - name: Officer Agent
   status: former
-  revealed_chapter: 155
+  revealed_chapter: 154
 - name: Prisoner of the Great Prison
   status: current
-  revealed_chapter: 532
+  revealed_chapter: 413
 affiliations:
 - type: location
   slug: impel-down
@@ -38,7 +38,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
-  revealed_chapter: 155
+  revealed_chapter: 154
 origin:
   region: East Blue
 birthday:

@@ -49,7 +49,7 @@ residences:
 - type: location
   slug: shells-town
   status: former
-  revealed_chapter: 83
+  revealed_chapter: 3
 - type: location
   slug: goat-island
   status: former
