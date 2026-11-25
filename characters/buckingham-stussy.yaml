@@ -16,6 +16,8 @@ aliases:
 - en: Miss Buckin
   ja: ミス・バッキン
   romaji: Misu Bakkin
+  revealed_chapter: 802
+  cover_until: 1072
 occupations:
 - name: Pirate
   status: former
@@ -26,11 +28,11 @@ affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
-  revealed_chapter: 1072
+  revealed_chapter: 1073
 - type: organization
   slug: mads
   status: former
-  revealed_chapter: 1072
+  revealed_chapter: 1073
 origin:
   region: Grand Line
 residences:
