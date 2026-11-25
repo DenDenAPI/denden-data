@@ -16,10 +16,13 @@ epithets:
   romaji: Tetsu no Kyojin
   revealed_chapter: 1067
 aliases:
+- en: Ancient Robot
+  revealed_chapter: 1065
+  cover_until: 1066
 - en: Iron Giant
   ja: 鉄の巨人
   romaji: Tetsu no Kyojin
-  revealed_chapter: 1065
+  revealed_chapter: 1067
   cover_until: 1118
 residences:
 - type: location
