@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: deceased
+status_revealed_chapter: 398
 first_appearance:
   chapter: 392
   episode: 275

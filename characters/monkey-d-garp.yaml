@@ -40,7 +40,6 @@ residences:
 - type: location
   slug: foosha-village
   status: former
-  revealed_chapter: 432
 birthday:
   month: 5
   day: 2

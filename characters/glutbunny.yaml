@@ -7,6 +7,7 @@ canon: manga
 species:
 - animal
 status: deceased
+status_revealed_chapter: 1129
 first_appearance:
   chapter: 1129
   episode: 1159
