@@ -10,6 +10,12 @@ status_revealed_chapter: 906
 first_appearance:
   chapter: 906
   episode: 885
+aliases:
+- en: Imu
+  ja: イム
+  romaji: Imu
+  revealed_chapter: 908
+  cover_until: 1178
 occupations:
 - name: King of the World
   status: current

@@ -19,7 +19,7 @@ epithets:
 - en: Ruler of Day
   ja: 昼の王
   romaji: Hiru no Ō
-  revealed_chapter: 808
+  revealed_chapter: 809
 occupations:
 - name: Daimyo
   status: current
@@ -29,7 +29,7 @@ occupations:
   revealed_chapter: 809
 - name: Commander of the Musketeers
   status: current
-  revealed_chapter: 810
+  revealed_chapter: 809
 - name: Retainer
   status: current
   revealed_chapter: 817
@@ -38,7 +38,6 @@ occupations:
   revealed_chapter: 817
 - name: Pirate Apprentice
   status: former
-  revealed_chapter: 820
 affiliations:
 - type: location
   slug: mokomo-dukedom
@@ -47,7 +46,7 @@ affiliations:
 - type: organization
   slug: inuarashi-musketeer-squad
   status: current
-  revealed_chapter: 810
+  revealed_chapter: 809
 - type: organization
   slug: kouzuki-family
   status: current

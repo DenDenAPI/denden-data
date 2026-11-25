@@ -71,4 +71,3 @@ bounties:
 - amount: 100000000
   status: current
   minimum: true
-  revealed_chapter: 536
