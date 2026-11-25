@@ -17,6 +17,10 @@ epithets:
   ja: 黒ひげ
   romaji: Kurohige
   revealed_chapter: 234
+aliases:
+- en: Man in the Tavern
+  revealed_chapter: 223
+  cover_until: 233
 occupations:
 - name: Pirate
   status: current

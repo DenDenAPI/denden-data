@@ -13,6 +13,12 @@ epithets:
 - en: Pirate of the Deep Sea
   ja: 深海の海賊
   romaji: Shinkai no Kaizoku
+aliases:
+- en: Davy Jones
+  ja: デービー・ジョーンズ
+  romaji: Dēbī Jōnzu
+  revealed_chapter: 306
+  cover_until: 1158
 occupations:
 - name: Pirate
   status: current

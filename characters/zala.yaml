@@ -20,11 +20,12 @@ aliases:
 - en: Miss Doublefinger
   ja: ミス・ダブルフィンガー
   romaji: Misu Daburufingā
-  revealed_chapter: 406
+  revealed_chapter: 155
+  cover_always: true
 - en: Paula
   ja: ポーラ
   romaji: Pōra
-  revealed_chapter: 406
+  revealed_chapter: 160
 occupations:
 - name: Spiders Cafe Owner
   status: current
@@ -36,7 +37,7 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
-  revealed_chapter: 406
+  revealed_chapter: 160
 - type: organization
   slug: baroque-works
   status: former

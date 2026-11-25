@@ -20,6 +20,8 @@ aliases:
 - en: Mr. 4
   ja: Mr. 4
   romaji: Misutā Fō
+  revealed_chapter: 160
+  cover_always: true
 occupations:
 - name: Cafe Delivery Boy
   status: current

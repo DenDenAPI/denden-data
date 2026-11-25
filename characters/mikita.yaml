@@ -20,6 +20,8 @@ aliases:
 - en: Miss Valentine
   ja: ミス・バレンタイン
   romaji: Misu Barentain
+  revealed_chapter: 110
+  cover_always: true
 occupations:
 - name: Cafe Pâtissier
   status: current

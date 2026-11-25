@@ -20,6 +20,8 @@ aliases:
 - en: Miss Goldenweek
   ja: ミス・ゴールデンウィーク
   romaji: Misu Gōruden Wīku
+  revealed_chapter: 117
+  cover_always: true
 occupations:
 - name: Cafe Employee
   status: current
@@ -29,7 +31,7 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
-  revealed_chapter: 406
+  revealed_chapter: 411
 - type: organization
   slug: baroque-works
   status: former

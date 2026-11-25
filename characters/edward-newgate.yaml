@@ -25,6 +25,12 @@ epithets:
   ja: ひとつなぎの大秘宝に最も近い男
   romaji: Wan Pīsu ni Mottomo Chikai Otoko
   revealed_chapter: 233
+aliases:
+- en: Whitebeard
+  ja: 白ひげ
+  romaji: Shirohige
+  revealed_chapter: 159
+  cover_until: 233
 occupations:
 - name: Pirate Captain
   status: current
