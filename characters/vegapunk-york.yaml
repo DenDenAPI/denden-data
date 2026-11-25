@@ -39,7 +39,7 @@ residences:
 - type: location
   slug: mary-geoise
   status: current
-  revealed_chapter: 1078
+  revealed_chapter: 1179
 birthday:
   month: 3
   day: 22

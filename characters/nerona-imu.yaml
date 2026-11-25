@@ -16,6 +16,9 @@ aliases:
   romaji: Imu
   revealed_chapter: 908
   cover_until: 1178
+- en: Giant Hat Figure
+  revealed_chapter: 906
+  cover_until: 907
 occupations:
 - name: King of the World
   status: current
