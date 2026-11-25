@@ -12,6 +12,10 @@ status_revealed_chapter: 233
 first_appearance:
   chapter: 233
   episode: 151
+aliases:
+- en: Five Elders Member
+  revealed_chapter: 233
+  cover_until: 1085
 occupations:
 - name: Co-Head of the World Government
   status: current
