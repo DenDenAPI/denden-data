@@ -12,13 +12,17 @@ status_revealed_chapter: 325
 first_appearance:
   chapter: 325
   episode: 230
+aliases:
+- en: Masked Man
+  revealed_chapter: 325
+  cover_until: 344
 occupations:
 - name: Cipher Pol Agent
   status: current
   revealed_chapter: 345
 - name: Bartender
   status: current
-  revealed_chapter: 339
+  revealed_chapter: 345
 affiliations:
 - type: organization
   slug: cp9
