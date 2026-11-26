@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: King of the Goa Kingdom
   status: current
+social_ranks:
 - name: Noble
   status: former
   revealed_chapter: 905

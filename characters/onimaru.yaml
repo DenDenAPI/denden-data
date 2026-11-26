@@ -18,10 +18,13 @@ epithets:
   romaji: Oihagi-bashi no Gyūkimaru
   revealed_chapter: 938
 aliases:
+- en: Bridge Warrior Monk
+  revealed_chapter: 936
+  cover_until: 936
 - en: Gyukimaru
   ja: 牛鬼丸
   romaji: Gyūkimaru
-  revealed_chapter: 936
+  revealed_chapter: 937
   cover_until: 952
 occupations:
 - name: Warrior Monk

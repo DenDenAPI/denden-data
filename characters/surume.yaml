@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pet
   status: current
+social_ranks:
 - name: Slave
   status: former
 affiliations:

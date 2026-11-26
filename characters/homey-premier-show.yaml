@@ -8,7 +8,7 @@ gender: female
 species:
 - human
 status: alive
-occupations:
+social_ranks:
 - name: Slave
   status: former
 affiliations:

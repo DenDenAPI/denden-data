@@ -16,19 +16,20 @@ aliases:
 - en: Tenguyama Hitetsu
   ja: 天狗山飛徹
   romaji: Tenguyama Hitetsu
-  revealed_chapter: 1053
+  revealed_chapter: 911
+  cover_until: 1052
 occupations:
 - name: Swordsmith
   status: current
   revealed_chapter: 912
 - name: Shogun
   status: former
-  revealed_chapter: 920
+  revealed_chapter: 1053
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
-  revealed_chapter: 920
+  revealed_chapter: 1053
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

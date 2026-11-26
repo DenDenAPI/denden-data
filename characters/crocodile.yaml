@@ -63,8 +63,9 @@ origin:
 residences:
 - type: location
   slug: rainbase
-  status: current
+  status: former
   revealed_chapter: 168
+  kind: base
 - type: location
   slug: arabasta-kingdom
   status: former

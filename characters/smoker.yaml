@@ -53,6 +53,7 @@ residences:
   slug: g-5
   status: current
   revealed_chapter: 681
+  kind: base
 - type: location
   slug: loguetown
   status: former

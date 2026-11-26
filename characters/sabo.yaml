@@ -25,15 +25,16 @@ occupations:
 - name: Chief of Staff of the Revolutionary Army
   status: current
   revealed_chapter: 744
-- name: Noble
-  status: former
-  revealed_chapter: 585
 - name: Pirate
   status: former
   revealed_chapter: 588
 - name: Thief
   status: former
   revealed_chapter: 583
+social_ranks:
+- name: Noble
+  status: former
+  revealed_chapter: 585
 affiliations:
 - type: organization
   slug: revolutionary-army

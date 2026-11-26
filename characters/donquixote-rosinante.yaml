@@ -24,6 +24,7 @@ occupations:
   revealed_chapter: 764
 - name: Pirate Elite Officer
   status: current
+social_ranks:
 - name: World Noble
   status: former
   revealed_chapter: 763

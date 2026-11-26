@@ -35,6 +35,7 @@ occupations:
 - name: King of Dressrosa
   status: former
   revealed_chapter: 699
+social_ranks:
 - name: World Noble
   status: former
   revealed_chapter: 722
@@ -64,6 +65,7 @@ residences:
   slug: downs
   status: former
   revealed_chapter: 782
+  temporary: true
 - type: location
   slug: spider-miles
   status: former

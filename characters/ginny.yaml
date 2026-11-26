@@ -16,6 +16,7 @@ occupations:
 - name: East Army Captain of the Revolutionary Army
   status: current
   revealed_chapter: 1095
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 1095

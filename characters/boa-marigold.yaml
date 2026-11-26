@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Ruler of Amazon Lily
   status: current
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 521

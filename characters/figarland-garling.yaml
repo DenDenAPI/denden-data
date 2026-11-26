@@ -20,6 +20,7 @@ occupations:
   status: current
 - name: Commander of Knights of God
   status: former
+social_ranks:
 - name: World Noble
   status: current
   revealed_chapter: 1086

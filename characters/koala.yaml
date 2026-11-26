@@ -18,6 +18,7 @@ occupations:
 - name: Assistant Fish-Man Karate Instructor
   status: current
   revealed_chapter: 731
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 622
