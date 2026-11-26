@@ -6,6 +6,7 @@ canon: manga
 species:
 - homie
 status: unknown
+status_revealed_chapter: 867
 first_appearance:
   chapter: 867
   episode: 837

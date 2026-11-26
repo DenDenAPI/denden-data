@@ -8,6 +8,7 @@ gender: male
 species:
 - animal
 status: unknown
+status_revealed_chapter: 401
 first_appearance:
   chapter: 401
   episode: 286

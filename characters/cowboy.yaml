@@ -15,6 +15,7 @@ occupations:
   status: current
 - name: Member of the Super Spot-Billed Duck Troops
   status: current
+  revealed_chapter: 180
 affiliations:
 - type: organization
   slug: super-spot-billed-duck-troops
@@ -23,6 +24,7 @@ affiliations:
 origin:
   location: arabasta-kingdom
   region: Grand Line
+  revealed_chapter: 180
 residences:
 - type: location
   slug: arabasta-kingdom

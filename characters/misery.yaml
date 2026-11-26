@@ -8,6 +8,7 @@ gender: female
 species:
 - homie
 status: unknown
+status_revealed_chapter: 1040
 first_appearance:
   chapter: 1039
   episode: 1066

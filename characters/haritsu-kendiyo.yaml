@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: unknown
+status_revealed_chapter: 594
 first_appearance:
   chapter: 594
   episode: 511

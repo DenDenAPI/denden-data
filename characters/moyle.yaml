@@ -8,12 +8,14 @@ gender: male
 species:
 - skypiean
 status: unknown
+status_revealed_chapter: 293
 first_appearance:
   chapter: 272
   episode: 178
 occupations:
 - name: Member of the Divine Squad
   status: current
+  revealed_chapter: 274
 social_ranks:
 - name: Slave
   status: current

@@ -14,6 +14,7 @@ occupations:
   status: current
 - name: Member of the Super Spot-Billed Duck Troops
   status: current
+  revealed_chapter: 217
 affiliations:
 - type: organization
   slug: super-spot-billed-duck-troops

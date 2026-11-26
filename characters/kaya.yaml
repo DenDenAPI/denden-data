@@ -19,6 +19,7 @@ occupations:
 origin:
   location: gecko-islands
   region: East Blue
+  revealed_chapter: 23
 residences:
 - type: location
   slug: syrup-village

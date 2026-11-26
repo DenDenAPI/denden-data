@@ -18,6 +18,7 @@ occupations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 621
 residences:
 - type: location
   slug: ryugu-kingdom

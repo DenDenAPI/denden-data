@@ -7,6 +7,7 @@ gender: male
 species:
 - birkan
 status: unknown
+status_revealed_chapter: 269
 first_appearance:
   chapter: 254
   episode: 167

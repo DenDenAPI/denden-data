@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Revolutionary
   status: current
+  revealed_chapter: 546
 affiliations:
 - type: organization
   slug: revolutionary-army

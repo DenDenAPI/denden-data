@@ -8,6 +8,7 @@ gender: male
 species:
 - mink
 status: unknown
+status_revealed_chapter: 967
 first_appearance:
   chapter: 963
   episode: 968
