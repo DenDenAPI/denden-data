@@ -19,9 +19,11 @@ occupations:
   status: former
 origin:
   region: South Blue
+  revealed_chapter: 922
 birthday:
   month: 2
   day: 21
+  revealed_chapter: 922
 ages:
 - years: 20
   period: debut

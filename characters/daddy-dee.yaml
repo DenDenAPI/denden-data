@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Housefather
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 240
 origin:
   location: conomi-islands
   region: East Blue

@@ -19,6 +19,7 @@ occupations:
   status: current
 - name: Combatant
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: crew
   slug: foxy-pirates
@@ -31,3 +32,4 @@ affiliations:
 birthday:
   month: 5
   day: 25
+  revealed_chapter: 657

@@ -53,12 +53,16 @@ origin:
 birthday:
   month: 2
   day: 2
+  revealed_chapter: 163
 blood_type: F
+blood_type_revealed_chapter: 771
 ages:
 - years: 16
   period: debut
+  revealed_chapter: 189
 - years: 18
   period: post_timeskip
 heights:
 - cm: 169
   period: other
+  revealed_chapter: 926

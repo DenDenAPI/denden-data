@@ -22,17 +22,24 @@ affiliations:
   revealed_chapter: 392
 origin:
   region: Grand Line
+  revealed_chapter: 944
 birthday:
   month: 1
   day: 19
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 944
 ages:
 - years: 44
   period: debut
+  revealed_chapter: 944
 - years: 64
   period: pre_timeskip
+  revealed_chapter: 944
 - years: 66
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 275
   period: other
+  revealed_chapter: 944

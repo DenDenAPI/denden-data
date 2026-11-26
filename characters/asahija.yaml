@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Chief Petty Officer
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: organization
   slug: marines

@@ -28,6 +28,7 @@ affiliations:
   revealed_chapter: 1064
 origin:
   region: East Blue
+  revealed_chapter: 931
 residences:
 - type: location
   slug: hachinosu
@@ -35,15 +36,20 @@ residences:
 birthday:
   month: 10
   day: 5
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 931
 ages:
 - years: 25
   period: debut
+  revealed_chapter: 931
 - years: 27
   period: post_timeskip
+  revealed_chapter: 931
 heights:
 - cm: 340
   period: other
+  revealed_chapter: 931
 bounties:
 - amount: 64000000
   status: current

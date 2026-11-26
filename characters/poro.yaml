@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Bookstore Owner
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: location
   slug: orange-town
@@ -23,6 +24,7 @@ affiliations:
 origin:
   location: orange-town
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: orange-town
@@ -31,3 +33,4 @@ residences:
 birthday:
   month: 5
   day: 11
+  revealed_chapter: 919

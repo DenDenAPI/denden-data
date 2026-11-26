@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Intelligence officer
   status: current
+  revealed_chapter: 1153
 affiliations:
 - type: crew
   slug: roger-pirates

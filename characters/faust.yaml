@@ -16,12 +16,15 @@ occupations:
   status: current
 - name: Magician
   status: current
+  revealed_chapter: 873
 affiliations:
 - type: crew
   slug: hawkins-pirates
   status: current
 origin:
   region: North Blue
+  revealed_chapter: 928
 birthday:
   month: 12
   day: 13
+  revealed_chapter: 928

@@ -25,6 +25,7 @@ affiliations:
 birthday:
   month: 3
   day: 23
+  revealed_chapter: 916
 ages:
 - years: 22
   period: other

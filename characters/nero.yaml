@@ -24,15 +24,21 @@ affiliations:
   revealed_chapter: 369
 origin:
   region: West Blue
+  revealed_chapter: 944
 birthday:
   month: 1
   day: 26
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 944
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 944
 - years: 22
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 202
   period: other
+  revealed_chapter: 944

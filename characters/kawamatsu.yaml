@@ -51,6 +51,7 @@ affiliations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 1017
 residences:
 - type: location
   slug: wano-country
@@ -59,10 +60,14 @@ residences:
 birthday:
   month: 6
   day: 14
+  revealed_chapter: 990
 blood_type: F
+blood_type_revealed_chapter: 1017
 ages:
 - years: 41
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 271
   period: other
+  revealed_chapter: 975

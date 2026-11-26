@@ -29,23 +29,29 @@ affiliations:
   revealed_chapter: 897
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: yakigashi-island
   status: current
+  revealed_chapter: 883
 - type: location
   slug: hachinosu
   status: former
 birthday:
   month: 11
   day: 25
+  revealed_chapter: 895
 blood_type: F
+blood_type_revealed_chapter: 950
 ages:
 - years: 48
   period: other
+  revealed_chapter: 883
 heights:
 - cm: 492
   period: other
+  revealed_chapter: 883
 bounties:
 - amount: 300000000
   status: current

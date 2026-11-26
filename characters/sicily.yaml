@@ -20,9 +20,11 @@ affiliations:
   status: current
 origin:
   region: South Blue
+  revealed_chapter: 922
 birthday:
   month: 6
   day: 5
+  revealed_chapter: 922
 marine_rating:
   stars: 2
   minimum: true

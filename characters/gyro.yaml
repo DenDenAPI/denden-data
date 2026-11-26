@@ -27,6 +27,7 @@ affiliations:
 - type: crew
   slug: gyro-pirates
   status: current
+  revealed_chapter: 657
 - type: crew
   slug: new-fish-man-pirates
   status: former
@@ -34,6 +35,7 @@ affiliations:
 birthday:
   month: 6
   day: 22
+  revealed_chapter: 657
 bounties:
 - amount: 73000000
   status: current

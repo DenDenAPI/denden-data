@@ -22,6 +22,7 @@ epithets:
 occupations:
 - name: Marine Lieutenant Commander
   status: current
+  revealed_chapter: 1002
 - name: Marine Seaman Recruit
   status: current
 - name: Marine Lieutenant
@@ -34,18 +35,24 @@ affiliations:
   revealed_chapter: 149
 origin:
   region: North Blue
+  revealed_chapter: 928
 birthday:
   month: 9
   day: 7
+  revealed_chapter: 928
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 26
   period: debut
+  revealed_chapter: 928
 - years: 28
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 184
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 1000000
   status: current

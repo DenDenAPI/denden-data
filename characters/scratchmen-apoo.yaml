@@ -39,15 +39,20 @@ origin:
 birthday:
   month: 3
   day: 19
+  revealed_chapter: 602
 blood_type: XF
+blood_type_revealed_chapter: 919
 ages:
 - years: 29
   period: debut
+  revealed_chapter: 686
 - years: 31
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 256
   period: debut
+  revealed_chapter: 686
 bounties:
 - amount: 198000000
   status: former

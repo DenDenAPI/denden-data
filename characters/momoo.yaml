@@ -16,6 +16,7 @@ epithets:
 - en: Momoo the Sea Cow
   ja: 海牛モーム
   romaji: Kaigyū Mōmu
+  revealed_chapter: 928
 occupations:
 - name: Arlong Pirates' pet
   status: former
@@ -36,12 +37,16 @@ origin:
 birthday:
   month: 4
   day: 9
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 928
 ages:
 - years: 14
   period: debut
+  revealed_chapter: 928
 - years: 16
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 3600
   period: other

@@ -44,6 +44,7 @@ residences:
 birthday:
   month: 8
   day: 10
+  revealed_chapter: 657
 blood_type: S
 ages:
 - years: 29

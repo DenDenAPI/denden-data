@@ -14,6 +14,7 @@ epithets:
 - en: Hera the Thundercloud
   ja: 雷雲のヘラ
   romaji: Raiun no Hera
+  revealed_chapter: 1124
 occupations:
 - name: Living Weapon
   status: current
@@ -29,6 +30,8 @@ origin:
 birthday:
   month: 3
   day: 17
+  revealed_chapter: 1124
 heights:
 - cm: 212
   period: other
+  revealed_chapter: 1124

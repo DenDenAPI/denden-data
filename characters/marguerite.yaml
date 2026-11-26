@@ -21,6 +21,7 @@ affiliations:
   revealed_chapter: 598
 origin:
   location: calm-belt
+  revealed_chapter: 926
 residences:
 - type: location
   slug: amazon-lily
@@ -29,12 +30,17 @@ residences:
 birthday:
   month: 4
   day: 9
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 926
 ages:
 - years: 16
   period: debut
+  revealed_chapter: 926
 - years: 18
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 178
   period: other
+  revealed_chapter: 926

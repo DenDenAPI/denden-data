@@ -12,8 +12,10 @@ first_appearance:
 occupations:
 - name: Captain
   status: current
+  revealed_chapter: 657
 - name: Pirate
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: crew
   slug: space-pirates

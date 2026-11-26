@@ -17,6 +17,7 @@ occupations:
 origin:
   location: orange-town
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: orange-town
@@ -24,3 +25,4 @@ residences:
 birthday:
   month: 5
   day: 17
+  revealed_chapter: 919

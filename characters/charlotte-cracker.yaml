@@ -36,6 +36,7 @@ affiliations:
   revealed_chapter: 837
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: biscuits-island
@@ -43,13 +44,17 @@ residences:
 birthday:
   month: 2
   day: 28
+  revealed_chapter: 883
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 45
   period: other
+  revealed_chapter: 895
 heights:
 - cm: 307
   period: other
+  revealed_chapter: 895
 bounties:
 - amount: 860000000
   status: current

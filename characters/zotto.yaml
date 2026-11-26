@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Marine Lieutenant
   status: current
+  revealed_chapter: 941
 affiliations:
 - type: organization
   slug: marines

@@ -27,13 +27,18 @@ affiliations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 931
 birthday:
   month: 8
   day: 22
+  revealed_chapter: 606
 blood_type: XF
+blood_type_revealed_chapter: 931
 ages:
 - years: 35
   period: other
+  revealed_chapter: 931
 heights:
 - cm: 352
   period: other
+  revealed_chapter: 931

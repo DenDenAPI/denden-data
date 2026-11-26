@@ -15,23 +15,32 @@ first_appearance:
 occupations:
 - name: Dojo Master
   status: current
+  revealed_chapter: 450
 affiliations:
 - type: organization
   slug: shimotsuki-family
   status: current
+  revealed_chapter: 1076
 origin:
   region: East Blue
+  revealed_chapter: 916
 birthday:
   month: 5
   day: 4
+  revealed_chapter: 916
 blood_type: S
+blood_type_revealed_chapter: 916
 ages:
 - years: 40
   period: debut
+  revealed_chapter: 916
 - years: 49
   period: pre_timeskip
+  revealed_chapter: 916
 - years: 51
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 184
   period: other
+  revealed_chapter: 916

@@ -31,6 +31,7 @@ affiliations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 947
 residences:
 - type: location
   slug: ryugu-kingdom
@@ -45,10 +46,14 @@ residences:
 birthday:
   month: 8
   day: 9
+  revealed_chapter: 781
 blood_type: F
+blood_type_revealed_chapter: 947
 ages:
 - years: 38
   period: other
+  revealed_chapter: 781
 heights:
 - cm: 280
   period: other
+  revealed_chapter: 781

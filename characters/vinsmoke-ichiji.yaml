@@ -31,13 +31,16 @@ affiliations:
   revealed_chapter: 838
 origin:
   region: North Blue
+  revealed_chapter: 950
 birthday:
   month: 3
   day: 2
 blood_type: S
+blood_type_revealed_chapter: 853
 ages:
 - years: 21
   period: other
 heights:
 - cm: 186
   period: other
+  revealed_chapter: 853

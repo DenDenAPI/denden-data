@@ -31,6 +31,7 @@ affiliations:
 - type: crew
   slug: nox-pirates
   status: former
+  revealed_chapter: 873
 residences:
 - type: location
   slug: zou
@@ -39,13 +40,17 @@ residences:
 birthday:
   month: 4
   day: 11
+  revealed_chapter: 873
 blood_type: S
+blood_type_revealed_chapter: 931
 ages:
 - years: 27
   period: other
+  revealed_chapter: 931
 heights:
 - cm: 232
   period: other
+  revealed_chapter: 931
 bounties:
 - amount: 330000000
   status: current

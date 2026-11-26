@@ -55,6 +55,7 @@ affiliations:
   revealed_chapter: 812
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: whole-cake-island
@@ -71,13 +72,17 @@ residences:
 birthday:
   month: 2
   day: 15
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 68
   period: other
+  revealed_chapter: 863
 heights:
 - cm: 880
   period: other
+  revealed_chapter: 895
 bounties:
 - amount: 50000000
   status: former

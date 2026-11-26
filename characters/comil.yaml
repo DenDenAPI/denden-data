@@ -33,6 +33,7 @@ residences:
 birthday:
   month: 10
   day: 1
+  revealed_chapter: 657
 marine_rating:
   stars: 5
   minimum: true

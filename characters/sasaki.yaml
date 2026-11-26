@@ -16,6 +16,7 @@ epithets:
 - en: Overflowing Sasaki
   ja: 盛っ切りのササキ
   romaji: Mokkiri no Sasaki
+  revealed_chapter: 1023
 occupations:
 - name: Shinuchi
   status: current
@@ -30,18 +31,24 @@ affiliations:
 - type: crew
   slug: sasaki-pirates
   status: former
+  revealed_chapter: 1023
 origin:
   region: Grand Line
+  revealed_chapter: 1023
 birthday:
   month: 2
   day: 3
+  revealed_chapter: 1023
 blood_type: XF
+blood_type_revealed_chapter: 1023
 ages:
 - years: 34
   period: other
+  revealed_chapter: 990
 heights:
 - cm: 318
   period: other
+  revealed_chapter: 990
 bounties:
 - amount: 472000000
   status: current

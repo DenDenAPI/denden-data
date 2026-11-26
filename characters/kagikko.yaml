@@ -16,12 +16,15 @@ occupations:
   status: current
 - name: Locksmith
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 928
 birthday:
   month: 10
   day: 27
+  revealed_chapter: 928

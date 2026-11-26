@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Checkpoint Guard
   status: current
+  revealed_chapter: 1124
 affiliations:
 - type: organization
   slug: kurozumi-family

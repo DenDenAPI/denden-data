@@ -24,6 +24,7 @@ affiliations:
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 1023
 residences:
 - type: location
   slug: kuri
@@ -36,10 +37,14 @@ residences:
 birthday:
   month: 8
   day: 21
+  revealed_chapter: 1023
 blood_type: F
+blood_type_revealed_chapter: 1023
 ages:
 - years: 30
   period: other
+  revealed_chapter: 1023
 heights:
 - cm: 312
   period: other
+  revealed_chapter: 1023

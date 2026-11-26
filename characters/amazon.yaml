@@ -26,6 +26,7 @@ affiliations:
 origin:
   location: skypiea
   region: Grand Line
+  revealed_chapter: 931
 residences:
 - type: location
   slug: skypiea
@@ -34,12 +35,17 @@ residences:
 birthday:
   month: 8
   day: 4
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 931
 ages:
 - years: 77
   period: debut
+  revealed_chapter: 931
 - years: 79
   period: post_timeskip
+  revealed_chapter: 931
 heights:
 - cm: 120
   period: other
+  revealed_chapter: 931

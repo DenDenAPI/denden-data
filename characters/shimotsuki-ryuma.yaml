@@ -36,7 +36,10 @@ origin:
 birthday:
   month: 11
   day: 6
+  revealed_chapter: 1023
 blood_type: XF
+blood_type_revealed_chapter: 1023
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 1023

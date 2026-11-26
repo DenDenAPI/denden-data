@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Scientist
   status: current
+  revealed_chapter: 1130
 affiliations:
 - type: crew
   slug: germ-pirates

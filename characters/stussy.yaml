@@ -31,10 +31,14 @@ affiliations:
 birthday:
   month: 4
   day: 24
+  revealed_chapter: 906
 blood_type: S
+blood_type_revealed_chapter: 934
 ages:
 - years: 36
   period: other
+  revealed_chapter: 934
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 934

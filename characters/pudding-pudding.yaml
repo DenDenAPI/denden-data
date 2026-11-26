@@ -25,6 +25,7 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 928
 residences:
 - type: location
   slug: 77th-branch
@@ -32,3 +33,4 @@ residences:
 birthday:
   month: 5
   day: 16
+  revealed_chapter: 928

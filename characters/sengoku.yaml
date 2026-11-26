@@ -37,15 +37,21 @@ affiliations:
   revealed_chapter: 234
 origin:
   region: South Blue
+  revealed_chapter: 934
 birthday:
   month: 5
   day: 9
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 934
 ages:
 - years: 77
   period: debut
+  revealed_chapter: 831
 - years: 79
   period: post_timeskip
+  revealed_chapter: 831
 heights:
 - cm: 278
   period: other
+  revealed_chapter: 934

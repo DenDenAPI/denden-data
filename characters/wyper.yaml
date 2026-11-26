@@ -31,15 +31,21 @@ affiliations:
 origin:
   location: skypiea
   region: Sky Island
+  revealed_chapter: 938
 birthday:
   month: 8
   day: 18
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 938
 ages:
 - years: 22
   period: debut
+  revealed_chapter: 938
 - years: 24
   period: post_timeskip
+  revealed_chapter: 938
 heights:
 - cm: 183
   period: other
+  revealed_chapter: 938

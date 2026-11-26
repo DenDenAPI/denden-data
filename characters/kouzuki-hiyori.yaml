@@ -44,10 +44,13 @@ residences:
 birthday:
   month: 12
   day: 23
+  revealed_chapter: 1017
 blood_type: XF
+blood_type_revealed_chapter: 1017
 ages:
 - years: 26
   period: other
 heights:
 - cm: 170
   period: other
+  revealed_chapter: 1017

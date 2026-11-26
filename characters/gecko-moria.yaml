@@ -34,22 +34,29 @@ affiliations:
   status: former
 origin:
   region: West Blue
+  revealed_chapter: 947
 residences:
 - type: location
   slug: wano-country
   status: former
+  revealed_chapter: 1175
 birthday:
   month: 9
   day: 6
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 947
 ages:
 - years: 48
   period: debut
+  revealed_chapter: 586
 - years: 50
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 692
   period: debut
+  revealed_chapter: 586
 bounties:
 - amount: 320000000
   status: current

@@ -31,6 +31,7 @@ affiliations:
   status: former
 origin:
   region: South Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: hachinosu
@@ -39,12 +40,17 @@ residences:
 birthday:
   month: 3
   day: 29
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 922
 ages:
 - years: 34
   period: debut
+  revealed_chapter: 922
 - years: 36
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 361
   period: other
+  revealed_chapter: 922

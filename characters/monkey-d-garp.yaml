@@ -36,6 +36,7 @@ affiliations:
 origin:
   location: goa-kingdom
   region: East Blue
+  revealed_chapter: 934
 residences:
 - type: location
   slug: foosha-village
@@ -43,15 +44,20 @@ residences:
 birthday:
   month: 5
   day: 2
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 934
 ages:
 - years: 76
   period: debut
+  revealed_chapter: 831
 - years: 78
   period: post_timeskip
+  revealed_chapter: 831
 heights:
 - cm: 287
   period: other
+  revealed_chapter: 934
 marine_rating:
   stars: 3
   equivalent: 3000000000

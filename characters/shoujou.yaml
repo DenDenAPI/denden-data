@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 231
 origin:
   region: South Blue
+  revealed_chapter: 931
 residences:
 - type: location
   slug: jaya
@@ -37,15 +38,19 @@ residences:
 birthday:
   month: 5
   day: 8
+  revealed_chapter: 931
 blood_type: X
+blood_type_revealed_chapter: 931
 ages:
 - years: 25
   period: debut
 - years: 27
   period: post_timeskip
+  revealed_chapter: 931
 heights:
 - cm: 351
   period: other
+  revealed_chapter: 931
 bounties:
 - amount: 36000000
   status: current

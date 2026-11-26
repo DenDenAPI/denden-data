@@ -16,6 +16,7 @@ epithets:
 - en: Flag-Bearer of Freedom
   ja: 自由の旗手マリアンヌ
   romaji: Jiyū no Kishu Mariannu
+  revealed_chapter: 928
 aliases:
 - en: Miss Goldenweek
   ja: ミス・ゴールデンウィーク
@@ -38,18 +39,24 @@ affiliations:
   revealed_chapter: 399
 origin:
   region: North Blue
+  revealed_chapter: 928
 birthday:
   month: 4
   day: 29
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 928
 ages:
 - years: 16
   period: debut
+  revealed_chapter: 928
 - years: 18
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 145
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 29000000
   status: current

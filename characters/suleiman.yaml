@@ -34,16 +34,21 @@ affiliations:
   revealed_chapter: 868
 origin:
   region: South Blue
+  revealed_chapter: 944
 birthday:
   month: 1
   day: 30
+  revealed_chapter: 916
 blood_type: S
+blood_type_revealed_chapter: 944
 ages:
 - years: 40
   period: other
+  revealed_chapter: 944
 heights:
 - cm: 240
   period: other
+  revealed_chapter: 944
 bounties:
 - amount: 67000000
   status: current

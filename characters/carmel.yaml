@@ -48,6 +48,7 @@ residences:
 birthday:
   month: 12
   day: 21
+  revealed_chapter: 895
 blood_type: S
 heights:
 - cm: 185

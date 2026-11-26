@@ -16,13 +16,16 @@ aliases:
 - en: Momousagi
   ja: 桃兎
   romaji: Momousagi
+  revealed_chapter: 907
 occupations:
 - name: Vice Admiral
   status: current
+  revealed_chapter: 907
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 907
 marine_rating:
   stars: 5
   minimum: true

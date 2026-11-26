@@ -21,6 +21,7 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: loguetown
@@ -28,3 +29,4 @@ residences:
 birthday:
   month: 9
   day: 23
+  revealed_chapter: 938

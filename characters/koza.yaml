@@ -31,6 +31,7 @@ affiliations:
   revealed_chapter: 163
 origin:
   region: Grand Line
+  revealed_chapter: 928
 residences:
 - type: location
   slug: yuba
@@ -43,12 +44,17 @@ residences:
 birthday:
   month: 5
   day: 26
+  revealed_chapter: 831
 blood_type: X
+blood_type_revealed_chapter: 928
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 928
 - years: 22
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 177
   period: other
+  revealed_chapter: 928

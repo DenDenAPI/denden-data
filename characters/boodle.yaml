@@ -27,6 +27,7 @@ residences:
 birthday:
   month: 1
   day: 16
+  revealed_chapter: 883
 blood_type: F
 ages:
 - years: 73

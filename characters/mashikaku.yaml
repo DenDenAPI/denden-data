@@ -24,6 +24,7 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: loguetown
@@ -31,6 +32,7 @@ residences:
 birthday:
   month: 12
   day: 26
+  revealed_chapter: 938
 bounties:
 - amount: 100000
   status: current

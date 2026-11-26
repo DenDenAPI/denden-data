@@ -52,6 +52,7 @@ affiliations:
 origin:
   location: shade-port
   region: Grand Line
+  revealed_chapter: 931
 residences:
 - type: location
   slug: hachinosu
@@ -67,15 +68,20 @@ residences:
 birthday:
   month: 8
   day: 3
+  revealed_chapter: 594
 blood_type: F
+blood_type_revealed_chapter: 931
 ages:
 - years: 38
   period: debut
+  revealed_chapter: 586
 - years: 40
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 344
   period: debut
+  revealed_chapter: 586
 bounties:
 - amount: 0
   status: former

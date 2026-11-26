@@ -36,10 +36,14 @@ origin:
 birthday:
   month: 11
   day: 30
+  revealed_chapter: 873
 blood_type: F
+blood_type_revealed_chapter: 853
 ages:
 - years: 24
   period: other
+  revealed_chapter: 853
 heights:
 - cm: 173
   period: other
+  revealed_chapter: 853

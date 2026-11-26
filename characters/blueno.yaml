@@ -25,15 +25,21 @@ affiliations:
   revealed_chapter: 345
 origin:
   region: North Blue
+  revealed_chapter: 944
 birthday:
   month: 4
   day: 20
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 944
 ages:
 - years: 30
   period: debut
+  revealed_chapter: 469
 - years: 32
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 258
   period: other
+  revealed_chapter: 944

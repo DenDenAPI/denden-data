@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Retainer
   status: current
+  revealed_chapter: 1017
 affiliations:
 - type: organization
   slug: shimotsuki-family
   status: current
+  revealed_chapter: 1017

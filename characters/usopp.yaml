@@ -80,17 +80,23 @@ residences:
 birthday:
   month: 4
   day: 1
+  revealed_chapter: 150
 blood_type: S
+blood_type_revealed_chapter: 664
 ages:
 - years: 17
   period: debut
+  revealed_chapter: 51
 - years: 19
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 174
   period: debut
+  revealed_chapter: 107
 - cm: 176
   period: post_timeskip
+  revealed_chapter: 657
 bounties:
 - amount: 30000000
   status: former

@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Shipwright
   status: current
+  revealed_chapter: 1153
 affiliations:
 - type: crew
   slug: roger-pirates

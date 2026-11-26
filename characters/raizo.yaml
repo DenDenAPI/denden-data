@@ -55,9 +55,12 @@ birthday:
   month: 2
   day: 26
 blood_type: X
+blood_type_revealed_chapter: 1017
 ages:
 - years: 35
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 311
   period: other
+  revealed_chapter: 975

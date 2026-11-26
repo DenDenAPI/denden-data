@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Bar Owner
   status: current
+  revealed_chapter: 916
 - name: Bartender
   status: current
 affiliations:
@@ -24,6 +25,7 @@ affiliations:
   revealed_chapter: 614
 origin:
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: foosha-village
@@ -32,14 +34,20 @@ residences:
 birthday:
   month: 2
   day: 23
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 916
 ages:
 - years: 19
   period: debut
+  revealed_chapter: 916
 - years: 29
   period: pre_timeskip
+  revealed_chapter: 916
 - years: 31
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 166
   period: other
+  revealed_chapter: 916

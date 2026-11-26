@@ -19,6 +19,7 @@ occupations:
 origin:
   location: birka
   region: Sky Island
+  revealed_chapter: 947
 residences:
 - type: location
   slug: weatheria
@@ -27,12 +28,17 @@ residences:
 birthday:
   month: 10
   day: 14
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 947
 ages:
 - years: 95
   period: debut
+  revealed_chapter: 947
 - years: 97
   period: post_timeskip
+  revealed_chapter: 947
 heights:
 - cm: 253
   period: other
+  revealed_chapter: 947

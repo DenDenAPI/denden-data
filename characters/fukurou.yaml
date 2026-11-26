@@ -26,15 +26,21 @@ affiliations:
   revealed_chapter: 379
 origin:
   region: Grand Line
+  revealed_chapter: 944
 birthday:
   month: 6
   day: 29
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 944
 ages:
 - years: 29
   period: debut
+  revealed_chapter: 469
 - years: 31
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 331
   period: other
+  revealed_chapter: 944

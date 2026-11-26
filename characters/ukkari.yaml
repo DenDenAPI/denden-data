@@ -21,6 +21,7 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: shells-town
@@ -28,6 +29,7 @@ residences:
 birthday:
   month: 2
   day: 17
+  revealed_chapter: 919
 bounties:
 - amount: 100000
   status: current

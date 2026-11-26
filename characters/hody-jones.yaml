@@ -36,6 +36,7 @@ affiliations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 931
 residences:
 - type: location
   slug: fish-man-district
@@ -44,10 +45,14 @@ residences:
 birthday:
   month: 4
   day: 14
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 931
 ages:
 - years: 30
   period: other
+  revealed_chapter: 675
 heights:
 - cm: 331
   period: other
+  revealed_chapter: 931

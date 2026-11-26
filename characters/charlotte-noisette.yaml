@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Minister of Finance
   status: current
+  revealed_chapter: 906
 affiliations:
 - type: organization
   slug: charlotte-family
@@ -28,9 +29,12 @@ residences:
 - type: location
   slug: kinko-island
   status: current
+  revealed_chapter: 906
 birthday:
   month: 12
   day: 15
+  revealed_chapter: 916
 ages:
 - years: 41
   period: other
+  revealed_chapter: 916

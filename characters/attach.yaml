@@ -15,11 +15,13 @@ epithets:
 - en: Flaming Attachan
   ja: 炎のアタっちゃん
   romaji: Honō no Atatchan
+  revealed_chapter: 436
 occupations:
 - name: Reporter
   status: current
 - name: Marine Photography Department chief
   status: former
+  revealed_chapter: 436
 affiliations:
 - type: organization
   slug: world-economy-news-paper
@@ -27,3 +29,4 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 436

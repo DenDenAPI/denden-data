@@ -49,6 +49,7 @@ affiliations:
   revealed_chapter: 1068
 origin:
   region: Grand Line
+  revealed_chapter: 938
 residences:
 - type: location
   slug: punk-hazard
@@ -57,13 +58,17 @@ residences:
 birthday:
   month: 4
   day: 9
+  revealed_chapter: 715
 blood_type: X
+blood_type_revealed_chapter: 938
 ages:
 - years: 55
   period: other
+  revealed_chapter: 938
 heights:
 - cm: 309
   period: other
+  revealed_chapter: 938
 bounties:
 - amount: 300000000
   status: current

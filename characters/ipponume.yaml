@@ -22,6 +22,7 @@ affiliations:
   revealed_chapter: 630
 origin:
   region: East Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: loguetown
@@ -30,3 +31,4 @@ residences:
 birthday:
   month: 12
   day: 1
+  revealed_chapter: 938

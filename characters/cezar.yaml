@@ -19,3 +19,4 @@ residences:
 - type: location
   slug: ilisia-kingdom
   status: current
+  revealed_chapter: 1130

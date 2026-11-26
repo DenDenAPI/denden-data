@@ -34,6 +34,7 @@ affiliations:
 origin:
   location: totto-land
   region: Grand Line
+  revealed_chapter: 947
 residences:
 - type: location
   slug: cacao-island
@@ -41,7 +42,9 @@ residences:
 birthday:
   month: 1
   day: 27
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 947
 ages:
 - years: 24
   period: debut
@@ -50,6 +53,7 @@ ages:
 heights:
 - cm: 215
   period: other
+  revealed_chapter: 947
 bounties:
 - amount: 24000000
   status: current

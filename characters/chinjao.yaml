@@ -39,6 +39,7 @@ affiliations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 944
 residences:
 - type: location
   slug: kano-country
@@ -47,13 +48,17 @@ residences:
 birthday:
   month: 12
   day: 12
+  revealed_chapter: 844
 blood_type: F
+blood_type_revealed_chapter: 944
 ages:
 - years: 78
   period: other
+  revealed_chapter: 944
 heights:
 - cm: 520
   period: other
+  revealed_chapter: 944
 bounties:
 - amount: 542000000
   status: current

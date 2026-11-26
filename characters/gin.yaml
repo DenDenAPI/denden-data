@@ -29,18 +29,24 @@ affiliations:
   revealed_chapter: 67
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 4
   day: 7
+  revealed_chapter: 821
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 25
   period: debut
+  revealed_chapter: 919
 - years: 27
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 186
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 12000000
   status: current

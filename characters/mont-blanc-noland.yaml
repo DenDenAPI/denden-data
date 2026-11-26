@@ -41,7 +41,10 @@ origin:
 birthday:
   month: 10
   day: 9
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 931
 heights:
 - cm: 220
   period: other
+  revealed_chapter: 931

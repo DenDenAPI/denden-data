@@ -32,6 +32,7 @@ occupations:
   revealed_chapter: 966
 - name: Navigator
   status: current
+  revealed_chapter: 1153
 affiliations:
 - type: crew
   slug: roger-pirates

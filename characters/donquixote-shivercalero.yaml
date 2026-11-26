@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 1130
 residences:
 - type: location
   slug: mary-geoise

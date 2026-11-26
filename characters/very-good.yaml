@@ -23,6 +23,7 @@ affiliations:
 birthday:
   month: 9
   day: 10
+  revealed_chapter: 657
 marine_rating:
   stars: 1
   minimum: true

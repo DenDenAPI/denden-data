@@ -17,12 +17,14 @@ occupations:
   status: current
 - name: Assassin
   status: current
+  revealed_chapter: 941
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
 origin:
   region: North Blue
+  revealed_chapter: 941
 residences:
 - type: location
   slug: spider-miles
@@ -34,13 +36,17 @@ residences:
 birthday:
   month: 6
   day: 12
+  revealed_chapter: 853
 blood_type: X
+blood_type_revealed_chapter: 941
 ages:
 - years: 46
   period: other
+  revealed_chapter: 758
 heights:
 - cm: 244
   period: other
+  revealed_chapter: 941
 bounties:
 - amount: 58000000
   status: former

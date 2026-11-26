@@ -17,6 +17,7 @@ occupations:
   revealed_chapter: 581
 - name: Navigator
   status: current
+  revealed_chapter: 715
 - name: Guardians' helper
   status: current
 affiliations:
@@ -40,15 +41,20 @@ residences:
 birthday:
   month: 11
   day: 20
+  revealed_chapter: 602
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 853
 - years: 22
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 240
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 1500
   status: current

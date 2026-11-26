@@ -25,6 +25,7 @@ ages:
 - years: 76
   period: other
   minimum: true
+  revealed_chapter: 1130
 marine_rating:
   stars: 5
   minimum: true

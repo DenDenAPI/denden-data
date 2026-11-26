@@ -20,9 +20,11 @@ affiliations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 938
 birthday:
   month: 8
   day: 24
+  revealed_chapter: 938
 marine_rating:
   stars: 1
   minimum: true

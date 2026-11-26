@@ -15,12 +15,14 @@ occupations:
   status: current
 - name: Sniper
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: crew
   slug: kuja-pirates
   status: current
 origin:
   location: calm-belt
+  revealed_chapter: 947
 residences:
 - type: location
   slug: amazon-lily
@@ -28,3 +30,4 @@ residences:
 birthday:
   month: 9
   day: 16
+  revealed_chapter: 657

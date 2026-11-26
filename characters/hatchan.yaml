@@ -43,15 +43,20 @@ residences:
 birthday:
   month: 8
   day: 8
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 928
 ages:
 - years: 36
   period: debut
+  revealed_chapter: 928
 - years: 38
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 220
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 8000000
   status: current

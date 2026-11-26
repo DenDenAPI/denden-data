@@ -27,6 +27,7 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: karai-bari-island
@@ -34,3 +35,4 @@ residences:
 birthday:
   month: 2
   day: 25
+  revealed_chapter: 919

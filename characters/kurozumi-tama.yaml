@@ -21,6 +21,7 @@ affiliations:
 - type: organization
   slug: kurozumi-family
   status: current
+  revealed_chapter: 1076
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -37,10 +38,13 @@ residences:
 birthday:
   month: 3
   day: 3
+  revealed_chapter: 1011
 blood_type: F
+blood_type_revealed_chapter: 1011
 ages:
 - years: 8
   period: other
 heights:
 - cm: 108
   period: other
+  revealed_chapter: 1011

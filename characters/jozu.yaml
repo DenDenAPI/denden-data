@@ -27,15 +27,21 @@ affiliations:
   revealed_chapter: 568
 origin:
   region: West Blue
+  revealed_chapter: 926
 birthday:
   month: 11
   day: 11
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 926
 ages:
 - years: 40
   period: debut
+  revealed_chapter: 926
 - years: 42
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 503
   period: other
+  revealed_chapter: 926

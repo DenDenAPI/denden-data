@@ -23,6 +23,7 @@ affiliations:
 origin:
   location: conomi-islands
   region: East Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: cocoyasi-village
@@ -31,12 +32,17 @@ residences:
 birthday:
   month: 6
   day: 17
+  revealed_chapter: 922
 blood_type: F
+blood_type_revealed_chapter: 922
 ages:
 - years: 46
   period: debut
+  revealed_chapter: 922
 - years: 48
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 173
   period: other
+  revealed_chapter: 922

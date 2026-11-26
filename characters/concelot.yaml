@@ -27,6 +27,7 @@ affiliations:
   status: former
 origin:
   region: Grand Line
+  revealed_chapter: 947
 residences:
 - type: location
   slug: zou
@@ -34,10 +35,14 @@ residences:
 birthday:
   month: 11
   day: 2
+  revealed_chapter: 947
 blood_type: F
+blood_type_revealed_chapter: 947
 ages:
 - years: 29
   period: other
+  revealed_chapter: 947
 heights:
 - cm: 204
   period: other
+  revealed_chapter: 947

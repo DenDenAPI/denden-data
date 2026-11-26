@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: CP0 Chief
   status: former
+  revealed_chapter: 1119
 - name: CP9 Chief
   status: former
 - name: CP5 Chief
@@ -30,15 +31,21 @@ affiliations:
   revealed_chapter: 358
 origin:
   region: Grand Line
+  revealed_chapter: 944
 birthday:
   month: 3
   day: 11
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 944
 ages:
 - years: 39
   period: debut
+  revealed_chapter: 469
 - years: 41
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 192
   period: other
+  revealed_chapter: 944

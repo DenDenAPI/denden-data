@@ -37,10 +37,13 @@ residences:
 birthday:
   month: 11
   day: 3
+  revealed_chapter: 1002
 blood_type: F
+blood_type_revealed_chapter: 1023
 ages:
 - years: 28
   period: other
 heights:
 - cm: 263
   period: other
+  revealed_chapter: 1014

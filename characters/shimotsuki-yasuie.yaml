@@ -40,7 +40,10 @@ residences:
 birthday:
   month: 4
   day: 2
+  revealed_chapter: 1011
 blood_type: F
+blood_type_revealed_chapter: 1011
 heights:
 - cm: 155
   period: other
+  revealed_chapter: 1011

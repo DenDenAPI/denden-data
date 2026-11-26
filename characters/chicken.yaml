@@ -18,6 +18,7 @@ occupations:
 origin:
   location: goa-kingdom
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: foosha-village
@@ -25,3 +26,4 @@ residences:
 birthday:
   month: 2
   day: 8
+  revealed_chapter: 916

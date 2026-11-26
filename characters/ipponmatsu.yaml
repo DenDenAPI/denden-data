@@ -21,6 +21,7 @@ affiliations:
   revealed_chapter: 630
 origin:
   region: East Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: loguetown
@@ -29,12 +30,17 @@ residences:
 birthday:
   month: 1
   day: 31
+  revealed_chapter: 922
 blood_type: X
+blood_type_revealed_chapter: 922
 ages:
 - years: 38
   period: debut
+  revealed_chapter: 922
 - years: 40
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 157
   period: other
+  revealed_chapter: 922

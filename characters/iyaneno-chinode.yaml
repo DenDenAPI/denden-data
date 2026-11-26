@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Newspaper Columnist
   status: current
+  revealed_chapter: 1096
 affiliations:
 - type: organization
   slug: world-economy-news-paper
@@ -22,3 +23,4 @@ affiliations:
 ages:
 - years: 24
   period: other
+  revealed_chapter: 1096

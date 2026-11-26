@@ -14,9 +14,11 @@ first_appearance:
 occupations:
 - name: Mayor
   status: current
+  revealed_chapter: 240
 origin:
   location: syrup-village
   region: East Blue
+  revealed_chapter: 928
 residences:
 - type: location
   slug: syrup-village
@@ -24,3 +26,4 @@ residences:
 birthday:
   month: 10
   day: 15
+  revealed_chapter: 928

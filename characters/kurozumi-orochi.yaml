@@ -36,7 +36,10 @@ residences:
 birthday:
   month: 9
   day: 23
+  revealed_chapter: 1023
 blood_type: XF
+blood_type_revealed_chapter: 1023
 heights:
 - cm: 350
   period: other
+  revealed_chapter: 1023

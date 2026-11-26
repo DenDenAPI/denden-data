@@ -19,6 +19,8 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: current
+  revealed_chapter: 938
 birthday:
   month: 10
   day: 21
+  revealed_chapter: 938

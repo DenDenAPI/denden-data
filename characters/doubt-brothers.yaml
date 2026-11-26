@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Shinuchi
   status: current
+  revealed_chapter: 1130
 affiliations:
 - type: crew
   slug: beasts-pirates

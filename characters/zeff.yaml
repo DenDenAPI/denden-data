@@ -29,15 +29,21 @@ affiliations:
   revealed_chapter: 56
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 4
   day: 2
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 919
 ages:
 - years: 65
   period: debut
+  revealed_chapter: 919
 - years: 67
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 189
   period: other
+  revealed_chapter: 919

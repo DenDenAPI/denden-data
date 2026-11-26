@@ -28,6 +28,7 @@ affiliations:
   status: current
 origin:
   region: North Blue
+  revealed_chapter: 931
 residences:
 - type: location
   slug: jaya
@@ -36,15 +37,20 @@ residences:
 birthday:
   month: 9
   day: 11
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 931
 ages:
 - years: 41
   period: debut
+  revealed_chapter: 931
 - years: 43
   period: post_timeskip
+  revealed_chapter: 931
 heights:
 - cm: 242
   period: other
+  revealed_chapter: 931
 bounties:
 - amount: 25000000
   status: current

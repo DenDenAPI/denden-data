@@ -19,8 +19,10 @@ occupations:
   status: current
 - name: Botanist
   status: current
+  revealed_chapter: 947
 origin:
   region: South Blue
+  revealed_chapter: 947
 residences:
 - type: location
   slug: boin-archipelago
@@ -29,12 +31,17 @@ residences:
 birthday:
   month: 5
   day: 10
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 947
 ages:
 - years: 49
   period: debut
+  revealed_chapter: 947
 - years: 51
   period: post_timeskip
+  revealed_chapter: 947
 heights:
 - cm: 214
   period: other
+  revealed_chapter: 947

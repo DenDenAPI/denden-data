@@ -15,7 +15,7 @@ first_appearance:
 occupations:
 - name: Vice Admiral
   status: current
-  revealed_chapter: 409
+  revealed_chapter: 240
 affiliations:
 - type: organization
   slug: marines
@@ -24,6 +24,7 @@ affiliations:
 origin:
   location: elbaph
   region: Grand Line
+  revealed_chapter: 938
 residences:
 - type: location
   slug: elbaph
@@ -31,6 +32,7 @@ residences:
 birthday:
   month: 5
   day: 19
+  revealed_chapter: 657
 marine_rating:
   stars: 5
   minimum: true

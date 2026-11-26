@@ -47,6 +47,7 @@ affiliations:
   revealed_chapter: 131
 origin:
   region: Grand Line
+  revealed_chapter: 926
 residences:
 - type: location
   slug: evil-black-drum-kingdom
@@ -59,12 +60,17 @@ residences:
 birthday:
   month: 8
   day: 9
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 926
 ages:
 - years: 27
   period: debut
+  revealed_chapter: 853
 - years: 29
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 207
   period: other
+  revealed_chapter: 926

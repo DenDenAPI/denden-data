@@ -30,6 +30,7 @@ affiliations:
 origin:
   location: totto-land
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: funwari-island
@@ -38,10 +39,13 @@ residences:
 birthday:
   month: 1
   day: 27
+  revealed_chapter: 825
 blood_type: F
+blood_type_revealed_chapter: 950
 ages:
 - years: 26
   period: other
 heights:
 - cm: 215
   period: other
+  revealed_chapter: 950

@@ -100,21 +100,29 @@ residences:
 birthday:
   month: 5
   day: 5
+  revealed_chapter: 150
 blood_type: F
+blood_type_revealed_chapter: 664
 ages:
 - years: 7
   period: debut
+  revealed_chapter: 51
 - years: 17
   period: pre_timeskip
+  revealed_chapter: 51
 - years: 19
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 91
   period: debut
+  revealed_chapter: 916
 - cm: 172
   period: pre_timeskip
+  revealed_chapter: 107
 - cm: 174
   period: post_timeskip
+  revealed_chapter: 657
 bounties:
 - amount: 30000000
   status: former

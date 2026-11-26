@@ -33,6 +33,7 @@ affiliations:
   revealed_chapter: 449
 origin:
   region: West Blue
+  revealed_chapter: 947
 residences:
 - type: location
   slug: kuraigana-island
@@ -41,12 +42,17 @@ residences:
 birthday:
   month: 6
   day: 7
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 947
 ages:
 - years: 23
   period: debut
+  revealed_chapter: 831
 - years: 25
   period: post_timeskip
+  revealed_chapter: 831
 heights:
 - cm: 160
   period: other
+  revealed_chapter: 831

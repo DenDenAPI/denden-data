@@ -16,6 +16,7 @@ epithets:
 - en: Courier
   ja: 運び屋
   romaji: Hakobi-ya
+  revealed_chapter: 928
 aliases:
 - en: Miss Valentine
   ja: ミス・バレンタイン
@@ -37,18 +38,24 @@ affiliations:
   revealed_chapter: 361
 origin:
   region: West Blue
+  revealed_chapter: 928
 birthday:
   month: 2
   day: 14
+  revealed_chapter: 821
 blood_type: XF
+blood_type_revealed_chapter: 928
 ages:
 - years: 22
   period: debut
+  revealed_chapter: 928
 - years: 24
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 177
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 7500000
   status: current

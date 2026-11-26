@@ -21,6 +21,7 @@ affiliations:
   status: current
 origin:
   location: calm-belt
+  revealed_chapter: 926
 residences:
 - type: location
   slug: amazon-lily
@@ -31,15 +32,20 @@ residences:
 birthday:
   month: 9
   day: 5
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 926
 ages:
 - years: 26
   period: debut
+  revealed_chapter: 926
 - years: 28
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 432
   period: other
+  revealed_chapter: 926
 bounties:
 - amount: 40000000
   status: current

@@ -19,6 +19,7 @@ affiliations:
   revealed_chapter: 488
 origin:
   region: West Blue
+  revealed_chapter: 926
 residences:
 - type: location
   slug: reverse-mountain
@@ -26,12 +27,15 @@ residences:
 birthday:
   month: 9
   day: 16
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 926
 ages:
 - years: 51
   period: debut
 - years: 53
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 40000
   period: other

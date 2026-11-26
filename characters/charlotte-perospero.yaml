@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 834
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: candy-island
@@ -36,13 +37,17 @@ residences:
 birthday:
   month: 3
   day: 14
+  revealed_chapter: 883
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 50
   period: other
+  revealed_chapter: 895
 heights:
 - cm: 333
   period: other
+  revealed_chapter: 895
 bounties:
 - amount: 700000000
   status: current

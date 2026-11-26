@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Scout
   status: current
+  revealed_chapter: 739
 - name: Pirate
   status: current
 affiliations:

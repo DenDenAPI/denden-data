@@ -15,6 +15,7 @@ epithets:
 - en: Morley of Fur
   ja: 毛皮のモーリー
   romaji: Kegawa no Mōrī
+  revealed_chapter: 1017
 occupations:
 - name: West Army Commander of the Revolutionary Army
   status: current
@@ -22,6 +23,7 @@ occupations:
   status: former
 - name: Prisoner of Impel Down
   status: former
+  revealed_chapter: 926
 affiliations:
 - type: organization
   slug: revolutionary-army
@@ -29,6 +31,7 @@ affiliations:
   revealed_chapter: 904
 origin:
   region: West Blue
+  revealed_chapter: 1017
 residences:
 - type: location
   slug: baltigo
@@ -40,13 +43,17 @@ residences:
 birthday:
   month: 9
   day: 11
+  revealed_chapter: 1017
 blood_type: F
+blood_type_revealed_chapter: 1017
 ages:
 - years: 160
   period: other
+  revealed_chapter: 926
 heights:
 - cm: 1253
   period: other
+  revealed_chapter: 1017
 bounties:
 - amount: 293000000
   status: current

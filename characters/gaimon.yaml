@@ -20,6 +20,7 @@ occupations:
   revealed_chapter: 22
 origin:
   region: East Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: island-of-rare-animals
@@ -27,12 +28,17 @@ residences:
 birthday:
   month: 8
   day: 5
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 922
 ages:
 - years: 43
   period: debut
+  revealed_chapter: 922
 - years: 45
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 130
   period: other
+  revealed_chapter: 922

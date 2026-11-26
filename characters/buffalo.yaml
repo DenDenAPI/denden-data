@@ -26,6 +26,7 @@ affiliations:
   revealed_chapter: 767
 origin:
   region: North Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: spider-miles
@@ -37,10 +38,14 @@ residences:
 birthday:
   month: 4
   day: 8
+  revealed_chapter: 853
 blood_type: F
+blood_type_revealed_chapter: 938
 ages:
 - years: 30
   period: other
+  revealed_chapter: 758
 heights:
 - cm: 696
   period: other
+  revealed_chapter: 938

@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 390
 origin:
   region: Grand Line
+  revealed_chapter: 941
 residences:
 - type: location
   slug: water-7
@@ -37,16 +38,23 @@ residences:
 birthday:
   month: 1
   day: 7
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 941
 ages:
 - years: 19
   period: debut
+  revealed_chapter: 941
 - years: 21
   period: post_timeskip
+  revealed_chapter: 941
 - years: 20
   period: debut
+  revealed_chapter: 941
 - years: 22
   period: post_timeskip
+  revealed_chapter: 941
 heights:
 - cm: 187
   period: other
+  revealed_chapter: 941

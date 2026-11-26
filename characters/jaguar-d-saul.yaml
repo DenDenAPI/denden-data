@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 396
 origin:
   region: South Blue
+  revealed_chapter: 941
 residences:
 - type: location
   slug: elbaph
@@ -37,12 +38,16 @@ residences:
 birthday:
   month: 3
   day: 6
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 941
 ages:
 - years: 105
   period: debut
+  revealed_chapter: 941
 - years: 127
   period: post_timeskip
 heights:
 - cm: 1950
   period: other
+  revealed_chapter: 941

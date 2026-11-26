@@ -16,6 +16,7 @@ epithets:
 - en: Massacre Weapon
   ja: 殺戮兵器
   romaji: Satsuriku Heiki
+  revealed_chapter: 934
 occupations:
 - name: Cipher Pol Agent
   status: current
@@ -35,19 +36,25 @@ affiliations:
 origin:
   location: guanhao
   region: Grand Line
+  revealed_chapter: 934
 residences:
 - type: location
   slug: guanhao
   status: former
+  revealed_chapter: 934
 birthday:
   month: 6
   day: 2
+  revealed_chapter: 425
 blood_type: XF
+blood_type_revealed_chapter: 934
 ages:
 - years: 28
   period: debut
 - years: 30
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 212
   period: other
+  revealed_chapter: 934

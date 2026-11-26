@@ -33,19 +33,26 @@ affiliations:
   revealed_chapter: 323
 origin:
   region: East Blue
+  revealed_chapter: 944
 residences:
 - type: location
   slug: guanhao
   status: former
+  revealed_chapter: 944
 birthday:
   month: 8
   day: 7
+  revealed_chapter: 425
 blood_type: X
+blood_type_revealed_chapter: 944
 ages:
 - years: 23
   period: debut
+  revealed_chapter: 469
 - years: 25
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 193
   period: other
+  revealed_chapter: 944

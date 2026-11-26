@@ -47,6 +47,7 @@ affiliations:
   revealed_chapter: 98
 origin:
   region: Grand Line
+  revealed_chapter: 922
 residences:
 - type: location
   slug: g-5
@@ -59,15 +60,20 @@ residences:
 birthday:
   month: 3
   day: 14
+  revealed_chapter: 263
 blood_type: XF
+blood_type_revealed_chapter: 922
 ages:
 - years: 34
   period: debut
+  revealed_chapter: 263
 - years: 36
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 209
   period: other
+  revealed_chapter: 922
 marine_rating:
   stars: 5
   minimum: true

@@ -29,13 +29,18 @@ affiliations:
   revealed_chapter: 956
 origin:
   region: Grand Line
+  revealed_chapter: 950
 birthday:
   month: 7
   day: 14
+  revealed_chapter: 906
 blood_type: XF
+blood_type_revealed_chapter: 950
 ages:
 - years: 53
   period: other
+  revealed_chapter: 950
 heights:
 - cm: 305
   period: other
+  revealed_chapter: 950
