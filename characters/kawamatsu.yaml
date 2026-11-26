@@ -31,10 +31,10 @@ occupations:
   revealed_chapter: 1152
 - name: Retainer of the Kouzuki Family
   status: current
-  revealed_chapter: 948
+  revealed_chapter: 921
 - name: Samurai
   status: current
-  revealed_chapter: 954
+  revealed_chapter: 921
 - name: Sumo Wrestler
   status: current
   revealed_chapter: 948
@@ -44,11 +44,11 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
-  revealed_chapter: 948
+  revealed_chapter: 921
 - type: organization
   slug: nine-red-scabbards
   status: current
-  revealed_chapter: 955
+  revealed_chapter: 939
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

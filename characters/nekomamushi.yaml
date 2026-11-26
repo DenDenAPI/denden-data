@@ -59,7 +59,7 @@ affiliations:
 - type: organization
   slug: nine-red-scabbards
   status: current
-  revealed_chapter: 977
+  revealed_chapter: 939
 - type: crew
   slug: roger-pirates
   status: former
@@ -67,7 +67,7 @@ affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: former
-  revealed_chapter: 964
+  revealed_chapter: 820
 origin:
   region: Grand Line
   revealed_chapter: 947
