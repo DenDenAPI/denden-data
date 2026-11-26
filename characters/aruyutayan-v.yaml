@@ -14,9 +14,11 @@ first_appearance:
 occupations:
 - name: King
   status: current
+  revealed_chapter: 292
 affiliations:
 - type: location
   slug: lvneel-kingdom
   status: current
+  revealed_chapter: 292
 origin:
   region: North Blue

@@ -29,6 +29,7 @@ affiliations:
 - type: organization
   slug: chinjao-family
   status: current
+  revealed_chapter: 881
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

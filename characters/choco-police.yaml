@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Police Officer
   status: current
+  revealed_chapter: 827
 affiliations:
 - type: location
   slug: cacao-island
   status: current
+  revealed_chapter: 827
 residences:
 - type: location
   slug: cacao-island

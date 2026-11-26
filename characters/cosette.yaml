@@ -20,6 +20,7 @@ affiliations:
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 839
 birthday:
   month: 5
   day: 2

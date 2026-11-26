@@ -15,10 +15,13 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 552
 affiliations:
 - type: crew
   slug: spade-pirates
   status: current
+  revealed_chapter: 552
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 552

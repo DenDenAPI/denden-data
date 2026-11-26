@@ -14,3 +14,4 @@ residences:
 - type: location
   slug: egghead
   status: current
+  revealed_chapter: 1061

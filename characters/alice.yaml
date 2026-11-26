@@ -20,8 +20,11 @@ affiliations:
 - type: organization
   slug: galley-la-company
   status: current
+  revealed_chapter: 655
 ages:
 - years: 8
   period: debut
+  revealed_chapter: 655
 - years: 10
   period: post_timeskip
+  revealed_chapter: 655

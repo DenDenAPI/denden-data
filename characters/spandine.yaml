@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: CP9 Chief
   status: former
+  revealed_chapter: 392
 affiliations:
 - type: organization
   slug: cp9

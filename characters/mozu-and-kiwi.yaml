@@ -16,12 +16,14 @@ epithets:
 - en: Square Sisters
   ja: スクエアシスターズ
   romaji: Sukuea Shisutāzu
+  revealed_chapter: 335
 occupations:
 - name: Bartenders
   status: current
   revealed_chapter: 654
 - name: Bounty Hunters
   status: former
+  revealed_chapter: 335
 affiliations:
 - type: organization
   slug: franky-family

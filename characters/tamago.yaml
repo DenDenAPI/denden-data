@@ -18,6 +18,7 @@ epithets:
 occupations:
 - name: Combatant
   status: current
+  revealed_chapter: 651
 - name: Broker
   status: current
 affiliations:

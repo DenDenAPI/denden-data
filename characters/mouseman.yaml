@@ -20,10 +20,13 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 915
 residences:
 - type: location
   slug: kuri
   status: current
+  revealed_chapter: 915
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 915

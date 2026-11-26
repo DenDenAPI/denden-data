@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Queen of the Ryugu Kingdom
   status: current
+  revealed_chapter: 621
 affiliations:
 - type: organization
   slug: neptune-family

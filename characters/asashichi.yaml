@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Soba Shop Owner
   status: current
+  revealed_chapter: 930
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 930

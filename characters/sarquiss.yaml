@@ -15,6 +15,7 @@ epithets:
 - en: Big Knife Sarquiss
   ja: ビッグナイフ・サーキース
   romaji: Biggunaifu Sākīsu
+  revealed_chapter: 223
 occupations:
 - name: First Mate
   status: former
@@ -23,6 +24,7 @@ affiliations:
 - type: crew
   slug: bellamy-pirates
   status: current
+  revealed_chapter: 223
 origin:
   location: notice
   region: North Blue

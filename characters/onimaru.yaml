@@ -16,6 +16,7 @@ epithets:
 - en: Gyukimaru on Oihagi Bridge
   ja: おいはぎ橋の牛鬼丸
   romaji: Oihagi-bashi no Gyūkimaru
+  revealed_chapter: 938
 aliases:
 - en: Gyukimaru
   ja: 牛鬼丸
@@ -26,6 +27,7 @@ occupations:
   status: current
 - name: Highway Robber
   status: current
+  revealed_chapter: 937
 - name: Pet
   status: former
   revealed_chapter: 953
@@ -37,6 +39,7 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 953
 origin:
   location: wano-country
   region: Grand Line

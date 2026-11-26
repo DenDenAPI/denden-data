@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Recon Squad
   status: current
+  revealed_chapter: 1012
 - name: Guard
   status: current
+  revealed_chapter: 804
 affiliations:
 - type: location
   slug: mokomo-dukedom

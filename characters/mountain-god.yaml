@@ -15,6 +15,7 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 963
 residences:
 - type: location
   slug: wano-country

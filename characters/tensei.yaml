@@ -20,7 +20,9 @@ aliases:
 occupations:
 - name: Director of the Marine Bureau of Investigation
   status: current
+  revealed_chapter: 1054
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 1054

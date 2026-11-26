@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Staff Officer
   status: current
+  revealed_chapter: 705
 affiliations:
 - type: crew
   slug: barto-club

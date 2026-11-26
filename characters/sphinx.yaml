@@ -12,6 +12,7 @@ first_appearance:
 occupations:
 - name: Level 2 Guardian
   status: current
+  revealed_chapter: 529
 affiliations:
 - type: organization
   slug: world-government
@@ -20,3 +21,4 @@ affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 529

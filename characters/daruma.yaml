@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Pirate Officer
   status: current
+  revealed_chapter: 611
 affiliations:
 - type: crew
   slug: new-fish-man-pirates

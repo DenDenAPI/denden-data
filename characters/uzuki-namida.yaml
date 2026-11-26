@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Prisoner
   status: former
+  revealed_chapter: 949
 affiliations:
 - type: organization
   slug: uzuki-family

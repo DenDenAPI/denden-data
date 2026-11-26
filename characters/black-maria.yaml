@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Brothel owner
   status: current
+  revealed_chapter: 981
 affiliations:
 - type: crew
   slug: beasts-pirates
@@ -29,6 +30,7 @@ residences:
 - type: location
   slug: onigashima
   status: current
+  revealed_chapter: 981
 birthday:
   month: 9
   day: 24

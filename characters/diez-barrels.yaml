@@ -18,8 +18,10 @@ occupations:
   revealed_chapter: 765
 - name: Captain
   status: current
+  revealed_chapter: 766
 - name: Marine Officer
   status: former
+  revealed_chapter: 765
 affiliations:
 - type: crew
   slug: barrels-pirates
@@ -28,6 +30,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 765
 residences:
 - type: location
   slug: minion-island

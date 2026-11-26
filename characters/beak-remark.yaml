@@ -17,7 +17,9 @@ occupations:
   status: current
 - name: Fisherman
   status: current
+  revealed_chapter: 599
 residences:
 - type: location
   slug: sabaody-archipelago
   status: current
+  revealed_chapter: 599

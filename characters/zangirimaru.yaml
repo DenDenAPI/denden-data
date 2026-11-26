@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Prisoner
   status: former
+  revealed_chapter: 948
 affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance

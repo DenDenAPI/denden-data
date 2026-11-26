@@ -16,7 +16,9 @@ occupations:
   status: current
 - name: Cook
   status: current
+  revealed_chapter: 1158
 affiliations:
 - type: crew
   slug: roger-pirates
   status: current
+  revealed_chapter: 966

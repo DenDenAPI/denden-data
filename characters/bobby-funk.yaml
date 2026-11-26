@@ -19,6 +19,7 @@ affiliations:
 - type: location
   slug: mogaro-kingdom
   status: current
+  revealed_chapter: 715
 origin:
   region: Grand Line
 birthday:

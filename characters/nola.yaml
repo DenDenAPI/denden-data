@@ -15,6 +15,7 @@ epithets:
 - en: Master of the Sky
   ja: 空の主
   romaji: Sora no Nushi
+  revealed_chapter: 267
 affiliations:
 - type: location
   slug: wagomuland
@@ -28,3 +29,4 @@ ages:
 - years: 419
   period: other
   minimum: true
+  revealed_chapter: 290

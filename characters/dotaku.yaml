@@ -15,11 +15,14 @@ first_appearance:
 occupations:
 - name: Samurai
   status: current
+  revealed_chapter: 926
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 926
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 926

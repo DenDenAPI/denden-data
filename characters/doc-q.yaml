@@ -16,6 +16,7 @@ epithets:
 - en: Death God
   ja: 死神
   romaji: Shinigami
+  revealed_chapter: 234
 occupations:
 - name: Titanic Captain
   status: current
@@ -35,6 +36,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 925
 birthday:
   month: 10
   day: 18

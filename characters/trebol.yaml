@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Executive Officer
   status: current
+  revealed_chapter: 700
 - name: Staff Officer
   status: current
 - name: Sugar's Bodyguard

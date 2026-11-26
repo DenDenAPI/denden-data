@@ -16,6 +16,7 @@ epithets:
 - en: Hundredth Dan Hack
   ja: 百段ハック
   romaji: Hyakudan Hakku
+  revealed_chapter: 707
 occupations:
 - name: Revolutionary Army member
   status: current
@@ -23,6 +24,7 @@ occupations:
   status: current
 - name: Fish-Man Jujutsu Martial Artist
   status: current
+  revealed_chapter: 707
 affiliations:
 - type: organization
   slug: revolutionary-army

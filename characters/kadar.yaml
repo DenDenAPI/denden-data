@@ -14,17 +14,21 @@ first_appearance:
 occupations:
 - name: Marine Rear Admiral
   status: current
+  revealed_chapter: 622
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 622
 - type: location
   slug: g-2
   status: current
+  revealed_chapter: 622
 residences:
 - type: location
   slug: g-2
   status: current
+  revealed_chapter: 622
 birthday:
   month: 7
   day: 29

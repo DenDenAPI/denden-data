@@ -16,9 +16,11 @@ epithets:
 - en: Monster Gun
   ja: 怪銃
   romaji: Kaijū
+  revealed_chapter: 813
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 813
 - name: Advisor
   status: current
   revealed_chapter: 813

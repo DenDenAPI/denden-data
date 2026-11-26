@@ -26,3 +26,4 @@ ages:
 - years: 1000
   period: other
   minimum: true
+  revealed_chapter: 802

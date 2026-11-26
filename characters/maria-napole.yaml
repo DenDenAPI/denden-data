@@ -20,6 +20,7 @@ affiliations:
 - type: location
   slug: fish-man-island
   status: current
+  revealed_chapter: 649
 origin:
   location: ryugu-kingdom
   region: Grand Line

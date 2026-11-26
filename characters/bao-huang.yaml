@@ -21,6 +21,7 @@ occupations:
   revealed_chapter: 1016
 - name: Scheduler
   status: current
+  revealed_chapter: 979
 affiliations:
 - type: crew
   slug: beasts-pirates

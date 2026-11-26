@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: World Noble
   status: current
+  revealed_chapter: 497
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 497
 origin:
   location: red-line
   revealed_chapter: 934
@@ -26,6 +28,7 @@ residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 497
 birthday:
   month: 3
   day: 29

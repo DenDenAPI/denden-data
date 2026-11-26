@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 846
 - name: Minister of Juice
   status: current
+  revealed_chapter: 846
 affiliations:
 - type: organization
   slug: charlotte-family

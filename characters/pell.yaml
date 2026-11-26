@@ -16,9 +16,11 @@ epithets:
 - en: Pell the Falcon
   ja: ハヤブサのペル
   romaji: Hayabusa no Peru
+  revealed_chapter: 167
 occupations:
 - name: Commander of Royal Guards
   status: current
+  revealed_chapter: 167
 affiliations:
 - type: location
   slug: arabasta-kingdom

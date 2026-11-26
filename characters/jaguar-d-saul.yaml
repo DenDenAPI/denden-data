@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: History Teacher
   status: current
+  revealed_chapter: 1133
 - name: Vice Admiral
   status: former
   revealed_chapter: 396
@@ -47,6 +48,7 @@ ages:
   revealed_chapter: 941
 - years: 127
   period: post_timeskip
+  revealed_chapter: 1114
 heights:
 - cm: 1950
   period: other

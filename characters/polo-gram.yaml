@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1165
 affiliations:
 - type: crew
   slug: whitebeard-pirates
@@ -21,3 +22,4 @@ affiliations:
 - type: crew
   slug: polo-pirates
   status: current
+  revealed_chapter: 1165

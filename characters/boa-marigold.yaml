@@ -15,10 +15,12 @@ occupations:
   status: current
 - name: Slave
   status: former
+  revealed_chapter: 521
 affiliations:
 - type: crew
   slug: kuja-pirates
   status: current
+  revealed_chapter: 516
 origin:
   location: calm-belt
   revealed_chapter: 926

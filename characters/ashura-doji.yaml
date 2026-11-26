@@ -16,6 +16,7 @@ epithets:
 - en: Strongest Monster of Kuri
   ja: 九里最強の怪物
   romaji: Kuri Saikyō no Kaibutsu
+  revealed_chapter: 962
 aliases:
 - en: Shutenmaru
   ja: 酒天丸
@@ -29,6 +30,7 @@ occupations:
   status: current
 - name: Yakuza Boss
   status: former
+  revealed_chapter: 968
 - name: Samurai
   status: current
   revealed_chapter: 921
@@ -36,6 +38,7 @@ affiliations:
 - type: organization
   slug: mt-atama-thieves
   status: current
+  revealed_chapter: 921
 - type: organization
   slug: kouzuki-family
   status: current

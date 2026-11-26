@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Beans
   status: current
   revealed_chapter: 864
@@ -34,6 +35,7 @@ residences:
 - type: location
   slug: poripori-island
   status: current
+  revealed_chapter: 899
 - type: location
   slug: hachinosu
   status: former

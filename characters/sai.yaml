@@ -19,10 +19,12 @@ epithets:
 occupations:
 - name: Captain of the Third Ship of the Straw Hat Grand Fleet
   status: current
+  revealed_chapter: 800
 - name: 13th Leader of the Happo Navy
   status: current
 - name: Martial Artist
   status: current
+  revealed_chapter: 706
 affiliations:
 - type: crew
   slug: happo-navy

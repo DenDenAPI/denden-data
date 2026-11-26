@@ -19,6 +19,8 @@ residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 913
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 913

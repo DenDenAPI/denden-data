@@ -14,6 +14,7 @@ occupations:
   status: current
 - name: 'guardian of the Ryu Ryu no Mi, Model: Nidhöggr'
   status: former
+  revealed_chapter: 1170
 affiliations:
 - type: location
   slug: elbaph
@@ -23,6 +24,7 @@ residences:
 - type: location
   slug: aurust-castle
   status: current
+  revealed_chapter: 1170
 - type: location
   slug: elbaph
   status: former

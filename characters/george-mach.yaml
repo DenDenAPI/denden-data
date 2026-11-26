@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 313
 affiliations:
 - type: crew
   slug: foxy-pirates
   status: former
+  revealed_chapter: 313

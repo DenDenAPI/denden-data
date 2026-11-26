@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Chocolatier
   status: current
   revealed_chapter: 873

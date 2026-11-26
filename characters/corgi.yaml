@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Government official
   status: current
+  revealed_chapter: 328
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 328
 birthday:
   month: 8
   day: 25

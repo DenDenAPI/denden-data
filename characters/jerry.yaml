@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 362
 affiliations:
 - type: organization
   slug: cipher-pol

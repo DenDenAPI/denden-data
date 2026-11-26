@@ -16,7 +16,9 @@ affiliations:
 - type: crew
   slug: spade-pirates
   status: current
+  revealed_chapter: 552
 ages:
 - years: 30
   period: other
   minimum: true
+  revealed_chapter: 552

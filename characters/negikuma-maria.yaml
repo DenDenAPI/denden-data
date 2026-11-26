@@ -24,6 +24,7 @@ residences:
 - type: location
   slug: bighorn
   status: current
+  revealed_chapter: 133
 birthday:
   month: 11
   day: 14

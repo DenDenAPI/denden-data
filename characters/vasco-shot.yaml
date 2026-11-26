@@ -16,19 +16,23 @@ epithets:
 - en: '"Heavy Drinker" Vasco Shot'
   ja: 大酒のバスコ・ショット
   romaji: Ōzake no Basuko Shotto
+  revealed_chapter: 575
 occupations:
 - name: Titanic Captain
   status: current
   revealed_chapter: 922
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 575
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 575
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 575
 origin:
   region: South Blue
   revealed_chapter: 922
@@ -36,6 +40,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 925
 birthday:
   month: 8
   day: 5

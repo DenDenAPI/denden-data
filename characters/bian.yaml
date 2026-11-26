@@ -14,15 +14,19 @@ first_appearance:
 occupations:
 - name: Leader of Pink Bee Squad
   status: current
+  revealed_chapter: 718
 - name: Pirate
   status: current
+  revealed_chapter: 889
 affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 717
 - type: crew
   slug: tontatta-pirates
   status: current
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800

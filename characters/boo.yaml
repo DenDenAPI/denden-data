@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: First Mate of the Happo Navy
   status: current
+  revealed_chapter: 715
 - name: Martial Artist
   status: current
+  revealed_chapter: 706
 affiliations:
 - type: crew
   slug: happo-navy

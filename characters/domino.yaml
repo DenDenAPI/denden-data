@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Head Jailer
   status: current
+  revealed_chapter: 661
 - name: Vice Head Jailer
   status: former
+  revealed_chapter: 526
 affiliations:
 - type: location
   slug: impel-down

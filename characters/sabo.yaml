@@ -76,6 +76,7 @@ blood_type_revealed_chapter: 926
 ages:
 - years: 10
   period: debut
+  revealed_chapter: 583
 - years: 22
   period: post_timeskip
   revealed_chapter: 781

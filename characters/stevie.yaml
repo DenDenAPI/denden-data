@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Station Manager
   status: current
+  revealed_chapter: 361
 affiliations:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 361

@@ -14,6 +14,7 @@ first_appearance:
   episode: 62
 aliases:
 - en: Mr. 9
+  revealed_chapter: 103
 occupations:
 - name: Frontier Agent
   status: former
@@ -23,6 +24,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 103
 origin:
   region: Grand Line
   revealed_chapter: 931

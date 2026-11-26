@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 461
 - name: Surprise Zombies Commander
   status: current
+  revealed_chapter: 449
 affiliations:
 - type: crew
   slug: thriller-bark-pirates

@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Pawn Shop Owner
   status: current
+  revealed_chapter: 929
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 929

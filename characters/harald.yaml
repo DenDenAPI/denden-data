@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: King of the Warland Kingdom
   status: current
+  revealed_chapter: 1136
 - name: Knight of God
   status: current
   revealed_chapter: 1168

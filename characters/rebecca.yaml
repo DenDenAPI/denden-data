@@ -16,9 +16,11 @@ epithets:
 - en: The Undefeated Woman
   ja: 無敗の女
   romaji: Muhai no Onna
+  revealed_chapter: 704
 - en: The Phantom Princess
   ja: 幻の王女
   romaji: Maboroshi no Ōjo
+  revealed_chapter: 721
 occupations:
 - name: Lady-in-waiting
   status: current
@@ -55,6 +57,7 @@ blood_type_revealed_chapter: 944
 ages:
 - years: 16
   period: other
+  revealed_chapter: 739
 heights:
 - cm: 171
   period: other

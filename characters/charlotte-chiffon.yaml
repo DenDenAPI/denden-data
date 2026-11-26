@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 900
 - name: Minister of Puff
   status: former
+  revealed_chapter: 880
 affiliations:
 - type: crew
   slug: fire-tank-pirates
@@ -45,6 +46,7 @@ blood_type_revealed_chapter: 950
 ages:
 - years: 26
   period: other
+  revealed_chapter: 887
 heights:
 - cm: 215
   period: other

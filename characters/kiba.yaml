@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 1142
 - name: Pirate
   status: former
+  revealed_chapter: 1142
 affiliations:
 - type: location
   slug: walrus-school

@@ -18,10 +18,12 @@ occupations:
   revealed_chapter: 739
 - name: Pirate
   status: current
+  revealed_chapter: 889
 affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 732
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

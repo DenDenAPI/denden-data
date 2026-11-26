@@ -16,12 +16,14 @@ epithets:
 - en: '"Blood-Splatterer" Coribou'
   ja: 返り血のコリブー
   romaji: Kaerichi no Koribū
+  revealed_chapter: 600
 occupations:
 - name: Pirate
   status: current
   revealed_chapter: 600
 - name: Captain
   status: current
+  revealed_chapter: 600
 affiliations:
 - type: crew
   slug: caribou-pirates
@@ -30,6 +32,7 @@ affiliations:
 - type: crew
   slug: fake-straw-hat-crew
   status: former
+  revealed_chapter: 600
 origin:
   region: North Blue
   revealed_chapter: 931

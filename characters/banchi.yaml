@@ -18,6 +18,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 161
 origin:
   region: West Blue
   revealed_chapter: 941

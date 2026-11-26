@@ -17,10 +17,12 @@ occupations:
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 551
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 551
 birthday:
   month: 6
   day: 30

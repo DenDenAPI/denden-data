@@ -18,10 +18,12 @@ occupations:
   revealed_chapter: 707
 - name: Pirate
   status: current
+  revealed_chapter: 888
 affiliations:
 - type: crew
   slug: ideo-pirates
   status: current
+  revealed_chapter: 799
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

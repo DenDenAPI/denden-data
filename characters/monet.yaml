@@ -17,8 +17,10 @@ occupations:
   status: current
 - name: Doflamingo's spy
   status: current
+  revealed_chapter: 672
 - name: Pirate Officer
   status: current
+  revealed_chapter: 732
 affiliations:
 - type: crew
   slug: donquixote-pirates

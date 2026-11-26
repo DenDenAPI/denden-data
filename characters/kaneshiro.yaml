@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 72
 - name: Shipwright
   status: current
   revealed_chapter: 240
@@ -22,9 +23,11 @@ affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 72
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 620
 origin:
   location: ryugu-kingdom
   region: Grand Line

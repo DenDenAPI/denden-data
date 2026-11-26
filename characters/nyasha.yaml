@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Steed
   status: current
+  revealed_chapter: 842
 residences:
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 842
 birthday:
   month: 5
   day: 28

@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 4
 origin:
   region: East Blue
   revealed_chapter: 919

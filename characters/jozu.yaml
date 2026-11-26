@@ -15,11 +15,13 @@ epithets:
 - en: '"Diamond" Jozu'
   ja: ダイヤモンド・ジョズ
   romaji: Daiyamondo Jozu
+  revealed_chapter: 553
 occupations:
 - name: Pirate
   status: current
 - name: 3rd Division Commander
   status: current
+  revealed_chapter: 434
 affiliations:
 - type: crew
   slug: whitebeard-pirates

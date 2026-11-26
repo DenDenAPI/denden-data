@@ -14,9 +14,11 @@ first_appearance:
   episode: 64
 aliases:
 - en: Miss Monday, Sister
+  revealed_chapter: 107
 occupations:
 - name: Frontier Agent
   status: former
+  revealed_chapter: 107
 - name: Bounty Hunter
   status: current
 affiliations:

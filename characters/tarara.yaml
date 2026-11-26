@@ -15,6 +15,7 @@ affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 713
 residences:
 - type: location
   slug: green-bit

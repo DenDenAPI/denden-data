@@ -18,13 +18,16 @@ occupations:
   revealed_chapter: 933
 - name: Pirate
   status: current
+  revealed_chapter: 931
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 986
 - type: organization
   slug: orochi-oniwabanshu
   status: former
+  revealed_chapter: 931
 origin:
   location: wano-country
   region: Grand Line

@@ -14,12 +14,14 @@ epithets:
 - en: Winch Green
   ja: ウインチグリーン
   romaji: Uinchi Gurīn
+  revealed_chapter: 826
 occupations:
 - name: Prince
   status: current
   revealed_chapter: 832
 - name: Mercenary
   status: current
+  revealed_chapter: 826
 affiliations:
 - type: organization
   slug: vinsmoke-family
@@ -35,11 +37,13 @@ origin:
 birthday:
   month: 3
   day: 2
+  revealed_chapter: 833
 blood_type: S
 blood_type_revealed_chapter: 853
 ages:
 - years: 21
   period: other
+  revealed_chapter: 833
 heights:
 - cm: 194
   period: other

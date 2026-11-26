@@ -16,9 +16,11 @@ epithets:
 - en: Brutal Bull
   ja: 非情なる牛
   romaji: Burūtaru Buru
+  revealed_chapter: 714
 occupations:
 - name: Gladiator
   status: current
+  revealed_chapter: 706
 affiliations:
 - type: location
   slug: corrida-colosseum

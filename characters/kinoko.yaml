@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 580
 affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 580
 bounties:
 - amount: 100000000
   status: current

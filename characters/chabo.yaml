@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Laborer
   status: current
+  revealed_chapter: 629
 origin:
   location: conomi-islands
   region: East Blue

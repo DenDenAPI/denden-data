@@ -27,6 +27,7 @@ affiliations:
 - type: crew
   slug: rumbar-pirates
   status: current
+  revealed_chapter: 103
 birthday:
   month: 4
   day: 9

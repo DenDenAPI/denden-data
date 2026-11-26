@@ -17,15 +17,19 @@ aliases:
   ja: Misutā Eito
 - en: Igarappoi
   ja: イガラッポイ
+  revealed_chapter: 106
 occupations:
 - name: Captain of the Royal Guard
   status: current
+  revealed_chapter: 110
 - name: Frontier Agent
   status: former
+  revealed_chapter: 107
 - name: Bounty Hunter
   status: former
 - name: Mayor of Whisky Peak
   status: former
+  revealed_chapter: 106
 affiliations:
 - type: location
   slug: arabasta-kingdom

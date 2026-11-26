@@ -52,6 +52,7 @@ blood_type_revealed_chapter: 928
 ages:
 - years: 16
   period: other
+  revealed_chapter: 621
 heights:
 - cm: 1187
   period: other

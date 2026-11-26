@@ -28,6 +28,7 @@ affiliations:
 - type: crew
   slug: flying-pirates
   status: former
+  revealed_chapter: 606
 origin:
   location: ryugu-kingdom
   region: Grand Line

@@ -27,6 +27,7 @@ occupations:
   revealed_chapter: 1017
 - name: De Facto Ruler of Udon
   status: former
+  revealed_chapter: 935
 affiliations:
 - type: crew
   slug: beasts-pirates

@@ -16,6 +16,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 845
 ages:
 - years: 10
   period: other

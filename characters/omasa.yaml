@@ -16,11 +16,13 @@ epithets:
 - en: Blood-Writing Omasa
   ja: 血文字の大マサ
   romaji: Chimoji no Ōmasa
+  revealed_chapter: 952
 occupations:
 - name: Yakuza boss
   status: current
 - name: Prisoner
   status: former
+  revealed_chapter: 952
 - name: Samurai
   status: current
   revealed_chapter: 994

@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Hotel owner
   status: current
+  revealed_chapter: 223
 residences:
 - type: location
   slug: mock-town
   status: current
+  revealed_chapter: 223

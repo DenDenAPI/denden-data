@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Cafe Mascot
   status: current
+  revealed_chapter: 407
 - name: Pet
   status: current
   revealed_chapter: 186

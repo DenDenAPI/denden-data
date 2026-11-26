@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Bounty Hunter
   status: current
+  revealed_chapter: 159
 affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 159

@@ -16,9 +16,11 @@ epithets:
 - en: The Demon of Shandora
   ja: シャンドラの魔物
   romaji: Shandora no Mamono
+  revealed_chapter: 286
 - en: The Great Warrior of Shandora
   ja: シャンドラの大戦士
   romaji: Shandora no Dai Senshi
+  revealed_chapter: 286
 occupations:
 - name: Warrior
   status: current

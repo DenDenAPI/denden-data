@@ -16,11 +16,13 @@ epithets:
 - en: Lip "Service" Doughty
   ja: リップ・"サービス"・ドウティ
   romaji: Rippu Sābisu Douti
+  revealed_chapter: 600
 occupations:
 - name: Pirate
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 600
 affiliations:
 - type: crew
   slug: fake-straw-hat-crew

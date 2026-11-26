@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Marine Captain
   status: current
+  revealed_chapter: 428
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 428
 marine_rating:
   stars: 1
   minimum: true

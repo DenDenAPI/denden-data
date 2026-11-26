@@ -16,15 +16,19 @@ epithets:
 - en: Scribe
   ja: 書司
   romaji: Shoshi
+  revealed_chapter: 845
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Cheese
   status: current
+  revealed_chapter: 843
 affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 843
 - type: crew
   slug: big-mom-pirates
   status: current
@@ -36,6 +40,7 @@ residences:
 - type: location
   slug: cheese-island
   status: current
+  revealed_chapter: 859
 birthday:
   month: 4
   day: 23

@@ -16,10 +16,12 @@ occupations:
   status: current
 - name: Swordsman
   status: current
+  revealed_chapter: 231
 affiliations:
 - type: crew
   slug: bellamy-pirates
   status: current
+  revealed_chapter: 223
 origin:
   location: notice
   region: North Blue

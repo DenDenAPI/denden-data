@@ -15,13 +15,16 @@ epithets:
 - en: '"Executioner" Roshio'
   ja: 処刑人ロシオ
   romaji: Shokei-nin Roshio
+  revealed_chapter: 222
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 222
 affiliations:
 - type: crew
   slug: roshio-pirates
   status: current
+  revealed_chapter: 222
 birthday:
   month: 6
   day: 15

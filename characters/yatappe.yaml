@@ -16,11 +16,13 @@ epithets:
 - en: Snake-Eyes Yatappe
   ja: 蛇の目の弥太っぺ
   romaji: Janome no Yatappe
+  revealed_chapter: 952
 occupations:
 - name: Yakuza boss
   status: current
 - name: Prisoner
   status: former
+  revealed_chapter: 952
 - name: Samurai
   status: current
 affiliations:

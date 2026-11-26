@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 827
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 827
 residences:
 - type: location
   slug: totto-land

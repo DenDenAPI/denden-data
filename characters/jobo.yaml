@@ -16,3 +16,4 @@ residences:
 - type: location
   slug: mock-town
   status: current
+  revealed_chapter: 232

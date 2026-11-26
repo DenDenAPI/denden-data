@@ -16,11 +16,13 @@ epithets:
 - en: Father-Killing Princess
   ja: 父殺しの姫
   romaji: Chichi-goroshi no Hime
+  revealed_chapter: 1173
 occupations:
 - name: Knight of God
   status: current
 - name: Devoted Blade of God
   status: former
+  revealed_chapter: 1160
 - name: Princess
   status: former
   revealed_chapter: 1173
@@ -44,3 +46,4 @@ residences:
 ages:
 - years: 77
   period: other
+  revealed_chapter: 1183

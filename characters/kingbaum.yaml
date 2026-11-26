@@ -23,6 +23,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 836
 origin:
   location: totto-land
   region: Grand Line
@@ -31,6 +32,7 @@ residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 836
 birthday:
   month: 7
   day: 13

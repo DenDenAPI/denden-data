@@ -16,6 +16,7 @@ epithets:
 - en: Thousand Arms Cracker
   ja: 千手のクラッカー
   romaji: Senju no Kurakkā
+  revealed_chapter: 836
 - en: Biscuit Knight
   ja: ビスケットの騎士
   romaji: Bisuketto no Kishi
@@ -26,6 +27,7 @@ occupations:
   revealed_chapter: 842
 - name: Minister of Biscuit
   status: current
+  revealed_chapter: 835
 affiliations:
 - type: organization
   slug: charlotte-family
@@ -41,6 +43,7 @@ residences:
 - type: location
   slug: biscuits-island
   status: current
+  revealed_chapter: 835
 birthday:
   month: 2
   day: 28

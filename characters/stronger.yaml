@@ -17,14 +17,17 @@ occupations:
   status: current
 - name: Pet
   status: current
+  revealed_chapter: 223
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 234
 residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 925
 birthday:
   month: 4
   day: 16

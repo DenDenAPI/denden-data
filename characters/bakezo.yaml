@@ -22,6 +22,7 @@ affiliations:
 - type: location
   slug: g-5
   status: current
+  revealed_chapter: 681
 residences:
 - type: location
   slug: g-5

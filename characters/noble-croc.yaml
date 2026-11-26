@@ -16,10 +16,12 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 847
 residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 831
 birthday:
   month: 10
   day: 17

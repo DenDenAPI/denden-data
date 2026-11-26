@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Cashier
   status: current
+  revealed_chapter: 611
 origin:
   location: ryugu-kingdom
   region: Grand Line

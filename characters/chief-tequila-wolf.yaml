@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Prison Labor Camp Chief
   status: current
+  revealed_chapter: 524
 affiliations:
 - type: location
   slug: tequila-wolf

@@ -23,6 +23,7 @@ occupations:
   revealed_chapter: 860
 - name: Emperor of the Underworld
   status: current
+  revealed_chapter: 860
 birthday:
   month: 9
   day: 29

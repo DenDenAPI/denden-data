@@ -17,13 +17,16 @@ occupations:
   status: former
 - name: Pirate
   status: current
+  revealed_chapter: 498
 affiliations:
 - type: crew
   slug: bonney-pirates
   status: current
+  revealed_chapter: 498
 origin:
   region: South Blue
 residences:
 - type: location
   slug: sorbet-kingdom
   status: former
+  revealed_chapter: 1096

@@ -22,10 +22,12 @@ occupations:
   revealed_chapter: 304
 - name: Boss
   status: current
+  revealed_chapter: 219
 affiliations:
 - type: crew
   slug: saruyama-alliance
   status: current
+  revealed_chapter: 219
 origin:
   region: North Blue
   revealed_chapter: 931

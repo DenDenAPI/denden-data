@@ -19,10 +19,12 @@ occupations:
   revealed_chapter: 1153
 - name: General Zombie
   status: current
+  revealed_chapter: 450
 affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 450
 - type: crew
   slug: rocks-pirates
   status: former

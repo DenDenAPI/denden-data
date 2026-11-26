@@ -20,6 +20,7 @@ aliases:
 occupations:
 - name: Swordsmith
   status: current
+  revealed_chapter: 912
 - name: Shogun
   status: former
   revealed_chapter: 920

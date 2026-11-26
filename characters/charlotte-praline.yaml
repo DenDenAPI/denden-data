@@ -17,6 +17,7 @@ occupations:
   status: former
 - name: Pirate
   status: current
+  revealed_chapter: 830
 affiliations:
 - type: crew
   slug: sun-pirates
@@ -29,6 +30,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: former
+  revealed_chapter: 830
 origin:
   location: totto-land
   region: Grand Line

@@ -14,6 +14,8 @@ first_appearance:
 occupations:
 - name: Ship's Doctor
   status: current
+  revealed_chapter: 287
 origin:
   location: lvneel-kingdom
   region: North Blue
+  region_revealed_chapter: 287

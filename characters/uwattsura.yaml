@@ -17,7 +17,9 @@ occupations:
   status: current
 - name: Prisoner Mine Chief Guard
   status: current
+  revealed_chapter: 936
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 936

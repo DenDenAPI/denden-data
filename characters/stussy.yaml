@@ -15,14 +15,17 @@ epithets:
 - en: Queen of the Pleasure District
   ja: 歓楽街の女王
   romaji: Kanraku-gai no Joō
+  revealed_chapter: 860
 occupations:
 - name: Spy
   status: current
   revealed_chapter: 1073
 - name: Cipher Pol Agent
   status: former
+  revealed_chapter: 871
 - name: Empress of the Underworld
   status: current
+  revealed_chapter: 860
 affiliations:
 - type: organization
   slug: mads

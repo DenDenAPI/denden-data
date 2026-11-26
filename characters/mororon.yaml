@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Queen of the Tajine Kingdom
   status: current
+  revealed_chapter: 905
 residences:
 - type: location
   slug: tajine-kingdom

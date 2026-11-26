@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Chef
   status: current
+  revealed_chapter: 302
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 302
 - type: location
   slug: g-2
   status: current

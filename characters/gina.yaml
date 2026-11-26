@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Shipwright
   status: current
+  revealed_chapter: 318
 affiliations:
 - type: crew
   slug: foxy-pirates
   status: former
+  revealed_chapter: 318

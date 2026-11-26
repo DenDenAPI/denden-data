@@ -17,14 +17,18 @@ occupations:
   status: current
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 325
 affiliations:
 - type: organization
   slug: galley-la-company
   status: current
+  revealed_chapter: 657
 - type: organization
   slug: franky-family
   status: former
+  revealed_chapter: 325
 residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 325

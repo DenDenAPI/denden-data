@@ -20,6 +20,7 @@ occupations:
   status: current
 - name: Mercenary
   status: former
+  revealed_chapter: 899
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
@@ -46,6 +47,7 @@ birthday:
 ages:
 - years: 63
   period: other
+  revealed_chapter: 899
 heights:
 - cm: 2100
   period: other

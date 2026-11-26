@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Butter
   status: current
   revealed_chapter: 843
@@ -22,9 +23,11 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 843
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 845
 residences:
 - type: location
   slug: margarine-island

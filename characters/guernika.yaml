@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 705
 origin:
   region: West Blue
   revealed_chapter: 1124

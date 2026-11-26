@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Queen of the Arabasta Kingdom
   status: current
+  revealed_chapter: 1084
 affiliations:
 - type: location
   slug: arabasta-kingdom
@@ -25,7 +26,9 @@ affiliations:
   revealed_chapter: 1084
 origin:
   region: Grand Line
+  revealed_chapter: 1084
 residences:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 1084

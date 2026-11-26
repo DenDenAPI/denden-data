@@ -19,9 +19,11 @@ residences:
 - type: location
   slug: cocoa-weed
   status: current
+  revealed_chapter: 134
 - type: location
   slug: drum-island
   status: current
+  revealed_chapter: 134
 birthday:
   month: 6
   day: 17

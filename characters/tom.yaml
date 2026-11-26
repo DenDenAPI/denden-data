@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Shipwright
   status: current
+  revealed_chapter: 352
 affiliations:
 - type: organization
   slug: toms-workers

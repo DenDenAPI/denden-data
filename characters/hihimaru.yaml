@@ -19,6 +19,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 911
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
@@ -26,6 +27,8 @@ residences:
 - type: location
   slug: kuri
   status: current
+  revealed_chapter: 911
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 911

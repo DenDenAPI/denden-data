@@ -15,10 +15,13 @@ first_appearance:
 occupations:
 - name: Vice President of Galley-La
   status: current
+  revealed_chapter: 488
 - name: Dock One Foreman
   status: current
+  revealed_chapter: 326
 - name: Shipwright
   status: current
+  revealed_chapter: 323
 affiliations:
 - type: organization
   slug: galley-la-company

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Gelato
   status: current
   revealed_chapter: 829
@@ -22,9 +23,11 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 829
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 901
 residences:
 - type: location
   slug: ice-island

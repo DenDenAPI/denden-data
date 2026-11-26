@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Gladiator
   status: current
+  revealed_chapter: 703
 affiliations:
 - type: location
   slug: corrida-colosseum
   status: current
+  revealed_chapter: 703

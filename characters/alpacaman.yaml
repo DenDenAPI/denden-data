@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Gifter
   status: current
+  revealed_chapter: 934
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 934

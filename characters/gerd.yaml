@@ -20,6 +20,7 @@ occupations:
   revealed_chapter: 901
 - name: Mercenary
   status: former
+  revealed_chapter: 901
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates

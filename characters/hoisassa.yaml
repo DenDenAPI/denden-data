@@ -24,3 +24,4 @@ residences:
 - type: location
   slug: flower-capital
   status: former
+  revealed_chapter: 942

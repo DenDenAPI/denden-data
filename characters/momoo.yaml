@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Arlong Pirates' pet
   status: former
+  revealed_chapter: 73
 - name: Caribou Pirates' steed
   status: former
 affiliations:

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Guardian
   status: current
+  revealed_chapter: 805
 affiliations:
 - type: location
   slug: mokomo-dukedom
@@ -30,3 +31,4 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 805

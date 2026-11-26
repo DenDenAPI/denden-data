@@ -34,6 +34,7 @@ occupations:
   status: former
 - name: Bandit
   status: former
+  revealed_chapter: 962
 affiliations:
 - type: organization
   slug: kouzuki-family

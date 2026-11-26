@@ -24,6 +24,7 @@ residences:
 - type: location
   slug: reverse-mountain
   status: current
+  revealed_chapter: 102
 birthday:
   month: 9
   day: 16
@@ -33,6 +34,7 @@ blood_type_revealed_chapter: 926
 ages:
 - years: 51
   period: debut
+  revealed_chapter: 486
 - years: 53
   period: post_timeskip
   revealed_chapter: 926

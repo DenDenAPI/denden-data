@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 536
 affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 536

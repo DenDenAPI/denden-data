@@ -16,11 +16,13 @@ epithets:
 - en: Broken Hat Tsunagoro
   ja: 破れ笠綱ゴロー
   romaji: Yabure-gasa Tsunagorō
+  revealed_chapter: 947
 occupations:
 - name: Yakuza boss
   status: current
 - name: Prisoner
   status: former
+  revealed_chapter: 947
 - name: Samurai
   status: current
 affiliations:

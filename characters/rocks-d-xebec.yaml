@@ -24,6 +24,7 @@ affiliations:
 origin:
   location: god-valley
   region: West Blue
+  revealed_chapter: 1159
 residences:
 - type: location
   slug: hachinosu

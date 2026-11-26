@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 963
 affiliations:
 - type: crew
   slug: germ-pirates
   status: current
+  revealed_chapter: 963

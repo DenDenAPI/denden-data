@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Army Commander
   status: current
+  revealed_chapter: 707
 affiliations:
 - type: organization
   slug: riku-family

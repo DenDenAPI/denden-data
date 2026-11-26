@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: East Army Captain of the Revolutionary Army
   status: current
+  revealed_chapter: 1095
 - name: Slave
   status: former
   revealed_chapter: 1095

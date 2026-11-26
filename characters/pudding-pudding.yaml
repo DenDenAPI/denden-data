@@ -20,9 +20,11 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 75
 - type: location
   slug: 77th-branch
   status: current
+  revealed_chapter: 75
 origin:
   region: East Blue
   revealed_chapter: 928

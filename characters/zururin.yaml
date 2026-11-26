@@ -15,7 +15,9 @@ first_appearance:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  region_revealed_chapter: 621
 residences:
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 621

@@ -15,11 +15,14 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1118
 affiliations:
 - type: crew
   slug: giant-warrior-pirates
   status: current
+  revealed_chapter: 1118
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1118

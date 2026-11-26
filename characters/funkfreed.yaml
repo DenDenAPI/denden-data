@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Spandam's sword
   status: current
+  revealed_chapter: 400
 - name: Pet
   status: current
 affiliations:

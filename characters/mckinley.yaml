@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Law enforcement official
   status: current
+  revealed_chapter: 241
 affiliations:
 - type: organization
   slug: god-guardians
   status: current
+  revealed_chapter: 241

@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 586
 - name: Pirate
   status: current
+  revealed_chapter: 553
 affiliations:
 - type: crew
   slug: whitebeard-pirates

@@ -21,6 +21,7 @@ aliases:
 - en: Kamazo the Manslayer
   ja: 人斬り鎌ぞう
   romaji: Hitokiri Kamazō
+  revealed_chapter: 926
 occupations:
 - name: Pirate
   status: current
@@ -30,6 +31,7 @@ occupations:
   revealed_chapter: 498
 - name: Assassin
   status: former
+  revealed_chapter: 937
 affiliations:
 - type: crew
   slug: kid-pirates
@@ -41,6 +43,7 @@ affiliations:
 origin:
   location: kutsukku-island
   region: South Blue
+  region_revealed_chapter: 498
 birthday:
   month: 2
   day: 2

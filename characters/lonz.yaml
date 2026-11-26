@@ -20,6 +20,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 550
 - type: organization
   slug: giant-squad
   status: current

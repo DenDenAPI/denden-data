@@ -20,6 +20,8 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 986
 - type: organization
   slug: mimawarigumi
   status: former
+  revealed_chapter: 951

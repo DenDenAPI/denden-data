@@ -14,13 +14,16 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 906
 affiliations:
 - type: crew
   slug: yonta-maria-grand-fleet
   status: current
+  revealed_chapter: 906
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 906
 birthday:
   month: 5
   day: 16

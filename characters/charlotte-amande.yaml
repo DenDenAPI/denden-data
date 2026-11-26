@@ -16,9 +16,11 @@ epithets:
 - en: Demon Lady
   ja: 鬼夫人
   romaji: Kifujin
+  revealed_chapter: 845
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Nuts
   status: current
   revealed_chapter: 877
@@ -35,6 +37,7 @@ residences:
 - type: location
   slug: nuts-island
   status: current
+  revealed_chapter: 877
 birthday:
   month: 12
   day: 10

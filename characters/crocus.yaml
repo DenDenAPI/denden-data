@@ -40,9 +40,11 @@ birthday:
   day: 4
   revealed_chapter: 926
 blood_type: XF
+blood_type_revealed_chapter: 103
 ages:
 - years: 71
   period: debut
+  revealed_chapter: 103
 - years: 73
   period: post_timeskip
   revealed_chapter: 926

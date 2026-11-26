@@ -15,12 +15,14 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Honey
   status: current
 - name: Special Attack Unit Captain
   status: current
 - name: Katakuri Fan Club President
   status: current
+  revealed_chapter: 891
 affiliations:
 - type: organization
   slug: charlotte-family
@@ -29,6 +31,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 891
 origin:
   location: totto-land
   region: Grand Line
@@ -46,6 +49,7 @@ blood_type_revealed_chapter: 950
 ages:
 - years: 15
   period: other
+  revealed_chapter: 891
 heights:
 - cm: 170
   period: other

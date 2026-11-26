@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Commissioned Marine Officer
   status: current
+  revealed_chapter: 92
 affiliations:
 - type: organization
   slug: marines

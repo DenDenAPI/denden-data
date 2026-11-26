@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Dock 1 Foreman
   status: current
+  revealed_chapter: 328
 - name: Shipwright
   status: current
+  revealed_chapter: 323
 affiliations:
 - type: organization
   slug: galley-la-company

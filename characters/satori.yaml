@@ -14,9 +14,11 @@ epithets:
 - en: Satori of the Forest
   ja: 森のサトリ
   romaji: Mori no Satori
+  revealed_chapter: 246
 occupations:
 - name: Priest of Enel
   status: current
+  revealed_chapter: 241
 origin:
   location: birka
   region: Sky Island

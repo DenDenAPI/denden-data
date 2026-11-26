@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Vice Warden of the Prisoner Mine
   status: current
+  revealed_chapter: 935
 affiliations:
 - type: crew
   slug: beasts-pirates

@@ -17,10 +17,12 @@ occupations:
   status: current
 - name: Bounty Hunter
   status: current
+  revealed_chapter: 325
 affiliations:
 - type: organization
   slug: franky-family
   status: current
+  revealed_chapter: 325
 residences:
 - type: location
   slug: water-7

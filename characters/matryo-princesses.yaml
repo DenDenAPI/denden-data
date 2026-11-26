@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Princesses of the Roshwan Kingdom
   status: current
+  revealed_chapter: 905
 residences:
 - type: location
   slug: roshwan-kingdom

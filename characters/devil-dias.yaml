@@ -19,10 +19,12 @@ occupations:
   status: former
 - name: Slave
   status: current
+  revealed_chapter: 497
 affiliations:
 - type: crew
   slug: acumate-pirates
   status: current
+  revealed_chapter: 497
 birthday:
   month: 9
   day: 18

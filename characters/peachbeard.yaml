@@ -20,6 +20,7 @@ occupations:
   revealed_chapter: 904
 - name: Blackbeard's subordinate
   status: current
+  revealed_chapter: 904
 affiliations:
 - type: crew
   slug: peachbeard-pirates

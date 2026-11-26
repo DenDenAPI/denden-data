@@ -16,9 +16,11 @@ epithets:
 - en: '"Ball Fingers" Gerotini'
   ja: 玉指ゲロティニー
   romaji: Tamayubi Gerotinī
+  revealed_chapter: 1079
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1079
 affiliations:
 - type: crew
   slug: puddle-pirates

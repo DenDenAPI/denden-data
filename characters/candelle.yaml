@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Captain of Esperia Battle Convoy
   status: former
+  revealed_chapter: 1183
 affiliations:
 - type: location
   slug: esperia-kingdom

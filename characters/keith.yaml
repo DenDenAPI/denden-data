@@ -19,7 +19,9 @@ affiliations:
 - type: organization
   slug: guardians
   status: current
+  revealed_chapter: 809
 residences:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 809

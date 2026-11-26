@@ -18,7 +18,9 @@ affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1142
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1142

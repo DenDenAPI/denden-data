@@ -17,7 +17,9 @@ occupations:
   status: current
 - name: Cook
   status: current
+  revealed_chapter: 1053
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 1053

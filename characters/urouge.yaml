@@ -18,6 +18,7 @@ epithets:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 498
 affiliations:
 - type: crew
   slug: fallen-monk-pirates
@@ -30,6 +31,7 @@ residences:
 - type: location
   slug: ballon-terminal
   status: current
+  revealed_chapter: 793
 birthday:
   month: 8
   day: 1

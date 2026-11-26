@@ -19,10 +19,12 @@ occupations:
   status: current
 - name: Sniper
   status: current
+  revealed_chapter: 205
 affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 205
 birthday:
   month: 6
   day: 21

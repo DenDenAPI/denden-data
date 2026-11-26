@@ -18,6 +18,7 @@ epithets:
 - en: Sword God
   ja: 刀神様
   romaji: Tōjin-sama
+  revealed_chapter: 1023
 - en: Ryuma de King
   ja: リューマ・ド・キング
   romaji: Ryūma do Kingu
@@ -33,6 +34,7 @@ affiliations:
   status: current
 origin:
   location: wano-country
+  revealed_chapter: 1023
 birthday:
   month: 11
   day: 6

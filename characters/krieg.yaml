@@ -24,9 +24,11 @@ epithets:
 - en: Ruler of the East Blue
   ja: 東の海の覇者
   romaji: Īsuto Burū no Hasha
+  revealed_chapter: 46
 - en: Foul Play Krieg
   ja: ダマし討ちのクリーク
   romaji: Damashi-uchi no Kurīku
+  revealed_chapter: 46
 occupations:
 - name: Pirate Captain/Admiral
   status: current

@@ -16,10 +16,13 @@ epithets:
 - en: Crane Rider
   ja: 鶴騎士
   romaji: Kurein Raidā
+  revealed_chapter: 832
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 827
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 827

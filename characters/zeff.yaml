@@ -20,8 +20,10 @@ epithets:
 occupations:
 - name: Head Chef of Baratie
   status: current
+  revealed_chapter: 43
 - name: Pirate Captain
   status: former
+  revealed_chapter: 43
 affiliations:
 - type: crew
   slug: cook-pirates

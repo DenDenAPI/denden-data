@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 375
 affiliations:
 - type: organization
   slug: cp9

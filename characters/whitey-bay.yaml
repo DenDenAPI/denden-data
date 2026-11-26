@@ -22,6 +22,7 @@ occupations:
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 556
 affiliations:
 - type: crew
   slug: whitebeard-pirates

@@ -18,6 +18,8 @@ residences:
 - type: location
   slug: kuri
   status: current
+  revealed_chapter: 911
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 911

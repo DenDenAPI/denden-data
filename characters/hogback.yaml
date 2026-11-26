@@ -20,6 +20,7 @@ epithets:
 - en: Genius Surgeon
   ja: 天才外科医
   romaji: Tensai Gekai
+  revealed_chapter: 446
 occupations:
 - name: Doctor
   status: current
@@ -28,6 +29,7 @@ affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 455
 origin:
   region: West Blue
   revealed_chapter: 947

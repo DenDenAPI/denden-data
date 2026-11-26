@@ -18,6 +18,7 @@ affiliations:
 - type: crew
   slug: flying-pirates
   status: current
+  revealed_chapter: 606
 birthday:
   month: 11
   day: 23

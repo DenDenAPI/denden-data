@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Marine Officer
   status: current
+  revealed_chapter: 557
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 557
 birthday:
   month: 5
   day: 19
@@ -26,3 +28,4 @@ ages:
 - years: 30
   period: other
   minimum: true
+  revealed_chapter: 963

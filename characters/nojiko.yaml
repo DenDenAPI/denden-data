@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Mikan Farmer
   status: current
+  revealed_chapter: 70
 origin:
   region: East Blue
   revealed_chapter: 922
@@ -36,6 +37,7 @@ blood_type_revealed_chapter: 922
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 77
 - years: 22
   period: post_timeskip
   revealed_chapter: 922

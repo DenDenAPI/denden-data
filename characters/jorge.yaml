@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Judge
   status: current
+  revealed_chapter: 353
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 353

@@ -16,7 +16,9 @@ affiliations:
 - type: organization
   slug: hyougoro-family
   status: current
+  revealed_chapter: 969
 residences:
 - type: location
   slug: flower-capital
   status: current
+  revealed_chapter: 969

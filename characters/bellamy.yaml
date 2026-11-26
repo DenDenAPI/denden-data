@@ -20,9 +20,11 @@ epithets:
 - en: Deadly Bullet of Dressrosa
   ja: ドレスローザの凶弾
   romaji: Doresurōza no kyōdan
+  revealed_chapter: 706
 - en: The Big-Time Rookie
   ja: 大型ルーキー
   romaji: Ōgata Rūkī
+  revealed_chapter: 233
 occupations:
 - name: Dyer
   status: current
