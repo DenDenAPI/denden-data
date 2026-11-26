@@ -17,10 +17,12 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 147
 affiliations:
 - type: crew
   slug: bliking-pirates
   status: current
+  revealed_chapter: 147
 - type: location
   slug: sakura-kingdom
   status: current

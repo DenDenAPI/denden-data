@@ -44,6 +44,7 @@ affiliations:
 - type: crew
   slug: alvida-pirates
   status: former
+  revealed_chapter: 2
 origin:
   region: East Blue
   revealed_chapter: 916

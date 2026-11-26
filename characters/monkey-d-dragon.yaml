@@ -44,6 +44,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 1103
 origin:
   location: goa-kingdom
   region: East Blue

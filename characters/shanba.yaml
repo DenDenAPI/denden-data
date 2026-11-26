@@ -16,6 +16,7 @@ affiliations:
 - type: location
   slug: torino-kingdom
   status: current
+  revealed_chapter: 524
 birthday:
   month: 11
   day: 8

@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 434
 - name: 3rd Division Commander
   status: current
   revealed_chapter: 434

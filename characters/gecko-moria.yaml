@@ -32,6 +32,7 @@ affiliations:
 - type: crew
   slug: gecko-pirates
   status: former
+  revealed_chapter: 969
 origin:
   region: West Blue
   revealed_chapter: 947

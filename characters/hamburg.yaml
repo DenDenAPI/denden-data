@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 305
 - name: Combatant
   status: current
   revealed_chapter: 657

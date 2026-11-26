@@ -26,6 +26,7 @@ affiliations:
 - type: crew
   slug: golden-lion-pirates
   status: current
+  revealed_chapter: 962
 - type: crew
   slug: rocks-pirates
   status: former

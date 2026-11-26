@@ -21,7 +21,9 @@ affiliations:
 - type: organization
   slug: franky-family
   status: current
+  revealed_chapter: 325
 residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 325

@@ -27,6 +27,7 @@ residences:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 180
 blood_type: S
 ages:
 - years: 14

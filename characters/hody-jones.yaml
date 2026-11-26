@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 609
 - name: Captain
   status: current
   revealed_chapter: 609

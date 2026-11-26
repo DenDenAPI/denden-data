@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 901
 - name: Doctor
   status: current
   revealed_chapter: 901

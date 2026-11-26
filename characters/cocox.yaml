@@ -16,6 +16,7 @@ affiliations:
 - type: location
   slug: island-of-rare-animals
   status: current
+  revealed_chapter: 22
 origin:
   location: island-of-rare-animals
   region: East Blue

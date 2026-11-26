@@ -18,6 +18,7 @@ affiliations:
 - type: location
   slug: ukkari-hot-spring-island
   status: current
+  revealed_chapter: 326
 residences:
 - type: location
   slug: ukkari-hot-spring-island

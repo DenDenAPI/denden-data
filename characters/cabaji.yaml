@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 15
 - name: Chief of Staff
   status: current
 - name: Acrobat
@@ -36,6 +37,7 @@ affiliations:
 - type: organization
   slug: buggys-delivery
   status: current
+  revealed_chapter: 803
 - type: crew
   slug: buggy-and-alvida-alliance
   status: current

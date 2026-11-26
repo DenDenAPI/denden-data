@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 135
 - name: Pirate
   status: current
+  revealed_chapter: 135
 affiliations:
 - type: crew
   slug: bliking-pirates

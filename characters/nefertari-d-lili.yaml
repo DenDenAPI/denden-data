@@ -20,6 +20,7 @@ affiliations:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 1116
 - type: organization
   slug: world-government
   status: current

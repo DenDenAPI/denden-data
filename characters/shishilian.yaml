@@ -25,6 +25,7 @@ affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 900
 - type: organization
   slug: inuarashi-musketeer-squad
   status: current
@@ -39,6 +40,7 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 808
 birthday:
   month: 4
   day: 4

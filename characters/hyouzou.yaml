@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 615
 - name: Pirate
   status: current
+  revealed_chapter: 610
 - name: Assassin
   status: current
   revealed_chapter: 610

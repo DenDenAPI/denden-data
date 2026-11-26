@@ -19,3 +19,4 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 807

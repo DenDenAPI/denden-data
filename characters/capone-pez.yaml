@@ -21,6 +21,7 @@ affiliations:
 - type: crew
   slug: fire-tank-pirates
   status: current
+  revealed_chapter: 834
 - type: organization
   slug: charlotte-family
   status: current

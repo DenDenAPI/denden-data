@@ -26,6 +26,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 845
 residences:
 - type: location
   slug: cutlery-island

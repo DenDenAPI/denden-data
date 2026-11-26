@@ -15,12 +15,14 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 755
 - name: SMILE Factory Manager
   status: former
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
+  revealed_chapter: 755
 birthday:
   month: 5
   day: 30

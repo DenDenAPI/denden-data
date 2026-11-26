@@ -19,6 +19,7 @@ affiliations:
 - type: location
   slug: esperia-kingdom
   status: current
+  revealed_chapter: 1183
 residences:
 - type: location
   slug: esperia-kingdom

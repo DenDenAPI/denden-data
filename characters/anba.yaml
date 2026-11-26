@@ -15,3 +15,4 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 969

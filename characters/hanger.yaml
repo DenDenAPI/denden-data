@@ -19,6 +19,7 @@ affiliations:
 - type: location
   slug: loguetown
   status: current
+  revealed_chapter: 97
 origin:
   region: East Blue
   revealed_chapter: 938

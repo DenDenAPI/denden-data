@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: dadan-family
   status: current
+  revealed_chapter: 582
 residences:
 - type: location
   slug: mt-colubo

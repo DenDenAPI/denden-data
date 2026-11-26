@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 1006
 - name: Captain of the Mimawarigumi
   status: former
   revealed_chapter: 951
@@ -24,6 +25,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 1006
 - type: organization
   slug: kurozumi-family
   status: former

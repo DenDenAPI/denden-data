@@ -31,6 +31,7 @@ residences:
 - type: location
   slug: amazon-lily
   status: current
+  revealed_chapter: 516
 birthday:
   month: 11
   day: 29

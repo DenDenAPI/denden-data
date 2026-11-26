@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 580
 - name: Senior Officer
   status: current
   revealed_chapter: 580

@@ -23,6 +23,7 @@ affiliations:
 - type: location
   slug: spiders-cafe
   status: current
+  revealed_chapter: 411
 - type: organization
   slug: baroque-works
   status: former

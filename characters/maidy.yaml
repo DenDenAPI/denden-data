@@ -24,3 +24,4 @@ residences:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 215

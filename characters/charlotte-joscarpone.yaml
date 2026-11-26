@@ -24,6 +24,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 845
 birthday:
   month: 2
   day: 27

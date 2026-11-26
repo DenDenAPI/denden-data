@@ -20,6 +20,7 @@ affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 900
 - type: organization
   slug: guardians
   status: current

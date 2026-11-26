@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 986
 affiliations:
 - type: crew
   slug: beasts-pirates

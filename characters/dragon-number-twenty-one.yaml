@@ -14,3 +14,4 @@ residences:
 - type: location
   slug: punk-hazard
   status: current
+  revealed_chapter: 675

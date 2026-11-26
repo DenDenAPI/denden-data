@@ -22,3 +22,4 @@ residences:
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 621

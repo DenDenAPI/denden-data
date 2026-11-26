@@ -24,6 +24,7 @@ affiliations:
 - type: organization
   slug: marines
   status: former
+  revealed_chapter: 1096
 residences:
 - type: location
   slug: mary-geoise
