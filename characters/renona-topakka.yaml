@@ -8,6 +8,7 @@ gender: female
 species:
 - merfolk
 status: deceased
+status_revealed_chapter: 963
 first_appearance:
   chapter: 963
   episode: 962

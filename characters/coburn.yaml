@@ -8,6 +8,7 @@ gender: male
 species:
 - shandia
 status: deceased
+status_revealed_chapter: 288
 first_appearance:
   chapter: 288
   episode: 187
