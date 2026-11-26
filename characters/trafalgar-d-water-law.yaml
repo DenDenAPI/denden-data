@@ -61,6 +61,7 @@ residences:
 - type: location
   slug: swallow-island
   status: former
+  revealed_chapter: 853
 birthday:
   month: 10
   day: 6

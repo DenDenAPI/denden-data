@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Knight of God
   status: current
+  revealed_chapter: 1136
 - name: Devoted Blade of God
   status: former
   revealed_chapter: 1160
@@ -38,6 +39,7 @@ affiliations:
 origin:
   location: esperia-kingdom
   region: West Blue
+  revealed_chapter: 1183
 residences:
 - type: location
   slug: mary-geoise

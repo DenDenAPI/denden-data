@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 674
 - name: Explorer
   status: former
+  revealed_chapter: 830
 affiliations:
 - type: crew
   slug: big-mom-pirates

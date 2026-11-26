@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 692
 - name: Combatant
   status: current
+  revealed_chapter: 692
 - name: Assassin
   status: current
   revealed_chapter: 692
@@ -32,6 +34,7 @@ residences:
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: dressrosa
   status: former

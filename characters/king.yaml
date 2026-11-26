@@ -51,3 +51,4 @@ heights:
 bounties:
 - amount: 1390000000
   status: current
+  revealed_chapter: 1023

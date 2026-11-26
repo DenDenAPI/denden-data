@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 813
 - name: Mafia gangster
   status: former
+  revealed_chapter: 813
 affiliations:
 - type: crew
   slug: fire-tank-pirates
@@ -51,3 +52,4 @@ heights:
 bounties:
 - amount: 95000000
   status: current
+  revealed_chapter: 947

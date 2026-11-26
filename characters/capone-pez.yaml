@@ -29,6 +29,8 @@ affiliations:
 birthday:
   month: 1
   day: 22
+  revealed_chapter: 950
 ages:
 - years: 1
   period: other
+  revealed_chapter: 950

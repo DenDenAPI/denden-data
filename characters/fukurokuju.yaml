@@ -50,10 +50,13 @@ residences:
 birthday:
   month: 3
   day: 29
+  revealed_chapter: 1023
 blood_type: X
+blood_type_revealed_chapter: 1023
 ages:
 - years: 61
   period: other
+  revealed_chapter: 1023
 heights:
 - cm: 221
   period: other

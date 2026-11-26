@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 243
 - name: Captain of the Civilian Guard
   status: former
+  revealed_chapter: 133
 - name: Captain of Security of the Drum Kingdom
   status: former
   revealed_chapter: 142
@@ -37,6 +38,7 @@ residences:
 - type: location
   slug: drum-castle
   status: former
+  revealed_chapter: 142
 birthday:
   month: 6
   day: 10

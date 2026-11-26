@@ -42,8 +42,10 @@ blood_type_revealed_chapter: 922
 ages:
 - years: 56
   period: debut
+  revealed_chapter: 691
 - years: 58
   period: post_timeskip
+  revealed_chapter: 691
 heights:
 - cm: 302
   period: other

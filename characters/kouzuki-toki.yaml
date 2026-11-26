@@ -20,6 +20,7 @@ affiliations:
 - type: organization
   slug: amatsuki-family
   status: current
+  revealed_chapter: 964
 - type: crew
   slug: whitebeard-pirates
   status: former

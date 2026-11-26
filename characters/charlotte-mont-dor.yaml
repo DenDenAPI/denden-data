@@ -50,6 +50,7 @@ blood_type_revealed_chapter: 950
 ages:
 - years: 38
   period: other
+  revealed_chapter: 930
 heights:
 - cm: 260
   period: other
@@ -57,3 +58,4 @@ heights:
 bounties:
 - amount: 120000000
   status: current
+  revealed_chapter: 950

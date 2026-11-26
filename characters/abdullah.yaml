@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 888
 - name: Criminal
   status: current
+  revealed_chapter: 704
 - name: Bounty Hunter
   status: former
   revealed_chapter: 704

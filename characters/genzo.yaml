@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Sheriff of Cocoyasi Village
   status: current
+  revealed_chapter: 71
 affiliations:
 - type: location
   slug: cocoyasi-village

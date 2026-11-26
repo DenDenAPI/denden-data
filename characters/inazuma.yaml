@@ -17,6 +17,7 @@ occupations:
   revealed_chapter: 539
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 536
 affiliations:
 - type: location
   slug: momoiro-island
@@ -43,6 +44,7 @@ residences:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 593
 birthday:
   month: 8
   day: 3

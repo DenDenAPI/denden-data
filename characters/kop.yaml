@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Dismantler
   status: current
+  revealed_chapter: 325
 - name: Bounty Hunter
   status: current
+  revealed_chapter: 325
 affiliations:
 - type: organization
   slug: franky-family

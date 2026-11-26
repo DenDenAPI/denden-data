@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Yuba villager
   status: current
+  revealed_chapter: 163
 residences:
 - type: location
   slug: yuba

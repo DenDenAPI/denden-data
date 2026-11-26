@@ -25,6 +25,7 @@ occupations:
 social_ranks:
 - name: Slave
   status: former
+  revealed_chapter: 500
 affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
@@ -33,6 +34,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 901
 - type: organization
   slug: buggys-delivery
   status: former

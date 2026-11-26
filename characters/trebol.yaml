@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 700
 - name: Staff Officer
   status: current
+  revealed_chapter: 722
 - name: Sugar's Bodyguard
   status: current
   revealed_chapter: 731
@@ -33,9 +34,11 @@ residences:
 - type: location
   slug: downs
   status: former
+  revealed_chapter: 782
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: dressrosa
   status: former
@@ -57,3 +60,4 @@ heights:
 bounties:
 - amount: 99000000
   status: former
+  revealed_chapter: 941

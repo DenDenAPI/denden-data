@@ -14,7 +14,8 @@ first_appearance:
   episode: 461
 occupations:
 - name: 15th Division Commander
-  status: current
+  status: former
+  revealed_chapter: 586
 - name: Pirate
   status: current
   revealed_chapter: 553

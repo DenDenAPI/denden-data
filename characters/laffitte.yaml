@@ -20,8 +20,10 @@ epithets:
 occupations:
 - name: Titanic Captain
   status: current
+  revealed_chapter: 803
 - name: Navigator
   status: current
+  revealed_chapter: 461
 - name: Sheriff
   status: former
   revealed_chapter: 234
@@ -59,3 +61,4 @@ bounties:
 - amount: 42200000
   status: current
   minimum: true
+  revealed_chapter: 931

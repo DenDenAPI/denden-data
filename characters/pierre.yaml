@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Gan Fall's Pet
   status: current
+  revealed_chapter: 237
 birthday:
   month: 10
   day: 8

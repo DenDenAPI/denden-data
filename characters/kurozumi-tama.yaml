@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Kunoichi in training
   status: current
+  revealed_chapter: 911
 - name: Kasa weaver
   status: current
+  revealed_chapter: 911
 affiliations:
 - type: organization
   slug: kurozumi-family
@@ -25,6 +27,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 1004
 origin:
   location: wano-country
   region: Grand Line

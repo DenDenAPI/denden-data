@@ -21,6 +21,7 @@ affiliations:
 - type: organization
   slug: world-noble
   status: current
+  revealed_chapter: 1140
 residences:
 - type: location
   slug: mary-geoise

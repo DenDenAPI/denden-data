@@ -16,6 +16,7 @@ epithets:
 - en: Dorry the Blue Ogre
   ja: 青鬼のドリー
   romaji: Ao-Oni no Dorī
+  revealed_chapter: 118
 occupations:
 - name: Pirate Captain
   status: current
@@ -53,6 +54,7 @@ ages:
 heights:
 - cm: 2260
   period: other
+  revealed_chapter: 930
 bounties:
 - amount: 100000000
   status: former

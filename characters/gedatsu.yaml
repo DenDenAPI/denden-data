@@ -32,10 +32,12 @@ affiliations:
 origin:
   location: birka
   region: Sky Island
+  revealed_chapter: 938
 residences:
 - type: location
   slug: birka
   status: former
+  revealed_chapter: 938
 - type: location
   slug: ukkari-hot-spring-island
   status: current
@@ -43,16 +45,21 @@ residences:
 - type: location
   slug: skypiea
   status: former
+  revealed_chapter: 255
 birthday:
   month: 8
   day: 10
   revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 938
 ages:
 - years: 29
   period: debut
+  revealed_chapter: 938
 - years: 31
   period: post_timeskip
+  revealed_chapter: 938
 heights:
 - cm: 220
   period: other
+  revealed_chapter: 938

@@ -37,12 +37,17 @@ residences:
 birthday:
   month: 4
   day: 9
+  revealed_chapter: 919
 blood_type: XF
+blood_type_revealed_chapter: 919
 ages:
 - years: 9
   period: debut
+  revealed_chapter: 919
 - years: 11
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 120
   period: other
+  revealed_chapter: 919

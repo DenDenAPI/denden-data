@@ -26,8 +26,10 @@ aliases:
 occupations:
 - name: Cafe Pâtissier
   status: current
+  revealed_chapter: 411
 - name: Officer Agent
   status: former
+  revealed_chapter: 110
 affiliations:
 - type: location
   slug: spiders-cafe
@@ -60,3 +62,4 @@ heights:
 bounties:
 - amount: 7500000
   status: current
+  revealed_chapter: 928

@@ -25,6 +25,7 @@ aliases:
 occupations:
 - name: Queen of Newkama Land
   status: current
+  revealed_chapter: 666
 - name: Officer Agent
   status: former
   revealed_chapter: 154
@@ -63,3 +64,4 @@ heights:
 bounties:
 - amount: 32000000
   status: former
+  revealed_chapter: 372

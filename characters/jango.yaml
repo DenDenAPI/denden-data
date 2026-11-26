@@ -25,7 +25,8 @@ occupations:
   status: current
   revealed_chapter: 1002
 - name: Marine Seaman Recruit
-  status: current
+  status: former
+  revealed_chapter: 172
 - name: Pirate
   status: former
   revealed_chapter: 26

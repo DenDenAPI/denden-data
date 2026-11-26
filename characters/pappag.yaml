@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Fashion Designer
   status: current
+  revealed_chapter: 490
 - name: Takoyaki seller
   status: current
+  revealed_chapter: 228
 - name: Pet
   status: current
   revealed_chapter: 491

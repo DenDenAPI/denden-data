@@ -15,6 +15,7 @@ first_appearance:
 aliases:
 - en: Mr. 8
   ja: Misutā Eito
+  revealed_chapter: 107
 - en: Igarappoi
   ja: イガラッポイ
   revealed_chapter: 106
@@ -28,6 +29,7 @@ occupations:
   revealed_chapter: 107
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 107
 - name: Mayor of Whisky Peak
   status: former
   revealed_chapter: 106

@@ -26,8 +26,10 @@ aliases:
 occupations:
 - name: Cafe Delivery Boy
   status: current
+  revealed_chapter: 411
 - name: Officer Agent
   status: former
+  revealed_chapter: 160
 affiliations:
 - type: location
   slug: spiders-cafe
@@ -36,6 +38,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 160
 origin:
   region: Grand Line
   revealed_chapter: 928
@@ -59,3 +62,4 @@ heights:
 bounties:
 - amount: 3200000
   status: current
+  revealed_chapter: 928

@@ -36,6 +36,7 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 608
 - type: location
   slug: arlong-park
   status: former
@@ -60,3 +61,4 @@ heights:
 bounties:
 - amount: 8000000
   status: current
+  revealed_chapter: 928

@@ -46,6 +46,7 @@ birthday:
   day: 13
   revealed_chapter: 602
 blood_type: XF
+blood_type_revealed_chapter: 919
 ages:
 - years: 76
   period: debut
@@ -56,3 +57,4 @@ ages:
 heights:
 - cm: 188
   period: other
+  revealed_chapter: 919

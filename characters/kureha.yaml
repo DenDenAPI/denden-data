@@ -25,11 +25,14 @@ aliases:
 - en: Doctorine
   ja: ドクトリーヌ
   romaji: Dokutorīnu
+  revealed_chapter: 139
 occupations:
 - name: Head-Doctor of the Sakura Kingdom
   status: current
+  revealed_chapter: 440
 - name: Leader of the Isshi-100
   status: current
+  revealed_chapter: 152
 affiliations:
 - type: location
   slug: sakura-kingdom

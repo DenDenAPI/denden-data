@@ -35,6 +35,7 @@ residences:
 - type: location
   slug: fish-man-island
   status: former
+  revealed_chapter: 446
 birthday:
   month: 10
   day: 5
