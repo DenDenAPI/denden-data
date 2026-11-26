@@ -23,12 +23,12 @@ occupations:
   revealed_chapter: 931
 - name: Doctor
   status: current
-  revealed_chapter: 1063
+  revealed_chapter: 234
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
-  revealed_chapter: 1063
+  revealed_chapter: 234
 origin:
   region: North Blue
   revealed_chapter: 931

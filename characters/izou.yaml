@@ -18,14 +18,14 @@ occupations:
   revealed_chapter: 586
 - name: Samurai
   status: current
-  revealed_chapter: 984
+  revealed_chapter: 962
 - name: Retainer of the Kouzuki Family
   status: current
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: former
-  revealed_chapter: 943
+  revealed_chapter: 553
 - type: organization
   slug: kouzuki-family
   status: current

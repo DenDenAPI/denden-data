@@ -19,12 +19,12 @@ epithets:
 occupations:
 - name: Pirate
   status: current
-  revealed_chapter: 649
+  revealed_chapter: 606
 affiliations:
 - type: crew
   slug: sun-pirates
   status: current
-  revealed_chapter: 899
+  revealed_chapter: 830
 - type: crew
   slug: flying-pirates
   status: former

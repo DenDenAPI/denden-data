@@ -40,7 +40,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
-  revealed_chapter: 1132
+  revealed_chapter: 866
 birthday:
   month: 2
   day: 25

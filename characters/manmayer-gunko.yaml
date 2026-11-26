@@ -30,11 +30,11 @@ affiliations:
 - type: organization
   slug: knights-of-god
   status: current
-  revealed_chapter: 1137
+  revealed_chapter: 1136
 - type: organization
   slug: world-noble
   status: current
-  revealed_chapter: 1146
+  revealed_chapter: 1137
 origin:
   location: esperia-kingdom
   region: West Blue

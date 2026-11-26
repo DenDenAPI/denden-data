@@ -25,7 +25,7 @@ occupations:
   status: current
 - name: Pirate
   status: former
-  revealed_chapter: 707
+  revealed_chapter: 706
 affiliations:
 - type: organization
   slug: chinjao-family

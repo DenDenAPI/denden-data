@@ -16,11 +16,11 @@ epithets:
 - en: The Fighting King
   ja: 戦う王
   romaji: Tatakau Ō
-  revealed_chapter: 707
+  revealed_chapter: 704
 occupations:
 - name: King
   status: current
-  revealed_chapter: 707
+  revealed_chapter: 704
 affiliations:
 - type: location
   slug: prodence-kingdom

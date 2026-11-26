@@ -32,7 +32,7 @@ residences:
 - type: location
   slug: skypiea
   status: current
-  revealed_chapter: 645
+  revealed_chapter: 239
 birthday:
   month: 8
   day: 4

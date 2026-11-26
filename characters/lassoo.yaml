@@ -18,7 +18,7 @@ occupations:
   revealed_chapter: 407
 - name: Pet
   status: current
-  revealed_chapter: 186
+  revealed_chapter: 160
 affiliations:
 - type: location
   slug: spiders-cafe
@@ -26,7 +26,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
-  revealed_chapter: 185
+  revealed_chapter: 160
 birthday:
   month: 1
   day: 4

@@ -22,12 +22,12 @@ occupations:
   revealed_chapter: 200
 - name: Pirate Officer
   status: former
-  revealed_chapter: 83
+  revealed_chapter: 69
 affiliations:
 - type: crew
   slug: arlong-pirates
   status: former
-  revealed_chapter: 83
+  revealed_chapter: 69
 - type: crew
   slug: sun-pirates
   status: former

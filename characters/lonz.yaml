@@ -15,7 +15,7 @@ first_appearance:
 occupations:
 - name: Vice Admiral
   status: current
-  revealed_chapter: 556
+  revealed_chapter: 550
 affiliations:
 - type: organization
   slug: marines
@@ -24,7 +24,7 @@ affiliations:
 - type: organization
   slug: giant-squad
   status: current
-  revealed_chapter: 556
+  revealed_chapter: 550
 birthday:
   month: 6
   day: 2

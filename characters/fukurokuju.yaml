@@ -28,7 +28,7 @@ affiliations:
 - type: organization
   slug: orochi-oniwabanshu
   status: former
-  revealed_chapter: 932
+  revealed_chapter: 931
 - type: organization
   slug: kouzuki-family
   status: former
@@ -40,7 +40,7 @@ residences:
 - type: location
   slug: flower-capital
   status: current
-  revealed_chapter: 951
+  revealed_chapter: 931
 - type: location
   slug: wano-country
   status: current

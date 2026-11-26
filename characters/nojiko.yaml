@@ -23,7 +23,7 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: current
-  revealed_chapter: 71
+  revealed_chapter: 70
 - type: location
   slug: oykot-kingdom
   status: former
