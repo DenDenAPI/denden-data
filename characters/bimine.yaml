@@ -18,6 +18,7 @@ affiliations:
 - type: location
   slug: pucci
   status: current
+  revealed_chapter: 657
 residences:
 - type: location
   slug: pucci

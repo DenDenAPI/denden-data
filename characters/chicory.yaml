@@ -16,6 +16,7 @@ affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 738
 - type: crew
   slug: tontatta-pirates
   status: current

@@ -22,3 +22,4 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1134

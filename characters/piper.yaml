@@ -15,7 +15,9 @@ affiliations:
 - type: crew
   slug: new-giant-warrior-pirates
   status: current
+  revealed_chapter: 1130
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1130

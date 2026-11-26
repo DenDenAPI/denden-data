@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1
 - name: Senior Officer
   status: current
   revealed_chapter: 1

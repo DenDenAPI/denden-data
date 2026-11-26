@@ -43,6 +43,7 @@ affiliations:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 594
 - type: location
   slug: impel-down
   status: former

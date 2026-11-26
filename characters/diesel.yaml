@@ -25,3 +25,4 @@ residences:
 - type: location
   slug: totto-land
   status: current
+  revealed_chapter: 827

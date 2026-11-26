@@ -19,6 +19,7 @@ residences:
 - type: location
   slug: sabaody-archipelago
   status: current
+  revealed_chapter: 499
 birthday:
   month: 11
   day: 2

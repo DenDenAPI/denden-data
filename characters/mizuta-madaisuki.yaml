@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 487
 affiliations:
 - type: crew
   slug: rumbar-pirates
   status: current
+  revealed_chapter: 487

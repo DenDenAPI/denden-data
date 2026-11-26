@@ -24,6 +24,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 1011
 origin:
   location: onigashima
   region: Grand Line

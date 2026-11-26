@@ -22,6 +22,7 @@ affiliations:
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1096
 - type: crew
   slug: thriller-bark-pirates
   status: current

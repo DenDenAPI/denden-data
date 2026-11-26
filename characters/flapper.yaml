@@ -24,9 +24,11 @@ affiliations:
 - type: crew
   slug: tontatta-pirates
   status: current
+  revealed_chapter: 983
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 birthday:
   month: 7
   day: 28

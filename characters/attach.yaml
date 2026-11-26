@@ -26,6 +26,7 @@ affiliations:
 - type: organization
   slug: world-economy-news-paper
   status: current
+  revealed_chapter: 1124
 - type: organization
   slug: marines
   status: former

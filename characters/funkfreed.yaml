@@ -22,6 +22,7 @@ affiliations:
 - type: organization
   slug: cp9
   status: former
+  revealed_chapter: 365
 birthday:
   month: 4
   day: 28

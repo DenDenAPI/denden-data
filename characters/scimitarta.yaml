@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1122
 affiliations:
 - type: crew
   slug: endurance-curry-pirates
   status: current
+  revealed_chapter: 1122

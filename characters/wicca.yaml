@@ -27,6 +27,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 ages:
 - years: 27
   period: other

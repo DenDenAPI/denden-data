@@ -18,6 +18,7 @@ affiliations:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 827
 birthday:
   month: 6
   day: 19

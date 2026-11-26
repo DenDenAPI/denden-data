@@ -19,6 +19,7 @@ affiliations:
 - type: crew
   slug: rolling-pirates
   status: current
+  revealed_chapter: 476
 - type: organization
   slug: thriller-bark-victims-association
   status: current

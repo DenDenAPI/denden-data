@@ -26,6 +26,7 @@ affiliations:
 - type: crew
   slug: rolling-pirates
   status: current
+  revealed_chapter: 956
 - type: organization
   slug: charlotte-family
   status: current

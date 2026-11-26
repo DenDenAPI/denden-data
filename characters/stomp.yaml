@@ -28,6 +28,7 @@ residences:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 180
 blood_type: X
 blood_type_revealed_chapter: 926
 ages:

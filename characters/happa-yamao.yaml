@@ -21,6 +21,7 @@ residences:
 - type: location
   slug: water-7
   status: current
+  revealed_chapter: 341
 - type: location
   slug: pucci
   status: former

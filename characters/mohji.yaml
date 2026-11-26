@@ -21,6 +21,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 12
 - name: First Mate
   status: current
   revealed_chapter: 12
@@ -32,9 +33,11 @@ affiliations:
 - type: organization
   slug: buggys-delivery
   status: current
+  revealed_chapter: 803
 - type: crew
   slug: buggy-and-alvida-alliance
   status: current
+  revealed_chapter: 99
 - type: crew
   slug: buggy-pirates
   status: current

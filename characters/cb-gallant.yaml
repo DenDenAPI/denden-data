@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 967
 affiliations:
 - type: crew
   slug: roger-pirates
   status: current
+  revealed_chapter: 967

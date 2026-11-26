@@ -18,6 +18,7 @@ affiliations:
 - type: location
   slug: impel-down
   status: current
+  revealed_chapter: 530
 - type: organization
   slug: world-government
   status: current

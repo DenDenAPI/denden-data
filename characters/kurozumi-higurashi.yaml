@@ -25,6 +25,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 965
 birthday:
   month: 8
   day: 19

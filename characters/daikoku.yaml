@@ -17,6 +17,7 @@ occupations:
   revealed_chapter: 931
 - name: Pirate
   status: current
+  revealed_chapter: 986
 affiliations:
 - type: crew
   slug: beasts-pirates
@@ -40,6 +41,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 931
 birthday:
   month: 5
   day: 12

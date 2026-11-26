@@ -19,6 +19,7 @@ affiliations:
 - type: location
   slug: ryugu-kingdom
   status: current
+  revealed_chapter: 823
 origin:
   region: Grand Line
 birthday:

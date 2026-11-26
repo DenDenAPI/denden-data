@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 837
 - name: Senior Officer
   status: current
 - name: Musician

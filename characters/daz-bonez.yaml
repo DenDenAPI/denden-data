@@ -36,6 +36,7 @@ affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: baroque-works
   status: former

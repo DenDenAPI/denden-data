@@ -27,6 +27,7 @@ affiliations:
 - type: crew
   slug: black-cat-pirates
   status: current
+  revealed_chapter: 31
 origin:
   region: East Blue
   revealed_chapter: 919

@@ -15,6 +15,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 827
 - type: location
   slug: cacao-island
   status: current

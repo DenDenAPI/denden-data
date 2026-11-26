@@ -29,6 +29,7 @@ affiliations:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 1023
 - type: organization
   slug: shimotsuki-family
   status: current

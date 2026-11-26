@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 899
 - name: Pirate
   status: current
+  revealed_chapter: 899
 - name: Mercenary
   status: former
   revealed_chapter: 899

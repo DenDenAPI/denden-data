@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 556
 - name: Captain
   status: current
   revealed_chapter: 556
