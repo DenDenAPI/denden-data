@@ -13,10 +13,14 @@ first_appearance:
   chapter: 702
   episode: 631
 aliases:
+- en: One-Legged Toy Soldier
+  revealed_chapter: 702
+  cover_until: 702
 - en: Thunder Soldier of Rage
   ja: 怒りの雷兵
   romaji: Ikari no Kaminari Hei
-  revealed_chapter: 705
+  revealed_chapter: 703
+  cover_until: 738
 - en: The Invincible Gladiator
   revealed_chapter: 739
 occupations:
