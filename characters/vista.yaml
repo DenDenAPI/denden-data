@@ -15,9 +15,11 @@ epithets:
 - en: Vista of the Flower Swords
   ja: 花剣のビスタ
   romaji: Kaken no Bisuta
+  revealed_chapter: 561
 occupations:
 - name: 5th Division Commander
   status: former
+  revealed_chapter: 561
 - name: Pirate
   status: current
   revealed_chapter: 552

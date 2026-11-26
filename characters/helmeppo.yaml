@@ -20,7 +20,8 @@ occupations:
   status: current
   revealed_chapter: 432
 - name: Chore Boy
-  status: current
+  status: former
+  revealed_chapter: 91
 affiliations:
 - type: organization
   slug: marines

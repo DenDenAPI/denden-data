@@ -16,6 +16,7 @@ epithets:
 - en: The Killer
   ja: 殺し屋
   romaji: Koroshiya
+  revealed_chapter: 195
 aliases:
 - en: Mr. 1
   ja: Mr. 1
@@ -25,13 +26,16 @@ aliases:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 593
 - name: Assassin
   status: current
   revealed_chapter: 217
 - name: Officer Agent
   status: former
+  revealed_chapter: 160
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 217
 affiliations:
 - type: organization
   slug: cross-guild
@@ -64,3 +68,4 @@ heights:
 bounties:
 - amount: 75000000
   status: current
+  revealed_chapter: 928

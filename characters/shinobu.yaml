@@ -15,6 +15,7 @@ epithets:
 - en: Bewitching Kunoichi
   ja: 悩殺くの一
   romaji: Nōsatsu Kunoichi
+  revealed_chapter: 933
 - en: Shinobu the Man-Killer
   ja: 男殺しのしのぶ
   romaji: Otoko-goroshi no Shinobu
@@ -28,6 +29,7 @@ occupations:
   revealed_chapter: 940
 - name: Member of the Kouzuki Family Oniwabanshu
   status: former
+  revealed_chapter: 935
 affiliations:
 - type: organization
   slug: kouzuki-family
@@ -36,6 +38,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 922
 origin:
   location: wano-country
   region: Grand Line

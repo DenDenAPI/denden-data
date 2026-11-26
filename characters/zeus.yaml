@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Living Weapon
   status: current
+  revealed_chapter: 1016
 - name: Servant
   status: former
   revealed_chapter: 874

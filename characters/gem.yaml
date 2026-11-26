@@ -26,8 +26,10 @@ aliases:
 occupations:
 - name: Cafe Employee
   status: current
+  revealed_chapter: 411
 - name: Officer Agent
   status: former
+  revealed_chapter: 110
 - name: Sniper
   status: former
 affiliations:
@@ -38,6 +40,7 @@ affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 110
 origin:
   region: South Blue
   revealed_chapter: 928
@@ -61,3 +64,4 @@ heights:
 bounties:
 - amount: 10000000
   status: current
+  revealed_chapter: 928

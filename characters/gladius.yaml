@@ -28,9 +28,11 @@ residences:
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 753
 birthday:
   month: 8
   day: 6
@@ -48,3 +50,4 @@ heights:
 bounties:
 - amount: 31000000
   status: former
+  revealed_chapter: 941

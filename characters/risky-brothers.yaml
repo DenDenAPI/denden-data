@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirates
   status: current
+  revealed_chapter: 475
 affiliations:
 - type: crew
   slug: rolling-pirates
@@ -23,3 +24,4 @@ affiliations:
 - type: organization
   slug: thriller-bark-victims-association
   status: current
+  revealed_chapter: 475

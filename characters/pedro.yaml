@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 846
 - name: Explorer
   status: former
+  revealed_chapter: 830
 affiliations:
 - type: location
   slug: mokomo-dukedom

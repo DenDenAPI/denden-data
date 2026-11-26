@@ -22,6 +22,7 @@ occupations:
   revealed_chapter: 800
 - name: 13th Leader of the Happo Navy
   status: current
+  revealed_chapter: 771
 - name: Martial Artist
   status: current
   revealed_chapter: 706
@@ -64,3 +65,4 @@ heights:
 bounties:
 - amount: 210000000
   status: current
+  revealed_chapter: 944

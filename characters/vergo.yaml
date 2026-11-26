@@ -55,6 +55,7 @@ residences:
 - type: location
   slug: downs
   status: former
+  revealed_chapter: 782
 - type: location
   slug: g-5
   status: current

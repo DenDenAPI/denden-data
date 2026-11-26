@@ -40,6 +40,7 @@ occupations:
   revealed_chapter: 948
 - name: Highway Robber
   status: former
+  revealed_chapter: 962
 affiliations:
 - type: organization
   slug: kouzuki-family
@@ -52,6 +53,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 975
 origin:
   location: ryugu-kingdom
   region: Grand Line

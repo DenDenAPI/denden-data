@@ -19,6 +19,7 @@ aliases:
 occupations:
 - name: Co-Head of the World Government
   status: current
+  revealed_chapter: 233
 - name: Scientist
   status: current
   revealed_chapter: 1094

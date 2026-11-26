@@ -16,9 +16,11 @@ epithets:
 - en: Evening Shower
   ja: 夕立ち
   romaji: Yūdachi
+  revealed_chapter: 754
 - en: Ghost of Kibi
   ja: 希美の妖怪
   romaji: Kibi no Yōkai
+  revealed_chapter: 962
 aliases:
 - en: Kanjuro
   ja: カン十郎
@@ -28,6 +30,7 @@ aliases:
 occupations:
 - name: Theatre Performer
   status: former
+  revealed_chapter: 974
 - name: Spy of the Kurozumi Family
   status: current
   revealed_chapter: 974

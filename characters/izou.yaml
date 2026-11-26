@@ -21,6 +21,7 @@ occupations:
   revealed_chapter: 962
 - name: Retainer of the Kouzuki Family
   status: current
+  revealed_chapter: 962
 affiliations:
 - type: crew
   slug: whitebeard-pirates
@@ -29,16 +30,20 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 962
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current
+  revealed_chapter: 984
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 962
 residences:
 - type: location
   slug: wano-country
-  status: current
+  status: former
+  revealed_chapter: 962
 birthday:
   month: 10
   day: 13
@@ -59,3 +64,4 @@ heights:
 bounties:
 - amount: 510000000
   status: former
+  revealed_chapter: 926

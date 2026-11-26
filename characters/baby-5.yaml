@@ -18,10 +18,12 @@ occupations:
   revealed_chapter: 762
 - name: Pirate Officer
   status: former
+  revealed_chapter: 692
 - name: Servant
   status: former
 - name: Assassin
   status: former
+  revealed_chapter: 692
 affiliations:
 - type: crew
   slug: happo-navy
@@ -46,9 +48,11 @@ residences:
 - type: location
   slug: kuen-village
   status: former
+  revealed_chapter: 938
 - type: location
   slug: spider-miles
   status: former
+  revealed_chapter: 762
 - type: location
   slug: dressrosa
   status: former
@@ -56,6 +60,7 @@ residences:
 - type: location
   slug: kano-country
   status: current
+  revealed_chapter: 877
 birthday:
   month: 5
   day: 15

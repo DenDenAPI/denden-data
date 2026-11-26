@@ -29,6 +29,7 @@ occupations:
   revealed_chapter: 840
 - name: Mercenary
   status: current
+  revealed_chapter: 832
 affiliations:
 - type: organization
   slug: vinsmoke-family

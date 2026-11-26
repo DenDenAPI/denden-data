@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Yakuza boss
   status: current
+  revealed_chapter: 952
 - name: Prisoner
   status: former
   revealed_chapter: 952
@@ -30,3 +31,4 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 952

@@ -18,8 +18,10 @@ aliases:
 occupations:
 - name: Bartender
   status: current
+  revealed_chapter: 498
 - name: Pirate Captain
   status: former
+  revealed_chapter: 1157
 - name: First Mate
   status: former
   revealed_chapter: 1156

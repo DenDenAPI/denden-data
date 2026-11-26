@@ -34,6 +34,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 901
 origin:
   region: Grand Line
   revealed_chapter: 950

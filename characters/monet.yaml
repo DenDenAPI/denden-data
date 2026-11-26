@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Caesar's secretary
   status: current
+  revealed_chapter: 672
 - name: Doflamingo's spy
   status: current
   revealed_chapter: 672
@@ -37,6 +38,7 @@ residences:
 - type: location
   slug: dressrosa
   status: former
+  revealed_chapter: 762
 birthday:
   month: 8
   day: 27

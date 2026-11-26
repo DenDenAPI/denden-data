@@ -30,6 +30,7 @@ aliases:
 occupations:
 - name: Spiders Cafe Owner
   status: current
+  revealed_chapter: 160
 - name: Assassin
   status: former
   revealed_chapter: 928
@@ -68,3 +69,4 @@ heights:
 bounties:
 - amount: 35000000
   status: current
+  revealed_chapter: 928

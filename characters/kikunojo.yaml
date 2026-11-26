@@ -35,6 +35,7 @@ occupations:
   revealed_chapter: 948
 - name: Tea House Poster Girl
   status: current
+  revealed_chapter: 913
 affiliations:
 - type: organization
   slug: kouzuki-family
@@ -47,6 +48,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 919
 origin:
   location: wano-country
   region: Grand Line

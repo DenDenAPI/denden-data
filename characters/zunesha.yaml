@@ -18,6 +18,7 @@ residences:
 - type: location
   slug: new-world
   status: current
+  revealed_chapter: 802
 birthday:
   month: 12
   day: 18

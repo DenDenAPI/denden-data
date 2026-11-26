@@ -26,6 +26,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 origin:
   region: North Blue
   revealed_chapter: 1064
@@ -39,6 +40,7 @@ birthday:
   day: 25
   revealed_chapter: 821
 blood_type: X
+blood_type_revealed_chapter: 975
 ages:
 - years: 26
   period: debut

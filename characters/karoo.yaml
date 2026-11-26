@@ -15,10 +15,13 @@ first_appearance:
 occupations:
 - name: Pet
   status: current
+  revealed_chapter: 109
 - name: Royal Transport
   status: current
+  revealed_chapter: 109
 - name: Captain of the Super Spot-Billed Duck Troops
   status: current
+  revealed_chapter: 180
 - name: Pirate
   status: former
   revealed_chapter: 128
@@ -26,6 +29,7 @@ affiliations:
 - type: organization
   slug: royal-guard
   status: current
+  revealed_chapter: 233
 - type: crew
   slug: straw-hat-pirates
   status: former

@@ -23,6 +23,7 @@ occupations:
   revealed_chapter: 15
 - name: Chief of Staff
   status: current
+  revealed_chapter: 15
 - name: Acrobat
   status: current
   revealed_chapter: 16
@@ -53,6 +54,7 @@ residences:
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 803
 birthday:
   month: 9
   day: 8

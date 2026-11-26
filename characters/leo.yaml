@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Captain of the Fifth Ship of the Straw Hat Grand Fleet
   status: current
+  revealed_chapter: 800
 - name: Captain of the Tontatta Pirates
   status: current
   revealed_chapter: 739

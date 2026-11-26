@@ -36,6 +36,7 @@ residences:
 - type: location
   slug: 100-island
   status: current
+  revealed_chapter: 920
 birthday:
   month: 10
   day: 12

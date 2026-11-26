@@ -49,6 +49,7 @@ residences:
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 803
 birthday:
   month: 10
   day: 1

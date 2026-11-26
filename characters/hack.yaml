@@ -20,8 +20,10 @@ epithets:
 occupations:
 - name: Revolutionary Army member
   status: current
+  revealed_chapter: 731
 - name: Fish-Man Karate Instructor
   status: current
+  revealed_chapter: 810
 - name: Fish-Man Jujutsu Martial Artist
   status: current
   revealed_chapter: 707
@@ -45,6 +47,7 @@ residences:
 - type: location
   slug: momoiro-island
   status: current
+  revealed_chapter: 1085
 birthday:
   month: 8
   day: 9

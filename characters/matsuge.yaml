@@ -12,6 +12,7 @@ first_appearance:
 occupations:
 - name: Royal Transport
   status: current
+  revealed_chapter: 180
 - name: Member of the Super Spot-Billed Duck Troops
   status: current
   revealed_chapter: 217
@@ -32,6 +33,7 @@ residences:
 - type: location
   slug: rainbase
   status: former
+  revealed_chapter: 176
 birthday:
   month: 8
   day: 17

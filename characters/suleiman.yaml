@@ -23,6 +23,7 @@ occupations:
   revealed_chapter: 799
 - name: War Criminal
   status: current
+  revealed_chapter: 733
 - name: Mercenary
   status: former
   revealed_chapter: 733
@@ -55,3 +56,4 @@ heights:
 bounties:
 - amount: 67000000
   status: current
+  revealed_chapter: 944

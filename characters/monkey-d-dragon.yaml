@@ -16,6 +16,7 @@ epithets:
 - en: Rebellious Dragon
   ja: 反逆竜
   romaji: Hangyaku Ryū
+  revealed_chapter: 1054
 - en: World's Worst Criminal
   ja: 世界最悪の犯罪者
   romaji: Sekai Saiaku no Hanzaisha
@@ -32,6 +33,7 @@ occupations:
   revealed_chapter: 432
 - name: Captain of the Freedom Fighters
   status: former
+  revealed_chapter: 1066
 affiliations:
 - type: organization
   slug: revolutionary-army

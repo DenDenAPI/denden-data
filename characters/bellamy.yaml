@@ -28,6 +28,7 @@ epithets:
 occupations:
 - name: Dyer
   status: current
+  revealed_chapter: 915
 - name: Pirate
   status: former
   revealed_chapter: 222
@@ -46,6 +47,7 @@ affiliations:
 origin:
   location: notice
   region: North Blue
+  revealed_chapter: 769
 residences:
 - type: location
   slug: dressrosa
@@ -54,6 +56,7 @@ residences:
 - type: location
   slug: notice
   status: former
+  revealed_chapter: 769
 birthday:
   month: 8
   day: 7

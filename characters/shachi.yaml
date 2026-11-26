@@ -24,8 +24,10 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 819
 origin:
   region: North Blue
+  revealed_chapter: 853
 residences:
 - type: location
   slug: swallow-island
@@ -36,6 +38,7 @@ birthday:
   day: 7
   revealed_chapter: 821
 blood_type: X
+blood_type_revealed_chapter: 975
 ages:
 - years: 25
   period: debut

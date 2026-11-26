@@ -32,6 +32,7 @@ residences:
 - type: location
   slug: fish-man-district
   status: former
+  revealed_chapter: 629
 birthday:
   month: 7
   day: 8

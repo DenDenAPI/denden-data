@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 42
 - name: Fisherman
   status: current
+  revealed_chapter: 624
 origin:
   region: East Blue
   revealed_chapter: 82

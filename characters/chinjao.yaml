@@ -22,7 +22,8 @@ epithets:
   revealed_chapter: 717
 occupations:
 - name: 12th Leader of the Happo Navy
-  status: current
+  status: former
+  revealed_chapter: 719
 - name: Pirate
   status: former
   revealed_chapter: 706
@@ -64,3 +65,4 @@ heights:
 bounties:
 - amount: 542000000
   status: current
+  revealed_chapter: 944

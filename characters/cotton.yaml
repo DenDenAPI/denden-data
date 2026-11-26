@@ -27,6 +27,8 @@ affiliations:
 - type: crew
   slug: tontatta-pirates
   status: current
+  revealed_chapter: 800
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800

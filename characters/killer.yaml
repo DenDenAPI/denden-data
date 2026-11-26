@@ -40,6 +40,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 975
 origin:
   location: kutsukku-island
   region: South Blue

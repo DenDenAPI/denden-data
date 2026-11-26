@@ -33,6 +33,7 @@ occupations:
   revealed_chapter: 650
 - name: Apprentice
   status: former
+  revealed_chapter: 966
 - name: Warlord of the Sea
   status: former
   revealed_chapter: 474
