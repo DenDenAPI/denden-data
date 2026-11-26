@@ -20,6 +20,7 @@ occupations:
   revealed_chapter: 715
 - name: Guardians' helper
   status: current
+  revealed_chapter: 805
 affiliations:
 - type: crew
   slug: heart-pirates
@@ -30,6 +31,7 @@ affiliations:
   status: former
 origin:
   region: Grand Line
+  revealed_chapter: 805
 residences:
 - type: location
   slug: zou

@@ -20,6 +20,7 @@ epithets:
 - en: Master of Doctors
   ja: マスターオブ医者
   romaji: Masutā Obu Isha
+  revealed_chapter: 134
 aliases:
 - en: Doctorine
   ja: ドクトリーヌ
@@ -55,8 +56,10 @@ blood_type_revealed_chapter: 926
 ages:
 - years: 139
   period: debut
+  revealed_chapter: 134
 - years: 141
   period: post_timeskip
+  revealed_chapter: 906
 heights:
 - cm: 188
   period: other

@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 98
 - type: location
   slug: loguetown
   status: current

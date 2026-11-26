@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Proprietor of the Mermaid Cafe
   status: current
+  revealed_chapter: 610
 - name: Fortune teller
   status: former
   revealed_chapter: 610

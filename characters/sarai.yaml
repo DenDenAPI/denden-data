@@ -16,7 +16,9 @@ occupations:
   status: current
 - name: Slaver
   status: current
+  revealed_chapter: 964
 affiliations:
 - type: crew
   slug: takotopus-pirates
   status: current
+  revealed_chapter: 964

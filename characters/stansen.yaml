@@ -20,6 +20,7 @@ occupations:
   revealed_chapter: 897
 - name: Mercenary
   status: former
+  revealed_chapter: 897
 - name: Slave
   status: former
 affiliations:

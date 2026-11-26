@@ -21,6 +21,7 @@ occupations:
   revealed_chapter: 511
 - name: Dr. Vegapunk's bodyguard
   status: former
+  revealed_chapter: 511
 affiliations:
 - type: organization
   slug: marines

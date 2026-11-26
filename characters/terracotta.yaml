@@ -17,10 +17,12 @@ occupations:
   status: current
 - name: Royal Seamstress
   status: current
+  revealed_chapter: 213
 affiliations:
 - type: location
   slug: arabasta-kingdom
   status: current
+  revealed_chapter: 213
 birthday:
   month: 9
   day: 25

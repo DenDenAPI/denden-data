@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 75
 - name: Head of Banquets
   status: current
   revealed_chapter: 240
@@ -21,6 +22,7 @@ affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 75
 origin:
   location: ryugu-kingdom
   region: Grand Line

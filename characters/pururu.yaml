@@ -16,9 +16,11 @@ epithets:
 - en: '"Trembling" Pururu'
   ja: ブルブルのプルル
   romaji: Buruburu no Pururu
+  revealed_chapter: 1079
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1079
 affiliations:
 - type: crew
   slug: bourgeois-pirates

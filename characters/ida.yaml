@@ -14,8 +14,10 @@ first_appearance:
 occupations:
 - name: Bartender
   status: current
+  revealed_chapter: 1154
 - name: Circus Performer
   status: former
+  revealed_chapter: 1153
 origin:
   location: samuwanai-island
   region: South Blue

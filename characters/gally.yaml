@@ -19,10 +19,12 @@ epithets:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 902
 affiliations:
 - type: crew
   slug: gally-pirates
   status: current
+  revealed_chapter: 902
 bounties:
 - amount: 5000000
   status: current

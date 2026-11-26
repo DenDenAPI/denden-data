@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: former
+  revealed_chapter: 129
 affiliations:
 - type: crew
   slug: giant-warrior-pirates
@@ -24,6 +25,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 865
 birthday:
   month: 11
   day: 14
@@ -32,3 +34,4 @@ ages:
 - years: 102
   period: other
   minimum: true
+  revealed_chapter: 129

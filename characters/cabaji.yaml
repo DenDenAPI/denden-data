@@ -16,6 +16,7 @@ epithets:
 - en: Cabaji the Acrobat
   ja: 曲芸のカバジ
   romaji: Kyokugi no Kabaji
+  revealed_chapter: 15
 occupations:
 - name: Pirate
   status: current
@@ -31,12 +32,14 @@ affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: buggys-delivery
   status: current
 - type: crew
   slug: buggy-and-alvida-alliance
   status: current
+  revealed_chapter: 54
 - type: crew
   slug: buggy-pirates
   status: current

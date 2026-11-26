@@ -21,6 +21,7 @@ affiliations:
 - type: crew
   slug: spade-pirates
   status: current
+  revealed_chapter: 552
 - type: crew
   slug: whitebeard-pirates
   status: current

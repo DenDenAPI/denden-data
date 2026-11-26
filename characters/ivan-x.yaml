@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: super-spot-billed-duck-troops
   status: current
+  revealed_chapter: 180
 origin:
   location: arabasta-kingdom
   region: Grand Line

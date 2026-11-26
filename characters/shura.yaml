@@ -18,6 +18,7 @@ epithets:
 occupations:
 - name: Priest of Enel
   status: current
+  revealed_chapter: 241
 origin:
   location: birka
   region: Sky Island

@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 508
 - name: Magician
   status: current
   revealed_chapter: 873
@@ -21,6 +22,7 @@ affiliations:
 - type: crew
   slug: hawkins-pirates
   status: current
+  revealed_chapter: 508
 origin:
   region: North Blue
   revealed_chapter: 928

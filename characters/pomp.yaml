@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 1029
 affiliations:
 - type: crew
   slug: kid-pirates
   status: current
+  revealed_chapter: 1029

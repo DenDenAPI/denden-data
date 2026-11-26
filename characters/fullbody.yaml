@@ -16,15 +16,18 @@ epithets:
 - en: Double Ironfist Fullbody
   ja: 両鉄拳のフルボディ
   romaji: Ryōtekken no Furubodi
+  revealed_chapter: 214
 - en: Ironfist Fullbody
   ja: 鉄拳のフルボディ
   romaji: Tekken no Furubodi
+  revealed_chapter: 214
 occupations:
 - name: Marine Lieutenant Commander
   status: current
   revealed_chapter: 1002
 - name: Marine Seaman Recruit
   status: current
+  revealed_chapter: 43
 - name: Marine Lieutenant
   status: current
   revealed_chapter: 43

@@ -19,6 +19,7 @@ epithets:
 - en: The Resourceful General
   ja: 智将
   romaji: Chishō
+  revealed_chapter: 556
 occupations:
 - name: Inspector General
   status: current
@@ -28,8 +29,10 @@ occupations:
   revealed_chapter: 234
 - name: Admiral
   status: former
+  revealed_chapter: 234
 - name: Vice Admiral
   status: former
+  revealed_chapter: 1157
 affiliations:
 - type: organization
   slug: marines

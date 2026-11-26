@@ -22,6 +22,7 @@ occupations:
   status: current
 - name: Emperor of the Underworld
   status: current
+  revealed_chapter: 860
 affiliations:
 - type: organization
   slug: world-economy-news-paper

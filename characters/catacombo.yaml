@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Rear Admiral
   status: current
+  revealed_chapter: 602
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 602
 residences:
 - type: location
   slug: sabaody-archipelago

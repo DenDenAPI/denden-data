@@ -25,6 +25,7 @@ occupations:
   revealed_chapter: 706
 - name: Mafia Leader
   status: former
+  revealed_chapter: 720
 affiliations:
 - type: crew
   slug: barto-club

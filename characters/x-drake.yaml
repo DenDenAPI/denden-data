@@ -21,9 +21,11 @@ aliases:
 - en: Dory
   ja: ドリィ
   romaji: Dorii
+  revealed_chapter: 767
 occupations:
 - name: Captain of SWORD
   status: current
+  revealed_chapter: 956
 - name: Pirate
   status: current
   revealed_chapter: 498
@@ -52,9 +54,11 @@ affiliations:
 - type: crew
   slug: barrels-pirates
   status: former
+  revealed_chapter: 767
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 990
 origin:
   region: North Blue
   revealed_chapter: 936

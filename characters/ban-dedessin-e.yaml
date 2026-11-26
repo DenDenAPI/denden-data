@@ -15,5 +15,6 @@ first_appearance:
 occupations:
 - name: Queen of the Frauce Kingdom
   status: current
+  revealed_chapter: 908
 origin:
   region: East Blue

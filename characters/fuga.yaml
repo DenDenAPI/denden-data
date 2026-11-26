@@ -14,6 +14,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 991
 origin:
   location: punk-hazard
   region: Grand Line

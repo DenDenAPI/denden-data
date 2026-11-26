@@ -16,11 +16,14 @@ epithets:
 - en: Wet-Haired Caribou
   ja: 濡れ髪のカリブー
   romaji: Nuregami no Karibū
+  revealed_chapter: 600
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 600
 - name: Kidnapper
   status: current
+  revealed_chapter: 612
 affiliations:
 - type: crew
   slug: caribou-pirates
@@ -29,6 +32,7 @@ affiliations:
 - type: crew
   slug: fake-straw-hat-crew
   status: former
+  revealed_chapter: 600
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

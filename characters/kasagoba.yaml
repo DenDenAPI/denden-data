@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 607
 affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 607
 origin:
   location: ryugu-kingdom
   region: Grand Line

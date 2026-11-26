@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Commander of the Krieg Pirates' second unit
   status: current
+  revealed_chapter: 54
 affiliations:
 - type: crew
   slug: krieg-pirates

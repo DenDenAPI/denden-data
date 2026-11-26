@@ -16,15 +16,19 @@ aliases:
 - en: Captain Porcupinefish
   ja: ハリセンボン隊長
   romaji: Harisenbon-taichō
+  revealed_chapter: 635
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 617
 - name: Sea Urchin Armor Spine Squad Commander
   status: current
+  revealed_chapter: 635
 affiliations:
 - type: crew
   slug: new-fish-man-pirates
   status: current
+  revealed_chapter: 617
 origin:
   location: ryugu-kingdom
   region: Grand Line

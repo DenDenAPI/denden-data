@@ -32,9 +32,11 @@ residences:
 - type: location
   slug: kuri
   status: current
+  revealed_chapter: 911
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 911
 birthday:
   month: 3
   day: 3
@@ -44,6 +46,7 @@ blood_type_revealed_chapter: 1011
 ages:
 - years: 8
   period: other
+  revealed_chapter: 911
 heights:
 - cm: 108
   period: other

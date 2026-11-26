@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Noble
   status: current
+  revealed_chapter: 585
 residences:
 - type: location
   slug: goa-kingdom
   status: current
+  revealed_chapter: 585

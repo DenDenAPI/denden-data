@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 116
 affiliations:
 - type: crew
   slug: giant-warrior-pirates

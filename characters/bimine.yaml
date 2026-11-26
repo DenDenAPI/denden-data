@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Mayor
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: location
   slug: pucci
@@ -21,3 +22,4 @@ residences:
 - type: location
   slug: pucci
   status: current
+  revealed_chapter: 657

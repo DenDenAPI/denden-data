@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Army Commander
   status: current
+  revealed_chapter: 706
 affiliations:
 - type: location
   slug: majiatsuka-kingdom
   status: current
+  revealed_chapter: 725

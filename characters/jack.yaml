@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 808
 - name: De Facto Ruler of Kuri
   status: former
+  revealed_chapter: 917
 affiliations:
 - type: crew
   slug: beasts-pirates

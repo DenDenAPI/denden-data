@@ -16,9 +16,11 @@ epithets:
 - en: Deep-Sea Currents
   ja: 深層海流
   romaji: Shinsō Kairyū
+  revealed_chapter: 860
 occupations:
 - name: Emperor of the Underworld
   status: current
+  revealed_chapter: 860
 affiliations:
 - type: organization
   slug: umit-shipping

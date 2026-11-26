@@ -15,6 +15,7 @@ affiliations:
 - type: crew
   slug: bellamy-pirates
   status: current
+  revealed_chapter: 223
 origin:
   location: notice
   region: North Blue

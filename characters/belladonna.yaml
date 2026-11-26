@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 514
 origin:
   location: calm-belt
   revealed_chapter: 928

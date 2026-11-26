@@ -39,6 +39,7 @@ origin:
 ages:
 - years: 63
   period: other
+  revealed_chapter: 1130
 bounties:
 - amount: 2600000000
   status: current

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Special Officer
   status: current
+  revealed_chapter: 731
 affiliations:
 - type: crew
   slug: donquixote-pirates

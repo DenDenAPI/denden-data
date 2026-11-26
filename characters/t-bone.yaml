@@ -16,16 +16,20 @@ epithets:
 - en: Ship Cutter
   ja: 船斬り
   romaji: Funekiri
+  revealed_chapter: 371
 occupations:
 - name: Marine Vice Admiral
   status: current
+  revealed_chapter: 1082
 - name: Marine Rear Admiral
   status: current
   revealed_chapter: 1002
 - name: Marine Captain
   status: current
+  revealed_chapter: 365
 - name: Knight
   status: former
+  revealed_chapter: 365
 affiliations:
 - type: organization
   slug: marines

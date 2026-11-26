@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Candy
   status: current
   revealed_chapter: 834
@@ -34,6 +35,7 @@ residences:
 - type: location
   slug: candy-island
   status: current
+  revealed_chapter: 834
 birthday:
   month: 3
   day: 14

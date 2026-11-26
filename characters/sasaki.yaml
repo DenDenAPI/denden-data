@@ -23,6 +23,7 @@ occupations:
   revealed_chapter: 1004
 - name: Pirate Captain
   status: former
+  revealed_chapter: 979
 affiliations:
 - type: crew
   slug: beasts-pirates

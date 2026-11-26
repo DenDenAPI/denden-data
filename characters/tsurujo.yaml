@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Tea House Owner
   status: current
+  revealed_chapter: 913
 - name: Waitress
   status: former
+  revealed_chapter: 960
 origin:
   location: wano-country
   region: Grand Line
@@ -24,6 +26,7 @@ residences:
 - type: location
   slug: wano-country
   status: former
+  revealed_chapter: 913
 birthday:
   month: 9
   day: 15

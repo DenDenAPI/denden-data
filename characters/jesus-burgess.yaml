@@ -21,11 +21,14 @@ aliases:
 - en: Mr. Store
   ja: Mr.ストア
   romaji: Misutā Sutoa
+  revealed_chapter: 704
 occupations:
 - name: Titanic Captain
   status: current
+  revealed_chapter: 704
 - name: Helmsman
   status: current
+  revealed_chapter: 234
 affiliations:
 - type: crew
   slug: blackbeard-pirates
@@ -38,6 +41,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1059
 birthday:
   month: 12
   day: 25

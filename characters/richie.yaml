@@ -18,10 +18,12 @@ occupations:
   revealed_chapter: 12
 - name: Pirate Captain
   status: former
+  revealed_chapter: 60
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: buggys-delivery
   status: current

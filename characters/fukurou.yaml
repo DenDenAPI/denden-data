@@ -16,9 +16,11 @@ epithets:
 - en: Fukurou the Silent
   ja: 音無しのフクロウ
   romaji: Otonashi no Fukurō
+  revealed_chapter: 400
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 375
 affiliations:
 - type: organization
   slug: cp9

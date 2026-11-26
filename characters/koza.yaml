@@ -18,8 +18,10 @@ occupations:
   revealed_chapter: 638
 - name: Rebel Army leader
   status: former
+  revealed_chapter: 164
 - name: Sand-Sand Clan leader
   status: former
+  revealed_chapter: 163
 affiliations:
 - type: location
   slug: arabasta-kingdom

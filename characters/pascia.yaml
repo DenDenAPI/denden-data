@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Dancer
   status: current
+  revealed_chapter: 501
 - name: Slave
   status: former
+  revealed_chapter: 501
 origin:
   region: South Blue
   revealed_chapter: 922
@@ -27,3 +29,4 @@ birthday:
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 501

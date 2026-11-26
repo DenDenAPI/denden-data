@@ -24,6 +24,7 @@ epithets:
 occupations:
 - name: Yakuza Boss
   status: current
+  revealed_chapter: 1117
 - name: Ruler of Mokomo Dukedom
   status: former
   revealed_chapter: 809

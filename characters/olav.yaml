@@ -15,14 +15,17 @@ first_appearance:
 occupations:
 - name: Student
   status: current
+  revealed_chapter: 1134
 affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1134
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1134
 ages:
 - years: 19
   period: other

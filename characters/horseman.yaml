@@ -17,7 +17,9 @@ occupations:
   status: current
 - name: Attendant
   status: current
+  revealed_chapter: 1016
 affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 1016

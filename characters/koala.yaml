@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Assistant Fish-Man Karate Instructor
   status: current
+  revealed_chapter: 731
 - name: Slave
   status: former
   revealed_chapter: 622
@@ -55,6 +56,7 @@ blood_type_revealed_chapter: 928
 ages:
 - years: 11
   period: debut
+  revealed_chapter: 622
 - years: 23
   period: post_timeskip
   revealed_chapter: 781

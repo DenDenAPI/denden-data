@@ -17,7 +17,9 @@ occupations:
   status: current
 - name: Senior Officer
   status: current
+  revealed_chapter: 1
 affiliations:
 - type: crew
   slug: red-hair-pirates
   status: current
+  revealed_chapter: 1

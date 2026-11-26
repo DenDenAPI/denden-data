@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 500
 affiliations:
 - type: crew
   slug: kid-pirates
   status: current
+  revealed_chapter: 500
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

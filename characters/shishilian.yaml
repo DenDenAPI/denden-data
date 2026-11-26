@@ -16,9 +16,11 @@ epithets:
 - en: Full Power Shishilian
   ja: 全力のシシリアン
   romaji: Zenryoku no Shishirian
+  revealed_chapter: 808
 occupations:
 - name: Captain of the Musketeers
   status: current
+  revealed_chapter: 808
 affiliations:
 - type: location
   slug: mokomo-dukedom
@@ -26,6 +28,7 @@ affiliations:
 - type: organization
   slug: inuarashi-musketeer-squad
   status: current
+  revealed_chapter: 808
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current

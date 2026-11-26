@@ -15,14 +15,18 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 888
 - name: Criminal
   status: current
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 704
 affiliations:
 - type: crew
   slug: ideo-pirates
   status: current
+  revealed_chapter: 799
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800

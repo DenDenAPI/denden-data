@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Ruler of Mokomo Dukedom
   status: former
+  revealed_chapter: 967
 affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 963
 residences:
 - type: location
   slug: zou

@@ -16,9 +16,11 @@ epithets:
 - en: '"Memorial Blade" Fugar'
   ja: 慰霊刃のフガー
   romaji: Ireba no Fugā
+  revealed_chapter: 1079
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1079
 affiliations:
 - type: crew
   slug: social-club

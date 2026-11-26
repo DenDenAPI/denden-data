@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 552
 affiliations:
 - type: crew
   slug: spade-pirates
   status: current
+  revealed_chapter: 552

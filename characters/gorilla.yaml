@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Marine Captain
   status: current
+  revealed_chapter: 596
 affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 596
 birthday:
   month: 5
   day: 18

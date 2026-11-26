@@ -21,10 +21,12 @@ occupations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 501
 residences:
 - type: location
   slug: toroa
   status: current
+  revealed_chapter: 501
 birthday:
   month: 12
   day: 18
@@ -32,6 +34,8 @@ birthday:
 ages:
 - years: 25
   period: debut
+  revealed_chapter: 501
 heights:
 - cm: 192
   period: other
+  revealed_chapter: 501

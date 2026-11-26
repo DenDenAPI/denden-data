@@ -16,6 +16,7 @@ occupations:
   revealed_chapter: 932
 - name: Captain of the Orochi Oniwabanshu
   status: former
+  revealed_chapter: 931
 affiliations:
 - type: organization
   slug: kurozumi-family
@@ -23,6 +24,7 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  revealed_chapter: 986
 - type: organization
   slug: orochi-oniwabanshu
   status: former
@@ -30,6 +32,7 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: former
+  revealed_chapter: 935
 origin:
   location: wano-country
   region: Grand Line
@@ -41,6 +44,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 931
 birthday:
   month: 3
   day: 29

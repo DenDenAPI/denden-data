@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: World Noble
   status: current
+  revealed_chapter: 1083
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 1083
 residences:
 - type: location
   slug: mary-geoise

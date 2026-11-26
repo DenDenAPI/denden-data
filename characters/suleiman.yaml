@@ -16,6 +16,7 @@ epithets:
 - en: Suleiman the Beheader
   ja: 首はねスレイマン
   romaji: Kubi-hane Sureiman
+  revealed_chapter: 704
 occupations:
 - name: Pirate
   status: current
@@ -24,10 +25,12 @@ occupations:
   status: current
 - name: Mercenary
   status: former
+  revealed_chapter: 733
 affiliations:
 - type: crew
   slug: beautiful-pirates
   status: current
+  revealed_chapter: 799
 - type: crew
   slug: straw-hat-grand-fleet
   status: current

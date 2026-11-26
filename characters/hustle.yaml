@@ -21,6 +21,7 @@ affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
+  revealed_chapter: 60
 origin:
   region: East Blue
   revealed_chapter: 928

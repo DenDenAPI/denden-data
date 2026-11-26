@@ -15,15 +15,19 @@ first_appearance:
 occupations:
 - name: Factory worker
   status: former
+  revealed_chapter: 738
 - name: Pirate
   status: current
+  revealed_chapter: 889
 affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 738
 - type: location
   slug: smile-factory
   status: former
+  revealed_chapter: 755
 - type: crew
   slug: tontatta-pirates
   status: current

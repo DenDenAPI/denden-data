@@ -16,14 +16,17 @@ epithets:
 - en: Shiryu of the Rain
   ja: 雨のシリュウ
   romaji: Ame no Shiryū
+  revealed_chapter: 538
 occupations:
 - name: Titanic Captain
   status: current
+  revealed_chapter: 803
 - name: Head Jailer
   status: former
   revealed_chapter: 538
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 538
 affiliations:
 - type: crew
   slug: blackbeard-pirates

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 affiliations:
 - type: organization
   slug: charlotte-family
@@ -22,6 +23,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 854
 birthday:
   month: 12
   day: 10

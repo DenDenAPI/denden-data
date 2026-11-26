@@ -18,8 +18,10 @@ occupations:
   revealed_chapter: 1119
 - name: CP9 Chief
   status: former
+  revealed_chapter: 358
 - name: CP5 Chief
   status: former
+  revealed_chapter: 355
 affiliations:
 - type: organization
   slug: cp9

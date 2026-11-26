@@ -16,6 +16,7 @@ occupations:
   revealed_chapter: 1155
 - name: Admiral of Pirate Island
   status: former
+  revealed_chapter: 1155
 affiliations:
 - type: crew
   slug: rocks-pirates

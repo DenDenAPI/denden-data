@@ -16,6 +16,7 @@ epithets:
 occupations:
 - name: Boss of the Moulon Family
   status: current
+  revealed_chapter: 1183
 affiliations:
 - type: organization
   slug: moulon-family

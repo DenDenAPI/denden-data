@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 551
 affiliations:
 - type: crew
   slug: maelstrom-spider-pirates

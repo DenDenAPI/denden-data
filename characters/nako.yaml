@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Doctor
   status: current
+  revealed_chapter: 77
 origin:
   location: conomi-islands
   region: East Blue
@@ -22,6 +23,7 @@ residences:
 - type: location
   slug: cocoyasi-village
   status: current
+  revealed_chapter: 77
 birthday:
   month: 7
   day: 1

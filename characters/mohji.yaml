@@ -16,16 +16,19 @@ epithets:
 - en: Beast Tamer
   ja: 猛獣使いのモージ
   romaji: Mōjū-tsukai no Mōji
+  revealed_chapter: 12
 - en: Beast Breaker
 occupations:
 - name: Pirate
   status: current
 - name: First Mate
   status: current
+  revealed_chapter: 12
 affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: organization
   slug: buggys-delivery
   status: current

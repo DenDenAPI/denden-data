@@ -28,6 +28,7 @@ affiliations:
 - type: organization
   slug: cross-guild
   status: current
+  revealed_chapter: 1058
 - type: crew
   slug: buggy-pirates
   status: current
@@ -35,6 +36,7 @@ affiliations:
 - type: organization
   slug: buggys-delivery
   status: former
+  revealed_chapter: 803
 - type: crew
   slug: buggy-and-alvida-alliance
   status: former
@@ -49,6 +51,7 @@ residences:
 - type: location
   slug: karai-bari-island
   status: current
+  revealed_chapter: 803
 - type: location
   slug: goat-island
   status: former

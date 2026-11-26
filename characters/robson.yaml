@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Wapol's Pet
   status: current
+  revealed_chapter: 135
 affiliations:
 - type: location
   slug: sakura-kingdom
@@ -21,3 +22,4 @@ affiliations:
 - type: crew
   slug: bliking-pirates
   status: former
+  revealed_chapter: 135

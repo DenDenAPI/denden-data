@@ -16,9 +16,11 @@ epithets:
 - en: Gourmet Knight
   ja: 美食騎士
   romaji: Bishoku Kishi
+  revealed_chapter: 858
 occupations:
 - name: Executive Chef
   status: current
+  revealed_chapter: 858
 - name: Pirate
   status: current
   revealed_chapter: 868
@@ -42,6 +44,7 @@ residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 858
 birthday:
   month: 4
   day: 27

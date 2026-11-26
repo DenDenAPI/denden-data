@@ -14,8 +14,10 @@ first_appearance:
 occupations:
 - name: Stationmaster
   status: current
+  revealed_chapter: 322
 - name: '"Lovely" secretary of Tom'
   status: former
+  revealed_chapter: 353
 affiliations:
 - type: organization
   slug: toms-workers

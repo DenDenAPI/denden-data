@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 75
 - name: Commander of Parties
   status: current
   revealed_chapter: 240
@@ -22,6 +23,7 @@ affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 75
 origin:
   location: ryugu-kingdom
   region: Grand Line

@@ -26,6 +26,7 @@ occupations:
   revealed_chapter: 857
 - name: Combatant
   status: former
+  revealed_chapter: 807
 affiliations:
 - type: crew
   slug: fire-tank-pirates

@@ -16,15 +16,18 @@ epithets:
 - en: Sea God
   ja: 海神
   romaji: Kaishin
+  revealed_chapter: 611
 - en: Great Knight of the Sea
   ja: 海の大騎士
   romaji: Umi no Dai-kishi
+  revealed_chapter: 614
 occupations:
 - name: King of the Ryugu Kingdom
   status: current
   revealed_chapter: 611
 - name: Prince
   status: former
+  revealed_chapter: 1153
 affiliations:
 - type: organization
   slug: neptune-family

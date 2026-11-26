@@ -15,3 +15,4 @@ residences:
 - type: location
   slug: calm-belt
   status: current
+  revealed_chapter: 101

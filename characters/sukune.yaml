@@ -14,7 +14,9 @@ first_appearance:
 occupations:
 - name: Sumo Wrestler
   status: current
+  revealed_chapter: 1151
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 1151

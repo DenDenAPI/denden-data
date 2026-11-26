@@ -12,6 +12,7 @@ first_appearance:
 occupations:
 - name: Warrior
   status: current
+  revealed_chapter: 515
 residences:
 - type: location
   slug: amazon-lily

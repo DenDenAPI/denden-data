@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 739
 - name: Pirate
   status: current
+  revealed_chapter: 889
 affiliations:
 - type: location
   slug: tontatta-kingdom

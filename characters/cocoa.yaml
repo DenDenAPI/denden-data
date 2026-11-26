@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 598
 affiliations:
 - type: crew
   slug: fake-straw-hat-crew
   status: current
+  revealed_chapter: 598
 origin:
   region: East Blue
 birthday:

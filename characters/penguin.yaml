@@ -21,6 +21,7 @@ affiliations:
 - type: crew
   slug: heart-pirates
   status: current
+  revealed_chapter: 498
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

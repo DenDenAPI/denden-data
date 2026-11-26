@@ -22,6 +22,7 @@ occupations:
   status: current
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 575
 affiliations:
 - type: crew
   slug: blackbeard-pirates
@@ -30,6 +31,7 @@ affiliations:
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 575
 origin:
   region: West Blue
   revealed_chapter: 922

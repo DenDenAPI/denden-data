@@ -16,6 +16,7 @@ affiliations:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 965
 origin:
   location: wano-country
   region: Grand Line

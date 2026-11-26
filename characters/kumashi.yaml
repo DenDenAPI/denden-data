@@ -12,12 +12,15 @@ first_appearance:
 occupations:
 - name: Perona's servant
   status: current
+  revealed_chapter: 454
 - name: Wild Zombie Commander-in-Chief
   status: current
+  revealed_chapter: 466
 affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 454
 birthday:
   month: 9
   day: 4

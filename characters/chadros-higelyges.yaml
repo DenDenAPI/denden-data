@@ -17,15 +17,19 @@ epithets:
   ja: 茶ひげ
   romaji: Chahige
 - en: Boss
+  revealed_chapter: 661
 occupations:
 - name: Leader of the Centaur Patrol Unit
   status: former
+  revealed_chapter: 661
 - name: Pirate Captain
   status: former
+  revealed_chapter: 581
 affiliations:
 - type: crew
   slug: brownbeard-pirates
   status: former
+  revealed_chapter: 581
 origin:
   region: Grand Line
   revealed_chapter: 938

@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Emperor of the Underworld
   status: current
+  revealed_chapter: 860
 birthday:
   month: 8
   day: 14

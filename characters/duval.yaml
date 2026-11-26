@@ -16,11 +16,14 @@ epithets:
 - en: Iron Mask Duval
   ja: 鉄仮面のデュバル
   romaji: Tetsu Kamen no Dyubaru
+  revealed_chapter: 492
 occupations:
 - name: Leader of the Rosy Life Riders
   status: former
+  revealed_chapter: 492
 - name: Slave trader
   status: former
+  revealed_chapter: 492
 - name: Mafia
   status: current
 affiliations:

@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 925
 affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
+  revealed_chapter: 925

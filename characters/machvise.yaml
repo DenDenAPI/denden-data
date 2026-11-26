@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 702
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 702
 origin:
   region: North Blue
   revealed_chapter: 941

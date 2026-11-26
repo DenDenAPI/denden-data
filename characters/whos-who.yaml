@@ -30,6 +30,7 @@ occupations:
   status: former
 - name: Cipher Pol Agent
   status: former
+  revealed_chapter: 1017
 affiliations:
 - type: crew
   slug: beasts-pirates
@@ -54,6 +55,7 @@ residences:
 - type: location
   slug: onigashima
   status: former
+  revealed_chapter: 998
 birthday:
   month: 3
   day: 15

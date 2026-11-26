@@ -23,8 +23,10 @@ occupations:
   revealed_chapter: 41
 - name: Senior Officer
   status: current
+  revealed_chapter: 1
 - name: Sniper
   status: current
+  revealed_chapter: 25
 affiliations:
 - type: crew
   slug: red-hair-pirates

@@ -13,10 +13,12 @@ first_appearance:
 occupations:
 - name: Wild Zombie
   status: current
+  revealed_chapter: 444
 affiliations:
 - type: crew
   slug: thriller-bark-pirates
   status: current
+  revealed_chapter: 446
 birthday:
   month: 11
   day: 29

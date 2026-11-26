@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: World Noble
   status: current
+  revealed_chapter: 625
 affiliations:
 - type: organization
   slug: world-government
@@ -24,3 +25,4 @@ residences:
 - type: location
   slug: mary-geoise
   status: current
+  revealed_chapter: 625

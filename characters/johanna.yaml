@@ -18,10 +18,12 @@ affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1135
 residences:
 - type: location
   slug: elbaph
   status: current
+  revealed_chapter: 1135
 ages:
 - years: 28
   period: other

@@ -15,6 +15,7 @@ first_appearance:
 origin:
   location: egghead
   region: Grand Line
+  revealed_chapter: 1074
 residences:
 - type: location
   slug: egghead

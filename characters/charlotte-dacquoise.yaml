@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Jam
   status: current
 affiliations:
@@ -23,6 +24,7 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 854
 residences:
 - type: location
   slug: jam-island

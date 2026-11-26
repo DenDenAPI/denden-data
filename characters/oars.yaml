@@ -21,12 +21,14 @@ epithets:
 - en: Continent-Puller
   ja: 国引き
   romaji: Kunihiki
+  revealed_chapter: 470
 occupations:
 - name: Special Zombie
   status: current
   revealed_chapter: 469
 - name: Leader of clan of evil giants
   status: former
+  revealed_chapter: 456
 affiliations:
 - type: crew
   slug: thriller-bark-pirates

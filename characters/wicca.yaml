@@ -15,15 +15,19 @@ first_appearance:
 occupations:
 - name: Scout
   status: current
+  revealed_chapter: 711
 - name: Pirate
   status: current
+  revealed_chapter: 889
 affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 711
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
 ages:
 - years: 27
   period: other
+  revealed_chapter: 722

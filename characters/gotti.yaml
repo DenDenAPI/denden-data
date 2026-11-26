@@ -15,10 +15,13 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 825
 - name: Assassin
   status: current
+  revealed_chapter: 825
 - name: Combatant
   status: current
+  revealed_chapter: 825
 affiliations:
 - type: crew
   slug: fire-tank-pirates

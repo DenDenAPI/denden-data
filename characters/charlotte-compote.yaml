@@ -15,8 +15,10 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 930
 - name: Minister of Fruits
   status: current
+  revealed_chapter: 861
 affiliations:
 - type: organization
   slug: charlotte-family
@@ -25,10 +27,12 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 930
 residences:
 - type: location
   slug: fruits-island
   status: current
+  revealed_chapter: 894
 birthday:
   month: 10
   day: 15

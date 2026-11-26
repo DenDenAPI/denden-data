@@ -16,15 +16,19 @@ epithets:
 - en: Massacre Ruler
   ja: 殺戮支配者
   romaji: Satsuriku Shihaisha
+  revealed_chapter: 704
 - en: Made-Up Explorer
   ja: 偽りの冒険野郎
   romaji: Itsuwari no Bōken Yarō
+  revealed_chapter: 704
 - en: Pioneer Explorer
   ja: 開拓冒険家
   romaji: Kaitaku Bōken-ka
+  revealed_chapter: 799
 occupations:
 - name: Captain of the Seventh Ship of the Straw Hat Grand Fleet
   status: current
+  revealed_chapter: 800
 - name: Pirate
   status: current
   revealed_chapter: 905
@@ -42,6 +46,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
+  revealed_chapter: 800
 - type: location
   slug: standing-kingdom
   status: current

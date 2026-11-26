@@ -15,13 +15,16 @@ first_appearance:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 75
 affiliations:
 - type: crew
   slug: arlong-pirates
   status: current
+  revealed_chapter: 75
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 620
 origin:
   location: ryugu-kingdom
   region: Grand Line

@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Lady's maid
   status: current
+  revealed_chapter: 215
 residences:
 - type: location
   slug: alubarna
   status: current
+  revealed_chapter: 215
 - type: location
   slug: arabasta-kingdom
   status: current

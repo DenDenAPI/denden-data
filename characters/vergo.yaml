@@ -15,6 +15,7 @@ epithets:
 - en: '"Demon Bamboo" Vergo'
   ja: 鬼竹のヴェルゴ
   romaji: Kichiku no Verugo
+  revealed_chapter: 680
 aliases:
 - en: Corazon
   ja: コラソン
@@ -23,17 +24,21 @@ aliases:
 occupations:
 - name: Pirate Elite Officer
   status: current
+  revealed_chapter: 673
 - name: Vice Admiral
   status: current
   revealed_chapter: 673
 - name: Head of G-5
   status: current
+  revealed_chapter: 673
 - name: Marine Captain
   status: former
+  revealed_chapter: 728
 affiliations:
 - type: crew
   slug: donquixote-pirates
   status: current
+  revealed_chapter: 673
 - type: organization
   slug: marines
   status: current

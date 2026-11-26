@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Queen of the Germa Kingdom
   status: current
+  revealed_chapter: 841
 affiliations:
 - type: organization
   slug: vinsmoke-family
@@ -21,6 +22,7 @@ affiliations:
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 841
 birthday:
   month: 7
   day: 9

@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Chairman of Thriller Bark Victim's Association
   status: current
+  revealed_chapter: 448
 affiliations:
 - type: organization
   slug: thriller-bark-victims-association
   status: current
+  revealed_chapter: 448
 birthday:
   month: 9
   day: 15

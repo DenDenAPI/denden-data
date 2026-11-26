@@ -15,6 +15,7 @@ first_appearance:
 origin:
   location: cactus-island
   region: Grand Line
+  region_revealed_chapter: 632
 ages:
 - years: 0
   period: other

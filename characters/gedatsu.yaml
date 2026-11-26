@@ -20,8 +20,10 @@ epithets:
 occupations:
 - name: Priest of Enel
   status: former
+  revealed_chapter: 254
 - name: Head Clerk of Hot Springs Resort
   status: current
+  revealed_chapter: 254
 affiliations:
 - type: location
   slug: ukkari-hot-spring-island

@@ -16,11 +16,13 @@ epithets:
 - en: Gashed Albion
   ja: 深手のアルビオン
   romaji: Fukade no Arubion
+  revealed_chapter: 600
 occupations:
 - name: Pirate
   status: current
 - name: Captain
   status: current
+  revealed_chapter: 600
 affiliations:
 - type: crew
   slug: fake-straw-hat-crew

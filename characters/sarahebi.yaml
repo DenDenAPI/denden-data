@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Gifter
   status: current
+  revealed_chapter: 943
 - name: Teacher
   status: former
   revealed_chapter: 1052
@@ -22,3 +23,4 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: current
+  revealed_chapter: 943

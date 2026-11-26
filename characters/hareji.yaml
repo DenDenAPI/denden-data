@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Prisoner
   status: former
+  revealed_chapter: 948
 affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
@@ -23,7 +24,9 @@ residences:
 - type: location
   slug: flower-capital
   status: former
+  revealed_chapter: 959
 ages:
 - years: 41
   period: other
   minimum: true
+  revealed_chapter: 959

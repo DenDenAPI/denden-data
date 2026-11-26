@@ -17,10 +17,12 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 553
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 553
 origin:
   region: South Blue
   revealed_chapter: 947

@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Pet Shop Owner
   status: current
+  revealed_chapter: 12
 origin:
   location: orange-town
   region: East Blue
@@ -22,6 +23,7 @@ residences:
 - type: location
   slug: orange-town
   status: current
+  revealed_chapter: 12
 birthday:
   month: 5
   day: 17

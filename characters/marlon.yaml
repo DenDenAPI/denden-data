@@ -15,6 +15,7 @@ epithets:
 - en: Don Marlon
   ja: 首領・マーロン
   romaji: Don Māron
+  revealed_chapter: 1155
 occupations:
 - name: Pirate
   status: current
@@ -26,8 +27,10 @@ affiliations:
 - type: crew
   slug: rocks-pirates
   status: current
+  revealed_chapter: 1155
 origin:
   region: West Blue
+  revealed_chapter: 1155
 residences:
 - type: location
   slug: hachinosu

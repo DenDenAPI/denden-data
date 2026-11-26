@@ -15,9 +15,11 @@ epithets:
 - en: Kawamatsu the Kappa
   ja: 河童の河松
   romaji: Kappa no Kawamatsu
+  revealed_chapter: 939
 - en: Yokozuna Kawamatsu
   ja: 横綱河松
   romaji: Yokozuna Kawamatsu
+  revealed_chapter: 948
 aliases:
 - en: Gyukimaru
   ja: 牛鬼丸
@@ -34,6 +36,7 @@ occupations:
   revealed_chapter: 954
 - name: Sumo Wrestler
   status: current
+  revealed_chapter: 948
 - name: Highway Robber
   status: former
 affiliations:

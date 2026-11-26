@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Guardian
   status: current
+  revealed_chapter: 814
 affiliations:
 - type: location
   slug: mokomo-dukedom
@@ -22,6 +23,7 @@ affiliations:
 - type: organization
   slug: guardians
   status: current
+  revealed_chapter: 814
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current
@@ -29,3 +31,4 @@ residences:
 - type: location
   slug: zou
   status: current
+  revealed_chapter: 814

@@ -15,12 +15,14 @@ first_appearance:
 occupations:
 - name: Co-Head of the World Government
   status: current
+  revealed_chapter: 1086
 - name: Supreme Commander of Knights of God
   status: current
 - name: Commander of Knights of God
   status: former
 - name: World Noble
   status: current
+  revealed_chapter: 1086
 affiliations:
 - type: organization
   slug: five-elders
@@ -33,6 +35,7 @@ affiliations:
 - type: organization
   slug: world-noble
   status: current
+  revealed_chapter: 1086
 residences:
 - type: location
   slug: mary-geoise

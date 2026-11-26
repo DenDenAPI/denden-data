@@ -16,9 +16,11 @@ epithets:
 - en: Mad Wanze
   ja: マッドなワンゼ
   romaji: Maddona Wanze
+  revealed_chapter: 368
 occupations:
 - name: Cipher Pol Agent
   status: current
+  revealed_chapter: 368
 - name: Chef
   status: current
   revealed_chapter: 372

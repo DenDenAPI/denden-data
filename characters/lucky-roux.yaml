@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Senior Officer
   status: current
+  revealed_chapter: 1
 - name: Cook
   status: current
   revealed_chapter: 916

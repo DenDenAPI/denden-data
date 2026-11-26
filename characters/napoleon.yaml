@@ -15,13 +15,16 @@ epithets:
 - en: Napoleon the Bicorne
   ja: 二角帽のナポレオン
   romaji: Baikōn no Naporeon
+  revealed_chapter: 853
 affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 827
 - type: crew
   slug: rocks-pirates
   status: former
+  revealed_chapter: 1096
 origin:
   region: Grand Line
   revealed_chapter: 1124
@@ -37,6 +40,7 @@ ages:
 - years: 38
   period: other
   minimum: true
+  revealed_chapter: 1096
 heights:
 - cm: 848
   period: other

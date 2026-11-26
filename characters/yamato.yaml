@@ -25,6 +25,7 @@ affiliations:
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
+  revealed_chapter: 994
 - type: crew
   slug: beasts-pirates
   status: former
@@ -43,6 +44,7 @@ blood_type_revealed_chapter: 1023
 ages:
 - years: 28
   period: other
+  revealed_chapter: 985
 heights:
 - cm: 263
   period: other

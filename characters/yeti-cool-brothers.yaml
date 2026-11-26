@@ -15,11 +15,14 @@ epithets:
 - en: Killers of the Snowy Mountain
   ja: 雪山の殺し屋
   romaji: Yukiyama no Koroshiya
+  revealed_chapter: 665
 occupations:
 - name: Mercenaries
   status: current
+  revealed_chapter: 665
 - name: Assassins
   status: current
+  revealed_chapter: 666
 - name: Snipers
   status: current
 origin:
@@ -34,6 +37,7 @@ blood_type_revealed_chapter: 938
 ages:
 - years: 25
   period: other
+  revealed_chapter: 666
 heights:
 - cm: 4250
   period: other

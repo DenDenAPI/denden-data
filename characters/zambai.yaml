@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Bounty Hunter
   status: former
+  revealed_chapter: 324
 affiliations:
 - type: organization
   slug: galley-la-company

@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: King of the Sakura Kingdom
   status: current
+  revealed_chapter: 243
 - name: Captain of the Civilian Guard
   status: former
 - name: Captain of Security of the Drum Kingdom
   status: former
+  revealed_chapter: 142
 affiliations:
 - type: location
   slug: sakura-kingdom

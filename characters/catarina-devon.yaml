@@ -16,11 +16,13 @@ epithets:
 - en: Crescent Moon Hunter
   ja: 若月狩り
   romaji: Mikazuki-gari
+  revealed_chapter: 576
 occupations:
 - name: Titanic Captain
   status: current
 - name: Prisoner of the Great Prison
   status: former
+  revealed_chapter: 576
 affiliations:
 - type: crew
   slug: blackbeard-pirates
@@ -29,6 +31,7 @@ affiliations:
 - type: location
   slug: impel-down
   status: former
+  revealed_chapter: 576
 origin:
   region: South Blue
   revealed_chapter: 922

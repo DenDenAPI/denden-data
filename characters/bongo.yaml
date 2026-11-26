@@ -18,7 +18,9 @@ occupations:
   revealed_chapter: 940
 - name: Graverobber
   status: former
+  revealed_chapter: 953
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 940

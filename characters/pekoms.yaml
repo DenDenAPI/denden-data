@@ -19,8 +19,10 @@ aliases:
 occupations:
 - name: Combatant
   status: current
+  revealed_chapter: 651
 - name: Broker
   status: current
+  revealed_chapter: 674
 - name: Explorer
   status: former
 affiliations:

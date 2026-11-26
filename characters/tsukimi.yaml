@@ -13,6 +13,7 @@ first_appearance:
 occupations:
 - name: Scientist
   status: current
+  revealed_chapter: 448
 birthday:
   month: 8
   day: 15

@@ -25,6 +25,7 @@ affiliations:
 - type: location
   slug: evil-black-drum-kingdom
   status: current
+  revealed_chapter: 635
 birthday:
   month: 1
   day: 20

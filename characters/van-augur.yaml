@@ -16,11 +16,13 @@ epithets:
 - en: The Supersonic
   ja: 音越
   romaji: Otogoe
+  revealed_chapter: 234
 occupations:
 - name: Titanic Captain
   status: current
 - name: Sniper
   status: current
+  revealed_chapter: 234
 affiliations:
 - type: crew
   slug: blackbeard-pirates
@@ -33,6 +35,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
+  revealed_chapter: 1059
 birthday:
   month: 10
   day: 5

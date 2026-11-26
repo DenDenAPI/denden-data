@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 285
 - type: location
   slug: g-2
   status: current

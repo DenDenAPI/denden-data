@@ -16,9 +16,11 @@ epithets:
 - en: Walking Super Bazaar
   ja: 歩くスーパーバザール
   romaji: Aruku Sūpābazāru
+  revealed_chapter: 501
 occupations:
 - name: Owner of Human Auctioning House
   status: former
+  revealed_chapter: 500
 affiliations:
 - type: location
   slug: human-auctioning-house

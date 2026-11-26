@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 259
 - name: God's Guard
   status: current
+  revealed_chapter: 648
 affiliations:
 - type: organization
   slug: gods-guards

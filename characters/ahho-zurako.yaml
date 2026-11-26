@@ -15,14 +15,18 @@ first_appearance:
 occupations:
 - name: Noble
   status: current
+  revealed_chapter: 587
 affiliations:
 - type: location
   slug: goa-kingdom
   status: current
+  revealed_chapter: 587
 residences:
 - type: location
   slug: goa-kingdom
   status: current
+  revealed_chapter: 587
 - type: location
   slug: dawn-island
   status: current
+  revealed_chapter: 587

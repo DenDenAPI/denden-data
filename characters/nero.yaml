@@ -14,9 +14,11 @@ epithets:
 - en: Nero the Sea Weasel
   ja: 海イタチのネロ
   romaji: Umi Itachi no Nero
+  revealed_chapter: 369
 occupations:
 - name: Cipher Pol Agent
   status: former
+  revealed_chapter: 369
 affiliations:
 - type: organization
   slug: cp9

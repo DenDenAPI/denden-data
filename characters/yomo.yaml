@@ -15,13 +15,16 @@ epithets:
 - en: Pastor Yomo
   ja: ヨモ牧師
   romaji: Yomo Bokushi
+  revealed_chapter: 822
 occupations:
 - name: Musketeer
   status: current
+  revealed_chapter: 809
 affiliations:
 - type: location
   slug: mokomo-dukedom
   status: current
+  revealed_chapter: 809
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: current

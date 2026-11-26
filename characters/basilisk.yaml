@@ -14,10 +14,12 @@ first_appearance:
 occupations:
 - name: Level 2 Guardian
   status: current
+  revealed_chapter: 528
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 528
 - type: location
   slug: impel-down
   status: current

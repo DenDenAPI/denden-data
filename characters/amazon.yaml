@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Heaven's Gate Inspector
   status: former
+  revealed_chapter: 238
 - name: Ticket Saleswoman
   status: current
   revealed_chapter: 645

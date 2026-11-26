@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Rebel
   status: former
+  revealed_chapter: 167
 residences:
 - type: location
   slug: arabasta-kingdom

@@ -21,6 +21,7 @@ occupations:
   status: current
 - name: Minister of Chocolate
   status: former
+  revealed_chapter: 879
 affiliations:
 - type: crew
   slug: rolling-pirates
@@ -28,6 +29,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 835
 - type: organization
   slug: thriller-bark-victims-association
   status: former
@@ -39,6 +41,7 @@ residences:
 - type: location
   slug: cacao-island
   status: former
+  revealed_chapter: 879
 birthday:
   month: 1
   day: 27
@@ -48,8 +51,10 @@ blood_type_revealed_chapter: 947
 ages:
 - years: 24
   period: debut
+  revealed_chapter: 887
 - years: 26
   period: post_timeskip
+  revealed_chapter: 887
 heights:
 - cm: 215
   period: other

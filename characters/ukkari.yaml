@@ -19,6 +19,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
+  revealed_chapter: 4
 origin:
   region: East Blue
   revealed_chapter: 919
@@ -26,6 +27,7 @@ residences:
 - type: location
   slug: shells-town
   status: current
+  revealed_chapter: 4
 birthday:
   month: 2
   day: 17

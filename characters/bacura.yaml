@@ -23,6 +23,7 @@ affiliations:
 - type: crew
   slug: kuja-pirates
   status: current
+  revealed_chapter: 516
 origin:
   location: calm-belt
   revealed_chapter: 947

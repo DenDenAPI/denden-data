@@ -19,6 +19,7 @@ affiliations:
 - type: crew
   slug: fake-straw-hat-crew
   status: current
+  revealed_chapter: 598
 origin:
   region: East Blue
 birthday:

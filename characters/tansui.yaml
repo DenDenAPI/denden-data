@@ -17,13 +17,16 @@ occupations:
   status: current
 - name: Slave trader
   status: current
+  revealed_chapter: 492
 affiliations:
 - type: crew
   slug: macro-pirates
   status: current
+  revealed_chapter: 197
 - type: crew
   slug: sun-pirates
   status: former
+  revealed_chapter: 621
 origin:
   location: ryugu-kingdom
   region: Grand Line

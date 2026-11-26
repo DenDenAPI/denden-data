@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Nurse
   status: current
+  revealed_chapter: 841
 affiliations:
 - type: location
   slug: germa-kingdom
   status: current
+  revealed_chapter: 841
 birthday:
   month: 8
   day: 2

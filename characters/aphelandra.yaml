@@ -13,8 +13,10 @@ first_appearance:
 occupations:
 - name: Warrior
   status: former
+  revealed_chapter: 514
 - name: Pirate
   status: current
+  revealed_chapter: 514
 affiliations:
 - type: crew
   slug: kuja-pirates

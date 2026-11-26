@@ -15,7 +15,9 @@ first_appearance:
 occupations:
 - name: Bodyguard
   status: current
+  revealed_chapter: 928
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 928

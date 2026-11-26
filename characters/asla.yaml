@@ -18,3 +18,4 @@ residences:
 - type: location
   slug: aurust-castle
   status: current
+  revealed_chapter: 1153

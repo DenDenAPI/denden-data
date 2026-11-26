@@ -16,10 +16,12 @@ occupations:
   status: current
 - name: Slave
   status: current
+  revealed_chapter: 274
 affiliations:
 - type: organization
   slug: divine-squad
   status: current
+  revealed_chapter: 274
 residences:
 - type: location
   slug: skypiea

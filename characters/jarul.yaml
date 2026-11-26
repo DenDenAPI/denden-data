@@ -16,9 +16,11 @@ epithets:
 - en: '"Mountain Beard" Jarul'
   ja: 山ひげのヤルル
   romaji: Yamahige no Yaruru
+  revealed_chapter: 866
 occupations:
 - name: Pirate Captain
   status: former
+  revealed_chapter: 866
 affiliations:
 - type: crew
   slug: giant-warrior-pirates
@@ -41,8 +43,10 @@ blood_type_revealed_chapter: 950
 ages:
 - years: 345
   period: debut
+  revealed_chapter: 866
 - years: 408
   period: post_timeskip
+  revealed_chapter: 1135
 heights:
 - cm: 2050
   period: other

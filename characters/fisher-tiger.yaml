@@ -16,9 +16,11 @@ epithets:
 - en: The Adventurer
   ja: 冒険家
   romaji: Bōkenka
+  revealed_chapter: 521
 - en: Hero of Slaves
   ja: 奴隷解放の英雄
   romaji: Dorei Kaihō no Eiyū
+  revealed_chapter: 521
 occupations:
 - name: Adventurer
   status: current
@@ -31,6 +33,7 @@ occupations:
   revealed_chapter: 620
 - name: De-facto Leader of Fish-Man District
   status: former
+  revealed_chapter: 623
 - name: Slave
   status: former
   revealed_chapter: 521

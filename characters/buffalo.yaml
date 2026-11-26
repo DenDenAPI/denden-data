@@ -19,6 +19,7 @@ occupations:
   status: current
 - name: Assassin
   status: current
+  revealed_chapter: 692
 affiliations:
 - type: crew
   slug: donquixote-pirates

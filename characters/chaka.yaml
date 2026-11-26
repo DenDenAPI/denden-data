@@ -16,9 +16,11 @@ epithets:
 - en: Chaka the Jackal
   ja: ジャッカルのチャカ
   romaji: Jakkaru no Chaka
+  revealed_chapter: 167
 occupations:
 - name: Commander of Royal Guards
   status: current
+  revealed_chapter: 167
 affiliations:
 - type: location
   slug: arabasta-kingdom

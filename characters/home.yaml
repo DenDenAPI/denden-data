@@ -15,7 +15,9 @@ affiliations:
 - type: organization
   slug: mt-atama-thieves
   status: current
+  revealed_chapter: 921
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 921

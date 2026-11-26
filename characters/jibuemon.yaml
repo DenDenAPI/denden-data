@@ -17,11 +17,14 @@ occupations:
   status: current
 - name: Samurai
   status: current
+  revealed_chapter: 920
 affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
+  revealed_chapter: 920
 residences:
 - type: location
   slug: wano-country
   status: current
+  revealed_chapter: 920

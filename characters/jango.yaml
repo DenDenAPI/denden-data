@@ -15,9 +15,11 @@ epithets:
 - en: '"One-Two" Jango'
   ja: 1・2のジャンゴ
   romaji: Ichi Ni no Jango
+  revealed_chapter: 28
 - en: Jango the Turncoat
   ja: 寝返りのジャンゴ
   romaji: Negaeri no Jango
+  revealed_chapter: 214
 occupations:
 - name: Marine Lieutenant Commander
   status: current

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Guardian of the Island of Rare Animals
   status: current
+  revealed_chapter: 22
 - name: Pirate
   status: former
   revealed_chapter: 22

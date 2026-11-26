@@ -16,6 +16,7 @@ epithets:
 - en: Gang
   ja: ギャング
   romaji: Gyangu
+  revealed_chapter: 834
 affiliations:
 - type: crew
   slug: fire-tank-pirates
@@ -23,6 +24,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 834
 birthday:
   month: 1
   day: 22

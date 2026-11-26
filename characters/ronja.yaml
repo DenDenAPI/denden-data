@@ -23,6 +23,7 @@ affiliations:
 - type: location
   slug: walrus-school
   status: current
+  revealed_chapter: 1134
 residences:
 - type: location
   slug: elbaph

@@ -14,6 +14,7 @@ epithets:
 - en: Sparking Red
   ja: スパーキングレッド
   romaji: Supākingu Reddo
+  revealed_chapter: 838
 occupations:
 - name: Prince
   status: current
@@ -35,11 +36,13 @@ origin:
 birthday:
   month: 3
   day: 2
+  revealed_chapter: 833
 blood_type: S
 blood_type_revealed_chapter: 853
 ages:
 - years: 21
   period: other
+  revealed_chapter: 833
 heights:
 - cm: 186
   period: other

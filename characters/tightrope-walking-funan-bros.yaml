@@ -19,6 +19,7 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
+  revealed_chapter: 8
 - type: crew
   slug: buggy-and-alvida-alliance
   status: current

@@ -18,12 +18,14 @@ occupations:
   revealed_chapter: 562
 - name: Pirate
   status: current
+  revealed_chapter: 552
 - name: Sniper
   status: current
 affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 552
 origin:
   region: Grand Line
   revealed_chapter: 947

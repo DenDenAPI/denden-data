@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Bounty Hunter
   status: current
+  revealed_chapter: 107
 affiliations:
 - type: organization
   slug: baroque-works
   status: former
+  revealed_chapter: 155
 origin:
   region: East Blue
   revealed_chapter: 931

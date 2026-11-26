@@ -16,9 +16,11 @@ epithets:
 - en: '"Waterfall Beard" Jorul'
   ja: 滝ひげのヨルル
   romaji: Takihige no Yoruru
+  revealed_chapter: 866
 occupations:
 - name: Pirate Captain
   status: former
+  revealed_chapter: 866
 affiliations:
 - type: crew
   slug: giant-warrior-pirates

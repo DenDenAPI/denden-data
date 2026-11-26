@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Warrior
   status: current
+  revealed_chapter: 524
 - name: Botanist
   status: current
   revealed_chapter: 947

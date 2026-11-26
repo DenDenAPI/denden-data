@@ -16,6 +16,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 835
 origin:
   location: new-world
   region: Grand Line
