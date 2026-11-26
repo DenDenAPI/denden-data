@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Marine
   status: current
+  revealed_chapter: 427
 - name: Commander
   status: current
 affiliations:

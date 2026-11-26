@@ -22,6 +22,7 @@ social_ranks:
 origin:
   location: dawn-island
   region: East Blue
+  revealed_chapter: 823
 residences:
 - type: location
   slug: goa-kingdom

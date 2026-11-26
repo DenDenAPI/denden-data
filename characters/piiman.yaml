@@ -28,6 +28,7 @@ affiliations:
 origin:
   location: gecko-islands
   region: East Blue
+  revealed_chapter: 130
 residences:
 - type: location
   slug: syrup-village

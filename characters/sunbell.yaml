@@ -8,6 +8,7 @@ gender: male
 species:
 - fish_man
 status: unknown
+status_revealed_chapter: 1158
 first_appearance:
   chapter: 0
 occupations:

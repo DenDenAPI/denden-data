@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: unknown
+status_revealed_chapter: 129
 first_appearance:
   chapter: 129
   episode: 78

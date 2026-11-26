@@ -8,6 +8,7 @@ gender: female
 species:
 - human
 status: unknown
+status_revealed_chapter: 1166
 first_appearance:
   chapter: 1160
 affiliations:

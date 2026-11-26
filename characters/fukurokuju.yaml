@@ -7,6 +7,7 @@ gender: male
 species:
 - human
 status: unknown
+status_revealed_chapter: 1041
 first_appearance:
   chapter: 931
   episode: 925
@@ -36,6 +37,7 @@ affiliations:
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 931
 residences:
 - type: location
   slug: flower-capital

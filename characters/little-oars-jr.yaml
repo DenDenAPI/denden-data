@@ -8,6 +8,7 @@ gender: male
 species:
 - giant
 status: unknown
+status_revealed_chapter: 566
 first_appearance:
   chapter: 554
   episode: 463

@@ -8,6 +8,7 @@ gender: male
 species:
 - cyborg
 status: unknown
+status_revealed_chapter: 721
 first_appearance:
   chapter: 595
   episode: 513

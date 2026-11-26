@@ -15,6 +15,7 @@ first_appearance:
 origin:
   location: conomi-islands
   region: East Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: cocoyasi-village

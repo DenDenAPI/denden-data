@@ -8,6 +8,7 @@ gender: male
 species:
 - homie
 status: unknown
+status_revealed_chapter: 1169
 first_appearance:
   chapter: 651
   episode: 571

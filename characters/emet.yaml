@@ -7,6 +7,7 @@ canon: manga
 species:
 - robot
 status: unknown
+status_revealed_chapter: 1125
 first_appearance:
   chapter: 1065
   episode: 1095
