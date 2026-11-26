@@ -25,7 +25,7 @@ aliases:
 occupations:
 - name: Prisoner
   status: former
-  revealed_chapter: 934
+  revealed_chapter: 926
 - name: Yakuza Boss
   status: former
   revealed_chapter: 934
@@ -51,11 +51,11 @@ residences:
 - type: location
   slug: udon
   status: current
-  revealed_chapter: 940
+  revealed_chapter: 926
 - type: location
   slug: wano-country
   status: former
-  revealed_chapter: 939
+  revealed_chapter: 926
 birthday:
   month: 2
   day: 14

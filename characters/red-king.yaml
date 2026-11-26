@@ -20,7 +20,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
-  revealed_chapter: 1107
+  revealed_chapter: 1078
 marine_rating:
   stars: 5
   minimum: true

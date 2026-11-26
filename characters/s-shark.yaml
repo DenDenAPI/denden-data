@@ -20,7 +20,7 @@ residences:
 - type: location
   slug: egghead
   status: current
-  revealed_chapter: 1069
+  revealed_chapter: 1065
 blood_type: F
 blood_type_revealed_chapter: 1130
 ages:

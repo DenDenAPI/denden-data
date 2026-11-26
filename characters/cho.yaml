@@ -22,7 +22,7 @@ occupations:
   status: current
 - name: Prisoner
   status: former
-  revealed_chapter: 959
+  revealed_chapter: 952
 - name: Samurai
   status: current
 affiliations:

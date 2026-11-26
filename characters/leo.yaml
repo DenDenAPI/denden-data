@@ -16,7 +16,7 @@ epithets:
 - en: Warrior
   ja: 戦士
   romaji: Senshi
-  revealed_chapter: 711
+  revealed_chapter: 710
 occupations:
 - name: Captain of the Fifth Ship of the Straw Hat Grand Fleet
   status: current
@@ -31,7 +31,7 @@ affiliations:
 - type: crew
   slug: straw-hat-grand-fleet
   status: current
-  revealed_chapter: 1085
+  revealed_chapter: 800
 origin:
   location: green-bit
   region: Grand Line

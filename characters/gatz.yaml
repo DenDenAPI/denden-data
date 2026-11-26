@@ -15,12 +15,12 @@ first_appearance:
 occupations:
 - name: Announcer
   status: current
-  revealed_chapter: 709
+  revealed_chapter: 702
 affiliations:
 - type: location
   slug: corrida-colosseum
   status: current
-  revealed_chapter: 744
+  revealed_chapter: 702
 birthday:
   month: 8
   day: 26

@@ -23,7 +23,7 @@ residences:
 - type: location
   slug: god-valley
   status: former
-  revealed_chapter: 1161
+  revealed_chapter: 1159
 - type: location
   slug: shade-port
   status: former

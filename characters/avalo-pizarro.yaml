@@ -28,7 +28,7 @@ affiliations:
 - type: crew
   slug: blackbeard-pirates
   status: current
-  revealed_chapter: 1088
+  revealed_chapter: 575
 - type: location
   slug: impel-down
   status: former
@@ -39,7 +39,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
-  revealed_chapter: 1080
+  revealed_chapter: 1059
 birthday:
   month: 9
   day: 30

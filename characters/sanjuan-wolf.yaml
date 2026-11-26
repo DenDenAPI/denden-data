@@ -39,7 +39,7 @@ residences:
 - type: location
   slug: hachinosu
   status: current
-  revealed_chapter: 1087
+  revealed_chapter: 1059
 birthday:
   month: 3
   day: 2

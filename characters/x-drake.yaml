@@ -42,7 +42,7 @@ affiliations:
 - type: organization
   slug: marines
   status: current
-  revealed_chapter: 508
+  revealed_chapter: 498
 - type: crew
   slug: drake-pirates
   status: current
@@ -61,7 +61,7 @@ affiliations:
   revealed_chapter: 990
 origin:
   region: North Blue
-  revealed_chapter: 936
+  revealed_chapter: 498
 birthday:
   month: 10
   day: 24

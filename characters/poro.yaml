@@ -20,7 +20,7 @@ affiliations:
 - type: location
   slug: orange-town
   status: current
-  revealed_chapter: 619
+  revealed_chapter: 14
 origin:
   location: orange-town
   region: East Blue
@@ -29,7 +29,7 @@ residences:
 - type: location
   slug: orange-town
   status: current
-  revealed_chapter: 619
+  revealed_chapter: 14
 birthday:
   month: 5
   day: 11

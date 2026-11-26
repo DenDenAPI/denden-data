@@ -29,7 +29,7 @@ affiliations:
 - type: location
   slug: elbaph
   status: current
-  revealed_chapter: 1154
+  revealed_chapter: 866
 origin:
   region: Grand Line
   revealed_chapter: 950
@@ -37,7 +37,7 @@ residences:
 - type: location
   slug: elbaph
   status: current
-  revealed_chapter: 1136
+  revealed_chapter: 866
 birthday:
   month: 12
   day: 4

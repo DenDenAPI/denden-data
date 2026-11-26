@@ -15,12 +15,12 @@ first_appearance:
 occupations:
 - name: Vice Admiral
   status: current
-  revealed_chapter: 1059
+  revealed_chapter: 420
 affiliations:
 - type: organization
   slug: marines
   status: current
-  revealed_chapter: 1059
+  revealed_chapter: 420
 birthday:
   month: 4
   day: 5

@@ -15,7 +15,7 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
-  revealed_chapter: 384
+  revealed_chapter: 377
 - name: Gate Guardian
   status: former
   revealed_chapter: 377
@@ -23,11 +23,11 @@ affiliations:
 - type: organization
   slug: world-government
   status: former
-  revealed_chapter: 384
+  revealed_chapter: 377
 - type: crew
   slug: giant-warrior-pirates
   status: current
-  revealed_chapter: 1107
+  revealed_chapter: 377
 origin:
   region: Grand Line
   revealed_chapter: 950

@@ -20,7 +20,7 @@ epithets:
 - en: Pirate Fleet Admiral
   ja: 海賊艦隊提督
   romaji: Kaizoku Kantai Teitoku
-  revealed_chapter: 47
+  revealed_chapter: 46
 - en: Ruler of the East Blue
   ja: 東の海の覇者
   romaji: Īsuto Burū no Hasha
@@ -32,7 +32,7 @@ epithets:
 occupations:
 - name: Pirate Captain/Admiral
   status: current
-  revealed_chapter: 47
+  revealed_chapter: 45
 affiliations:
 - type: crew
   slug: krieg-pirates

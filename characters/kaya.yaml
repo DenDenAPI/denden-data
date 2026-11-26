@@ -23,7 +23,7 @@ residences:
 - type: location
   slug: syrup-village
   status: current
-  revealed_chapter: 440
+  revealed_chapter: 23
 birthday:
   month: 8
   day: 24

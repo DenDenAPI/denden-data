@@ -20,12 +20,12 @@ epithets:
 occupations:
 - name: Vice Admiral
   status: current
-  revealed_chapter: 717
+  revealed_chapter: 553
 affiliations:
 - type: organization
   slug: marines
   status: current
-  revealed_chapter: 734
+  revealed_chapter: 553
 origin:
   region: Grand Line
 birthday:

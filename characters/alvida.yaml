@@ -16,14 +16,14 @@ epithets:
 - en: Iron Mace
   ja: 金棒
   romaji: Kanabō
-  revealed_chapter: 98
+  revealed_chapter: 2
 occupations:
 - name: Pirate
   status: current
   revealed_chapter: 2
 - name: Captain
   status: former
-  revealed_chapter: 233
+  revealed_chapter: 2
 affiliations:
 - type: organization
   slug: cross-guild

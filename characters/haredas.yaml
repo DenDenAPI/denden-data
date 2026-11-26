@@ -15,7 +15,7 @@ first_appearance:
 occupations:
 - name: Scientist
   status: current
-  revealed_chapter: 602
+  revealed_chapter: 523
 origin:
   location: birka
   region: Sky Island
@@ -24,7 +24,7 @@ residences:
 - type: location
   slug: weatheria
   status: current
-  revealed_chapter: 592
+  revealed_chapter: 523
 birthday:
   month: 10
   day: 14

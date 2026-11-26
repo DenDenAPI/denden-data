@@ -20,7 +20,7 @@ affiliations:
 - type: location
   slug: foosha-village
   status: current
-  revealed_chapter: 614
+  revealed_chapter: 1
 origin:
   location: goa-kingdom
   region: East Blue
@@ -28,7 +28,7 @@ residences:
 - type: location
   slug: foosha-village
   status: current
-  revealed_chapter: 614
+  revealed_chapter: 1
 birthday:
   month: 2
   day: 28

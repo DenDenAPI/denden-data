@@ -16,14 +16,14 @@ epithets:
 - en: Knight of the Sky
   ja: 空の騎士
   romaji: Sora no Kishi
-  revealed_chapter: 244
+  revealed_chapter: 237
 occupations:
 - name: God of Skypiea
   status: current
   revealed_chapter: 244
 - name: Mercenary
   status: former
-  revealed_chapter: 257
+  revealed_chapter: 238
 affiliations:
 - type: location
   slug: skypiea

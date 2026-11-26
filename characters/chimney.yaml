@@ -23,7 +23,7 @@ residences:
 - type: location
   slug: water-7
   status: current
-  revealed_chapter: 338
+  revealed_chapter: 323
 birthday:
   month: 6
   day: 2

@@ -27,7 +27,7 @@ occupations:
   revealed_chapter: 16
 - name: Swordsman
   status: current
-  revealed_chapter: 16
+  revealed_chapter: 15
 affiliations:
 - type: organization
   slug: cross-guild

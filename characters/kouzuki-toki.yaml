@@ -16,7 +16,7 @@ affiliations:
 - type: organization
   slug: kouzuki-family
   status: current
-  revealed_chapter: 932
+  revealed_chapter: 919
 - type: organization
   slug: amatsuki-family
   status: current
@@ -32,7 +32,7 @@ residences:
 - type: location
   slug: wano-country
   status: current
-  revealed_chapter: 965
+  revealed_chapter: 919
 birthday:
   month: 1
   day: 19

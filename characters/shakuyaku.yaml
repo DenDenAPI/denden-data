@@ -14,7 +14,7 @@ aliases:
 - en: Shakky
   ja: シャッキー
   romaji: Shakkī
-  revealed_chapter: 1157
+  revealed_chapter: 498
 occupations:
 - name: Bartender
   status: current
@@ -30,7 +30,7 @@ affiliations:
 - type: location
   slug: shakkys-rip-off-bar
   status: current
-  revealed_chapter: 506
+  revealed_chapter: 498
 - type: crew
   slug: kuja-pirates
   status: former

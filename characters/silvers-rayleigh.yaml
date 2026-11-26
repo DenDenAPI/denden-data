@@ -30,7 +30,7 @@ occupations:
   revealed_chapter: 500
 - name: Pirate
   status: former
-  revealed_chapter: 500
+  revealed_chapter: 19
 affiliations:
 - type: crew
   slug: roger-pirates

@@ -20,7 +20,7 @@ residences:
 - type: location
   slug: egghead
   status: current
-  revealed_chapter: 1069
+  revealed_chapter: 1061
 blood_type: S
 ages:
 - years: 2

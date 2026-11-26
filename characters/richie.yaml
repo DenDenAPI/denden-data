@@ -15,7 +15,7 @@ first_appearance:
 occupations:
 - name: Pet
   status: current
-  revealed_chapter: 12
+  revealed_chapter: 9
 - name: Pirate Captain
   status: former
   revealed_chapter: 60
@@ -33,7 +33,7 @@ affiliations:
 - type: crew
   slug: buggy-pirates
   status: current
-  revealed_chapter: 58
+  revealed_chapter: 9
 residences:
 - type: location
   slug: karai-bari-island

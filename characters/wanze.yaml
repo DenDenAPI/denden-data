@@ -23,7 +23,7 @@ occupations:
   revealed_chapter: 368
 - name: Chef
   status: current
-  revealed_chapter: 372
+  revealed_chapter: 368
 affiliations:
 - type: organization
   slug: cipher-pol
