@@ -14,9 +14,11 @@ first_appearance:
   episode: 425
 origin:
   region: Grand Line
+  revealed_chapter: 938
 birthday:
   month: 1
   day: 31
+  revealed_chapter: 938
 bounties:
 - amount: 15000000
   status: current

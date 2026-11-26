@@ -36,16 +36,21 @@ affiliations:
   revealed_chapter: 800
 origin:
   region: East Blue
+  revealed_chapter: 725
 birthday:
   month: 10
   day: 6
+  revealed_chapter: 725
 blood_type: X
+blood_type_revealed_chapter: 944
 ages:
 - years: 24
   period: other
+  revealed_chapter: 725
 heights:
 - cm: 220
   period: other
+  revealed_chapter: 725
 bounties:
 - amount: 150000000
   status: former

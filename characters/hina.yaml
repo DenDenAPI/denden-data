@@ -29,18 +29,24 @@ affiliations:
   revealed_chapter: 215
 origin:
   region: West Blue
+  revealed_chapter: 928
 birthday:
   month: 3
   day: 3
+  revealed_chapter: 263
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 32
   period: debut
+  revealed_chapter: 263
 - years: 34
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 181
   period: other
+  revealed_chapter: 928
 marine_rating:
   stars: 2
   minimum: true

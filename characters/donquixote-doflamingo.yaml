@@ -58,6 +58,7 @@ affiliations:
   revealed_chapter: 700
 origin:
   location: mary-geoise
+  revealed_chapter: 941
 residences:
 - type: location
   slug: downs
@@ -82,15 +83,20 @@ residences:
 birthday:
   month: 10
   day: 23
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 941
 ages:
 - years: 39
   period: debut
+  revealed_chapter: 586
 - years: 41
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 305
   period: debut
+  revealed_chapter: 586
 bounties:
 - amount: 340000000
   status: former

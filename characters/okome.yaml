@@ -15,9 +15,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 240
 - name: First Mate
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: crew
   slug: hokahoka-pirates
   status: current
+  revealed_chapter: 240

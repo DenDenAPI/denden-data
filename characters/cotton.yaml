@@ -15,12 +15,14 @@ first_appearance:
 occupations:
 - name: Scout
   status: current
+  revealed_chapter: 739
 - name: Pirate
   status: current
 affiliations:
 - type: location
   slug: tontatta-kingdom
   status: current
+  revealed_chapter: 739
 - type: crew
   slug: tontatta-pirates
   status: current

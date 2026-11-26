@@ -19,6 +19,7 @@ occupations:
   status: current
 - name: Cook
   status: current
+  revealed_chapter: 916
 affiliations:
 - type: crew
   slug: red-hair-pirates
@@ -26,17 +27,24 @@ affiliations:
   revealed_chapter: 957
 origin:
   region: South Blue
+  revealed_chapter: 916
 birthday:
   month: 7
   day: 6
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 916
 ages:
 - years: 23
   period: debut
+  revealed_chapter: 916
 - years: 33
   period: pre_timeskip
+  revealed_chapter: 916
 - years: 35
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 241
   period: other
+  revealed_chapter: 916

@@ -34,12 +34,17 @@ residences:
 birthday:
   month: 12
   day: 13
+  revealed_chapter: 926
 blood_type: X
+blood_type_revealed_chapter: 1124
 ages:
 - years: 25
   period: debut
+  revealed_chapter: 1124
 - years: 35
   period: post_timeskip
+  revealed_chapter: 1124
 heights:
 - cm: 211
   period: other
+  revealed_chapter: 1124

@@ -49,9 +49,11 @@ residences:
 birthday:
   month: 2
   day: 19
+  revealed_chapter: 916
 ages:
 - years: 63
   period: other
 heights:
 - cm: 2600
   period: other
+  revealed_chapter: 1153

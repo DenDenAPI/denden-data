@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: East Army Deputy Commander
   status: current
+  revealed_chapter: 947
 affiliations:
 - type: organization
   slug: revolutionary-army

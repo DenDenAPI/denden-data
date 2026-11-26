@@ -32,6 +32,7 @@ residences:
 birthday:
   month: 10
   day: 15
+  revealed_chapter: 916
 ages:
 - years: 49
   period: other

@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Shipwright
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: crew
   slug: arlong-pirates
@@ -27,6 +28,7 @@ affiliations:
 origin:
   location: ryugu-kingdom
   region: Grand Line
+  revealed_chapter: 928
 residences:
 - type: location
   slug: fish-man-district
@@ -37,3 +39,4 @@ residences:
 birthday:
   month: 12
   day: 2
+  revealed_chapter: 928

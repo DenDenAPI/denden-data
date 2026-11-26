@@ -42,6 +42,7 @@ residences:
 birthday:
   month: 4
   day: 12
+  revealed_chapter: 895
 blood_type: S
 ages:
 - years: 76

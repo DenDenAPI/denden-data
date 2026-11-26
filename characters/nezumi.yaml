@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 94
 origin:
   region: East Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: 16th-branch
@@ -37,15 +38,20 @@ residences:
 birthday:
   month: 12
   day: 12
+  revealed_chapter: 922
 blood_type: XF
+blood_type_revealed_chapter: 922
 ages:
 - years: 34
   period: debut
+  revealed_chapter: 922
 - years: 36
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 182
   period: other
+  revealed_chapter: 922
 marine_rating:
   stars: 1
   minimum: true

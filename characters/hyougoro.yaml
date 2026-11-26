@@ -57,10 +57,14 @@ residences:
 birthday:
   month: 2
   day: 14
+  revealed_chapter: 1017
 blood_type: S
+blood_type_revealed_chapter: 1017
 ages:
 - years: 70
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 100
   period: other
+  revealed_chapter: 1017

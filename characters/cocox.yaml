@@ -19,6 +19,7 @@ affiliations:
 origin:
   location: island-of-rare-animals
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: island-of-rare-animals
@@ -26,3 +27,4 @@ residences:
 birthday:
   month: 2
   day: 19
+  revealed_chapter: 919

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: 16th Division Commander
   status: former
+  revealed_chapter: 586
 - name: Samurai
   status: current
   revealed_chapter: 984
@@ -41,15 +42,20 @@ residences:
 birthday:
   month: 10
   day: 13
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 926
 ages:
 - years: 43
   period: debut
+  revealed_chapter: 926
 - years: 45
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 192
   period: other
+  revealed_chapter: 975
 bounties:
 - amount: 510000000
   status: former

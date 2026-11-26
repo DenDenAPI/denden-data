@@ -22,16 +22,21 @@ occupations:
   revealed_chapter: 909
 origin:
   region: Grand Line
+  revealed_chapter: 947
 birthday:
   month: 12
   day: 10
+  revealed_chapter: 916
 blood_type: S
+blood_type_revealed_chapter: 947
 ages:
 - years: 35
   period: other
+  revealed_chapter: 947
 heights:
 - cm: 680
   period: other
+  revealed_chapter: 947
 bounties:
 - amount: 480000000
   status: former

@@ -22,6 +22,7 @@ affiliations:
   revealed_chapter: 1082
 origin:
   region: East Blue
+  revealed_chapter: 1017
 residences:
 - type: location
   slug: baltigo
@@ -33,13 +34,17 @@ residences:
 birthday:
   month: 6
   day: 15
+  revealed_chapter: 916
 blood_type: XF
+blood_type_revealed_chapter: 1017
 ages:
 - years: 34
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 196
   period: other
+  revealed_chapter: 1017
 bounties:
 - amount: 457000000
   status: current

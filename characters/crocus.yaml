@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 506
 origin:
   region: Grand Line
+  revealed_chapter: 926
 residences:
 - type: location
   slug: reverse-mountain
@@ -37,12 +38,15 @@ residences:
 birthday:
   month: 6
   day: 4
+  revealed_chapter: 926
 blood_type: XF
 ages:
 - years: 71
   period: debut
 - years: 73
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 203
   period: other
+  revealed_chapter: 926

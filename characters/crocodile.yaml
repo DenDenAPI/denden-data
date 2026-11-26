@@ -59,6 +59,7 @@ affiliations:
   temporary: true
 origin:
   region: Grand Line
+  revealed_chapter: 928
 residences:
 - type: location
   slug: rainbase
@@ -71,15 +72,20 @@ residences:
 birthday:
   month: 9
   day: 5
+  revealed_chapter: 594
 blood_type: S
+blood_type_revealed_chapter: 928
 ages:
 - years: 44
   period: debut
+  revealed_chapter: 586
 - years: 46
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 253
   period: debut
+  revealed_chapter: 586
 bounties:
 - amount: 81000000
   status: former

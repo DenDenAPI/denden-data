@@ -15,6 +15,7 @@ epithets:
 - en: Bentham of the Wild
   ja: 荒野のベンサム
   romaji: Kōya no Bensamu
+  revealed_chapter: 928
 aliases:
 - en: Mr. 2 Bon Kurei
   ja: Mr. 2・ボン・クレー
@@ -41,18 +42,24 @@ affiliations:
   revealed_chapter: 154
 origin:
   region: East Blue
+  revealed_chapter: 928
 birthday:
   month: 8
   day: 15
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 30
   period: debut
+  revealed_chapter: 928
 - years: 32
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 238
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 32000000
   status: former

@@ -16,6 +16,7 @@ epithets:
 - en: Loan Shark
   ja: 闇金
   romaji: Yamikin
+  revealed_chapter: 928
 aliases:
 - en: Mr. 3
   ja: Mr. 3
@@ -55,6 +56,7 @@ affiliations:
   revealed_chapter: 117
 origin:
   region: South Blue
+  revealed_chapter: 928
 residences:
 - type: location
   slug: karai-bari-island
@@ -63,15 +65,20 @@ residences:
 birthday:
   month: 3
   day: 3
+  revealed_chapter: 602
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 35
   period: debut
+  revealed_chapter: 928
 - years: 37
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 24000000
   status: current

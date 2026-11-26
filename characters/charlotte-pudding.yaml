@@ -40,10 +40,13 @@ residences:
 birthday:
   month: 6
   day: 25
+  revealed_chapter: 873
 blood_type: XF
+blood_type_revealed_chapter: 950
 ages:
 - years: 16
   period: other
 heights:
 - cm: 166
   period: other
+  revealed_chapter: 950

@@ -55,7 +55,10 @@ residences:
 birthday:
   month: 2
   day: 22
+  revealed_chapter: 975
 blood_type: F
+blood_type_revealed_chapter: 1017
 heights:
 - cm: 382
   period: other
+  revealed_chapter: 975

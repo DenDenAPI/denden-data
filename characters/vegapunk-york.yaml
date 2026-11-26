@@ -42,10 +42,14 @@ residences:
 birthday:
   month: 3
   day: 22
+  revealed_chapter: 1130
 blood_type: S
+blood_type_revealed_chapter: 1130
 ages:
 - years: 2
   period: other
+  revealed_chapter: 1130
 heights:
 - cm: 482
   period: other
+  revealed_chapter: 1130

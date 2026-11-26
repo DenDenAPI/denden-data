@@ -32,10 +32,13 @@ affiliations:
   revealed_chapter: 504
 origin:
   region: North Blue
+  revealed_chapter: 922
 birthday:
   month: 11
   day: 23
+  revealed_chapter: 594
 blood_type: XF
+blood_type_revealed_chapter: 922
 ages:
 - years: 56
   period: debut
@@ -44,6 +47,7 @@ ages:
 heights:
 - cm: 302
   period: other
+  revealed_chapter: 922
 marine_rating:
   stars: 3
   equivalent: 3000000000

@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 888
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: poripori-island
@@ -39,13 +40,17 @@ residences:
 birthday:
   month: 11
   day: 25
+  revealed_chapter: 895
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 48
   period: other
+  revealed_chapter: 883
 heights:
 - cm: 489
   period: other
+  revealed_chapter: 883
 bounties:
 - amount: 300000000
   status: current

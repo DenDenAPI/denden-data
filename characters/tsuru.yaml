@@ -27,18 +27,24 @@ affiliations:
   revealed_chapter: 796
 origin:
   region: North Blue
+  revealed_chapter: 934
 birthday:
   month: 3
   day: 26
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 934
 ages:
 - years: 74
   period: debut
+  revealed_chapter: 831
 - years: 76
   period: post_timeskip
+  revealed_chapter: 831
 heights:
 - cm: 204
   period: other
+  revealed_chapter: 934
 marine_rating:
   stars: 5
   minimum: true

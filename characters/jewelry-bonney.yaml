@@ -33,6 +33,7 @@ affiliations:
   revealed_chapter: 498
 origin:
   location: mary-geoise
+  revealed_chapter: 919
 residences:
 - type: location
   slug: egghead
@@ -41,7 +42,9 @@ residences:
 birthday:
   month: 9
   day: 1
+  revealed_chapter: 602
 blood_type: F
+blood_type_revealed_chapter: 919
 ages:
 - years: 10
   period: debut
@@ -49,9 +52,11 @@ ages:
   period: post_timeskip
 - years: 22
   period: other
+  revealed_chapter: 686
 heights:
 - cm: 174
   period: debut
+  revealed_chapter: 686
 bounties:
 - amount: 140000000
   status: former

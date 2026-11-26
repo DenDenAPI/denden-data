@@ -22,15 +22,21 @@ affiliations:
 origin:
   location: karate-island
   region: South Blue
+  revealed_chapter: 944
 birthday:
   month: 2
   day: 22
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 944
 ages:
 - years: 44
   period: debut
+  revealed_chapter: 944
 - years: 46
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 676
   period: other
+  revealed_chapter: 944

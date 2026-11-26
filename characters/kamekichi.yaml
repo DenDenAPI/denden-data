@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Newspaper deliveryman
   status: current
+  revealed_chapter: 1023
 residences:
 - type: location
   slug: wano-country

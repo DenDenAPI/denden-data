@@ -16,6 +16,7 @@ epithets:
 - en: Gem of the Border
   ja: 国境のジェム
   romaji: Kokkyō no Jemu
+  revealed_chapter: 928
 aliases:
 - en: Mr. 5
   ja: Mr. 5
@@ -38,18 +39,24 @@ affiliations:
   status: former
 origin:
   region: South Blue
+  revealed_chapter: 928
 birthday:
   month: 7
   day: 26
+  revealed_chapter: 873
 blood_type: X
+blood_type_revealed_chapter: 928
 ages:
 - years: 24
   period: debut
+  revealed_chapter: 928
 - years: 26
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 197
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 10000000
   status: current

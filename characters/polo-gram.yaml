@@ -17,6 +17,7 @@ affiliations:
 - type: crew
   slug: whitebeard-pirates
   status: current
+  revealed_chapter: 1186
 - type: crew
   slug: polo-pirates
   status: current

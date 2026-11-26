@@ -17,9 +17,11 @@ occupations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 928
 birthday:
   month: 12
   day: 27
+  revealed_chapter: 928
 bounties:
 - amount: 100000
   status: current

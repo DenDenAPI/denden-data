@@ -45,6 +45,7 @@ affiliations:
 origin:
   location: satsuruzo-kingdom
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: shells-town
@@ -56,15 +57,20 @@ residences:
 birthday:
   month: 5
   day: 13
+  revealed_chapter: 469
 blood_type: F
+blood_type_revealed_chapter: 916
 ages:
 - years: 16
   period: debut
+  revealed_chapter: 1130
 - years: 18
   period: post_timeskip
+  revealed_chapter: 1130
 heights:
 - cm: 167
   period: other
+  revealed_chapter: 1130
 marine_rating:
   stars: 5
   equivalent: 500000000

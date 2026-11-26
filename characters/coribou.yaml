@@ -32,16 +32,21 @@ affiliations:
   status: former
 origin:
   region: North Blue
+  revealed_chapter: 931
 birthday:
   month: 5
   day: 2
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 931
 ages:
 - years: 29
   period: other
+  revealed_chapter: 931
 heights:
 - cm: 250
   period: other
+  revealed_chapter: 931
 bounties:
 - amount: 190000000
   status: current

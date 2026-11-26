@@ -16,6 +16,7 @@ occupations:
   status: current
 - name: Pirate
   status: current
+  revealed_chapter: 1153
 - name: General Zombie
   status: current
 affiliations:

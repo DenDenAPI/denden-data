@@ -23,16 +23,21 @@ affiliations:
   revealed_chapter: 978
 origin:
   region: Grand Line
+  revealed_chapter: 1023
 birthday:
   month: 1
   day: 4
+  revealed_chapter: 1023
 blood_type: XF
+blood_type_revealed_chapter: 1023
 ages:
 - years: 22
   period: other
+  revealed_chapter: 990
 heights:
 - cm: 173
   period: other
+  revealed_chapter: 990
 bounties:
 - amount: 400000000
   status: current

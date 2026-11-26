@@ -38,6 +38,7 @@ affiliations:
   revealed_chapter: 57
 origin:
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: karai-bari-island
@@ -45,12 +46,17 @@ residences:
 birthday:
   month: 10
   day: 1
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 916
 ages:
 - years: 27
   period: debut
+  revealed_chapter: 916
 - years: 29
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 197
   period: other
+  revealed_chapter: 916

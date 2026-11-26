@@ -21,6 +21,7 @@ affiliations:
   status: former
 origin:
   region: East Blue
+  revealed_chapter: 931
 residences:
 - type: location
   slug: cactus-island
@@ -28,3 +29,4 @@ residences:
 birthday:
   month: 3
   day: 23
+  revealed_chapter: 931

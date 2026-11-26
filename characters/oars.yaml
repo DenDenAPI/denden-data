@@ -33,10 +33,14 @@ affiliations:
   status: current
 origin:
   region: North Blue
+  revealed_chapter: 947
 birthday:
   month: 10
   day: 4
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 947
 heights:
 - cm: 6700
   period: other
+  revealed_chapter: 947

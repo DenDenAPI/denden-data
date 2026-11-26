@@ -17,6 +17,7 @@ occupations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: cocoyasi-village
@@ -25,15 +26,20 @@ residences:
 - type: location
   slug: oykot-kingdom
   status: former
+  revealed_chapter: 922
 birthday:
   month: 7
   day: 25
+  revealed_chapter: 873
 blood_type: S
+blood_type_revealed_chapter: 922
 ages:
 - years: 20
   period: debut
 - years: 22
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 170
   period: other
+  revealed_chapter: 922

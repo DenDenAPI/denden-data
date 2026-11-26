@@ -21,6 +21,7 @@ affiliations:
   revealed_chapter: 1082
 origin:
   region: North Blue
+  revealed_chapter: 1017
 residences:
 - type: location
   slug: baltigo
@@ -32,15 +33,20 @@ residences:
 birthday:
   month: 9
   day: 18
+  revealed_chapter: 1017
 blood_type: S
+blood_type_revealed_chapter: 1017
 ages:
 - years: 45
   period: debut
+  revealed_chapter: 1017
 - years: 47
   period: post_timeskip
+  revealed_chapter: 1017
 heights:
 - cm: 265
   period: other
+  revealed_chapter: 1017
 bounties:
 - amount: 400000000
   status: current

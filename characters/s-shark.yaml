@@ -21,9 +21,12 @@ residences:
   status: current
   revealed_chapter: 1069
 blood_type: F
+blood_type_revealed_chapter: 1130
 ages:
 - years: 2
   period: other
+  revealed_chapter: 1130
 heights:
 - cm: 320
   period: other
+  revealed_chapter: 1130

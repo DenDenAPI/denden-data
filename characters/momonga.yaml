@@ -17,6 +17,7 @@ occupations:
   revealed_chapter: 427
 - name: Base Commander of G-1
   status: current
+  revealed_chapter: 944
 affiliations:
 - type: organization
   slug: marines
@@ -28,6 +29,7 @@ affiliations:
   revealed_chapter: 598
 origin:
   region: Grand Line
+  revealed_chapter: 944
 residences:
 - type: location
   slug: g-1
@@ -36,15 +38,20 @@ residences:
 birthday:
   month: 6
   day: 6
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 944
 ages:
 - years: 46
   period: debut
+  revealed_chapter: 944
 - years: 48
   period: post_timeskip
+  revealed_chapter: 944
 heights:
 - cm: 251
   period: other
+  revealed_chapter: 944
 marine_rating:
   stars: 5
   minimum: true

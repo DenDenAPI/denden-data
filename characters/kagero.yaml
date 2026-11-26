@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Priest
   status: current
+  revealed_chapter: 1023
 affiliations:
 - type: organization
   slug: kouzuki-family

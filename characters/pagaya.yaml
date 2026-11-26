@@ -17,15 +17,21 @@ occupations:
 origin:
   location: skypiea
   region: Grand Line
+  revealed_chapter: 931
 birthday:
   month: 8
   day: 17
+  revealed_chapter: 931
 blood_type: F
+blood_type_revealed_chapter: 931
 ages:
 - years: 52
   period: debut
+  revealed_chapter: 931
 - years: 54
   period: post_timeskip
+  revealed_chapter: 931
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 931

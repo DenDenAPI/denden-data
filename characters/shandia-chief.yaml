@@ -18,15 +18,21 @@ occupations:
 origin:
   location: skypiea
   region: Sky Island
+  revealed_chapter: 938
 birthday:
   month: 10
   day: 4
+  revealed_chapter: 938
 blood_type: X
+blood_type_revealed_chapter: 938
 ages:
 - years: 63
   period: debut
+  revealed_chapter: 938
 - years: 65
   period: post_timeskip
+  revealed_chapter: 938
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 938

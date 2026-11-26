@@ -20,9 +20,11 @@ aliases:
 - en: Absa
   ja: アブサ
   romaji: Abusa
+  revealed_chapter: 715
 occupations:
 - name: Reporter
   status: current
+  revealed_chapter: 715
 - name: Pirate
   status: current
   revealed_chapter: 463
@@ -37,15 +39,21 @@ affiliations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 947
 birthday:
   month: 12
   day: 30
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 947
 ages:
 - years: 34
   period: debut
+  revealed_chapter: 947
 - years: 36
   period: post_timeskip
+  revealed_chapter: 947
 heights:
 - cm: 195
   period: other
+  revealed_chapter: 947

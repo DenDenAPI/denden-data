@@ -22,6 +22,7 @@ residences:
 birthday:
   month: 7
   day: 18
+  revealed_chapter: 916
 ages:
 - years: 12
   period: debut

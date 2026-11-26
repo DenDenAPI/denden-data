@@ -22,6 +22,7 @@ affiliations:
   revealed_chapter: 599
 origin:
   location: calm-belt
+  revealed_chapter: 928
 residences:
 - type: location
   slug: amazon-lily
@@ -29,3 +30,4 @@ residences:
 birthday:
   month: 8
   day: 1
+  revealed_chapter: 657

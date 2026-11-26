@@ -38,18 +38,24 @@ affiliations:
   revealed_chapter: 45
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 9
   day: 19
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 919
 ages:
 - years: 42
   period: debut
+  revealed_chapter: 853
 - years: 44
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 243
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 17000000
   status: current

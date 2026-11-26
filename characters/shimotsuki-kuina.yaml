@@ -18,8 +18,10 @@ affiliations:
 - type: organization
   slug: shimotsuki-family
   status: current
+  revealed_chapter: 1076
 origin:
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: shimotsuki-village
@@ -28,7 +30,10 @@ residences:
 birthday:
   month: 9
   day: 17
+  revealed_chapter: 821
 blood_type: S
+blood_type_revealed_chapter: 916
 heights:
 - cm: 150
   period: other
+  revealed_chapter: 916

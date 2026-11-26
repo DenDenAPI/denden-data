@@ -26,6 +26,7 @@ affiliations:
   revealed_chapter: 728
 origin:
   region: North Blue
+  revealed_chapter: 938
 residences:
 - type: location
   slug: punk-hazard
@@ -37,7 +38,10 @@ residences:
 birthday:
   month: 8
   day: 27
+  revealed_chapter: 715
 blood_type: X
+blood_type_revealed_chapter: 938
 heights:
 - cm: 227
   period: other
+  revealed_chapter: 938

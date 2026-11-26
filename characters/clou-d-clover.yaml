@@ -33,7 +33,10 @@ origin:
 birthday:
   month: 4
   day: 8
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 941
 heights:
 - cm: 172
   period: other
+  revealed_chapter: 941

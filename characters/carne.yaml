@@ -17,15 +17,21 @@ occupations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 2
   day: 9
+  revealed_chapter: 919
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 32
   period: debut
+  revealed_chapter: 919
 - years: 34
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 171
   period: other
+  revealed_chapter: 919

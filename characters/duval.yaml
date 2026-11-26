@@ -30,15 +30,21 @@ affiliations:
   revealed_chapter: 496
 origin:
   region: Grand Line
+  revealed_chapter: 919
 birthday:
   month: 8
   day: 11
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 23
   period: debut
+  revealed_chapter: 919
 - years: 25
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 470
   period: other
+  revealed_chapter: 919

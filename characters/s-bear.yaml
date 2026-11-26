@@ -20,9 +20,12 @@ residences:
   slug: egghead
   status: current
 blood_type: X
+blood_type_revealed_chapter: 1130
 ages:
 - years: 2
   period: other
+  revealed_chapter: 1130
 heights:
 - cm: 660
   period: other
+  revealed_chapter: 1130

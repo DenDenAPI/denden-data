@@ -14,6 +14,7 @@ first_appearance:
   episode: 81
 origin:
   region: Grand Line
+  revealed_chapter: 938
 residences:
 - type: location
   slug: cocoa-weed
@@ -24,3 +25,4 @@ residences:
 birthday:
   month: 6
   day: 17
+  revealed_chapter: 938

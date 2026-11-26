@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Thug Leader
   status: current
+  revealed_chapter: 240
 residences:
 - type: location
   slug: arabasta-kingdom

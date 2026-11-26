@@ -23,10 +23,14 @@ affiliations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 947
 birthday:
   month: 2
   day: 21
+  revealed_chapter: 916
 blood_type: S
+blood_type_revealed_chapter: 947
 heights:
 - cm: 238
   period: other
+  revealed_chapter: 947

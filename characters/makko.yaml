@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Marine Ensign
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: organization
   slug: marines

@@ -29,6 +29,7 @@ affiliations:
   revealed_chapter: 1107
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: elbaph
@@ -45,12 +46,17 @@ residences:
 birthday:
   month: 4
   day: 1
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 154
   period: debut
+  revealed_chapter: 950
 - years: 156
   period: post_timeskip
+  revealed_chapter: 950
 heights:
 - cm: 1700
   period: other
+  revealed_chapter: 950

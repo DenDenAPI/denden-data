@@ -76,6 +76,7 @@ affiliations:
   temporary: true
 origin:
   region: Grand Line
+  revealed_chapter: 916
 residences:
 - type: location
   slug: karai-bari-island
@@ -88,17 +89,23 @@ residences:
 birthday:
   month: 8
   day: 8
+  revealed_chapter: 602
 blood_type: F
+blood_type_revealed_chapter: 916
 ages:
 - years: 37
   period: debut
+  revealed_chapter: 853
 - years: 39
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 192
   period: other
+  revealed_chapter: 916
 - cm: 130
   period: other
+  revealed_chapter: 916
 bounties:
 - amount: 15000000
   status: former

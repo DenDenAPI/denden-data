@@ -43,12 +43,15 @@ residences:
 birthday:
   month: 5
   day: 13
+  revealed_chapter: 602
 blood_type: XF
 ages:
 - years: 76
   period: debut
+  revealed_chapter: 831
 - years: 78
   period: post_timeskip
+  revealed_chapter: 831
 heights:
 - cm: 188
   period: other

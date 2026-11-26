@@ -39,6 +39,7 @@ affiliations:
 origin:
   location: vespa-kingdom
   region: South Blue
+  revealed_chapter: 934
 residences:
 - type: location
   slug: hachinosu
@@ -47,7 +48,9 @@ residences:
 birthday:
   month: 9
   day: 21
+  revealed_chapter: 594
 blood_type: F
+blood_type_revealed_chapter: 934
 ages:
 - years: 47
   period: debut
@@ -56,3 +59,4 @@ ages:
 heights:
 - cm: 298
   period: other
+  revealed_chapter: 934

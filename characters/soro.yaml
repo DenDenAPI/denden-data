@@ -17,6 +17,7 @@ occupations:
   revealed_chapter: 3
 origin:
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: shells-town
@@ -24,3 +25,4 @@ residences:
 birthday:
   month: 11
   day: 11
+  revealed_chapter: 916

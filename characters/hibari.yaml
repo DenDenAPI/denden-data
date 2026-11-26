@@ -26,16 +26,21 @@ affiliations:
   revealed_chapter: 1061
 origin:
   region: North Blue
+  revealed_chapter: 1130
 birthday:
   month: 1
   day: 18
+  revealed_chapter: 1130
 blood_type: F
+blood_type_revealed_chapter: 1130
 ages:
 - years: 17
   period: other
+  revealed_chapter: 1130
 heights:
 - cm: 165
   period: other
+  revealed_chapter: 1130
 marine_rating:
   stars: 2
   equivalent: 200000000

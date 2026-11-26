@@ -19,6 +19,7 @@ occupations:
 origin:
   location: wano-country
   region: Grand Line
+  revealed_chapter: 1124
 residences:
 - type: location
   slug: wano-country
@@ -26,7 +27,10 @@ residences:
 birthday:
   month: 11
   day: 2
+  revealed_chapter: 1124
 blood_type: XF
+blood_type_revealed_chapter: 1124
 heights:
 - cm: 298
   period: other
+  revealed_chapter: 1124

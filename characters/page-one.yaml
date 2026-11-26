@@ -23,6 +23,7 @@ affiliations:
   revealed_chapter: 929
 origin:
   region: Grand Line
+  revealed_chapter: 1023
 residences:
 - type: location
   slug: wano-country
@@ -30,13 +31,17 @@ residences:
 birthday:
   month: 2
   day: 10
+  revealed_chapter: 1023
 blood_type: X
+blood_type_revealed_chapter: 1023
 ages:
 - years: 20
   period: other
+  revealed_chapter: 990
 heights:
 - cm: 171
   period: other
+  revealed_chapter: 990
 bounties:
 - amount: 290000000
   status: current

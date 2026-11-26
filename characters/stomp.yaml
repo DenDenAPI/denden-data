@@ -22,14 +22,18 @@ affiliations:
 origin:
   location: arabasta-kingdom
   region: Grand Line
+  revealed_chapter: 926
 residences:
 - type: location
   slug: arabasta-kingdom
   status: current
 blood_type: X
+blood_type_revealed_chapter: 926
 ages:
 - years: 15
   period: other
+  revealed_chapter: 926
 heights:
 - cm: 202
   period: other
+  revealed_chapter: 926

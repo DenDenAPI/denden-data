@@ -21,6 +21,7 @@ affiliations:
 - type: organization
   slug: charlotte-family
   status: current
+  revealed_chapter: 873
 - type: crew
   slug: big-mom-pirates
   status: current
@@ -31,6 +32,7 @@ residences:
 birthday:
   month: 2
   day: 27
+  revealed_chapter: 895
 ages:
 - years: 20
   period: other

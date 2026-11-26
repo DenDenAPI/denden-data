@@ -33,6 +33,7 @@ affiliations:
   revealed_chapter: 1096
 origin:
   location: calm-belt
+  revealed_chapter: 928
 residences:
 - type: location
   slug: hachinosu
@@ -44,3 +45,4 @@ residences:
 birthday:
   month: 2
   day: 4
+  revealed_chapter: 657

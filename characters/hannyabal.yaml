@@ -26,15 +26,21 @@ affiliations:
   revealed_chapter: 526
 origin:
   region: South Blue
+  revealed_chapter: 922
 birthday:
   month: 8
   day: 28
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 922
 ages:
 - years: 33
   period: debut
+  revealed_chapter: 922
 - years: 35
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 309
   period: other
+  revealed_chapter: 922

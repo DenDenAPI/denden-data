@@ -12,6 +12,7 @@ first_appearance:
   episode: 409
 origin:
   location: calm-belt
+  revealed_chapter: 947
 residences:
 - type: location
   slug: amazon-lily
@@ -19,3 +20,4 @@ residences:
 birthday:
   month: 2
   day: 29
+  revealed_chapter: 947

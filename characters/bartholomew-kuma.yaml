@@ -18,9 +18,11 @@ epithets:
 - en: Pacifist
   ja: 平和主義者
   romaji: Heiwashugi-sha
+  revealed_chapter: 947
 - en: Hero
   ja: ヒーロー
   romaji: Hīrō
+  revealed_chapter: 947
 aliases:
 - en: PX-0
   ja: PX-0
@@ -62,7 +64,7 @@ affiliations:
 origin:
   location: sorbet-kingdom
   region: South Blue
-  revealed_chapter: 1095
+  revealed_chapter: 947
 residences:
 - type: location
   slug: sorbet-kingdom
@@ -87,15 +89,20 @@ residences:
 birthday:
   month: 2
   day: 9
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 947
 ages:
 - years: 45
   period: debut
+  revealed_chapter: 586
 - years: 47
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 689
   period: other
+  revealed_chapter: 586
 bounties:
 - amount: 296000000
   status: current

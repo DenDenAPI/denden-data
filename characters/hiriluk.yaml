@@ -22,6 +22,7 @@ occupations:
 origin:
   location: sakura-kingdom
   region: Grand Line
+  revealed_chapter: 926
 residences:
 - type: location
   slug: drum-island
@@ -30,7 +31,10 @@ residences:
 birthday:
   month: 1
   day: 12
+  revealed_chapter: 801
 blood_type: F
+blood_type_revealed_chapter: 926
 heights:
 - cm: 213
   period: other
+  revealed_chapter: 926

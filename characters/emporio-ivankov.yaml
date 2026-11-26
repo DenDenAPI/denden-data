@@ -48,6 +48,7 @@ affiliations:
   revealed_chapter: 537
 origin:
   region: Grand Line
+  revealed_chapter: 922
 residences:
 - type: location
   slug: mary-geoise
@@ -58,15 +59,20 @@ residences:
 birthday:
   month: 1
   day: 8
+  revealed_chapter: 594
 blood_type: XF
+blood_type_revealed_chapter: 922
 ages:
 - years: 51
   period: debut
+  revealed_chapter: 922
 - years: 53
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 449
   period: other
+  revealed_chapter: 922
 bounties:
 - amount: 100000000
   status: current

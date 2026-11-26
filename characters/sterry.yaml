@@ -29,12 +29,16 @@ residences:
 birthday:
   month: 3
   day: 12
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 926
 ages:
 - years: 8
   period: debut
 - years: 20
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 180
   period: other
+  revealed_chapter: 926

@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Revolutionary Army Intelligence Controller
   status: current
+  revealed_chapter: 657
 affiliations:
 - type: organization
   slug: revolutionary-army

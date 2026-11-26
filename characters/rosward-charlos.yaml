@@ -22,6 +22,7 @@ affiliations:
   status: current
 origin:
   location: red-line
+  revealed_chapter: 934
 residences:
 - type: location
   slug: mary-geoise
@@ -29,12 +30,17 @@ residences:
 birthday:
   month: 6
   day: 1
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 934
 ages:
 - years: 22
   period: debut
+  revealed_chapter: 934
 - years: 24
   period: post_timeskip
+  revealed_chapter: 934
 heights:
 - cm: 230
   period: other
+  revealed_chapter: 934

@@ -21,6 +21,7 @@ affiliations:
   status: former
 origin:
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: goat-island
@@ -28,3 +29,4 @@ residences:
 birthday:
   month: 9
   day: 2
+  revealed_chapter: 916

@@ -21,6 +21,7 @@ affiliations:
   status: current
 origin:
   region: Grand Line
+  revealed_chapter: 928
 residences:
 - type: location
   slug: ryugu-palace
@@ -28,10 +29,14 @@ residences:
 birthday:
   month: 6
   day: 24
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 928
 ages:
 - years: 23
   period: other
+  revealed_chapter: 928
 heights:
 - cm: 544
   period: other
+  revealed_chapter: 928

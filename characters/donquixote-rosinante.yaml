@@ -41,6 +41,7 @@ affiliations:
   status: former
 origin:
   location: red-line
+  revealed_chapter: 941
 residences:
 - type: location
   slug: mary-geoise
@@ -53,7 +54,10 @@ residences:
 birthday:
   month: 7
   day: 15
+  revealed_chapter: 781
 blood_type: S
+blood_type_revealed_chapter: 941
 heights:
 - cm: 293
   period: other
+  revealed_chapter: 801

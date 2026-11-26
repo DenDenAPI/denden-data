@@ -40,10 +40,13 @@ residences:
 birthday:
   month: 7
   day: 22
+  revealed_chapter: 906
 blood_type: S
+blood_type_revealed_chapter: 950
 ages:
 - years: 29
   period: other
 heights:
 - cm: 800
   period: other
+  revealed_chapter: 950

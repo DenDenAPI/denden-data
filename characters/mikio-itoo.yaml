@@ -13,9 +13,11 @@ first_appearance:
   chapter: 1
 origin:
   region: East Blue
+  revealed_chapter: 916
 birthday:
   month: 3
   day: 26
+  revealed_chapter: 916
 bounties:
 - amount: 1000000
   status: current

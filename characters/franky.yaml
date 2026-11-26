@@ -67,6 +67,7 @@ affiliations:
   kind: alliance
 origin:
   region: South Blue
+  revealed_chapter: 450
 residences:
 - type: location
   slug: water-7
@@ -79,18 +80,23 @@ residences:
 birthday:
   month: 3
   day: 9
+  revealed_chapter: 425
 blood_type: XF
+blood_type_revealed_chapter: 664
 ages:
 - years: 34
   period: debut
   revealed_chapter: 353
 - years: 36
   period: post_timeskip
+  revealed_chapter: 657
 heights:
 - cm: 225
   period: debut
+  revealed_chapter: 450
 - cm: 240
   period: post_timeskip
+  revealed_chapter: 657
 bounties:
 - amount: 44000000
   status: former

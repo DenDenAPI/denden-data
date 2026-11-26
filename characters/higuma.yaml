@@ -17,13 +17,16 @@ occupations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 916
 birthday:
   month: 11
   day: 18
 blood_type: X
+blood_type_revealed_chapter: 916
 heights:
 - cm: 190
   period: other
+  revealed_chapter: 916
 bounties:
 - amount: 8000000
   status: former

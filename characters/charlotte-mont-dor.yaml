@@ -31,6 +31,7 @@ affiliations:
   revealed_chapter: 1038
 origin:
   region: Grand Line
+  revealed_chapter: 950
 residences:
 - type: location
   slug: cheese-island
@@ -38,13 +39,16 @@ residences:
 birthday:
   month: 4
   day: 23
+  revealed_chapter: 883
 blood_type: X
+blood_type_revealed_chapter: 950
 ages:
 - years: 38
   period: other
 heights:
 - cm: 260
   period: other
+  revealed_chapter: 950
 bounties:
 - amount: 120000000
   status: current

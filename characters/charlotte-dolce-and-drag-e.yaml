@@ -20,9 +20,12 @@ affiliations:
 - type: crew
   slug: big-mom-pirates
   status: current
+  revealed_chapter: 916
 birthday:
   month: 2
   day: 21
+  revealed_chapter: 916
 ages:
 - years: 9
   period: other
+  revealed_chapter: 916

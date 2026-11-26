@@ -15,6 +15,7 @@ first_appearance:
 occupations:
 - name: Marine Rear Admiral
   status: current
+  revealed_chapter: 941
 marine_rating:
   stars: 2
   minimum: true

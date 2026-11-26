@@ -20,6 +20,7 @@ epithets:
 occupations:
 - name: Pirate Officer
   status: current
+  revealed_chapter: 919
 - name: Ship Guard
   status: current
 affiliations:
@@ -28,18 +29,24 @@ affiliations:
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 2
   day: 7
+  revealed_chapter: 883
 blood_type: X
+blood_type_revealed_chapter: 919
 ages:
 - years: 21
   period: debut
+  revealed_chapter: 919
 - years: 23
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 216
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 7000000
   status: current

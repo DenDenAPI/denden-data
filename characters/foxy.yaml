@@ -28,18 +28,24 @@ affiliations:
   revealed_chapter: 305
 origin:
   region: South Blue
+  revealed_chapter: 941
 birthday:
   month: 4
   day: 4
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 941
 ages:
 - years: 36
   period: debut
+  revealed_chapter: 853
 - years: 38
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 180
   period: other
+  revealed_chapter: 941
 bounties:
 - amount: 24000000
   status: current

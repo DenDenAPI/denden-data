@@ -19,3 +19,4 @@ residences:
 - type: location
   slug: nagagutsu-kingdom
   status: current
+  revealed_chapter: 1017

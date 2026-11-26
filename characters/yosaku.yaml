@@ -24,12 +24,17 @@ origin:
 birthday:
   month: 11
   day: 10
+  revealed_chapter: 906
 blood_type: F
+blood_type_revealed_chapter: 922
 ages:
 - years: 24
   period: debut
+  revealed_chapter: 922
 - years: 26
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 185
   period: other
+  revealed_chapter: 922

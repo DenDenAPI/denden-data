@@ -24,6 +24,7 @@ occupations:
   status: former
 - name: Marine Chief Petty Officer
   status: former
+  revealed_chapter: 67
 affiliations:
 - type: organization
   slug: marines
@@ -36,12 +37,17 @@ residences:
 birthday:
   month: 4
   day: 13
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 916
 ages:
 - years: 42
   period: debut
+  revealed_chapter: 916
 - years: 44
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 285
   period: other
+  revealed_chapter: 916

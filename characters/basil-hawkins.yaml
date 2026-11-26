@@ -41,15 +41,20 @@ origin:
 birthday:
   month: 9
   day: 9
+  revealed_chapter: 602
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 29
   period: debut
+  revealed_chapter: 686
 - years: 31
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 210
   period: debut
+  revealed_chapter: 686
 bounties:
 - amount: 249000000
   status: former

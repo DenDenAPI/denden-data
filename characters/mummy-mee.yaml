@@ -15,10 +15,12 @@ first_appearance:
 occupations:
 - name: Housemother
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: organization
   slug: world-government
   status: current
+  revealed_chapter: 240
 origin:
   location: conomi-islands
   region: East Blue
@@ -29,3 +31,4 @@ residences:
 birthday:
   month: 11
   day: 21
+  revealed_chapter: 928

@@ -16,15 +16,21 @@ occupations:
 origin:
   location: birka
   region: Sky Island
+  revealed_chapter: 938
 birthday:
   month: 10
   day: 3
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 938
 ages:
 - years: 43
   period: debut
+  revealed_chapter: 938
 - years: 45
   period: post_timeskip
+  revealed_chapter: 938
 heights:
 - cm: 366
   period: other
+  revealed_chapter: 938

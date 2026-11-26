@@ -23,6 +23,7 @@ affiliations:
   revealed_chapter: 1087
 origin:
   region: North Blue
+  revealed_chapter: 1130
 residences:
 - type: location
   slug: g-14
@@ -30,13 +31,17 @@ residences:
 birthday:
   month: 9
   day: 18
+  revealed_chapter: 1130
 blood_type: X
+blood_type_revealed_chapter: 1130
 ages:
 - years: 26
   period: other
+  revealed_chapter: 1130
 heights:
 - cm: 180
   period: other
+  revealed_chapter: 1130
 marine_rating:
   stars: 5
   equivalent: 500000000

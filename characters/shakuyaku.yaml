@@ -47,12 +47,17 @@ residences:
 birthday:
   month: 5
   day: 8
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 919
 ages:
 - years: 62
   period: debut
+  revealed_chapter: 919
 - years: 64
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 186
   period: other
+  revealed_chapter: 919

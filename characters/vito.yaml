@@ -31,16 +31,21 @@ affiliations:
   revealed_chapter: 813
 origin:
   region: West Blue
+  revealed_chapter: 947
 birthday:
   month: 10
   day: 21
+  revealed_chapter: 916
 blood_type: S
+blood_type_revealed_chapter: 947
 ages:
 - years: 36
   period: other
+  revealed_chapter: 947
 heights:
 - cm: 242
   period: other
+  revealed_chapter: 947
 bounties:
 - amount: 95000000
   status: current

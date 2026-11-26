@@ -21,6 +21,7 @@ epithets:
 occupations:
 - name: Marine Lieutenant Commander
   status: current
+  revealed_chapter: 1002
 - name: Marine Seaman Recruit
   status: current
 - name: Pirate
@@ -46,18 +47,24 @@ affiliations:
   revealed_chapter: 26
 origin:
   region: East Blue
+  revealed_chapter: 919
 birthday:
   month: 12
   day: 28
+  revealed_chapter: 895
 blood_type: S
+blood_type_revealed_chapter: 919
 ages:
 - years: 27
   period: debut
+  revealed_chapter: 919
 - years: 29
   period: post_timeskip
+  revealed_chapter: 919
 heights:
 - cm: 207
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 9000000
   status: former

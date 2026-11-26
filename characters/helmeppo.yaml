@@ -33,15 +33,20 @@ residences:
 birthday:
   month: 7
   day: 16
+  revealed_chapter: 469
 blood_type: S
+blood_type_revealed_chapter: 916
 ages:
 - years: 20
   period: debut
+  revealed_chapter: 1130
 - years: 22
   period: post_timeskip
+  revealed_chapter: 1130
 heights:
 - cm: 179
   period: other
+  revealed_chapter: 1130
 marine_rating:
   stars: 1
   equivalent: 100000000

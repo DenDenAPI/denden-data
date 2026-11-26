@@ -36,15 +36,21 @@ affiliations:
 origin:
   location: arabasta-kingdom
   region: Grand Line
+  revealed_chapter: 926
 birthday:
   month: 11
   day: 8
+  revealed_chapter: 831
 blood_type: F
+blood_type_revealed_chapter: 926
 ages:
 - years: 14
   period: debut
+  revealed_chapter: 926
 - years: 16
   period: post_timeskip
+  revealed_chapter: 926
 heights:
 - cm: 150
   period: other
+  revealed_chapter: 926

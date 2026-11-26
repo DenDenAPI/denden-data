@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Titanic Captain
   status: current
+  revealed_chapter: 922
 - name: Prisoner of the Great Prison
   status: former
 affiliations:
@@ -30,6 +31,7 @@ affiliations:
   status: former
 origin:
   region: South Blue
+  revealed_chapter: 922
 residences:
 - type: location
   slug: hachinosu
@@ -37,12 +39,17 @@ residences:
 birthday:
   month: 8
   day: 5
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 922
 ages:
 - years: 36
   period: debut
+  revealed_chapter: 922
 - years: 38
   period: post_timeskip
+  revealed_chapter: 922
 heights:
 - cm: 573
   period: other
+  revealed_chapter: 922

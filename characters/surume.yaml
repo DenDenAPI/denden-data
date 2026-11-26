@@ -27,7 +27,10 @@ origin:
 birthday:
   month: 6
   day: 9
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 928
 ages:
 - years: 120
   period: other
+  revealed_chapter: 928

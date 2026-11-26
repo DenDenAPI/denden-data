@@ -33,13 +33,18 @@ affiliations:
   status: current
 origin:
   region: Grand Line
+  revealed_chapter: 944
 birthday:
   month: 10
   day: 10
+  revealed_chapter: 944
 blood_type: X
+blood_type_revealed_chapter: 944
 ages:
 - years: 22
   period: other
+  revealed_chapter: 844
 heights:
 - cm: 225
   period: other
+  revealed_chapter: 944

@@ -17,12 +17,15 @@ occupations:
   status: current
 - name: Staff Officer of Planning
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: crew
   slug: krieg-pirates
   status: current
 origin:
   region: East Blue
+  revealed_chapter: 928
 birthday:
   month: 3
   day: 17
+  revealed_chapter: 928

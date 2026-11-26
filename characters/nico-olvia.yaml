@@ -19,13 +19,17 @@ occupations:
 origin:
   location: ohara
   region: West Blue
+  revealed_chapter: 941
 birthday:
   month: 2
   day: 6
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 941
 heights:
 - cm: 186
   period: other
+  revealed_chapter: 941
 bounties:
 - amount: 79000000
   status: former

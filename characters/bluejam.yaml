@@ -25,16 +25,21 @@ affiliations:
 origin:
   location: goa-kingdom
   region: East Blue
+  revealed_chapter: 947
 birthday:
   month: 2
   day: 16
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 947
 ages:
 - years: 42
   period: debut
+  revealed_chapter: 947
 heights:
 - cm: 261
   period: other
+  revealed_chapter: 947
 bounties:
 - amount: 14300000
   status: current

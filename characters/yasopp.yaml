@@ -16,6 +16,7 @@ epithets:
 - en: Chaser
   ja: 追擊者
   romaji: Cheisā
+  revealed_chapter: 916
 occupations:
 - name: Pirate
   status: current
@@ -32,6 +33,7 @@ affiliations:
 origin:
   location: gecko-islands
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: syrup-village
@@ -39,14 +41,20 @@ residences:
 birthday:
   month: 8
   day: 2
+  revealed_chapter: 657
 blood_type: S
+blood_type_revealed_chapter: 916
 ages:
 - years: 35
   period: debut
+  revealed_chapter: 916
 - years: 45
   period: pre_timeskip
+  revealed_chapter: 916
 - years: 47
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 183
   period: other
+  revealed_chapter: 916

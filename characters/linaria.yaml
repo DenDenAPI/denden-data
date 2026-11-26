@@ -19,6 +19,7 @@ epithets:
 occupations:
 - name: Pirate Captain
   status: current
+  revealed_chapter: 1109
 affiliations:
 - type: crew
   slug: night-butterfly-pirates

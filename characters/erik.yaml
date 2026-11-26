@@ -19,3 +19,4 @@ residences:
 - type: location
   slug: arabasta-kingdom
   status: former
+  revealed_chapter: 240

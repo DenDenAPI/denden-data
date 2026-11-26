@@ -26,11 +26,15 @@ affiliations:
 birthday:
   month: 8
   day: 10
+  revealed_chapter: 657
 ages:
 - years: 18
   period: debut
+  revealed_chapter: 934
 - years: 20
   period: post_timeskip
+  revealed_chapter: 934
 heights:
 - cm: 25
   period: other
+  revealed_chapter: 934

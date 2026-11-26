@@ -32,6 +32,7 @@ affiliations:
 birthday:
   month: 3
   day: 27
+  revealed_chapter: 916
 bounties:
 - amount: 52000000
   status: current

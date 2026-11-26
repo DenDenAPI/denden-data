@@ -23,8 +23,10 @@ occupations:
   revealed_chapter: 705
 - name: Guard Captain
   status: former
+  revealed_chapter: 1130
 - name: Bodyguard
   status: former
+  revealed_chapter: 1130
 affiliations:
 - type: organization
   slug: marines
@@ -33,23 +35,30 @@ affiliations:
 origin:
   location: aoi-kingdom
   region: Grand Line
+  revealed_chapter: 1130
 residences:
 - type: location
   slug: aoi-kingdom
   status: former
+  revealed_chapter: 1130
 - type: location
   slug: soja-island
   status: former
+  revealed_chapter: 1130
 birthday:
   month: 8
   day: 10
+  revealed_chapter: 749
 blood_type: S
+blood_type_revealed_chapter: 934
 ages:
 - years: 54
   period: other
+  revealed_chapter: 934
 heights:
 - cm: 270
   period: other
+  revealed_chapter: 934
 marine_rating:
   stars: 3
   equivalent: 3000000000

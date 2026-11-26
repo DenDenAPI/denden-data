@@ -15,5 +15,6 @@ occupations:
 ages:
 - years: 38
   period: debut
+  revealed_chapter: 263
 - years: 40
   period: post_timeskip

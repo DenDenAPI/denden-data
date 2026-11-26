@@ -31,12 +31,16 @@ residences:
 - type: location
   slug: swallow-island
   status: former
+  revealed_chapter: 853
 birthday:
   month: 4
   day: 25
+  revealed_chapter: 821
 blood_type: X
 ages:
 - years: 26
   period: debut
+  revealed_chapter: 853
 - years: 28
   period: post_timeskip
+  revealed_chapter: 853

@@ -37,6 +37,7 @@ affiliations:
   revealed_chapter: 26
 origin:
   region: East Blue
+  revealed_chapter: 919
 residences:
 - type: location
   slug: syrup-village
@@ -45,15 +46,20 @@ residences:
 birthday:
   month: 4
   day: 22
+  revealed_chapter: 657
 blood_type: X
+blood_type_revealed_chapter: 919
 ages:
 - years: 33
   period: debut
+  revealed_chapter: 853
 - years: 35
   period: post_timeskip
+  revealed_chapter: 853
 heights:
 - cm: 207
   period: other
+  revealed_chapter: 919
 bounties:
 - amount: 16000000
   status: current

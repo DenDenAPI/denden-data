@@ -49,12 +49,16 @@ residences:
 birthday:
   month: 10
   day: 25
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 11
   period: debut
 - years: 23
   period: post_timeskip
+  revealed_chapter: 781
 heights:
 - cm: 160
   period: other
+  revealed_chapter: 781

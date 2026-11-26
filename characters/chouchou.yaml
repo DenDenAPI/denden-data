@@ -21,6 +21,7 @@ occupations:
 origin:
   location: organ-islands
   region: East Blue
+  revealed_chapter: 916
 residences:
 - type: location
   slug: orange-town
@@ -29,11 +30,15 @@ residences:
 birthday:
   month: 11
   day: 22
+  revealed_chapter: 883
 ages:
 - years: 12
   period: debut
+  revealed_chapter: 916
 - years: 14
   period: post_timeskip
+  revealed_chapter: 916
 heights:
 - cm: 40
   period: other
+  revealed_chapter: 916

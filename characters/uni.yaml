@@ -13,10 +13,12 @@ first_appearance:
 occupations:
 - name: Pirate
   status: current
+  revealed_chapter: 844
 affiliations:
 - type: crew
   slug: heart-pirates
   status: current
+  revealed_chapter: 844
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former

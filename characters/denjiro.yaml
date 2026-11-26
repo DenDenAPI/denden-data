@@ -71,10 +71,14 @@ origin:
 birthday:
   month: 10
   day: 26
+  revealed_chapter: 1017
 blood_type: XF
+blood_type_revealed_chapter: 1017
 ages:
 - years: 47
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 306
   period: other
+  revealed_chapter: 975

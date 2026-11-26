@@ -64,12 +64,16 @@ residences:
 birthday:
   month: 1
   day: 1
+  revealed_chapter: 480
 blood_type: S
+blood_type_revealed_chapter: 926
 heights:
 - cm: 185
   period: other
+  revealed_chapter: 480
 - cm: 103
   period: other
+  revealed_chapter: 926
 bounties:
 - amount: 550000000
   status: former

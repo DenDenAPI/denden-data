@@ -16,6 +16,7 @@ epithets:
 - en: Poison Spider Zala
   ja: 毒グモのザラ
   romaji: Doku Gumo no Zara
+  revealed_chapter: 928
 aliases:
 - en: Miss Doublefinger
   ja: ミス・ダブルフィンガー
@@ -31,8 +32,10 @@ occupations:
   status: current
 - name: Assassin
   status: former
+  revealed_chapter: 928
 - name: Officer Agent
   status: former
+  revealed_chapter: 928
 affiliations:
 - type: location
   slug: spiders-cafe
@@ -44,18 +47,24 @@ affiliations:
   revealed_chapter: 190
 origin:
   region: Grand Line
+  revealed_chapter: 928
 birthday:
   month: 7
   day: 30
+  revealed_chapter: 916
 blood_type: X
+blood_type_revealed_chapter: 928
 ages:
 - years: 26
   period: debut
+  revealed_chapter: 928
 - years: 28
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 187
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 35000000
   status: current

@@ -46,15 +46,20 @@ origin:
 birthday:
   month: 1
   day: 1
+  revealed_chapter: 657
 blood_type: F
+blood_type_revealed_chapter: 928
 ages:
 - years: 29
   period: debut
+  revealed_chapter: 928
 - years: 31
   period: post_timeskip
+  revealed_chapter: 928
 heights:
 - cm: 212
   period: other
+  revealed_chapter: 928
 bounties:
 - amount: 75000000
   status: current

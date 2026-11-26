@@ -14,14 +14,19 @@ first_appearance:
 occupations:
 - name: Shipwright
   status: current
+  revealed_chapter: 240
 - name: Pirate
   status: current
+  revealed_chapter: 240
 affiliations:
 - type: crew
   slug: black-cat-pirates
   status: current
+  revealed_chapter: 240
 origin:
   region: East Blue
+  revealed_chapter: 928
 birthday:
   month: 7
   day: 18
+  revealed_chapter: 928

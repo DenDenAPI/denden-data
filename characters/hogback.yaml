@@ -30,15 +30,21 @@ affiliations:
   status: current
 origin:
   region: West Blue
+  revealed_chapter: 947
 birthday:
   month: 12
   day: 19
+  revealed_chapter: 657
 blood_type: XF
+blood_type_revealed_chapter: 947
 ages:
 - years: 45
   period: debut
+  revealed_chapter: 947
 - years: 47
   period: post_timeskip
+  revealed_chapter: 947
 heights:
 - cm: 223
   period: other
+  revealed_chapter: 947

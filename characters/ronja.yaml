@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 1174
 - name: Class President
   status: current
+  revealed_chapter: 1186
 affiliations:
 - type: location
   slug: walrus-school
@@ -30,3 +31,4 @@ residences:
 ages:
 - years: 27
   period: other
+  revealed_chapter: 1186

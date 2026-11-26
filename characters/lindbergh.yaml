@@ -31,13 +31,17 @@ residences:
 birthday:
   month: 5
   day: 21
+  revealed_chapter: 1017
 blood_type: F
+blood_type_revealed_chapter: 1017
 ages:
 - years: 37
   period: other
+  revealed_chapter: 1017
 heights:
 - cm: 149
   period: other
+  revealed_chapter: 1017
 bounties:
 - amount: 316000000
   status: current
