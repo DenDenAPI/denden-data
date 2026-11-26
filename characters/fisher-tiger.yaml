@@ -34,6 +34,7 @@ occupations:
 - name: De-facto Leader of Fish-Man District
   status: former
   revealed_chapter: 623
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 623

@@ -13,11 +13,12 @@ first_appearance:
   chapter: 499
   episode: 393
 occupations:
-- name: Slave
-  status: current
 - name: Nurse
   status: former
   revealed_chapter: 499
+social_ranks:
+- name: Slave
+  status: current
 origin:
   region: Grand Line
   revealed_chapter: 922

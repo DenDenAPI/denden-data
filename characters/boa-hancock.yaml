@@ -29,6 +29,7 @@ occupations:
 - name: Warlord of the Sea
   status: former
   revealed_chapter: 516
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 521
@@ -49,6 +50,7 @@ residences:
   slug: mary-geoise
   status: former
   revealed_chapter: 521
+  kind: captivity
 birthday:
   month: 9
   day: 2

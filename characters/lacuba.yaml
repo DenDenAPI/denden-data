@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 502
 - name: Captain
   status: former
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 502

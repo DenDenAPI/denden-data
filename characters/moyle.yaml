@@ -14,6 +14,7 @@ first_appearance:
 occupations:
 - name: Member of the Divine Squad
   status: current
+social_ranks:
 - name: Slave
   status: current
   revealed_chapter: 274

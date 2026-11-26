@@ -1,6 +1,7 @@
 aliases:
   '''Gangster'' Gastino': Gastino 'Gánster'
   Ancient Robot: Robot antiguo
+  Bridge Warrior Monk: Monje guerrero del puente
   Captain Porcupinefish: Capitán Pez Erizo
   Demon King Satan-sama: Rey Demonio Satan-sama
   Ear God: Dios de las Orejas
@@ -3210,11 +3211,15 @@ regions:
   West Blue: West Blue
 relation_kinds:
   alliance: Alianza
+  base: Base
   captivity: Cautiverio
   collaboration: Colaboración
   family: Familia
   guardianship: Tutela
   member: Miembro
+  passenger:
+  - Pasajero
+  - Pasajera
   rank: Rango
   service: Servicio
 relation_statuses:

@@ -26,6 +26,7 @@ aliases:
   ja: ミス・オールサンデー
   romaji: Misu Ōrusandē
   revealed_chapter: 114
+  cover_until: 176
 - en: O-Robi
   ja: おロビ
   romaji: Orobi
@@ -46,6 +47,7 @@ occupations:
 - name: Rain Dinners manager
   status: former
   revealed_chapter: 169
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 546

@@ -86,6 +86,8 @@ residences:
   slug: orange-town
   status: former
   revealed_chapter: 9
+  kind: base
+  temporary: true
 birthday:
   month: 8
   day: 8

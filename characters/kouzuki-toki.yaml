@@ -28,6 +28,7 @@ affiliations:
   slug: roger-pirates
   status: former
   revealed_chapter: 967
+  kind: passenger
 residences:
 - type: location
   slug: wano-country

@@ -11,12 +11,13 @@ first_appearance:
   chapter: 1095
   episode: 1129
 occupations:
-- name: Slave
-  status: current
-  revealed_chapter: 1095
 - name: Church manager
   status: former
   revealed_chapter: 1096
+social_ranks:
+- name: Slave
+  status: current
+  revealed_chapter: 1095
 origin:
   location: sorbet-kingdom
   region: South Blue

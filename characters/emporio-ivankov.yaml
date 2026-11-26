@@ -28,6 +28,7 @@ occupations:
 - name: Queen of Newkama Land
   status: former
   revealed_chapter: 537
+social_ranks:
 - name: Slave
   status: former
 affiliations:

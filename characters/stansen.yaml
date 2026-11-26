@@ -21,6 +21,7 @@ occupations:
 - name: Mercenary
   status: former
   revealed_chapter: 897
+social_ranks:
 - name: Slave
   status: former
 affiliations:

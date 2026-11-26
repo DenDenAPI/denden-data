@@ -45,10 +45,12 @@ residences:
   slug: egghead
   status: current
   revealed_chapter: 1061
+  kind: base
 - type: location
   slug: punk-hazard
   status: former
   revealed_chapter: 684
+  kind: base
 - type: location
   slug: karakuri-island
   status: former

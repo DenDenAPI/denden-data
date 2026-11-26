@@ -23,6 +23,7 @@ occupations:
   status: former
 - name: Pirate
   status: former
+social_ranks:
 - name: Slave
   status: former
 residences:

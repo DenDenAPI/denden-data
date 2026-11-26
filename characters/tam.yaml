@@ -8,6 +8,6 @@ gender: male
 species:
 - human
 status: alive
-occupations:
+social_ranks:
 - name: Noble
   status: current

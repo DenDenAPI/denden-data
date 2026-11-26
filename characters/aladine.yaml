@@ -25,6 +25,7 @@ occupations:
 - name: Soldier
   status: former
   revealed_chapter: 623
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 623

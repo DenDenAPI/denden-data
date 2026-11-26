@@ -17,6 +17,7 @@ occupations:
   status: current
 - name: Pirate
   status: current
+social_ranks:
 - name: Slave
   status: current
 origin:

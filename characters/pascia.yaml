@@ -16,6 +16,7 @@ occupations:
 - name: Dancer
   status: current
   revealed_chapter: 501
+social_ranks:
 - name: Slave
   status: former
   revealed_chapter: 501
