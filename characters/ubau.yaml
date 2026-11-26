@@ -8,6 +8,7 @@ gender: male
 species:
 - skypiean
 status: deceased
+status_revealed_chapter: 292
 first_appearance:
   chapter: 292
   episode: 189

@@ -6,6 +6,7 @@ name:
 canon: manga
 gender: male
 status: deceased
+status_revealed_chapter: 449
 first_appearance:
   chapter: 449
   episode: 343

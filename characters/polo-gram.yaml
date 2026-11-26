@@ -8,6 +8,7 @@ gender: male
 species:
 - human
 status: deceased
+status_revealed_chapter: 1186
 first_appearance:
   chapter: 1162
 occupations:
