@@ -18,6 +18,7 @@ occupations:
   revealed_chapter: 498
 - name: Waiter
   status: former
+  revealed_chapter: 975
 affiliations:
 - type: crew
   slug: heart-pirates

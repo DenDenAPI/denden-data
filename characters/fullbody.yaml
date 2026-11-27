@@ -56,7 +56,3 @@ heights:
 - cm: 184
   period: other
   revealed_chapter: 928
-bounties:
-- amount: 1000000
-  status: current
-  minimum: true

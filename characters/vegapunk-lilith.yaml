@@ -12,8 +12,9 @@ first_appearance:
   episode: 1090
 affiliations:
 - type: organization
-  slug: marines
+  slug: ssg
   status: former
+  revealed_chapter: 1074
 origin:
   location: egghead
   region: Grand Line

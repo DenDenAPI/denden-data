@@ -33,6 +33,7 @@ residences:
 - type: location
   slug: whole-cake-island
   status: current
+  revealed_chapter: 651
 birthday:
   month: 12
   day: 2

@@ -20,9 +20,6 @@ occupations:
   revealed_chapter: 536
 affiliations:
 - type: location
-  slug: momoiro-island
-  status: current
-- type: location
   slug: impel-down
   status: current
   revealed_chapter: 539

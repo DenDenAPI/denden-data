@@ -60,6 +60,8 @@ affiliations:
 - type: crew
   slug: beasts-pirates
   status: former
+  kind: collaboration
+  revealed_chapter: 974
 origin:
   location: wano-country
   region: Grand Line
