@@ -30,6 +30,8 @@ affiliations:
 - type: crew
   slug: flying-pirates
   status: former
+  kind: alliance
+  revealed_chapter: 613
 - type: location
   slug: ryugu-kingdom
   status: former

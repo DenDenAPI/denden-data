@@ -21,7 +21,9 @@ occupations:
 affiliations:
 - type: organization
   slug: kurozumi-family
-  status: current
+  status: former
+  kind: service
+  revealed_chapter: 935
 - type: crew
   slug: beasts-pirates
   status: former

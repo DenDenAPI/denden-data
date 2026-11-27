@@ -15,8 +15,6 @@ occupations:
 - name: Pirate Executive Officer
   status: current
   revealed_chapter: 700
-- name: Colosseum Proprietor
-  status: former
 - name: Swordsman
   status: current
   revealed_chapter: 776

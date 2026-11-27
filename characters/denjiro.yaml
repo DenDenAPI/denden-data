@@ -61,7 +61,9 @@ affiliations:
   revealed_chapter: 927
 - type: organization
   slug: kurozumi-family
-  status: current
+  status: former
+  kind: service
+  revealed_chapter: 973
 - type: organization
   slug: ninja-pirate-mink-samurai-alliance
   status: former
