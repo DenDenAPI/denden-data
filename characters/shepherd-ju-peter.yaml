@@ -20,6 +20,8 @@ occupations:
 - name: Co-Head of the World Government
   status: current
   revealed_chapter: 233
+- name: Warrior God of Agriculture
+  status: current
 affiliations:
 - type: organization
   slug: five-elders

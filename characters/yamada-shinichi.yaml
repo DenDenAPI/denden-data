@@ -8,3 +8,6 @@ gender: male
 species:
 - human
 status: alive
+occupations:
+- name: Salaryman
+  status: current

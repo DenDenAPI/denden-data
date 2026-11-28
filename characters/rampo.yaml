@@ -16,6 +16,8 @@ occupations:
 - name: Pirate
   status: current
   revealed_chapter: 889
+- name: Vice-chief
+  status: current
 affiliations:
 - type: location
   slug: tontatta-kingdom

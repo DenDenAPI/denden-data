@@ -21,6 +21,8 @@ occupations:
 - name: Emperor of the Underworld
   status: current
   revealed_chapter: 860
+- name: Shipping Magnate
+  status: current
 affiliations:
 - type: organization
   slug: umit-shipping

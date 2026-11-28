@@ -14,3 +14,6 @@ affiliations:
 - type: crew
   slug: wetton-pirates
   status: current
+occupations:
+- name: Raiding Captain of the Wetton Pirates
+  status: current

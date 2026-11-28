@@ -23,6 +23,8 @@ occupations:
 - name: Scientist
   status: current
   revealed_chapter: 1094
+- name: Warrior God of Science and Defense
+  status: current
 affiliations:
 - type: organization
   slug: five-elders

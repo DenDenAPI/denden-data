@@ -1587,6 +1587,7 @@ occupations:
   Biology Teacher:
   - Profesor de biología
   - Profesora de biología
+  Biwa hōshi: Biwa hōshi
   Blackbeard's subordinate:
   - Subordinado de Barbanegra
   - Subordinada de Barbanegra
@@ -1643,6 +1644,9 @@ occupations:
   CP9 Chief:
   - Jefe del CP9
   - Jefa del CP9
+  Cabinet Minister:
+  - Ministro del gabinete
+  - Ministra del gabinete
   Caesar's secretary:
   - Secretario de Caesar
   - Secretaria de Caesar
@@ -1762,6 +1766,9 @@ occupations:
   Chief:
   - Jefe
   - Jefa
+  Chief Guard:
+  - Jefe de guardias
+  - Jefa de guardias
   Chief Justices of Enies Lobby:
   - Jueces supremos de Enies Lobby
   - Juezas supremas de Enies Lobby
@@ -2063,6 +2070,9 @@ occupations:
   Governor-General:
   - Gobernador general
   - Gobernadora general
+  Gravedigger:
+  - Sepulturero
+  - Sepulturera
   Graverobber:
   - Ladrón de tumbas
   - Ladrona de tumbas
@@ -2167,6 +2177,7 @@ occupations:
   Housemother: Madre de familia
   Housewife: Ama de casa
   Iceburg's pet: Mascota de Iceburg
+  Idol: Ídolo
   Impel Down Guard: Guardia de Impel Down
   Impersonator:
   - Imitador
@@ -2366,6 +2377,7 @@ occupations:
   Mayor of Whisky Peak:
   - Alcalde de Whisky Peak
   - Alcaldesa de Whisky Peak
+  Maître d'hôtel: Maître
   Mechanic:
   - Mecánico
   - Mecánica
@@ -2491,6 +2503,7 @@ occupations:
   - Ministra de la Levadura
   Miss Skypiea: Miss Skypiea
   Miss Universe: Miss Universo
+  Mobster: Gánster
   Money Changer: Cambista
   Monk:
   - Monje
@@ -2554,6 +2567,9 @@ occupations:
   Pandaman's rival: Rival de Pandaman
   Pantri: Pantri
   Participant in Goldfish Catching Game: Participante en el juego de pescar peces de colores
+  Partner:
+  - Compañero
+  - Compañera
   Pastor:
   - Pastor religioso
   - Pastora religiosa
@@ -2686,6 +2702,9 @@ occupations:
   Protector of the island:
   - Protector de la isla
   - Protectora de la isla
+  Pyromaniac:
+  - Pirómano
+  - Pirómana
   Pyrotechnician:
   - Pirotécnico
   - Pirotécnica
@@ -2708,6 +2727,9 @@ occupations:
   - Investigador de preguntas
   - Investigadora de preguntas
   Raider Squad leader: Líder del Escuadrón de Asalto
+  Raiding Captain of the Wetton Pirates:
+  - Capitán de abordaje de los Piratas de Wetton
+  - Capitana de abordaje de los Piratas de Wetton
   Rain Dinners manager: Gerente de Rain Dinners
   Ramune Saleswoman: Vendedora de ramune
   Rear Admiral: Contraalmirante
@@ -2760,10 +2782,12 @@ occupations:
   Ruler of Amazon Lily: Gobernante de Amazon Lily
   Ruler of Mokomo Dukedom: Gobernante del Ducado de Mokomo
   Ruler of the Mokomo Dukedom: Gobernante del Ducado de Mokomo
+  Rōnin: Rōnin
   SMILE Factory Manager: Gerente de la fábrica de SMILE
   Sailor:
   - Marinero
   - Marinera
+  Salaryman: Oficinista
   Salesman: Vendedor
   Salesperson:
   - Vendedor
@@ -2785,6 +2809,9 @@ occupations:
   School Nurse:
   - Enfermero escolar
   - Enfermera escolar
+  Science Robber:
+  - Ladrón de ciencia
+  - Ladrona de ciencia
   Scientist:
   - Científico
   - Científica
@@ -2834,6 +2861,7 @@ occupations:
   Sheriff: Sheriff
   Sheriff of Cocoyasi Village: Sheriff de la Villa Cocoyasi
   Shinuchi: Shinuchi
+  Shinuchi of the Gifters: Shinuchi de los Gifters
   Ship Engineer:
   - Ingeniero naval
   - Ingeniera naval
@@ -2841,6 +2869,9 @@ occupations:
   Ship's Doctor:
   - Médico de a bordo
   - Médica de a bordo
+  Shipping Magnate:
+  - Magnate naviero
+  - Magnate naviera
   Shipwright:
   - Carpintero naval
   - Carpintera naval
@@ -2932,6 +2963,9 @@ occupations:
   Straw Hats ally:
   - Aliado de los Sombreros de Paja
   - Aliada de los Sombreros de Paja
+  Street Performer:
+  - Artista callejero
+  - Artista callejera
   Student: Estudiante
   Substitute Queen: Reina sustituta
   Sugar's Bodyguard: Guardaespaldas de Sugar
@@ -2966,6 +3000,7 @@ occupations:
   - Oficial táctico de Estado Mayor
   - Oficial táctica de Estado Mayor
   Tactician: Estratega
+  Taikomochi: Taikomochi
   Takoyaki seller:
   - Vendedor de takoyaki
   - Vendedora de takoyaki
@@ -3017,6 +3052,9 @@ occupations:
   - Jefa de los bajos fondos
   Unofficial protector of his village: Protector extraoficial de su aldea
   Vice Admiral: Vicealmirante
+  Vice Chief:
+  - Subjefe
+  - Subjefa
   Vice Head Jailer:
   - Subjefe de carceleros
   - Subjefa de carceleros
@@ -3029,6 +3067,9 @@ occupations:
   Vice Warden of the Prisoner Mine:
   - Subalcaide de la Mina de Prisioneros
   - Subalcaidesa de la Mina de Prisioneros
+  Vice-chief:
+  - Subjefe
+  - Subjefa
   Vigilante Corps member: Miembro del Cuerpo de Vigilantes
   Village Chief:
   - Jefe de la aldea
@@ -3048,11 +3089,19 @@ occupations:
   Warden of the Prisoner Mine:
   - Alcaide de la Mina de Prisioneros
   - Alcaidesa de la Mina de Prisioneros
+  Warehouseman:
+  - Almacenero
+  - Almacenera
   Warlord of the Sea: Shichibukai
   Warrant Officer: Brigada
   Warrior:
   - Guerrero
   - Guerrera
+  Warrior God of Agriculture: Dios Guerrero de la Agricultura
+  Warrior God of Environment: Dios Guerrero del Medio Ambiente
+  Warrior God of Finance: Dios Guerrero de las Finanzas
+  Warrior God of Justice: Dios Guerrero de la Justicia
+  Warrior God of Science and Defense: Dios Guerrero de la Ciencia y la Defensa
   Warrior Monk:
   - Monje guerrero
   - Monja guerrera

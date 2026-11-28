@@ -24,6 +24,8 @@ occupations:
   revealed_chapter: 1096
 - name: Scientist
   status: former
+- name: Science Robber
+  status: current
 affiliations:
 - type: crew
   slug: rocks-pirates

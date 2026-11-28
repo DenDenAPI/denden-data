@@ -15,3 +15,6 @@ affiliations:
 - type: crew
   slug: donquixote-pirates
   status: former
+occupations:
+- name: Idol
+  status: current
