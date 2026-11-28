@@ -22,6 +22,8 @@ occupations:
   status: current
 - name: Prisoner of the Great Prison
   status: former
+- name: Mobster
+  status: current
 affiliations:
 - type: crew
   slug: golden-lion-pirates

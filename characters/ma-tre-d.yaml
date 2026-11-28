@@ -6,3 +6,6 @@ gender: male
 species:
 - fish_man
 status: alive
+occupations:
+- name: Maître d'hôtel
+  status: current

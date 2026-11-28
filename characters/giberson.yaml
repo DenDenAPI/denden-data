@@ -21,6 +21,8 @@ occupations:
 - name: Emperor of the Underworld
   status: current
   revealed_chapter: 860
+- name: Warehouseman
+  status: current
 birthday:
   month: 8
   day: 14

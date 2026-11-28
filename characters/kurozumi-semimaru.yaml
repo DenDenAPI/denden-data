@@ -35,3 +35,6 @@ heights:
 - cm: 227
   period: other
   revealed_chapter: 1124
+occupations:
+- name: Biwa hōshi
+  status: current

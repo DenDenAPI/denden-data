@@ -35,3 +35,6 @@ heights:
 - cm: 218
   period: post_timeskip
   revealed_chapter: 922
+occupations:
+- name: Chief Guard
+  status: current

@@ -12,3 +12,6 @@ residences:
 - type: location
   slug: royal-sun-island
   status: current
+occupations:
+- name: Cabinet Minister
+  status: current

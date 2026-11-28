@@ -47,6 +47,8 @@ occupations:
 - name: Rain Dinners manager
   status: former
   revealed_chapter: 169
+- name: Geisha
+  status: former
 social_ranks:
 - name: Slave
   status: former

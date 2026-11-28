@@ -27,6 +27,8 @@ occupations:
 - name: Daimyo
   status: former
   revealed_chapter: 941
+- name: Taikomochi
+  status: current
 origin:
   location: wano-country
   region: Grand Line

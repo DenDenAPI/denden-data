@@ -20,6 +20,8 @@ occupations:
   status: current
 - name: Commander of Knights of God
   status: former
+- name: Warrior God of Science and Defense
+  status: current
 social_ranks:
 - name: World Noble
   status: current

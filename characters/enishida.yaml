@@ -22,3 +22,6 @@ birthday:
   month: 2
   day: 24
   revealed_chapter: 657
+occupations:
+- name: Lady's maid
+  status: current

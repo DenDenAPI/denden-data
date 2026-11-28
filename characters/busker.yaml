@@ -10,3 +10,6 @@ residences:
 - type: location
   slug: loguetown
   status: current
+occupations:
+- name: Street Performer
+  status: current

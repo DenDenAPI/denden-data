@@ -11,6 +11,8 @@ status: alive
 occupations:
 - name: Pirate Captain
   status: former
+- name: Salaryman
+  status: former
 affiliations:
 - type: crew
   slug: makiguso-pirates
